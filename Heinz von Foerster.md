@@ -2,15 +2,15 @@ Heinz von Foerster was an Austrian-American physicist and philosopher, a key fig
 
 ### Self-Organizing Systems
 
-- **Principles of Self-Organization:** Von Foerster was instrumental in developing the theory of self-organizing systems, which posits that systems can spontaneously develop complex structures and behaviors without being directed by an external agent. This concept aligns closely with the discussion on dissipative structures, where systems far from equilibrium spontaneously organize into more ordered states due to internal dynamics and energy flows.
+- **Principles of [[Self-Organization]]:** Von Foerster was instrumental in developing the theory of self-organizing systems, which posits that systems can spontaneously develop complex structures and behaviors without being directed by an external agent. This concept aligns closely with the discussion on dissipative structures, where systems far from equilibrium spontaneously organize into more ordered states due to internal dynamics and energy flows.
 
-- **Circular Causality:** He emphasized the importance of feedback loops and circular causality in self-organization, where the output of a system feeds back into it as input, leading to complex behaviors. This principle is fundamental in understanding how social networks evolve and how reinforcement and disruption influence the dynamics of social change.
+- [[**Circular Causality]]:** He emphasized the importance of feedback loops and circular causality in self-organization, where the output of a system feeds back into it as input, leading to complex behaviors. This principle is fundamental in understanding how social networks evolve and how reinforcement and disruption influence the dynamics of social change.
 
 ### Second-Order Cybernetics
 
-- **Observer Involvement:** Von Foerster's development of second-order cybernetics, which focuses on the observer's role in the system, adds an important dimension to our discussion. It highlights how our understanding and modeling of complex systems (including social dynamics and learning processes in AI) are influenced by our participation and perspectives as observers or agents within those systems.
+- **[[Observer]] Involvement:** Von Foerster's development of [[second-order cybernetics]], which focuses on the observer's role in the system, adds an important dimension to our discussion. It highlights how our understanding and modeling of complex systems (including social dynamics and learning processes in AI) are influenced by our participation and perspectives as observers or agents within those systems.
 
-- **Constructivist Epistemology:** Relatedly, von Foerster's constructivist approach suggests that knowledge and understanding are actively constructed by observers, rather than passively discovered. This perspective can be applied to the way information spreads and is assimilated in social networks, emphasizing the subjective nature of how disruptive or reinforcing information is perceived and its impact on social dynamics.
+- [[**Constructivist Epistemology]]:** Relatedly, von Foerster's constructivist approach suggests that knowledge and understanding are actively constructed by observers, rather than passively discovered. This perspective can be applied to the way information spreads and is assimilated in social networks, emphasizing the subjective nature of how disruptive or reinforcing information is perceived and its impact on social dynamics.
 
 ### Ethical Implications and Responsibility
 

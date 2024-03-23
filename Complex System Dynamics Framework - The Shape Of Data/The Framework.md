@@ -43,7 +43,7 @@ https://chat.openai.com/c/a7ba3d22-ede4-43d4-a5bf-7403d8bf7948
   - Subsection 2.3.2: Applications in Complex System Analysis
 - Section 2.4: Advanced Topics in Geometry and Topology
   - Subsection 2.4.1: [[Fiber Bundles]], [[Characteristic Classes]]
-  - Subsection 2.4.2: [[Sheaf Theory]] and Applications
+  - Subsection 2.4.2: Sheaf Theory and Applications
 
 **Chapter 3: Statistical Foundations**
 - Section 3.1: Understanding the Central Limit Theorem
