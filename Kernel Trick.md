@@ -2,9 +2,9 @@ The kernel concept is pivotal in machine learning, especially in scenarios where
 
 ### Understanding Kernels and the Kernel Trick
 
-- **Kernel Concept:** A kernel is essentially a function that computes the inner product in a transformed feature space. Given two inputs $x$ and $y$ in the original input space, a kernel $k(x, y)$ gives us the inner product of their images in a higher-dimensional feature space without explicitly performing the transformation $\phi(x)$ and $\phi(y)$. This function captures the essence of the relationship between $x$ and $y$ as if they were in this richer feature space.
+- **[[Kernel]] Concept:** A kernel is essentially a function that computes the [[Inner Product]] in a transformed feature space. Given two inputs $x$ and $y$ in the original input space, a kernel $k(x, y)$ gives us the inner product of their images in a higher-dimensional [[feature space]] without explicitly performing the transformation $\phi(x)$ and $\phi(y)$. This function captures the essence of the relationship between $x$ and $y$ as if they were in this richer feature space.
 
-- **The Kernel Trick:** The beauty of the kernel trick lies in its ability to implicitly map data into a higher-dimensional space (through the kernel function) where the data becomes more separable, without the computational overhead of actually performing this transformation. This is particularly useful in support vector machines (SVMs), where the kernel trick allows the algorithm to find a separating hyperplane in the high-dimensional feature space, thereby solving non-linear classification problems.
+- **The Kernel Trick:** The beauty of the kernel trick lies in its ability to implicitly map data into a higher-dimensional space (through the kernel function) where the data becomes more separable, without the computational overhead of actually performing this transformation. This is particularly useful in [[Support Vector Machines]] (SVMs), where the kernel trick allows the algorithm to find a separating hyperplane in the high-dimensional feature space, thereby solving non-linear classification problems.
 
 ### Impact on Deep Learning Research
 

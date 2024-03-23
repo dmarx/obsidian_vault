@@ -10,7 +10,7 @@ The score is the first derivative of the log-likelihood function with respect to
 
 ### Significance in Estimation Theory
 
-- **[[Cramér-Rao Lower Bound]]:** Fisher Information is fundamental in deriving the Cramér-Rao bound, which provides a lower bound on the variance of unbiased estimators of $\theta$. This means that no unbiased estimator of $\theta$ can have a variance smaller than the reciprocal of the Fisher Information. Therefore, it sets a theoretical limit on the precision of an estimator.
+- **[[Cramer-Rao Lower Bound]]:** Fisher Information is fundamental in deriving the Cramér-Rao bound, which provides a lower bound on the variance of unbiased estimators of $\theta$. This means that no unbiased estimator of $\theta$ can have a variance smaller than the reciprocal of the Fisher Information. Therefore, it sets a theoretical limit on the precision of an estimator.
   
 - **Efficiency of Estimators:** An estimator that achieves the Cramér-Rao lower bound is said to be "efficient," as it has the lowest possible variance among all unbiased estimators. The concept of Fisher Information thus helps in evaluating the efficiency of estimators.
 
