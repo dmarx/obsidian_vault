@@ -1,0 +1,3 @@
+### Topology: Euler Characteristic
+
+The Euler characteristic (\(\chi\)) is a topological invariant that provides a numerical summary of a space's shape or structure. For polyhedral surfaces (surfaces made of flat polygonal faces), it is defined as \(\chi = V - E + F\), where \(V\) is the number of vertices, \(E\) is the number of edges, and \(F\) is the number of faces. This definition extends to more general surfaces and [[Manifolds|manifolds]], capturing fundamental aspects of their [[Topology]], such as connectivity and the presence of [[Holes|holes]].

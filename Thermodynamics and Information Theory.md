@@ -1,0 +1,13 @@
+**Chapter 1: [[Thermodynamics]] and [[Information Theory]]**
+- Section 1.1: [[Energy]] in Complex Systems
+  - Subsection 1.1.1: [[Forms of Energy]] and [[Transformations of Energy]]
+  - Subsection 1.1.2: [[Energy Conservation]] and [[Energy Dissipation]]
+- Section 1.2: [[Entropy]] and Its Dual Role
+  - Subsection 1.2.1: [[Thermodynamic Entropy]]
+  - Subsection 1.2.2: [[Informational Entropy]]
+- Section 1.3: The Laws of Thermodynamics
+  - Subsection 1.3.1: Overview of the Four Laws
+  - Subsection 1.3.2: Applications and Implications
+- Section 1.4: The [[Free Energy Principle]] and [[Active Inference]]
+  - Subsection 1.4.1: Biological Systems [[Adaptation]]
+  - Subsection 1.4.2: Implications for [[Artificial Intelligence]]

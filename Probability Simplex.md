@@ -1,0 +1,1 @@
+A probability simplex is a geometric object that represents all possible distributions over a finite set of outcomes. For \(K\) outcomes, the simplex is a \(K-1\) dimensional space, where each point on the simplex is a vector \((p_1, ..., p_K)\) representing probabilities associated with each outcome, such that \(\sum_{i=1}^{K}p_i = 1\) and all \(p_i \geq 0\).

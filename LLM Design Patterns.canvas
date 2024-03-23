@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f297b5ad415a10a2","x":-740,"y":-899,"width":171,"height":59,"type":"text","text":"Coarse-to-fine"},
+		{"id":"3cadbeeae5d789c5","x":-804,"y":-720,"width":300,"height":63,"type":"text","text":"Iteratively add depth to an outline"},
+		{"id":"6912173552f946aa","x":-209,"y":-895,"width":189,"height":55,"type":"text","text":"Gated processes"},
+		{"id":"631e091a77b4d7d6","x":-320,"y":-640,"width":160,"height":57,"type":"text","text":"Fact checker"},
+		{"id":"45f517d9f2b86668","x":-132,"y":-636,"width":225,"height":50,"type":"text","text":"\"is finished\" evaluator"}
+	],
+	"edges":[
+		{"id":"00ec2105f46a6545","fromNode":"f297b5ad415a10a2","fromSide":"bottom","toNode":"3cadbeeae5d789c5","toSide":"top"},
+		{"id":"fc8ddfa764659296","fromNode":"6912173552f946aa","fromSide":"bottom","toNode":"631e091a77b4d7d6","toSide":"top"},
+		{"id":"a772400bc2f5f39a","fromNode":"6912173552f946aa","fromSide":"bottom","toNode":"45f517d9f2b86668","toSide":"top"}
+	]
+}
