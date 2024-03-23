@@ -1,0 +1,1 @@
+His research on [[Cultural and Social Capital|social capital]], particularly in "Bowling Alone," explores the impact of social networks on community and democracy, aligning with discussions on the role of connectivity in social dynamics.

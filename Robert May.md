@@ -1,0 +1,1 @@
+An influential figure in theoretical ecology, May's work on the complexity and stability of ecosystems has contributed significantly to our understanding of how ecological systems self-organize and adapt.

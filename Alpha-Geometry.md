@@ -10,3 +10,5 @@
 
 See Also:
 - [[Learning Dynamics]]
+- [[Alpha-Divergence]]
+- 

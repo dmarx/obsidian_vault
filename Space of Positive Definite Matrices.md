@@ -1,12 +1,12 @@
-The space of positive definite matrices is a crucial concept in various areas of machine learning, statistical analysis, and optimization, especially when dealing with structures that encapsulate the notion of "distance" or "spread" in data, such as covariance matrices in statistics or kernels in machine learning. This space is not only a set of matrices but also forms a manifold with a rich geometric structure, significantly influencing the behavior of algorithms that operate within it.
+The space of positive definite matrices is a crucial concept in various areas of machine learning, statistical analysis, and optimization, especially when dealing with structures that encapsulate the notion of "distance" or "spread" in data, such as [[Covariance]] matrices in statistics or [[Kernels]] in machine learning. This space is not only a set of matrices but also forms a [[Manifold]] with a rich geometric structure, significantly influencing the behavior of algorithms that operate within it.
 
 ### Positive Definite Matrices and Their Importance
 
 A matrix $A \in \mathbb{R}^{n \times n}$ is considered positive definite if it satisfies the condition $x^TAx > 0$ for all non-zero vectors $x \in \mathbb{R}^n$. This property ensures that the matrix defines a valid inner product in the vector space, leading to a natural geometric interpretation of the data it represents. Positive definite matrices have several key properties:
 
-- They are symmetric (or Hermitian in the complex case).
-- All their eigenvalues are positive.
-- They ensure the convexity of certain functions, making them attractive for optimization.
+- They are [[Symmetry|symmetric]] (or [[Hermitian]] in the complex case).
+- All their [[Eigenvalues]] are positive.
+- They ensure the [[Convexity]] of certain functions, making them attractive for [[Optimization]].
 
 ### The Manifold of Positive Definite Matrices
 
@@ -14,15 +14,15 @@ The set of all $n \times n$ positive definite matrices forms a manifold, often d
 
 #### Geometric Structure
 
-The geometric structure of $\mathcal{P}_n$ is characterized by its Riemannian metric, which defines how distances and angles are measured on the manifold. This metric is crucial for understanding the optimization paths and outcomes of algorithms that operate on the manifold. The Riemannian geometry of $\mathcal{P}_n$ enables the definition of geodesics (shortest paths), which play a key role in optimization and statistical analysis on the manifold.
+The geometric structure of $\mathcal{P}_n$ is characterized by its [[Riemannian Metric]], which defines how distances and angles are measured on the manifold. This metric is crucial for understanding the optimization paths and outcomes of algorithms that operate on the manifold. The Riemannian geometry of $\mathcal{P}_n$ enables the definition of [[Geodesics]] (shortest paths), which play a key role in optimization and statistical analysis on the manifold.
 
 #### Applications in Machine Learning and Optimization
 
 - **Covariance Estimation:** In statistics and machine learning, estimating the covariance matrix of a distribution is a fundamental task. When ensuring that the estimated matrix remains positive definite (and thus a valid covariance matrix), optimization is naturally performed over $\mathcal{P}_n$.
 
-- **Kernel Methods:** In kernel-based learning algorithms, such as Support Vector Machines (SVMs) and Gaussian Processes, the kernel matrix (Gram matrix) is required to be positive definite to ensure the validity of the induced feature space. Optimization and regularization techniques may involve operations within $\mathcal{P}_n$ to maintain this property.
+- **[[Kernel]] Methods:** In kernel-based learning algorithms, such as [[Support Vector Machines]] (SVMs) and [[Gaussian Processes]], the kernel matrix ([[Gram Matrix]]) is required to be positive definite to ensure the validity of the induced feature space. Optimization and regularization techniques may involve operations within $\mathcal{P}_n$ to maintain this property.
 
-- **Neural Networks:** Certain types of neural network layers, such as those performing Mahalanobis distance computations for metric learning, involve learning a positive definite matrix as part of the model parameters.
+- **Neural Networks:** Certain types of neural network layers, such as those performing [[Mahalanobis Distance]] computations for metric learning, involve learning a positive definite matrix as part of the model parameters.
 
 ### Challenges and Techniques
 

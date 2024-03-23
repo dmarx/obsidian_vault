@@ -17,7 +17,7 @@ https://chat.openai.com/c/a7ba3d22-ede4-43d4-a5bf-7403d8bf7948
 
 **Part I: Foundations of TF**
 
-**Chapter 1: [[Thermodynamics and Information Theory]]**
+**Chapter 1: Thermodynamics and Information Theory**
 - Section 1.1: Energy in Complex Systems
   - Subsection 1.1.1: Forms and Transformations of Energy
   - Subsection 1.1.2: Energy Conservation and Dissipation
@@ -32,7 +32,7 @@ https://chat.openai.com/c/a7ba3d22-ede4-43d4-a5bf-7403d8bf7948
   - Subsection 1.4.2: Implications for Artificial Intelligence
 
 **Chapter 2: Mathematical Underpinnings**
-- Section 2.1: Introduction to [[Differential Geometry]]
+- Section 2.1: Introduction to Differential Geometry
   - Subsection 2.1.1: Manifolds, Tensors, and Differential Forms
   - Subsection 2.1.2: Curvature, Geodesics, and Their Physical Implications
 - Section 2.2: [[Manifold Learning]] in High-Dimensional Data
@@ -122,7 +122,7 @@ https://chat.openai.com/c/a7ba3d22-ede4-43d4-a5bf-7403d8bf7948
   - Subsection 10.2.1: Applications in Agriculture and Economy
 
 **Chapter 11: Social and Organizational Dynamics**
-- Section 11.1: [[Social Networks]] and [[Collective Behavior]]
+- Section 11.1: [[Social Networks]] and Collective Behavior
   - Subsection 11.1.1: Analysis and Influencing Strategies
 - Section 11.2: Organizational Change and Efficiency
   - Subsection 11.2.1: TF in Innovation and Policy Formation
@@ -162,16 +162,16 @@ Additions to integrate:
   - Applications in Medicine and Environmental Engineering
   - Ethical Considerations in Synthetic Biology
 
-- **Chapter on [[Neuroscience]] and the Complexity of the Brain**
+- **Chapter on Neuroscience and the Complexity of the Brain**
   - Understanding Brain Complexity
   - Neural Networks and Brain Function
   - Insights from Neuroscience for Complex Systems
   - Intersection of Neuroscience and AI
 
-- **Chapter on [[Artificial Life]] and Simulation of [[Evolution]]**
+- **Chapter on Artificial Life and Simulation of Evolution**
   - Fundamentals of Artificial Life
   - Simulating Evolutionary Processes
-  - Insights into [[Complexity]] and [[Adaptation]]
+  - Insights into [[Complexity]] and Adaptation
   - Ethical and Philosophical Implications
 
 **Part III: Integrating Disciplines**

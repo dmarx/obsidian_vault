@@ -1,0 +1,1 @@
+A Nobel Prize-winning physical chemist known for his work on dissipative structures and [[Far-From-Equilibrium Systems|far-from-equilibrium thermodynamics]]. His book "Order Out of Chaos" co-authored with [[Isabelle Stengers]], delves into the implications of his theories for understanding complex systems.

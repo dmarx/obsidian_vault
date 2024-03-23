@@ -43,6 +43,42 @@ multi-scale properties of exponential distribution, e, memoryless distributions
 receptive field
 AdaIN and style transfer
 iterated function
+Jacobian
+kernel density estimation
+- what's that one approach that at least used to be really common?
+- relation to convolution
+
+
+
+### Biology and Ecology
+
+- **Robert May:** An influential figure in theoretical ecology, May's work on the complexity and stability of ecosystems has contributed significantly to our understanding of how ecological systems self-organize and adapt.
+    
+- **Stuart Kauffman:** Known for his work on the origins of life and complex systems biology, Kauffman's exploration of autocatalytic sets and the concept of the "adjacent possible" offers insights into how complexity emerges in biological systems.
+    
+
+### Sociology and Economics
+
+- **Pierre Bourdieu:** A sociologist who introduced the concept of cultural capital, his work provides a deep understanding of how social structures and individual agency interact within society.
+    
+- **Robert Putnam:** His research on social capital, particularly in "Bowling Alone," explores the impact of social networks on community and democracy, aligning with discussions on the role of connectivity in social dynamics.
+    
+
+### Computer Science and Artificial Intelligence
+
+- **Geoffrey Hinton:** A pioneer in deep learning, Hinton's work on neural networks and learning algorithms has propelled our understanding of how complex patterns and behaviors can emerge from simple computational models.
+    
+- **Yoshua Bengio and Yann LeCun:** Along with Hinton, Bengio and LeCun are considered some of the "Godfathers of AI," with their work underpinning much of the current progress in deep learning and its applications in understanding complex data patterns.
+    
+
+### Interdisciplinary Research
+
+- **Murray Gell-Mann:** A physicist known for his work on elementary particles, Gell-Mann also delved into complexity science, contributing to the founding of the Santa Fe Institute, a research center dedicated to the study of complex systems across disciplines.
+    
+- **Evelyn Fox Keller:** A physicist and historian of science, Keller has contributed to the philosophy and sociology of science, including theories of gender and science, and the role of language and metaphor in scientific explanations of biological and complex systems.
+    
+
+These thinkers, among others, have developed theories, models, and frameworks that are instrumental in advancing our understanding of the dynamics of complex systems. Their work transcends disciplinary boundaries, offering rich insights and methodologies for exploring the intricate interplay between structure, function, and evolution in both natural and artificial systems.
 
 
 

@@ -1,0 +1,1 @@
+Known for his work on the origins of life and complex systems biology, Kauffman's exploration of autocatalytic sets and the concept of the "adjacent possible" offers insights into how complexity emerges in biological systems.

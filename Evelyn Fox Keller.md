@@ -1,0 +1,1 @@
+A physicist and historian of science, Keller has contributed to the philosophy and sociology of science, including theories of gender and science, and the role of language and metaphor in scientific explanations of biological and complex systems.

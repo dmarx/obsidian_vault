@@ -1,0 +1,1 @@
+Henri Poincaré was a mathematician and theoretical physicist whose work on dynamic systems and [[Chaos Theory]] laid foundational principles for understanding complex, [[Nonlinear Dynamics]] in various systems.
