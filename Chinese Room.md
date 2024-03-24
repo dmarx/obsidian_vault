@@ -1,6 +1,6 @@
 The "Chinese Room" thought experiment, proposed by philosopher [[John Searle]], is designed to challenge the notion that a computer running a program can be said to "understand" or possess "[[Consciousness]]" in the same way humans do, even if it appears to behave intelligently. In the thought experiment, a person who does not understand Chinese is inside a room filled with instruction manuals for manipulating Chinese symbols. Given a set of Chinese symbols (input), the person uses the instructions to produce appropriate responses (output), such that an outside observer might believe the person inside the room understands Chinese.
 
-Interpreting the Chinese Room argument through the lens of the conversations around emergence, self-organization, and the contributions of thinkers like [[Douglas Hofstadter]], [[Marvin Minsky]], and [[Karl Friston]] offers a multifaceted view of [[Intelligence]] and consciousness in both natural and artificial systems.
+Interpreting the Chinese Room argument through the lens of the conversations around emergence, self-organization, and the contributions of thinkers like [[Douglas Hofstadter]], [[Marvin Minsky]], and [[Karl Friston]] offers a multifaceted view of [[Intelligence]] and [[Consciousness]] in both natural and artificial systems.
 
 ### [[Emergence]] and the Chinese Room
 
