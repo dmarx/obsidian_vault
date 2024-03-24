@@ -38,7 +38,7 @@ In unsupervised learning, the goal is to discover patterns, groupings, or struct
 
 - **Highlighting Key Features**: By reducing the emphasis on less relevant or noisy features, sparse representations make the significant patterns more pronounced, aiding in their discovery.
 - **Facilitating [[Clustering]]**: Sparse representations can lead to more distinct and separable clusters by concentrating on the features that contribute most to the variance or structure within the data. Algorithms like sparse K-means take advantage of this property to achieve more meaningful clustering results.
-- **Dimensionality Reduction**: Techniques like sparse PCA ([[Principal Component Analysis]]) identify the principal components with the most significant contribution to the data's structure, while ignoring the rest. This not only simplifies the data but also uncovers its [[Intrinsic Dimension]]s.
+- **Dimensionality Reduction**: Techniques like sparse PCA ([[Principal Component Analysis]]) identify the principal components with the most significant contribution to the data's structure, while ignoring the rest. This not only simplifies the data but also uncovers its [[Dimensionality|intrinsic dimensions]].
 	 
 ### Signal Processing
 

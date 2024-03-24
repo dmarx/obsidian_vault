@@ -1,3 +1,5 @@
+### Intrinsic Dimension
+
 The concepts of "data's structure" and "intrinsic dimensions" are central to understanding complex datasets and are key objectives in the field of data science and machine learning, especially within unsupervised learning tasks. Let's delve into each concept to clarify their meanings and implications.
 
 ### Data's Structure
