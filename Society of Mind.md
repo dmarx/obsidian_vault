@@ -1,3 +1,7 @@
+see also:
+- [[Multiplicitous Self]]
+- [[Decision-Making]]
+
 Minsky's "Society of Mind" theory posits that the mind is made up of countless simple mental processes, called agents, which, through their interactions, give rise to the complex phenomena of human intelligence and [[Consciousness]]. This [[Modularity|modular]] approach to understanding the mind reflects the principle of emergence, where simple, unintelligent agents work together to create intelligent behavior. Minsky's work underscores the importance of the structure and organization of these agents in producing the emergent properties of the mind.
 
 [[Marvin Minsky]]'s "Society of Mind" theory offers a compelling framework for understanding intelligence as an [[Emergence|emergent property]] of [[Collective Behavior|numerous simpler, interacting agents]]. This perspective is pivotal for several reasons, not only in the field of artificial intelligence (AI) but also in cognitive science, psychology, and neuroscience. Minsky's insights help bridge the gap between the microscopic operations within the brain and the macroscopic phenomena of human thought, emotion, and consciousness.

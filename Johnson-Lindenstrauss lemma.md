@@ -1,4 +1,4 @@
-The Johnson-Lindenstrauss lemma is a fundamental result in the field of dimensionality reduction and [[high-dimensional geometry]]. It provides a theoretical guarantee for the preservation of distances within a set of points when those points are projected from a high-dimensional space into a lower-dimensional space through a [[linear]] [[mapping]]. This lemma has important implications for various applications in machine learning, data [[Compression]], and [[Numerical Analysis]], especially when dealing with high-dimensional data.
+The Johnson-Lindenstrauss lemma is a fundamental result in the field of dimensionality reduction and [[high-dimensional geometry]]. It provides a theoretical guarantee for the preservation of distances within a set of points when those points are projected from a high-dimensional space into a lower-dimensional space through a [[Linearity|linear mapping]]. This lemma has important implications for various applications in machine learning, data [[Compression]], and [[Numerical Analysis]], especially when dealing with high-dimensional data.
 
 Here's a more detailed explanation:
 
@@ -26,7 +26,7 @@ The Johnson-Lindenstrauss lemma's implications for machine learning, data compre
 ### Machine Learning
 
 - **Efficient Similarity Search:** In tasks such as [[nearest neighbor search]], maintaining the relative distances between data points is crucial. The lemma ensures that even after projection to a lower-dimensional space, the distances are preserved, making similarity search efficient in the reduced space.
-- **Clustering and Classification:** Algorithms that depend on distance measures, like [[K-means]] or [[K-nearest neighbors]], can operate more efficiently on reduced-dimensional data without significant loss of accuracy. This makes processing large datasets feasible.
+- **Clustering and Classification:** Algorithms that depend on distance measures, like [[K-Means]] or [[K-Nearest Neighbors]], can operate more efficiently on reduced-dimensional data without significant loss of accuracy. This makes processing large datasets feasible.
 - **Overfitting Reduction:** High-dimensional data can lead to [[Overfitting|overfitting]] in machine learning models. Reducing dimensionality while preserving data structure can help mitigate this risk, leading to models that generalize better to unseen data.
 
 ### Data [[Compression]]

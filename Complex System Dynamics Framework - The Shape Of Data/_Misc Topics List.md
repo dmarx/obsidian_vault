@@ -34,7 +34,7 @@ scaling laws, efficientnet
 bag of features
 eigenfaces
 numerical approximation
-wor2vec
+word2vec
 distributional hypothesis in nlp
 dense representation
 LPIPS
@@ -47,7 +47,7 @@ Jacobian
 kernel density estimation
 - what's that one approach that at least used to be really common?
 - relation to convolution
-
+self assembly
 
 
 ### Biology and Ecology

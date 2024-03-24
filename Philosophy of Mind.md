@@ -1,3 +1,7 @@
+see also:
+- [[Daniel Dennett]]
+- [[Patricia Churchland]]
+
 >To the best of your unassisted knowledge, what are some major developments in the academic philosophy of mind research space since 2007
 
 Since 2007, the field of philosophy of mind has seen several important developments, reflecting both advancements in related sciences like neuroscience, cognitive psychology, and artificial intelligence, and shifts in philosophical approaches. Here are some of the key areas of progress and debate:
