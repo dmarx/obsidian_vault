@@ -1,0 +1,1 @@
+In [[Mathematical Ecology]], the maximum population size that the environment can sustain indefinitely.
