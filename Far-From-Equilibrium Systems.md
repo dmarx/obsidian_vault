@@ -8,7 +8,7 @@ Investigating far-from-equilibrium systems opens a window into understanding the
 
 ### The Arrow of Time
 
-- **Time's Directionality:** The arrow of time refers to the one-way direction or asymmetry of time, which is intimately connected with the second law of thermodynamics and the increase of entropy. Far-from-equilibrium systems provide a unique perspective on this concept, as they continuously evolve and create ordered structures despite the overall trend towards disorder.
+- **Time's Directionality:** The [[Arrow of Time]] refers to the one-way direction or asymmetry of time, which is intimately connected with the [[Second Law of Thermodynamics]] and the increase of entropy. Far-from-equilibrium systems provide a unique perspective on this concept, as they continuously evolve and create ordered structures despite the overall trend towards disorder.
 
 - **Implications for Understanding Evolution:** In biological evolution, the arrow of time manifests in the directional development of life, from simple to complex forms, driven by the non-equilibrium dynamics of living systems. This perspective can illuminate the temporal aspects of evolutionary processes and the emergence of life.
 

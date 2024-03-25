@@ -11,7 +11,7 @@ There are two main ensembles in statistical mechanics that are used to model sys
 Key concepts in statistical mechanics include:
 
 - **[[Partition Function]]**: A central concept that encodes all the thermodynamic information of a system. It is a function of temperature and other parameters of the system, and from it, one can derive quantities like the [[Free Energy Principle]], entropy, and average energy.
-- **[[Entropy]]**: A measure of the number of microscopic configurations that correspond to a macroscopic state. It plays a crucial role in determining the direction of spontaneous processes and is associated with the second law of thermodynamics.
+- **[[Entropy]]**: A measure of the number of microscopic configurations that correspond to a macroscopic state. It plays a crucial role in determining the direction of spontaneous processes and is associated with the [[Second Law of Thermodynamics]].
 - **[Boltzmann's Equation]]**: \(S = k_B \ln \Omega\), where \(S\) is the entropy, \(k_B\) is Boltzmann's constant, and \(\Omega\) is the number of microstates corresponding to a given macrostate. This equation links the microscopic details of a system to its macroscopic entropy.
 - **[[Equilibrium States]]**: Statistical mechanics describes how systems evolve towards equilibrium states where macroscopic quantities become stable over time.
 

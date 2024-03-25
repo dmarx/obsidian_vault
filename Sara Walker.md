@@ -10,7 +10,7 @@ A significant aspect of Walker's work involves applying concepts from informatio
 
 ### The Physics of Information
 
-Walker is interested in how the laws of physics underpin the emergence and evolution of life. This includes studying the thermodynamics of living systems, particularly how they maintain order and functionality despite the second law of thermodynamics, which predicts an increase in disorder. By considering life as a phenomenon that manages information in ways that increase its organization, Walker contributes to a theoretical framework where physics and information theory converge to explain life's unique properties.
+Walker is interested in how the laws of physics underpin the emergence and evolution of life. This includes studying the thermodynamics of living systems, particularly how they maintain order and functionality despite the [[Second Law of Thermodynamics]], which predicts an increase in disorder. By considering life as a phenomenon that manages information in ways that increase its organization, Walker contributes to a theoretical framework where physics and information theory converge to explain life's unique properties.
 
 ### The Search for Extraterrestrial Life
 

@@ -83,6 +83,6 @@ Conserved quantities that characterize system dynamics, extending beyond the rea
 
 ### Energy in Thermodynamics and Statistical Mechanics
 
-- **Entropy:** Although entropy, a measure of disorder or randomness in a system, tends to increase in closed systems (second law of thermodynamics), in specific non-equilibrium contexts (like dissipative structures), the system maintains a dynamic order through continuous energy flow, illustrating a balance between energy input, dissipation, and the maintenance of structured complexity.
+- **Entropy:** Although entropy, a measure of disorder or randomness in a system, tends to increase in closed systems ([[Second Law of Thermodynamics]]), in specific non-equilibrium contexts (like dissipative structures), the system maintains a dynamic order through continuous energy flow, illustrating a balance between energy input, dissipation, and the maintenance of structured complexity.
 
 These examples demonstrate that the concept of conserved quantities—broadly interpreted to include invariants or critically maintained properties—extends far beyond the confines of physical energy. They offer a unifying theme that helps to describe, predict, and understand the stability, transitions, and evolution of complex systems across the scientific spectrum.

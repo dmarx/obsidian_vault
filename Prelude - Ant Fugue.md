@@ -12,6 +12,6 @@ In "Prelude: Ant Fugue," a chapter from [[Douglas Hofstadter]]'s "[[Gödel, Esch
 
 ### Implications and Connections
 
-Hofstadter's "Prelude: Ant Fugue" serves as a thought-provoking exploration of how [[complex systems theory]], and specifically the principles of emergence and self-organization, can offer insights into the mysteries of consciousness and intelligence. By drawing parallels between ant colonies, neural networks, and other systems, Hofstadter invites readers to consider the mind not as a monolithic entity but as an emergent property of many interacting parts.
+Hofstadter's "Prelude: Ant Fugue" serves as a thought-provoking exploration of how [[Complex Systems Theory]], and specifically the principles of emergence and self-organization, can offer insights into the mysteries of consciousness and intelligence. By drawing parallels between ant colonies, neural networks, and other systems, Hofstadter invites readers to consider the mind not as a monolithic entity but as an emergent property of many interacting parts.
 
 The dialogue encapsulates Hofstadter's interdisciplinary approach, weaving together ideas from mathematics, art, music, and cognitive science to explore the fundamental nature of intelligence and self-awareness. It complements and intersects with the work of thinkers like [[Marvin Minsky]] and [[Karl Friston]], who also investigate how complex behaviors and properties emerge from simple, interacting components, whether in [[artificial intelligence]] systems or the biological processes of the brain.

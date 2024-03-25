@@ -16,7 +16,7 @@ In the context of thermodynamics and statistical mechanics, energy plays a pivot
 
 ### Entropy
 
-**[[Entropy]]** is a measure of the disorder or randomness in a system. It's deeply connected to energy through the second law of thermodynamics, which states that in an isolated system, the total entropy can never decrease over time. This law implies that natural processes increase entropy, leading toward equilibrium states where energy is distributed as evenly as possible.
+**[[Entropy]]** is a measure of the disorder or randomness in a system. It's deeply connected to energy through the [[Second Law of Thermodynamics]], which states that in an isolated system, the total entropy can never decrease over time. This law implies that natural processes increase entropy, leading toward equilibrium states where energy is distributed as evenly as possible.
 
 ### Free Energy
 
