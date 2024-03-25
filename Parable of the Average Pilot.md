@@ -1,3 +1,11 @@
+see also:
+- [[Gaussian Annulus Theorem]]
+- [[Concentration of Measure]]
+- [[High-Dimensional Geometry]]
+- [[Dimensionality]]
+- [[Curse of Dimensionality]]
+
+
 Yes, this is a classic story related to the concept of the "average person" and the challenges of high-dimensional statistics. The story goes like this:
 
 ### The U.S. Air Force and the "Average" Pilot
