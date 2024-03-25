@@ -1,11 +1,11 @@
 see also:
 - [[Central Limit Theorem]] - ChatGPT says not directly related, but frankly I don't believe them.
 
-Harmonic functions, which satisfy Laplace's equation $\Delta f = 0$, are indeed remarkable for their properties, with the mean value property being one of their most celebrated characteristics. This property has profound implications in both theoretical and applied mathematics, particularly in potential theory, complex analysis, and partial differential equations. Let's delve deeper into the mean value property and its significance.
+Harmonic functions, which satisfy [[Laplace's equation]] $\Delta f = 0$, are indeed remarkable for their properties, with the mean value property being one of their most celebrated characteristics. This property has profound implications in both theoretical and applied mathematics, particularly in [[potential theory]], [[complex analysis]], and [[partial differential equations]]. Let's delve deeper into the mean value property and its significance.
 
-### Mean Value Property
+### [[Mean Value Property]]
 
-The mean value property states that for any harmonic function $f$ defined on a domain $D$ in $\mathbb{R}^n$ (or on a Riemannian manifold), the value of $f$ at any point $x_0$ within $D$ is equal to the average value of $f$ over any sphere or ball centered at $x_0$ that lies entirely within $D$. Mathematically, for a ball $B(x_0, r)$ with center $x_0$ and radius $r$, and its boundary $\partial B(x_0, r)$ (a sphere), the property can be expressed as:
+The mean value property states that for any harmonic function $f$ defined on a domain $D$ in $\mathbb{R}^n$ (or on a [[Riemannian Manifolds|Riemannian Manifold]]), the value of $f$ at any point $x_0$ within $D$ is equal to the average value of $f$ over any sphere or ball centered at $x_0$ that lies entirely within $D$. Mathematically, for a ball $B(x_0, r)$ with center $x_0$ and radius $r$, and its boundary $\partial B(x_0, r)$ (a sphere), the property can be expressed as:
 
 $$f(x_0) = \frac{1}{|B(x_0, r)|} \int_{B(x_0, r)} f(x) \, dx = \frac{1}{|\partial B(x_0, r)|} \int_{\partial B(x_0, r)} f(x) \, d\sigma(x)$$
 
@@ -15,14 +15,16 @@ where $|B(x_0, r)|$ denotes the volume of the ball, $|\partial B(x_0, r)|$ denot
 
 - **Uniqueness and Maximum Principle:** The mean value property is instrumental in proving fundamental theorems about harmonic functions, such as the uniqueness of solutions to Laplace's equation and the maximum principle. The maximum principle states that if $D$ is a bounded domain, then any harmonic function attains its maximum and minimum on the boundary of $D$, not in the interior. This principle has far-reaching consequences in the study of partial differential equations and mathematical physics.
 
-- **Analytic Continuation:** In complex analysis, harmonic functions in two dimensions are closely related to holomorphic functions (complex differentiable functions), with the real and imaginary parts of a holomorphic function being harmonic. The mean value property in this context helps in understanding the behavior and extension of holomorphic functions.
+- **Analytic Continuation:** In complex analysis, harmonic functions in two dimensions are closely related to [[Holomorphic Functions]] (complex [[differentiable]] functions), with the real and imaginary parts of a holomorphic function being harmonic. The mean value property in this context helps in understanding the behavior and extension of holomorphic functions.
 
 - **Potential Theory:** Harmonic functions are often interpreted as gravitational, electrostatic, or fluid potential fields in free space, where the mean value property reflects physical intuitions about the equilibrium states of these fields.
 
-- **Geometric Implications:** In differential geometry, the mean value property relates to the behavior of surfaces and manifolds. For instance, it plays a role in understanding the geometry of minimal surfaces, which are surfaces that locally minimize area and whose mean curvature vanishes.
+- **Geometric Implications:** In [[Differential geometry]], the mean value property relates to the behavior of surfaces and manifolds. For instance, it plays a role in understanding the geometry of minimal surfaces, which are surfaces that locally minimize area and whose mean curvature vanishes.
 
 The mean value property not only highlights the inherent beauty and symmetry of harmonic functions but also underscores their theoretical and practical importance across various domains of mathematics and physics. This property exemplifies how deep mathematical concepts can provide insightful perspectives on natural phenomena and theoretical constructs alike.
 
+
+---
 
 > is there a connection between the harmonic functions and the central limit theorem?
 
