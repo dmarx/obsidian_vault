@@ -13,7 +13,7 @@ As the dimensionality increases, the computational burden also increases. This i
 High-dimensional spaces exacerbate the risk of overfitting in machine learning models. Overfitting occurs when a model learns the noise in the training data to the extent that it performs poorly on new, unseen data. With many dimensions, there are more opportunities for the model to capture noise as if it were a real pattern.
 
 ### Solutions to Mitigate the Curse of Dimensionality
-- [[**Dimensionality Reduction]] Techniques:** Techniques like [[Principal Component Analysis]] (PCA), [[t-Distributed Stochastic Neighbor Embedding]] (t-SNE), and [[autoencoders]] can reduce the number of dimensions while preserving the essential structure of the data.
+- **[[Dimensionality Reduction]] Techniques:** Techniques like [[Principal Component Analysis]] (PCA), [[t-Distributed Stochastic Neighbor Embedding]] (t-SNE), and [[autoencoders]] can reduce the number of dimensions while preserving the essential structure of the data.
 - **Feature Selection:** Identifying and using only the most relevant features can reduce dimensionality and improve model performance.
 - **[[Regularization]]:** Techniques like L1 and L2 regularization can help prevent overfitting by penalizing the weights of less important features.
 - **[[Ensemble Methods]]:** Using ensemble methods like [[Random Forests]] can help improve model robustness by integrating predictions from multiple models, each built with a subset of the data or features.
