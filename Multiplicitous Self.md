@@ -6,7 +6,7 @@ see also:
 
 studies on memory, decision-making, and consciousness show that these processes are not monolithic but involve complex interactions between different brain regions, supporting the idea of a [[Multiplicitous Self]]
 
-The concept of a "Multiplicitous Self," supported by studies on memory, decision-making, and consciousness, is grounded in the understanding that these cognitive processes are distributed across various regions of the brain, reflecting a complex and dynamic interplay rather than a singular, unified mechanism. This neuroscientific perspective has profound implications for our conceptualization of self and identity, reinforcing the idea that personal identity is multifaceted and dynamically constructed. Here's how these studies contribute to the notion:
+The concept of a "Multiplicitous Self," supported by studies on memory, decision-making, and consciousness, is grounded in the understanding that these cognitive processes are distributed across various regions of the brain, reflecting a complex and dynamic interplay rather than a singular, unified mechanism. This [[Neuroscience|neuroscientific]] perspective has profound implications for our conceptualization of self and identity, reinforcing the idea that [[Personal Identity]] is multifaceted and dynamically constructed. Here's how these studies contribute to the notion:
 
 ### Memory and the Self
 

@@ -1,5 +1,5 @@
 
-> The "0-connection" refers to the Levi-Civita connection, the unique torsion-free connection on a Riemannian manifold that preserves the metric (in this case, the Fisher-Rao metric). The geodesics of this connection are the paths that locally minimize or maximize the distance between points on the manifold, providing the straightest and shortest path between those points in the geometric space defined by the Fisher-Rao metric.
+> The "0-connection" refers to the Levi-Civita connection, the unique torsion-free [[Connection on a Manifold|connection on a Riemannian manifold]] that preserves the metric (in this case, the Fisher-Rao metric). The geodesics of this connection are the paths that locally minimize or maximize the distance between points on the manifold, providing the straightest and shortest path between those points in the geometric space defined by the Fisher-Rao metric.
 
 The passage you're asking about describes how the concept of the "0-connection," specifically the Levi-Civita connection in the context of [[Information Geometry]], relates to the Fisher-Rao metric and the nature of geodesics within this framework. Let's delve deeper into these concepts for a more comprehensive understanding.
 

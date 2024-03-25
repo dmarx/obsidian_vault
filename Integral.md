@@ -7,3 +7,4 @@ See also:
 - [[Measure]]
 - [[Manifold]]
 - [[Continuity]]
+- [[Integration by Parts]]

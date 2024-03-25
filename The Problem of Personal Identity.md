@@ -4,12 +4,13 @@ see also:
 - [[Embodied Cognition]]
 - [[Extended Mind]]
 - [[Extended and Embodied Mind]]
+- [[Personal Identity]]
 
-The problem of personal identity, particularly concerning the unity of self, has seen intriguing developments in recent years, influenced by advances in neuroscience, psychology, philosophy, and technology. The core of these discussions revolves around understanding what makes an individual the same person over time, despite physical, psychological, and circumstantial changes. Modern discussions have expanded to include how our sense of self is maintained and how it can be disrupted or altered. Here are some key areas of development:
+The problem of personal identity, particularly concerning the unity of self, has seen intriguing developments in recent years, influenced by advances in neuroscience, psychology, [[Philosophy of Mind]], and technology. The core of these discussions revolves around understanding what makes an individual the same person over time, despite physical, psychological, and circumstantial changes. Modern discussions have expanded to include how our sense of self is maintained and how it can be disrupted or altered. Here are some key areas of development:
 
 ### Neuroscientific Insights
 
-Neuroscience has provided valuable insights into the biological underpinnings of personal identity and self-continuity. Research into brain regions responsible for memory, self-awareness, and consciousness has shed light on how our brains construct a sense of self. Studies on patients with brain injuries or neurological disorders have highlighted how specific brain damages can lead to profound changes in personality, suggesting a close link between neurological structures and personal identity. This raises philosophical questions about the extent to which our identity is grounded in our biology.
+[[Neuroscience]] has provided valuable insights into the biological underpinnings of personal identity and self-continuity. Research into brain regions responsible for memory, self-awareness, and consciousness has shed light on how our brains construct a sense of self. Studies on patients with brain injuries or neurological disorders have highlighted how specific brain damages can lead to profound changes in personality, suggesting a close link between neurological structures and personal identity. This raises philosophical questions about the extent to which our identity is grounded in our biology.
 
 ### Psychological Perspectives
 
