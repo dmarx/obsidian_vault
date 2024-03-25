@@ -1,10 +1,10 @@
 ### Mathematical Modeling of Dissipative Structures
 
-Dissipative structures, as proposed by Ilya Prigogine, are systems that maintain order through the continuous dissipation of energy. They emerge in non-equilibrium conditions and are characterized by self-organization, which is a spontaneous emergence of order out of chaos. Mathematical modeling of these structures provides insights into the principles governing their formation, stability, and dynamics.
+[[Dissipative structures]], as proposed by [[Ilya Prigogine]], are systems that maintain order through the continuous dissipation of energy. They emerge in [[Non-Equilibrium Dynamics|non-equilibrium conditions]] and are characterized by self-organization, which is a spontaneous [[emergence]] of [[order out of chaos]]. Mathematical modeling of these structures provides insights into the principles governing their formation, stability, and dynamics.
 
-#### Reaction-Diffusion Systems
+#### [[Reaction-Diffusion Systems]]
 
-One of the primary mathematical frameworks used to model dissipative structures is through reaction-diffusion systems. These systems are described by partial differential equations (PDEs) that combine chemical reactions (transformation of substances) with diffusion (spatial distribution and movement of substances).
+One of the primary mathematical frameworks used to model dissipative structures is through reaction-diffusion systems. These systems are described by [[partial differential equations]] (PDEs) that combine chemical reactions (transformation of substances) with [[diffusion]] (spatial distribution and movement of substances).
 
 - **General Formulation:** A reaction-diffusion system can typically be described by equations of the form:
   \[ \frac{\partial u}{\partial t} = D \nabla^2 u + f(u, v, \dots) \]
@@ -16,9 +16,9 @@ One of the primary mathematical frameworks used to model dissipative structures 
 
 Understanding the stability of dissipative structures is crucial to comprehending their behavior over time and under varying conditions. Stability analysis in the context of reaction-diffusion systems often involves examining how small perturbations to the system evolve.
 
-- **Linear Stability Analysis:** This method involves linearizing the reaction-diffusion equations around a steady state or equilibrium solution and analyzing the eigenvalues of the resulting linear system. If the real parts of all eigenvalues are negative, the system returns to equilibrium after small disturbances, indicating stability.
+- **[[Linear Stability Analysis]]:** This method involves linearizing the reaction-diffusion equations around a steady state or equilibrium solution and analyzing the eigenvalues of the resulting linear system. If the real parts of all eigenvalues are negative, the system returns to equilibrium after small disturbances, indicating stability.
 
-- **Pattern Formation:** A significant aspect of studying dissipative structures is understanding how spatial and temporal patterns emerge. The Turing mechanism is a classic example, where instability caused by the differential diffusion rates of reacting substances leads to pattern formation. This mechanism explains phenomena such as animal coat patterns and cellular differentiation.
+- **[[Pattern Formation]]:** A significant aspect of studying dissipative structures is understanding how spatial and temporal patterns emerge. The Turing mechanism is a classic example, where instability caused by the differential diffusion rates of reacting substances leads to pattern formation. This mechanism explains phenomena such as animal coat patterns and cellular differentiation.
 
 ### Modeling Challenges and Considerations
 

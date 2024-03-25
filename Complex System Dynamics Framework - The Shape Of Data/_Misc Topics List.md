@@ -51,6 +51,10 @@ kernel density estimation
 - relation to convolution
 self assembly
 bullwhip effect (supply chain)
+philosophy of probability
+cromwell's rule
+principle of maximum entropy
+queueing theory
 
 ### Biology and Ecology
 

@@ -1,3 +1,8 @@
+see also:
+- [[VAEs]]
+- [[Denoising Autoencoders]]
+- [[Encoder Decoder]]
+
 Variational Autoencoders (VAEs) are a class of generative models that leverage the principles of variational inference to learn complex data distributions. Introduced by [[Diederik Kingma]] and [[Max Welling]] in 2013, VAEs stand at the intersection of deep learning and Bayesian inference, offering a powerful framework for modeling high-dimensional data through probabilistic latent variables. They are particularly noted for their ability to generate new data samples that are similar to the training data, making them useful in a wide range of applications including image generation, anomaly detection, and more.
 
 ### Structure of Variational Autoencoders
@@ -17,7 +22,7 @@ $$
 $$
 
 - The first term is the expected log-likelihood of the data given the latent variables, encouraging the decoder to accurately reconstruct the data from the latent space.
-- The second term is the [[KL Divergence|Kullback-Leibler divergence]] between the encoder's approximation of the posterior distribution and the prior distribution of the latent variables, typically chosen to be a standard Gaussian distribution. This term acts as a regularizer, ensuring that the latent space has good properties, such as continuity and completeness.
+- The second term is the [[KL Divergence|Kullback-Leibler divergence]] between the encoder's approximation of the [[posterior distribution]] and the [[prior distribution]] of the [[latent variables]], typically chosen to be a standard [[Gaussian distribution]]. This term acts as a [[regularizer]], ensuring that the [[latent space]] has good properties, such as [[continuity]] and [[completeness]].
 
 ### Properties and Applications
 
@@ -33,7 +38,7 @@ $$
 
 - **[[Posterior Collapse]]**: Sometimes, the model may ignore the latent variables (a phenomenon known as posterior collapse), especially if the decoder is too powerful.
 
-- **Blurriness in Generated Samples**: VAEs are known to produce somewhat blurry samples compared to other generative models like GANs. This is partly due to the use of the reconstruction loss, which averages over possible outputs.
+- **Blurriness in Generated Samples**: VAEs are known to produce somewhat blurry samples compared to other generative models like GANs. This is partly due to the use of the [[reconstruction loss]], which averages over possible outputs.
 
 - **Choice of Prior and Posterior**: The choice of the prior and approximate posterior distributions can significantly affect the performance of a VAE. Research into more flexible distributions (beyond the standard Gaussian) continues to be an active area of exploration.
 
