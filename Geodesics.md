@@ -4,7 +4,7 @@ Understanding statistical estimation procedures through the lens of geodesics in
 
 ### Geodesics in [[Information Geometry]]
 
-Geodesics in a [[Riemannian Manifold]] are curves that represent the shortest path between points, under the metric defined on the manifold. In Information Geometry, these points are probability distributions, and the Fisher-Rao metric defines the "shortest" path not in terms of spatial distance, but in terms of the least informational change needed to move from one distribution to another.
+Geodesics in a [[Riemannian Manifolds|Riemannian Manifold]] are curves that represent the shortest path between points, under the metric defined on the manifold. In [[Information Geometry]], these points are [[probability distributions]], and the Fisher-Rao metric defines the "shortest" path not in terms of spatial distance, but in terms of the least informational change needed to move from one distribution to another.
 
 When applied to statistical estimation procedures, the concept of geodesics offers a geometric interpretation of how these procedures navigate the space of probability distributions. For instance, consider a statistical model parameterized by some parameters \(\theta\), and suppose we're using an estimation procedure to adjust \(\theta\) to best fit our data:
 
@@ -12,11 +12,11 @@ When applied to statistical estimation procedures, the concept of geodesics offe
 
 ### [[Fisher-Rao Metric]] and Statistical Estimation
 
-The Fisher-Rao metric arises from the Fisher information matrix, which quantifies how much information an observable random variable carries about the unknown parameters of its distribution. This metric imbues the space of probability distributions with a Riemannian structure, allowing for the application of geometric concepts like distances and geodesics.
+The Fisher-Rao metric arises from the Fisher information matrix, which quantifies how much information an observable random variable carries about the unknown parameters of its distribution. This metric imbues the space of probability distributions with a [[Reimannian Geometry|Riemannian structure]], allowing for the application of geometric concepts like distances and geodesics.
 
 - **[[Fisher Information]]:** Provides a measure of the expected amount of "information" that the presence of an observable outcome provides about the parameter \(\theta\).
   
-- **Fisher-Rao Metric:** Defines a way to measure the "distance" between probability distributions, which is invariant under reparameterization. This is crucial because it means the geometric properties derived from this metric (like geodesics) do not depend on how we choose to parameterize our statistical models.
+- **Fisher-Rao Metric:** Defines a way to measure the "distance" between probability distributions, which is invariant under [[reparameterization]]. This is crucial because it means the geometric properties derived from this metric (like geodesics) do not depend on how we choose to parameterize our statistical models.
 
 ### Implications for Understanding Statistical Estimation
 
@@ -24,7 +24,7 @@ The interpretation of statistical estimation as geodesic motion has several prof
 
 - **Efficiency and Path:** It highlights that certain estimation procedures, like MLE, are not just arbitrary rules but follow efficient paths through the space of distributions. These paths minimize the informational change necessary to reach the distribution that best fits the data.
 
-- **Generalization and Robustness:** Viewing estimation in geometric terms helps us understand why some estimation procedures are more robust or generalize better than others. Procedures that follow shorter or more direct geodesics under the Fisher-Rao metric might be less prone to overfitting or might reach more reliable estimates from less data.
+- **[[Generalization]] and [[Robustness]]:** Viewing estimation in geometric terms helps us understand why some estimation procedures are more robust or generalize better than others. Procedures that follow shorter or more direct geodesics under the Fisher-Rao metric might be less prone to [[overfitting]] or might reach more reliable estimates from less data.
 
 - **Comparison of Estimation Procedures:** Different estimation procedures can be compared by examining the different geodesics they trace in the space of distributions. This can provide insights into the relative efficiencies of these procedures and their suitability for different types of data or models.
 
