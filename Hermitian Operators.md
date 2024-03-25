@@ -1,3 +1,7 @@
+see also:
+- [[Adjoint]]
+- [[self-adjoint operators]]
+
 Shifting focus from quantum mechanics, Hermitian and [[Hamiltonian]] [[Operators]] also play significant roles in [[Statistical Mechanics]] and differential geometry, though their applications and interpretations in these fields differ from their quantum counterparts. Let’s explore these roles in both domains.
 
 ### Statistical Mechanics

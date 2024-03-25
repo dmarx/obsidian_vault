@@ -16,7 +16,7 @@ If $|\psi\rangle$ is a state vector and $|x\rangle$ represents a state correspon
 
 ### [[Operators]] and Observables
 
-In quantum mechanics, physical quantities (observables) such as position, momentum, and energy are represented by operators acting on the Hilbert space. These operators are typically [[Hermitian]] (or self-adjoint), ensuring that their eigenvalues are real numbers, which correspond to the possible outcomes of measurements.
+In quantum mechanics, physical quantities (observables) such as position, momentum, and energy are represented by operators acting on the Hilbert space. These operators are typically [[Hermitian Operators]] (or self-adjoint), ensuring that their eigenvalues are real numbers, which correspond to the possible outcomes of measurements.
 
 The action of an operator \( \hat{O} \) on a state \( |\psi\rangle \) can project \( |\psi\rangle \) onto an eigenstate \( |o\rangle \) of \( \hat{O} \), with the eigenvalue \( o \) being the observed outcome. The probability of observing \( o \) is given by \( |\langle o|\psi\rangle|^2 \), assuming \( |o\rangle \) and \( |\psi\rangle \) are normalized.
 

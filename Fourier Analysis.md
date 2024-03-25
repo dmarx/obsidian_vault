@@ -16,7 +16,7 @@ Fourier analysis is a mathematical method used for breaking down complex periodi
 
 ### Applications
 
-- **[[Signal Processing]]**: Fourier analysis is used to filter signals, analyze frequencies, and solve [[differential equations]] that describe physical processes.
+- **[[Signal Processing]]**: Fourier analysis is used to filter signals, analyze frequencies, and solve [[Differential Equations]] that describe physical processes.
 
 - **Image Processing**: Techniques like the FFT are used in image [[compression]], enhancement, and feature extraction.
 

@@ -4,7 +4,7 @@ The space of positive definite matrices is a crucial concept in various areas of
 
 A matrix $A \in \mathbb{R}^{n \times n}$ is considered positive definite if it satisfies the condition $x^TAx > 0$ for all non-zero vectors $x \in \mathbb{R}^n$. This property ensures that the matrix defines a valid inner product in the vector space, leading to a natural geometric interpretation of the data it represents. Positive definite matrices have several key properties:
 
-- They are [[Symmetry|symmetric]] (or [[Hermitian]] in the complex case).
+- They are [[Symmetry|symmetric]] (or [[Hermitian Operators]] in the complex case).
 - All their [[Eigenvalues]] are positive.
 - They ensure the [[Convexity]] of certain functions, making them attractive for [[Optimization]].
 
