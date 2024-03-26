@@ -34,3 +34,4 @@ Maybe the geodesic in information space without CoT between the prompt and the r
 I guess the "intermediates" here are the autoregressively generated tokens, and the energy is just their likelihood/perplexity. The beginning of the desired response might have a high perplexity relative to the prompt context, but CoT steps have low perplexity, giving us a pathway to the desired outcome that gets around what would otherwise be a barrier to sampling the desired output.
 
 [[Multi-step reasoning]] and [[autoregressive sampling]] as [[Reaction Networks]]
+

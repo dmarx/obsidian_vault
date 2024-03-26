@@ -58,6 +58,7 @@ principle of maximum entropy
 queueing theory
 SIREN
 NeRF
+fast multipole method (FMM)
 
 ### Biology and Ecology
 

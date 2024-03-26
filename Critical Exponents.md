@@ -1,6 +1,7 @@
 ---
 tags:
   - green
+  - gold
 ---
 
 > Near the critical temperature, the behavior of the order parameter can be used to define critical exponents that describe how quantities like the order parameter, specific heat, and susceptibility diverge or go to zero. These critical exponents are universal within universality classes defined by the dimensionality and symmetry properties of the system.
@@ -62,3 +63,39 @@ The range of interactions in a system significantly affects the values of $\nu$ 
 - **[[Crossover Phenomena]]**: In systems where both short-range and long-range interactions are present, crossover phenomena can occur. The critical behavior may start resembling one universality class (e.g., short-range) far from the critical point but switch to another (e.g., long-range) closer to the critical point. The values of $\nu$ and $\eta$ can reflect this crossover in their dependence on the temperature and interaction parameters.
 
 The relationship between $\nu$, $\eta$, and the range of interactions underscores the importance of universality in critical phenomena. It illustrates how systems with vastly different microscopic details can exhibit similar critical behavior when viewed through the lens of these fundamental exponents.
+
+---
+
+Critical exponents are fundamental in characterizing the singular behavior of physical quantities near phase transitions. These exponents provide a quantitative description of how certain properties of a system diverge or go to zero as the system approaches a critical point, such as the critical temperature for a phase transition. Critical exponents are universal in the sense that they depend only on the dimensionality of the system and the symmetry of the order parameter, not on the microscopic details of the system. This universality allows different systems that share the same critical exponents to be classified into the same universality class.
+
+### Common Critical Exponents
+
+Here are some of the most commonly studied critical exponents, which describe the behavior near a critical point:
+
+- **Exponent \(\alpha\)**: Describes the divergence of the specific heat \(C\) as \(C \sim |T - T_c|^{-\alpha}\), where \(T\) is the temperature and \(T_c\) is the critical temperature.
+  
+- **Exponent \(\beta\)**: Characterizes the behavior of the [[order parameter]] \(M\) (e.g., magnetization in a ferromagnetic material) as \(M \sim (T_c - T)^\beta\) for \(T < T_c\).
+  
+- **Exponent \(\gamma\)**: Describes the [[divergence of the susceptibility]] \(\chi\) (e.g., magnetic susceptibility) as \(\chi \sim |T - T_c|^{-\gamma}\).
+  
+- **Exponent \(\nu\)**: Relates to the [[divergence of the correlation length]] \(\xi\), which measures the size over which fluctuations are correlated, as \(\xi \sim |T - T_c|^{-\nu}\).
+  
+- **Exponent \(\delta\)**: Describes how the order parameter responds to an external field \(h\) at the critical temperature as \(M \sim h^{1/\delta}\) when \(T = T_c\).
+
+### Scaling Laws
+
+Critical exponents are not independent but are related through several [[scaling laws]], which are themselves a consequence of the [[scale invariance]] at the [[critical point]]. Some of these scaling laws include:
+
+- **[[Rushbrooke's equality]]**: \(\alpha + 2\beta + \gamma = 2\)
+- **[[Widom's scaling law]]**: \(\gamma = \beta(\delta - 1)\)
+- **[[Fisher's Scaling Law]]**: \(\gamma = \nu(2 - \eta)\), where \(\eta\) describes the decay of the correlation function at the critical point.
+
+These relationships are derived from the assumption that near the critical point, the free energy and other thermodynamic functions can be expressed in terms of scaling functions, which depend on dimensionless combinations of the relevant physical variables.
+
+### Calculation and RG Theory
+
+The RG theory provides a powerful framework for calculating critical exponents. By examining the flow of a system's parameters (e.g., coupling constants) under scale transformations, RG theory identifies fixed points of this flow, which correspond to phase transitions. The stability of these fixed points and the behavior of the RG flow in their vicinity determine the values of the critical exponents.
+
+### Significance
+
+Critical exponents and the associated scaling laws are crucial for understanding the nature of phase transitions and critical phenomena. They offer insights into the universality of phase transitions, indicating that systems with very different microscopic physics can exhibit similar macroscopic behavior near their critical points. This universality has profound implications, allowing for the classification of phase transitions into universality classes and enabling the prediction of phase transition behavior in complex systems based on the study of simpler models.
