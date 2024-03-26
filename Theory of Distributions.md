@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 see also:
 - [[Probability Theory]]
 - [[Probability Measure]]

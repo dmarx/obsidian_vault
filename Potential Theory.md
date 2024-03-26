@@ -1,3 +1,10 @@
+---
+tags:
+  - gold
+  - green
+---
+see also:
+- [[Harmonic Analysis]]
 Potential theory is a branch of mathematical analysis that deals with harmonic functions, the [[Laplace operator]], and related concepts of potentials. Originally developed to solve physical problems involving gravitational and electrostatic fields, potential theory has evolved to include a broad range of applications in mathematics and physics. It provides a rich framework for understanding and solving problems in which the notion of a "potential" plays a central role.
 
 ### Core Concepts

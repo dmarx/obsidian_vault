@@ -1,3 +1,11 @@
+---
+tags:
+  - green
+  - needs-outlinks
+---
+see also:
+- [[L-p Spaces]]
+
 A normed vector space is a central concept in functional analysis, linear algebra, and related fields, blending geometric intuition with algebraic operations. It extends the idea of vector spaces by introducing a way to measure vector lengths and distances between vectors, thereby adding a topological structure to the vector space.
 
 ### Definition
@@ -14,7 +22,7 @@ A **normed vector space** is a pair $(V, \|\cdot\|)$ where $V$ is a vector space
 
 - **\(p\)-norms**: Given $1 \leq p < \infty$, the \(p\)-norm (or $L^p$ norm) on $\mathbb{R}^n$ is defined as $\|x\|_p = (|x_1|^p + |x_2|^p + \ldots + |x_n|^p)^{1/p}$. For \(p = \infty\), the norm is defined as $\|x\|_\infty = \max\{|x_1|, |x_2|, \ldots, |x_n|\}$, which is the maximum norm.
 
-- **Function Spaces**: Spaces of continuous, differentiable, or integrable functions can be equipped with norms that measure the size of functions in various ways, such as the maximum absolute value of a function over a domain or the integral of the absolute value of a function.
+- **[[Function Spaces]]**: Spaces of continuous, differentiable, or integrable functions can be equipped with norms that measure the size of functions in various ways, such as the maximum absolute value of a function over a domain or the integral of the absolute value of a function.
 
 ### Distance in Normed Vector Spaces
 
@@ -22,4 +30,4 @@ In a normed vector space, the distance \(d(x, y)\) between two vectors \(x\) and
 
 ### Importance
 
-Normed vector spaces are crucial in many areas of mathematics and applied sciences. They provide a framework for analyzing and understanding the behavior of vectors and functions, particularly in infinite-dimensional spaces. These spaces form the basis for more complex structures in functional analysis, such as [[Banach Spaces]] (complete normed vector spaces) and [[Hilbert Spaces]] (complete normed vector spaces with an inner product inducing the norm), which are essential in the study of differential equations, quantum mechanics, and many areas of pure and applied mathematics.
+Normed vector spaces are crucial in many areas of mathematics and applied sciences. They provide a framework for analyzing and understanding the behavior of vectors and functions, particularly in infinite-dimensional spaces. These spaces form the basis for more complex structures in functional analysis, such as [[Banach Spaces]] (complete normed vector spaces) and [[Hilbert Spaces]] (complete normed vector spaces with an inner product inducing the norm), which are essential in the study of [[differential equations]], quantum mechanics, and many areas of pure and applied mathematics.

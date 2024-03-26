@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 The Lagrangian density, often denoted by $\mathcal{L}$, is a fundamental concept in field theory, which generalizes the notion of the Lagrangian from classical mechanics to fields. In field theory, systems are described not by a set of discrete particles but by continuous fields that extend over space and time. The Lagrangian density is a function (or functional) that depends on these fields, their spatial derivatives, and time derivatives, and it encapsulates the dynamics of the field system.
 
 ### Formulation

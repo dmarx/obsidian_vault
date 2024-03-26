@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+  - root
+---
+
 Functional analysis is a branch of mathematical analysis that studies spaces of functions and the structures on these spaces. It generalizes and builds on concepts from linear algebra and advanced calculus, focusing primarily on infinite-dimensional spaces. Functional analysis has profound connections to various areas of mathematics and physics, particularly in the study of differential equations, integral equations, Fourier analysis, and quantum mechanics. It provides the foundational language for modern analysis and theoretical physics.
 
 ### Key Concepts and Tools

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 Parseval's Theorem is a fundamental result in [[Fourier Analysis]] and signal processing that relates the total average power of a function to the sum of the squares of the coefficients in its Fourier series or [[Fourier Transform]] representation. It essentially states that the energy in a signal is preserved when transitioning between the time domain and the frequency domain. This theorem has important implications in various fields, including electrical engineering, physics, and mathematics, particularly in understanding the distribution of [[Energy]] across different frequency components of a signal.
 
 ### For [[Fourier Series]]

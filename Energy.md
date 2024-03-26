@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 > what is "energy"? in the context of e.g. entropy, free energy principle, etc. you can be technical, i am an nlab contributor.
 
 Given your background as an nLab contributor, I'll delve into the concept of "energy" from a more technical and theoretical physics perspective, particularly in relation to entropy and the free energy principle.

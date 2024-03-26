@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 Descriptive Set Theory is a branch of mathematical logic that deals with the study of definable sets, mainly in [[Polish Spaces]] ([[complete]] [[separable]] [[metric spaces]]) and other topological spaces. It explores the properties and structures of sets that can be described or defined in a precise manner, especially those related to topology, [[Measure Theory]], and [[Complexity Theory|complexity]]. The field intertwines with various areas of mathematics, including [[Analysis]], [[Topology]], and [[Set Theory]], offering deep insights into the nature of sets defined by specific criteria and their implications for broader mathematical concepts.
 
 ### Core Concepts and Developments

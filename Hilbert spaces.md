@@ -1,3 +1,9 @@
+---
+tags:
+  - gold
+  - green
+---
+
 A **Hilbert space** is a key concept in functional analysis, a branch of mathematics that studies vector spaces equipped with a complete [[Inner Product]]. A Hilbert space combines the geometric intuition from Euclidean spaces with the infinite-dimensional setting of function spaces, making it a powerful framework for solving problems across various fields, including quantum mechanics, [[Differential Forms|differential equations]], and [[Signal Processing]].
 
 ### Definition

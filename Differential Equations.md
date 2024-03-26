@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+  - stub
+---
+
 see also:
 - [[Differential Forms]]
 - [[Differentiability]]

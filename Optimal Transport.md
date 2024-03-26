@@ -1,10 +1,16 @@
+---
+tags:
+  - gold
+  - green
+---
+
 > Information Geometry and Optimal Transport: Alpha-divergence contributes to the understanding of the optimal transport problem, where the goal is to find the most "efficient" way to morph one distribution into another. The geometry induced by different alpha-divergences provides insights into the nature of this efficiency, whether in terms of minimal distortion (information loss) or adherence to constraints (like entropy).
 
 The intersection of Information Geometry and Optimal Transport through the lens of alpha-divergence illuminates intriguing aspects of how probability distributions can be transformed efficiently from one to another, highlighting the role of geometric structures in defining what "efficiency" means in this context.
 
 ### Optimal Transport: A Primer
 
-Optimal Transport (OT) theory concerns finding the most cost-effective way to move or "transport" mass from one distribution to another. Originally formulated by Gaspard Monge and later extended by Leonid Kantorovich, OT seeks a transport plan that minimizes the total cost of moving mass, where the cost is typically defined in terms of a distance function. This problem finds applications in various fields, including economics, fluid dynamics, and more recently, in machine learning and statistics.
+Optimal Transport (OT) theory concerns finding the most cost-effective way to move or "transport" mass from one distribution to another. Originally formulated by [[Gaspard Monge]] and later extended by [[Leonid Kantorovich]], OT seeks a transport plan that minimizes the total cost of moving mass, where the cost is typically defined in terms of a distance function. This problem finds applications in various fields, including economics, fluid dynamics, and more recently, in machine learning and statistics.
 
 ### Linking Alpha-Divergence to Optimal Transport
 
@@ -12,9 +18,9 @@ Alpha-divergence introduces a flexible way to measure the difference between dis
 
 - **Geometric Interpretation:** The choice of \(\alpha\) in alpha-divergence shapes the geometry of the space of probability distributions. This geometry, in turn, affects the paths considered "efficient" for transforming one distribution into another within the framework of OT. Different values of \(\alpha\) highlight different features of the distributions (e.g., tails, modes) as being significant in calculating this efficiency.
 
-- **Efficiency and Distortion:** From the perspective of Information Geometry, an efficient transport is one that minimizes some notion of information distortion—measured, for example, by alpha-divergence—between the source and target distributions. This approach transcends simple physical notions of distance, incorporating considerations of how information is preserved or lost in the transport process.
+- **Efficiency and Distortion:** From the perspective of Information Geometry, an efficient transport is one that minimizes some notion of information distortion—measured, for example, by [[alpha-divergence]]—between the source and target distributions. This approach transcends simple physical notions of [[distance]], incorporating considerations of how [[information]] is preserved or lost in the [[transport process]].
 
-- **Entropy-Regularized OT:** In the realm of OT, introducing entropy regularization leads to the Sinkhorn distance, a computationally tractable variant of the OT distance that incorporates entropy constraints. The connection to Information Geometry comes through the interpretation of entropy regularization as a way to smooth the transport problem, making it more robust and aligning it with principles from Information Geometry, where entropy plays a central role.
+- **Entropy-Regularized OT:** In the realm of OT, introducing [[entropy]] [[regularization]] leads to the [[Sinkhorn distance]], a computationally tractable variant of the OT distance that incorporates entropy constraints. The connection to [[Information Geometry]] comes through the interpretation of entropy regularization as a way to smooth the transport problem, making it more robust and aligning it with principles from Information Geometry, where entropy plays a central role.
 
 ### Practical Implications in Machine Learning and Statistics
 
