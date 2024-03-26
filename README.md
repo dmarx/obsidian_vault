@@ -1,6 +1,10 @@
+---
+tags:
+  - admin
+---
+![[2024-03-26_graph.png]]
 # DigCyclopedia
 
-wowwee did i get side tracked.
 
 # setup
 

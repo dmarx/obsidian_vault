@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 The parameter space landscape of a neural network is a conceptual representation that's pivotal for understanding how neural networks learn and adapt through training. This landscape is defined by the network's parameters—typically, its weights and biases—and their relationship to the performance measure, often expressed as a loss or cost function. Here's a closer look at the elements that compose the parameter space landscape and their significance in the context of neural network training:
 
 ### Composition of the Parameter Space
