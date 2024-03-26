@@ -9,7 +9,8 @@ See Also:
 - [[Discrete Symmetry Groups]]
 - [[Lie Groups]]
 - [[Symmetry Breaking]]
-- 
+- [[Conservation Laws]]
+- [[Noether's Theorem]]
 
 > The types of symmetry that a system exhibits can dictate the kinds of phase transitions it can undergo and thus its universality class.
 

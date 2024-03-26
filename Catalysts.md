@@ -7,9 +7,9 @@ tags:
 ---
 > how do catalysts work
 
-Catalysts work by providing an alternative pathway for a [[chemical reaction]] that has a lower activation [[energy]] than the uncatalyzed pathway. This doesn't change the overall energy balance of the reaction (the reactants' and products' energies remain the same), but it does affect how easily and quickly the reaction proceeds. Here's a bit more detail on how catalysts achieve this:
+Catalysts work by providing an alternative pathway for a [[Chemical Reactions]] that has a lower activation [[energy]] than the uncatalyzed pathway. This doesn't change the overall energy balance of the reaction (the reactants' and products' energies remain the same), but it does affect how easily and quickly the reaction proceeds. Here's a bit more detail on how catalysts achieve this:
 
-1. **Lowering [[Activation Energy]]**: The activation energy is the [[energy barrier]] that must be overcome for reactants to transform into products. Catalysts lower this barrier, enabling more reactant molecules to have enough energy to react at a given temperature. This increases the [[reaction rate]].
+1. **Lowering [[Activation Energy]]**: The activation energy is the [[Energy Barrier]] that must be overcome for reactants to transform into products. Catalysts lower this barrier, enabling more reactant molecules to have enough energy to react at a given temperature. This increases the [[Reaction Rate]].
 
 2. **Providing a Physical Site for the Reaction**: In the case of [[heterogeneous catalysts]] (where the catalyst is in a different phase than the reactants), the catalyst provides a surface upon which reactants can adsorb, come together, and react. This physical proximity can make certain reactions more likely.
 

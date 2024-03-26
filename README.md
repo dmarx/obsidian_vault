@@ -33,6 +33,7 @@ pip install -r .scripts/requirements.txt
 * [ ] auto-build readme script
   * [ ] populate tags list
   * [ ] report statistics
+  * [ ] benchwarmers-style ToC of `OC`-tagged content
 * [ ] compute node clusters (and assign tags)
 * [ ] tagging
   * [ ] root
