@@ -1,3 +1,9 @@
+---
+tags:
+  - gold
+  - green
+---
+
 [[Ilya Prigogine]]'s theory of dissipative structures is a cornerstone in understanding non-equilibrium thermodynamics and has profound implications for the study of complex systems. Prigogine, awarded the Nobel Prize in Chemistry in 1977, developed this theory to explain how order and complexity can emerge from chaos in systems far from thermodynamic equilibrium. His work fundamentally challenged the traditional view that entropy, or disorder, always increases in isolated systems, as stipulated by the [[Second Law of Thermodynamics]].
 
 ### Key Concepts of Prigogine's Theory

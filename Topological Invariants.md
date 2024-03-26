@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+---
+
+
 [[Topology|Topological]] [[Invariants]] are properties of a [[Topological Space]] that remain unchanged under continuous transformations ([[Homeomorphisms]]), such as stretching or bending, but not tearing or gluing. These invariants are crucial for classifying and studying topological spaces, particularly [[Manifolds|manifolds]], by providing a means to distinguish between them or to show their equivalence in a topological sense. The integration of [[Differential Forms]] over manifolds, as facilitated by the [[Generalized Stokes' Theorem]] and related concepts, yields such invariants, connecting geometric analysis with topological classification.
 
 ### Examples of Topological Invariants

@@ -1,3 +1,10 @@
+---
+tags:
+  - gold
+  - green
+  - needs-outlinks
+---
+
 See also:
 - [[Symmetry]]
 - [[Conservation Laws]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 see also:
 - [[Symmetry]]
 - [[Noether's Theorem]]

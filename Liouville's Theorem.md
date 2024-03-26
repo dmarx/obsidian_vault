@@ -1,3 +1,9 @@
+---
+tags:
+  - gold
+  - green
+---
+
 Liouville's theorem is a cornerstone of classical statistical mechanics, deeply intertwined with the [[Hamiltonian Mechanics|Hamiltonian formulation of mechanics]]. It provides a powerful insight into the nature of [[phase space]] dynamics and has significant implications for [[statistical mechanics]] and [[ergodic theory]].
 
 ### [[Phase Space]] and Hamiltonian Mechanics

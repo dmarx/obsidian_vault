@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 see also:
 - [[Adjoint]]
 - [[self-adjoint operators]]

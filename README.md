@@ -1,3 +1,5 @@
+# DigCyclopedia
+
 wowwee did i get side tracked.
 
 # setup

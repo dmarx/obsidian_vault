@@ -1,3 +1,10 @@
+---
+tags:
+  - stub
+  - gold
+  - green
+---
+
 NB: superceded by [[Renormalization Group|Renormalization Group Theory]]
 
 Landau theory, developed by the Soviet physicist [[Lev Landau]] in the 1930s, is a theoretical framework that provides a phenomenological approach to understanding phase transitions and critical phenomena in condensed matter systems. It focuses on the concept of symmetry and symmetry breaking, offering a way to categorize and study different types of phase transitions. Here's an overview of the key aspects of Landau theory:

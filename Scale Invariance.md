@@ -1,3 +1,9 @@
+---
+tags:
+  - stub
+  - green
+---
+
 see also:
 - [[Scale-Free Networks]]
 - [[Renormalization Group Theory]]

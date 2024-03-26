@@ -1,3 +1,9 @@
+---
+tags:
+  - gold
+  - green
+---
+
 Investigating far-from-equilibrium systems opens a window into understanding the dynamics of complex systems that are not in a state of thermodynamic balance, where traditional equilibrium thermodynamics does not apply. These systems, which include living organisms, ecosystems, and even socio-economic systems, are characterized by their constant exchange of energy and matter with their environment, leading to rich patterns of behavior and organization. Here are some key concepts and implications related to far-from-equilibrium systems:
 
 ### Dissipative Structures

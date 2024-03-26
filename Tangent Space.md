@@ -1,3 +1,9 @@
+---
+tags:
+  - gold
+  - green
+---
+
 > tell me about tangent space in the context of reimannian geometry
 
 Tangent space in the context of [[Riemannian Geometry]] is a fundamental concept that extends the idea of tangents from curves in the plane or surfaces in three-dimensional space to more general [[Manifolds]], which are spaces that locally resemble Euclidean space. In Riemannian geometry, a manifold is equipped with a metric that allows the measurement of distances and angles, enriching the structure of the tangent spaces.

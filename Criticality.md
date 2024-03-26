@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 The connection between critical phenomena, phase transitions, and power-law behavior is a cornerstone of modern physics, showcasing how statistical mechanics can explain complex, macroscopic behavior from simple, microscopic rules. Let's dive a bit deeper into these concepts:
 
 ### Critical Phenomena and Phase Transitions

@@ -1,3 +1,9 @@
+---
+tags:
+  - gold
+  - green
+---
+
 ### [[Criticality]] in [[Learning Dynamics]]
 
 Criticality, the state of a system at the brink of a phase transition between order and chaos, relates to neural networks' capacity to adapt and learn efficiently. Networks at criticality are poised to maximize their sensitivity to inputs and their capacity for information processing. This critical state may facilitate the network's ability to explore the loss landscape more effectively, potentially navigating between modes (connected minima) with greater ease and adaptability.

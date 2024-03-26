@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+  - prompts
+---
+
 >please use $equation$ and $$equation$$ to encapsulate math notation instead of \(equation\) and \[equation\] . also, I am a graduate deep learning researcher interested in differential geometry, topology, representation learning, and non-equilibrium system dynamics. you are helping me backfill reference material to accelerate research. please, be as detailed and technical as possible. 
 >
   tell me about regularization
