@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 > In Information Geometry, the paths that statistical estimation procedures take in the space of probability distributions can be understood in terms of geodesics with respect to the Fisher-Rao metric.
 
 Understanding statistical estimation procedures through the lens of geodesics in Information Geometry provides a deep insight into the nature of these processes. The [[Fisher-Rao Metric]], serving as a foundational tool in this field, allows us to conceptualize the space of probability distributions as a geometric manifold. Here, the "distance" between probability distributions is measured in a way that captures the informational difference between them. This approach bridges the abstract statistical concepts with the tangible geometric intuition of paths and distances on a curved surface.
@@ -24,7 +29,8 @@ The interpretation of statistical estimation as geodesic motion has several prof
 
 - **Efficiency and Path:** It highlights that certain estimation procedures, like MLE, are not just arbitrary rules but follow efficient paths through the space of distributions. These paths minimize the informational change necessary to reach the distribution that best fits the data.
 
-- **[[Generalization]] and [[Robustness]]:** Viewing estimation in geometric terms helps us understand why some estimation procedures are more robust or generalize better than others. Procedures that follow shorter or more direct geodesics under the Fisher-Rao metric might be less prone to [[overfitting]] or might reach more reliable estimates from less data.
+- **[[Generalization]] and [[Robustness]]:** Viewing estimation in geometric terms helps us understand why so
+- me estimation procedures are more robust or generalize better than others. Procedures that follow shorter or more direct geodesics under the Fisher-Rao metric might be less prone to [[overfitting]] or might reach more reliable estimates from less data.
 
 - **Comparison of Estimation Procedures:** Different estimation procedures can be compared by examining the different geodesics they trace in the space of distributions. This can provide insights into the relative efficiencies of these procedures and their suitability for different types of data or models.
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+  - root
+---
+
 Statistical mechanics is a branch of theoretical physics that uses probability theory to study the behavior of systems composed of a large number of particles. It provides a framework for relating the microscopic properties of individual atoms and molecules to the macroscopic or bulk properties of materials that can be observed at the human scale, such as temperature, pressure, and volume.
 
 The foundation of statistical mechanics is built upon the microscopic laws of physics, particularly quantum mechanics and classical mechanics, to derive statistical averages that correspond to observable properties. The theory is remarkably powerful because it explains how macroscopic observations emerge from the detailed dynamics of microscopic components.

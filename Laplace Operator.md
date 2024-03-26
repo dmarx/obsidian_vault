@@ -1,3 +1,9 @@
+---
+tags:
+  - empty-hub
+  - green
+---
+
 see also:
 - [[Laplacian]] (aka)
 

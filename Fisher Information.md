@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 Fisher Information is a key concept in statistics and information theory that measures the amount of information that an observable [[Random Variable]] carries about an unknown parameter upon which the probability of the random variable depends. It plays a crucial role in parameter estimation, particularly in the context of [[Maximum Likelihood Estimation]], and has profound implications in fields such as machine learning, quantum physics, and differential geometry.
 
 ### Definition and Intuition
