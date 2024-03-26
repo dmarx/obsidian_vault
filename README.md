@@ -50,3 +50,13 @@ AI-assisted brainstorming. What a time to be alive.
 **strategy**: use tags to triage work yet to be done.
 - `empty-hub`
 - ``
+
+
+### Auto STEM Textbook
+
+overlay hypergraph
+
+- user requests a textbook on a given topic
+- topic is queried against node set to identify "root" subset of nodes
+- graph is expanded out to needed depth, tracking depth from root for each node
+- content is generated/refined based on (conditioned on) level of depth in graph and student provided context (e.g. age, grade level, satisfied pre-requisites, etc.)
