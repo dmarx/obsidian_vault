@@ -1,3 +1,11 @@
+---
+tags:
+  - green
+  - root
+  - stub
+  - needs-outlinks
+---
+
 see also:
 - [[Chaos Theory]]
 

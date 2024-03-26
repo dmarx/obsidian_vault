@@ -1,4 +1,11 @@
-The partition function is a central concept in statistical mechanics, a branch of physics that bridges microscopic behavior of particles with macroscopic physical properties of systems. It plays a crucial role in understanding how complex behaviors emerge from the interactions of many individual components. The partition function encapsulates the statistical distribution of states in a system and provides a direct pathway to calculating thermodynamic quantities like energy, entropy, and temperature, revealing how these macroscopic properties depend on the microscopic details of the system.
+---
+tags:
+  - green
+---
+see also:
+- [[Bridging Scales]]
+
+The partition function is a central concept in [[statistical mechanics]], a branch of physics that bridges microscopic behavior of particles with macroscopic physical properties of systems. It plays a crucial role in understanding how complex behaviors emerge from the interactions of many individual components. The partition function encapsulates the statistical distribution of states in a system and provides a direct pathway to calculating thermodynamic quantities like energy, entropy, and temperature, revealing how these macroscopic properties depend on the microscopic details of the system.
 
 ### Definition and Mathematical Formulation
 

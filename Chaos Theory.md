@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+  - root
+---
+
 Chaos theory, which studies the behavior of dynamical systems that are highly sensitive to initial conditions, provides a framework for understanding how small changes in a neural network's parameters or in the input data can lead to vastly different outcomes. This sensitivity can be related to the concept of [[Singularities]], where near these [[Critical Points]], the system's future behavior becomes unpredictable and can [[Phase Transitions|drastically change]] its learning trajectory.
 
 ### Connections and Implications for Deep Learning

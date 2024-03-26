@@ -1,6 +1,7 @@
 ---
 tags:
   - green
+  - root
 ---
 
 > what is "energy"? in the context of e.g. entropy, free energy principle, etc. you can be technical, i am an nlab contributor.

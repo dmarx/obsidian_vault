@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+  - needs-outlinks
+---
+
 The phenomenon of concentration of measure has profound implications for understanding the geometry of high-dimensional spaces, particularly in the context of the representation and parameter spaces of neural networks. This phenomenon, originating from probability theory and geometry, provides insight into how properties of high-dimensional spaces differ markedly from our intuitive understanding based on low-dimensional spaces. Let's explore the concentration of measure and its consequences for the geometry of high-dimensional representation and parameter spaces in neural networks.
 
 ### Concentration of Measure Phenomenon

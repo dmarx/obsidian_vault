@@ -1,3 +1,10 @@
+---
+tags:
+  - green
+  - root
+  - stub
+---
+
 >tell me about connections between deep learning and thermodynamics, again leaning into intersections with differential geometry and other previously discussed topics.
 
 The connections between deep learning, thermodynamics, and differential geometry form a rich interdisciplinary tapelet, weaving together concepts from physics, mathematics, and computer science. This intersection provides profound insights into the behavior of learning systems, the optimization landscape of deep learning models, and the fundamental principles governing information processing in complex systems.

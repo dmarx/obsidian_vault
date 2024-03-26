@@ -1,19 +1,24 @@
+---
+tags:
+  - green
+  - empty-hub
+---
 ### Continuous Symmetry Groups
 
-The notation you're referring to, such as \(SO(3)\), belongs to a different, albeit related, domain of symmetry and group theory, focusing on continuous symmetry groups rather than the discrete symmetry groups typically discussed with Schoenflies or Hermann-Mauguin notations. \(SO(3)\) represents a class of groups known as Lie groups, which are used to describe symmetries of smooth, continuous objects and have profound applications in physics and mathematics, particularly in the study of rotational symmetries.
+The notation you're referring to, such as \([[SO(3)]]\), belongs to a different, albeit related, domain of symmetry and group theory, focusing on continuous symmetry groups rather than the discrete symmetry groups typically discussed with [[Schoenflies notation]] or [[Hermann-Mauguin notation]]. \(SO(3)\) represents a class of groups known as Lie groups, which are used to describe symmetries of smooth, continuous objects and have profound applications in physics and mathematics, particularly in the study of rotational symmetries.
 
 ### Lie Groups and \(SO(3)\)
 
 - **Lie Groups**: A Lie group is a group that is also a differentiable manifold, meaning it supports operations of both group multiplication and differentiation. Lie groups are key in describing continuous symmetries, such as those found in classical and quantum mechanics.
 
-- **\(SO(3)\)**: This notation specifically refers to the Special Orthogonal group of degree 3. It represents the group of all rotations in 3-dimensional space under the operation of matrix multiplication, preserving orientation and the Euclidean norm. Here's what the notation signifies:
+- **\(SO(3)\)**: This notation specifically refers to the [[Special Orthogonal group]] of degree 3. It represents the group of all rotations in 3-dimensional space under the operation of matrix multiplication, preserving orientation and the Euclidean norm. Here's what the notation signifies:
   - **S** stands for "Special," indicating determinant 1, which in physical terms means preserving orientation (e.g., no reflection symmetry).
   - **O** stands for "Orthogonal," meaning all matrices \(M\) in the group satisfy \(M^{-1} = M^T\), ensuring the preservation of the Euclidean distance (i.e., the rotation does not distort the object).
   - **(3)** indicates the dimension of the space, here 3D space, so the matrices are \(3 \times 3\).
 
-### Connection to Symmetry
+### Connection to [[Symmetry]]
 
-The connection between \(SO(3)\) and the symmetries described by Schoenflies or Hermann-Mauguin notations lies in the nature of the symmetries they represent. While Schoenflies and Hermann-Mauguin notations are primarily used to describe discrete symmetries, such as those found in molecules or crystal structures (where the symmetry operations include finite rotations, reflections, and inversions), \(SO(3)\) describes continuous symmetries, specifically the set of all possible rotations in three-dimensional space.
+The connection between \(SO(3)\) and the symmetries described by Schoenflies or Hermann-Mauguin notations lies in the nature of the symmetries they represent. While Schoenflies and Hermann-Mauguin notations are primarily used to describe discrete symmetries, such as those found in molecules or crystal structures (where the symmetry operations include finite rotations, reflections, and inversions), \(SO(3)\) describes [[continuous symmetries]], specifically the set of all possible rotations in three-dimensional space.
 
 ### Discrete vs. Continuous Symmetry
 
@@ -55,6 +60,6 @@ A **Lie group** is a group that is also a smooth manifold, meaning that it has a
 
 ### Applications
 
-- **Physics**: Lie groups and their associated algebras are foundational in the study of symmetries in physics, especially in quantum mechanics, quantum field theory, and general relativity. For example, the symmetry groups \(SU(2)\) and \(SU(3)\) play key roles in the Standard Model of particle physics, describing the symmetries of the weak force and the strong force, respectively.
-- **Differential Equations**: Lie's original motivation for developing the theory of Lie groups was to study the symmetries of differential equations. Understanding these symmetries can lead to methods for solving or simplifying differential equations.
-- **Geometry and Topology**: Lie groups are used to study geometric structures, such as Riemannian manifolds, and their transformations
+- **Physics**: Lie groups and their associated algebras are foundational in the study of symmetries in physics, especially in quantum mechanics, quantum field theory, and general relativity. For example, the symmetry groups \(SU(2)\) and \(SU(3)\) play key roles in the [[Standard Model]] of [[particle physics]], describing the symmetries of the [[weak force]] and the [[strong force]], respectively.
+- **[[Differential Equations]]**: Lie's original motivation for developing the theory of Lie groups was to study the symmetries of differential equations. Understanding these symmetries can lead to methods for solving or simplifying differential equations.
+- **[[Geometry]] and [[Topology]]**: Lie groups are used to study geometric structures, such as [[Riemannian manifolds]], and their transformations

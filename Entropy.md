@@ -1,3 +1,9 @@
+---
+tags:
+  - stub
+  - green
+---
+
 See also:
 - [[Informational Entropy]]
 - [[Entropy Measures]]

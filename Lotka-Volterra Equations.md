@@ -1,3 +1,7 @@
+---
+tags:
+  - green
+---
 > The predator-prey model, often represented by the Lotka-Volterra equations, describes the dynamics between two species: one serving as a predator and the other as its prey.
 
 The predator-prey model, encapsulated by the Lotka-Volterra equations, is a foundational concept in population dynamics and [[Mathematical Ecology]]. It describes the interactions between two species in an ecosystem: predators that consume prey for sustenance and prey that are consumed by predators. The model illustrates how the population sizes of both species fluctuate over time due to their interdependent relationship. Here’s a closer look at the Lotka-Volterra model and its implications.

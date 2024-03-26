@@ -1,9 +1,14 @@
+---
+tags:
+  - green
+---
+
 see also:
 - [[Spherical Harmonics]]
 - [[Singular Value Decomposition]]
 - [[Principal Component Analysis]]
 
-The concept of spectral decomposition is a cornerstone in the study of [[linear algebra]] and [[functional analysis]], particularly within the framework of [[spectral theory]]. It offers a powerful tool for understanding the structure and behavior of [[linear operators]] on [[vector spaces]], especially in [[Hilbert Spaces]] or finite-dimensional spaces. This decomposition breaks down a complex operator into simpler, more manageable parts that are easier to analyze and interpret, both mathematically and in practical applications.
+The concept of spectral [[decomposition]] is a cornerstone in the study of [[linear algebra]] and [[functional analysis]], particularly within the framework of [[spectral theory]]. It offers a powerful tool for understanding the structure and behavior of [[linear operators]] on [[vector spaces]], especially in [[Hilbert Spaces]] or finite-dimensional spaces. This decomposition breaks down a complex [[operator]] into simpler, more manageable parts that are easier to analyze and interpret, both mathematically and in practical applications.
 
 ### Spectral Decomposition in Finite Dimensions
 

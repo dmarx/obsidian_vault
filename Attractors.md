@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+  - stub
+---
+
 > tell me about attractors, singularities (information theory), their potential connection to phase change learning dynamics as observed with "grocking" phenomena, boundary effects, and connections to chaos theory
 
 ### Attractors in Dynamical Systems

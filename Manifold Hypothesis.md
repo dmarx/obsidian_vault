@@ -1,3 +1,12 @@
+---
+tags:
+  - green
+---
+
+See also:
+* [[Information Bottleneck]]
+* [[Autoencoders]]
+
 The manifold hypothesis is a foundational concept in machine learning and pattern recognition that posits high-dimensional data often lie on or near a lower-dimensional manifold within the high-dimensional space. This hypothesis is particularly relevant in the context of complex datasets, such as images, speech, and text, where the observable data dimensions (e.g., pixels in images) are high, but the actual number of underlying factors influencing the data's variations (e.g., object shapes, lighting in images) is much lower. The manifold hypothesis provides a compelling explanation for the observed phenomena and guides the development of various algorithms and models.
 
 ### Understanding Manifolds
@@ -85,7 +94,3 @@ The concepts of [[Singularities]], [[Grokking]], and mode connectivity in neural
 - **Interdisciplinary Approaches**: The intersection of these ideas encourages interdisciplinary approaches to machine learning, drawing from mathematics, physics, and information theory. Exploring the data manifold's geometry, understanding the optimization landscape's topology, and uncovering the dynamics of learning processes can all enrich our strategies for building and training neural networks.
 
 In summary, the manifold hypothesis, together with the concepts of singularities, grokking, and mode connectivity, provides a rich theoretical framework for understanding how neural networks learn from complex data. These ideas suggest that deep learning involves discovering and navigating the underlying structures within data, with critical points and connected paths in the learning landscape marking significant steps in this exploratory process.
-
-See also:
-* [[Information Bottleneck]]
-* [[Autoencoders]]

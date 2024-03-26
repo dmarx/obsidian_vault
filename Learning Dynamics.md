@@ -1,3 +1,9 @@
+---
+tags:
+  - green
+  - stub
+---
+
 See also:
 * [[Criticality and Singularity Theory]]
 * [[Phase Transitions]]
