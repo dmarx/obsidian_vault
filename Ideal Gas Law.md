@@ -1,10 +1,12 @@
+see also:
+- [[Chemistry]]
 ### Ideal Gas Law: \(PV = nRT\)
 
 The ideal gas law relates the pressure (\(P\)), volume (\(V\)), and temperature (\(T\)) of an ideal gas to the amount of gas (\(n\)) in moles and the ideal gas constant (\(R\)). This law is a cornerstone of thermodynamics and describes the behavior of ideal gases in closed systems. It is derived from empirical observations and the assumptions that the gas molecules are point particles with no volume and that there are no intermolecular forces, except during elastic collisions.
 
 ### Conservation Laws in Fluid Dynamics
 
-The [[Conservation Laws]] in [[Fluid Dynamics]], particularly those of mass and momentum, govern the motion and behavior of fluid substances. These laws are expressed through [[Differential Forms|differential equations]] that describe how the density, velocity, and other properties of a fluid evolve over time and space. They are fundamental to understanding fluid flow phenomena and are applicable to both compressible and incompressible fluids, including gases.
+The [[Conservation Laws]] in [[Fluid Dynamics]], particularly those of mass and momentum, govern the motion and behavior of fluid substances. These laws are expressed through [[Differential Forms|differential equations]] that describe how the density, velocity, and other properties of a fluid evolve over time and space. They are fundamental to understanding fluid flow phenomena and are applicable to both [[compressible]] and [[incompressible]] fluids, including gases.
 
 ### Connection and Generalization
 

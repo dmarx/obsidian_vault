@@ -56,6 +56,8 @@ philosophy of probability
 cromwell's rule
 principle of maximum entropy
 queueing theory
+SIREN
+NeRF
 
 ### Biology and Ecology
 
