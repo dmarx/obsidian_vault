@@ -1,15 +1,24 @@
 wowwee did i get side tracked.
 
+# setup
+
 ```
 pip install -r .scripts/requirements.txt
 ```
 
+# Principles
+
+**This is fundamentally for me and from my perspective.**
+
+# Usage
 
 
 **Tags**
 - `root` - Major topical entry points
 - `empty-hub` - article with lots of links to non-existent
-- 
+- `green` - definite include ("The Shape of Data" or whatever)
+- `gold` - valuable fringe (to me) topic
+
 
 ... tags could just be its own document.
 
@@ -49,7 +58,6 @@ AI-assisted brainstorming. What a time to be alive.
 
 **strategy**: use tags to triage work yet to be done.
 - `empty-hub`
-- ``
 
 
 ### Auto STEM Textbook
@@ -59,4 +67,9 @@ overlay hypergraph
 - user requests a textbook on a given topic
 - topic is queried against node set to identify "root" subset of nodes
 - graph is expanded out to needed depth, tracking depth from root for each node
+- subgraph is persisted as a context for generation
 - content is generated/refined based on (conditioned on) level of depth in graph and student provided context (e.g. age, grade level, satisfied pre-requisites, etc.)
+
+### integrate dmarx/bench-warmers
+
+1. pull full contents into graph. shit, just clone the subfolder i guess

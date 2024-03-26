@@ -2,6 +2,7 @@
 tags:
   - green
   - root
+  - gold
 ---
 
 Renormalization Group (RG) Theory is a profound and influential concept in theoretical physics, particularly in the fields of statistical mechanics and quantum field theory. It provides a systematic way to study changes in a physical system as one observes it at different scales. The theory has been pivotal in understanding phenomena such as critical behavior near phase transitions, the behavior of quantum fields at high energies, and the scaling properties of various physical systems. Let's delve deeper into its principles, methodology, and implications.
