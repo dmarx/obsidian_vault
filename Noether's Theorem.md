@@ -104,7 +104,7 @@ $$
 
 ### Derivation of the Conserved Quantity
 
-The derivation of the conserved quantity (or Noether charge) from the symmetry involves differentiating the action with respect to $\epsilon$ and applying the [[Euler-Lagrange Equations]] to show that the time derivative of a certain function of the $q_i$, $\dot{q}_i$, and possibly $t$, is zero. The specific form of the conserved quantity depends on the nature of the symmetry transformation.
+The derivation of the conserved quantity (or Noether charge) from the symmetry involves differentiating the action with respect to $\epsilon$ and applying the [[Euler-Lagrange Equation]] to show that the time derivative of a certain function of the $q_i$, $\dot{q}_i$, and possibly $t$, is zero. The specific form of the conserved quantity depends on the nature of the symmetry transformation.
 
 For a simple example, consider a system with a Lagrangian that does not explicitly depend on time. The invariance under time translations implies energy conservation. For spatial translations, the conservation of linear momentum is derived, and for rotational symmetry, angular momentum conservation follows.
 

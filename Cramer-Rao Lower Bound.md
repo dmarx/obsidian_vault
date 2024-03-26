@@ -1,3 +1,7 @@
+---
+aliases:
+  - Cramér-Rao Lower Bound
+---
 The Cramér-Rao Lower Bound (CRLB) is a fundamental result in statistics and estimation theory that provides a lower bound on the variance of unbiased estimators of a parameter. Essentially, it sets a theoretical limit on how accurately we can estimate a parameter of a distribution, given a set of observations, under the best possible circumstances. This concept is crucial in fields like [[Signal Processing]], [[econometrics]], physics, and machine learning, where one often seeks to estimate parameters from noisy data as accurately as possible.
 
 ### Definition and Expression

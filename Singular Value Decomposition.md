@@ -1,3 +1,8 @@
+---
+tags:
+  - green
+---
+
 Singular Value Decomposition (SVD) stands out as a versatile and powerful technique in machine learning, particularly in tasks related to representation learning and dimensionality reduction. By decomposing a matrix $A$ into $U\Sigma V^T$, SVD reveals the underlying structure of the data, making it invaluable for a wide range of applications. Let's delve deeper into its applications and significance in machine learning:
 
 ### [[Principal Component Analysis]] (PCA)
@@ -12,7 +17,7 @@ Singular Value Decomposition (SVD) stands out as a versatile and powerful techni
 
 ### Recommender Systems
 
-- **Mechanism:** Collaborative filtering algorithms often utilize SVD to factorize user-item interaction matrices. This factorization approximates user preferences and item attributes in a lower-dimensional latent space, where the dimensions represent latent factors inferred from user-item interactions.
+- **Mechanism:** [[Collaborative filtering]] algorithms often utilize SVD to factorize user-item interaction matrices. This factorization approximates user preferences and item attributes in a lower-dimensional latent space, where the dimensions represent latent factors inferred from user-item interactions.
 - **Benefits:** Such an approach allows for predicting missing entries in the interaction matrix (user preferences for items not interacted with), enabling personalized recommendations. The model can suggest items to a user based on the latent factors, improving the recommendation quality.
 
 ### Noise Reduction and Data [[Compression]]

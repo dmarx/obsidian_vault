@@ -1,3 +1,8 @@
+see also:
+- [[Reproducing Kernel Hilbert Spaces]]
+- [[Positive Definiteness]]
+- [[Positive Definite Kernels]]
+
 The **kernel** concept extends the idea of the [[Inner Product]] into more abstract and potentially higher-dimensional spaces, facilitating operations that are not linearly separable in the original input space.
 
 - **Definition:** A kernel is a function $k: \mathcal{X} \times \mathcal{X} \rightarrow \mathbb{R}$ that corresponds to an inner product in a higher-dimensional feature space. For inputs $x, y \in \mathcal{X}$, the kernel $k(x, y)$ represents the inner product $(\phi(x), \phi(y))$ in some feature space, where $\phi: \mathcal{X} \rightarrow F$ maps inputs to features.

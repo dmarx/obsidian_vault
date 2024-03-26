@@ -8,7 +8,7 @@ A **Hilbert space** is a key concept in functional analysis, a branch of mathema
 
 ### Definition
 
-A Hilbert space is a [[normed vector space]] that is complete with respect to the norm induced by an inner product. The inner product $(\cdot, \cdot)$ on a vector space $H$ over the field $\mathbb{R}$ (real numbers) or $\mathbb{C}$ (complex numbers) satisfies the following properties:
+A Hilbert space is a [[Normed Vector Spaces|normed vector space]] that is complete with respect to the norm induced by an inner product. The inner product $(\cdot, \cdot)$ on a vector space $H$ over the field $\mathbb{R}$ (real numbers) or $\mathbb{C}$ (complex numbers) satisfies the following properties:
 
 1. **Conjugate Symmetry:** $(x, y) = \overline{(y, x)}$ for all $x, y \in H$.
 2. **[[Linearity]] in the first argument:** $(ax + by, z) = a(x, z) + b(y, z)$ for all $x, y, z \in H$ and scalars $a, b$.

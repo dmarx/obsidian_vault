@@ -26,7 +26,7 @@ $$
 
 ### Implications and Applications
 
-- **Equations of Motion**: The requirement that $\delta S = 0$ for arbitrary variations leads directly to the [[Euler-Lagrange equations]], which are the equations of motion for the system. This demonstrates how the dynamics of a system are derived from a variational principle rather than postulated directly.
+- **Equations of Motion**: The requirement that $\delta S = 0$ for arbitrary variations leads directly to the [[Euler-Lagrange Equation]], which are the equations of motion for the system. This demonstrates how the dynamics of a system are derived from a variational principle rather than postulated directly.
   
 - **Generalization**: The principle applies not just to mechanical systems but also to fields in physics. For field theories, the [[Lagrangian]] depends on field values and their derivatives, and the action involves an integral over space and time. The principle of stationary action leads to field equations that govern the dynamics of these fields.
 

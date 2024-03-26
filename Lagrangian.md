@@ -13,7 +13,7 @@ This definition holds in the context of classical mechanics. In more general set
 
 - **Dependence**: The Lagrangian typically depends on the generalized coordinates $q_i$ of the system, their time derivatives $\dot{q}_i$, and possibly time $t$ itself: $L(q_i, \dot{q}_i, t)$. These generalized coordinates represent the configuration of the system in a way that encapsulates its constraints and degrees of freedom.
 
-- **Equations of Motion**: The action, $S$, is the integral of the Lagrangian over time. Applying the principle of stationary action to $S$, one derives the [[Euler-Lagrange Equations]], which are the equations of motion for the system:
+- **Equations of Motion**: The action, $S$, is the integral of the Lagrangian over time. Applying the principle of stationary action to $S$, one derives the [[Euler-Lagrange Equation]], which are the equations of motion for the system:
 
 $$
 \frac{d}{dt} \left( \frac{\partial L}{\partial \dot{q}_i} \right) - \frac{\partial L}{\partial q_i} = 0
