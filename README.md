@@ -33,7 +33,9 @@ pip install -r .scripts/requirements.txt
 * [ ] tagging
   * [ ] root
   * [ ] green
-
+* [ ] auto-aliases
+* [ ] .pre-commit-hook to run certain scripts
+* [ ] .github/workflow to run certain scripts
 
 also, i need to learn how to use linkable sub headings properly
 
