@@ -19,7 +19,7 @@ The [[rate constant]] (\(k\)) is a [[Conservation Laws|proportionality constant]
 
 ### Activation Energy and Transition State Theory
 
-[[Activation energy]] (\(E_a\)) is the minimum energy that reacting molecules must possess for a reaction to occur. [[Transition State Theory]] provides a framework for understanding how reactions proceed through a high-energy transition state or [[activated complex]] that forms momentarily before transforming into products.
+[[Activation Energy]] (\(E_a\)) is the minimum energy that reacting molecules must possess for a reaction to occur. [[Transition State Theory]] provides a framework for understanding how reactions proceed through a high-energy transition state or [[activated complex]] that forms momentarily before transforming into products.
 
 ### [[Reaction Mechanisms]]
 

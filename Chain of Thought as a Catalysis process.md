@@ -10,7 +10,7 @@ a hypothesis represents a change in the information state, energy put in our out
 
 the resolution of that hypothesis is a new information configuration relative to this change
 
-the optimal new configuration may be inaccessible from our current state due to insufficient [[Activation energy]] (i.e. we don't have adequate information or representation of the problem to reason about the hypothesis in a single step). 
+the optimal new configuration may be inaccessible from our current state due to insufficient [[Activation Energy]] (i.e. we don't have adequate information or representation of the problem to reason about the hypothesis in a single step). 
 
 one way to "get around" barriers of this kind is to catalyze multi-step reaction pathways, where the activation energy of each step is low and the configuration after each step is stable.
 

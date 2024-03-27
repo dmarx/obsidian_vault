@@ -5,7 +5,7 @@ tags:
 see also:
 - [[Chemistry]]
 
-The Arrhenius equation is a fundamental relation in the field of [[chemical kinetics]] that describes how the [[rate constant]] (\(k\)) of a [[chemical reaction]] depends on [[temperature]] (\(T\)) and [[activation energy]] (\(E_a\)). Formulated by Swedish chemist Svante Arrhenius in 1889, this equation provides crucial insight into the temperature dependence of reaction rates, illustrating how slight variations in temperature can significantly impact the speed at which chemical reactions proceed. The Arrhenius equation is expressed as:
+The Arrhenius equation is a fundamental relation in the field of [[chemical kinetics]] that describes how the [[rate constant]] (\(k\)) of a [[chemical reaction]] depends on [[temperature]] (\(T\)) and [[Activation Energy]] (\(E_a\)). Formulated by Swedish chemist Svante Arrhenius in 1889, this equation provides crucial insight into the temperature dependence of reaction rates, illustrating how slight variations in temperature can significantly impact the speed at which chemical reactions proceed. The Arrhenius equation is expressed as:
 
 \[ k = A \exp\left(-\frac{E_a}{RT}\right) \]
 
