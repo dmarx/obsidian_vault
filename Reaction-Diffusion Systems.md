@@ -16,11 +16,11 @@ Reaction-diffusion systems are closely related to the concept of [[dissipative s
 
 2. **[[Self-organization]]**: Both concepts involve self-organization, where system components spontaneously organize into coherent structures without external guidance. In reaction-diffusion systems, the interplay between reaction kinetics and diffusion processes can lead to the emergence of patterns (e.g., stripes, spots) that are hallmarks of self-organizing behavior seen in dissipative structures.
 
-3. **[[Energy Dissipation]]**: Dissipative structures maintain their order by dissipating energy. In reaction-diffusion systems, the chemical reactions often involve the transformation of energy forms, contributing to the overall energy flow that sustains the patterned structure. This energy flow is essential for the maintenance and stability of the patterns.
+3. **[[Dissipative Processes|Energy Dissipation]]**: Dissipative structures maintain their order by dissipating energy. In reaction-diffusion systems, the chemical reactions often involve the transformation of energy forms, contributing to the overall energy flow that sustains the patterned structure. This energy flow is essential for the maintenance and stability of the patterns.
 
 4. **[[Dynamic Stability]]**: Dissipative structures are dynamically stable, meaning they can maintain their structure over time despite ongoing energy and matter exchanges with their environment. Similarly, the patterns formed in reaction-diffusion systems are not static but are maintained dynamically through continuous processes of diffusion and reaction.
 
-5. **Pattern Formation**: The emergence of spatial and temporal patterns is a defining feature of both dissipative structures and reaction-diffusion systems. These patterns result from the nonlinear interactions among system components, a commonality that underlies the mathematical modeling of such phenomena.
+5. **[[Pattern Formation]]**: The emergence of spatial and temporal patterns is a defining feature of both dissipative structures and reaction-diffusion systems. These patterns result from the nonlinear interactions among system components, a commonality that underlies the mathematical modeling of such phenomena.
 
 ### Examples
 
