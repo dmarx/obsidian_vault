@@ -6,6 +6,12 @@ tags:
 ---
 see also:
 - [[Level-Of-Detail]]
+- [[Statistical Continuum Limits]]
+- [History of RG theory](https://philsci-archive.pitt.edu/14591/1/QFTCSManalogy_rev.pdf) by [[Doreen Fraser]]
+- [Notes on Wilson's RG views](https://indico.cern.ch/event/630393/contributions/2813297/attachments/1611354/2558774/Fraser.pdf)
+- [[Kenneth Wilson]]
+- [[Spontaneous Symmetry Breaking]]
+
 
 Renormalization Group (RG) Theory is a profound and influential concept in [[theoretical physics]], particularly in the fields of [[statistical mechanics]] and [[quantum field theory]]. It provides a systematic way to study changes in a physical system as one observes it at different scales. The theory has been pivotal in understanding phenomena such as critical behavior near phase transitions, the behavior of quantum fields at high energies, and the scaling properties of various physical systems. Let's delve deeper into its principles, methodology, and implications.
 
@@ -278,3 +284,40 @@ The discovery of universality and the development of RG theory have had profound
 - They have found applications in fields outside traditional physics, including finance, biology, and social sciences, wherever scale-invariant behavior is observed.
 
 In summary, the RG theory's explanation of universality and its method for calculating critical exponents underscore the deep connections between seemingly disparate systems. By focusing on the scaling behavior near critical points, RG theory reveals the underlying simplicity and commonality in the complex world of critical phenomena.
+
+
+>To me, RG resonates as a kind of "taking a step back and squinting" procedure. In this context, it's occurred to me that the direction in which we take that backwards step can have significant impact on what things look like when we squint. if I'm standing on the peak of a mountain, I will have a very different perspective on what a "mountain" is if I use a coarse-graining direction that moves me to ground level several miles from the mountain where I can get a better view of the whole thing, vs. if I consider aerial photography which would give me a very different view. how does RG account for how this kind of choice of direction of coarse-graining trajectory can impact the resulting RG flow?
+
+The analogy you've used to describe the Renormalization Group (RG) process as "taking a step back and squinting" vividly captures the essence of coarse-graining and the critical role of perspective in understanding complex systems. The choice of direction in coarse-graining, analogous to the position from which you observe a mountain, indeed influences the insights gained from the RG process. This aspect of RG—how the trajectory of coarse-graining impacts the resulting RG flow—touches on fundamental concepts within the framework, particularly the notion of relevant and irrelevant operators, fixed points, and the universality of physical phenomena.
+
+### Choice of Coarse-Graining Trajectory
+
+In RG, the "direction" of coarse-graining is determined by the choice of scaling transformations and the variables considered essential to the problem at hand. This choice dictates how one moves through the space of possible configurations (or the phase space) of the system as it is coarse-grained. Different trajectories through this space can highlight different features of the system, akin to viewing a mountain from different vantage points:
+
+- **Ground Level vs. Aerial View**: Just as the ground-level view might highlight the mountain's base and surrounding geography, and the aerial view its topology and scale, different RG trajectories can emphasize different aspects of the physical system. For instance, an RG analysis focusing on long-range correlations might reveal critical phenomena like phase transitions, whereas one that emphasizes short-range interactions might provide insights into the microscopic structure.
+
+### Relevance of Operators
+
+In RG theory, operators (or interactions) in the Hamiltonian or action of a system are classified as relevant, irrelevant, or marginal based on their scaling dimensions. This classification determines how they affect the RG flow:
+
+- **Relevant Operators** tend to grow as the system is coarse-grained, dictating the flow towards a particular type of fixed point, which in turn describes the large-scale behavior of the system.
+- **Irrelevant Operators** diminish in importance as the system is coarse-grained, indicating that certain microscopic details become less significant at larger scales.
+- **Marginal Operators** may either grow or diminish, depending on slight modifications in their coefficients or the presence of other operators.
+
+The selection of which details (or operators) to consider as part of the coarse-graining process effectively sets the "direction" of the RG flow. This choice is crucial because it determines the fixed points that the system will flow towards, which correspond to different phases or behaviors of the system.
+
+### Impact on RG Flow
+
+The trajectory taken through the space of all possible theories (or the configuration space) as one applies the RG transformations is known as the RG flow. This flow is highly dependent on the initial conditions, which include the choice of which details to retain or discard:
+
+- **Fixed Points and Universality**: Different trajectories might converge to the same fixed point, illustrating the concept of universality—diverse systems exhibiting the same large-scale behavior because they share the same relevant operators.
+- **Critical Surfaces and Phase Transitions**: The choice of coarse-graining trajectory can determine which critical surface in parameter space a system approaches, affecting our understanding of the nature and universality class of phase transitions it exhibits.
+
+### Accounting for Direction in RG
+
+The RG framework, particularly through the formalism of the beta function and the analysis of scaling dimensions, provides tools to understand and predict how changes in the coarse-graining direction affect the RG flow. This includes:
+
+- **Beta Function**: Describes how the parameters of a theory change with the scale, encapsulating the effects of different coarse-graining choices.
+- **Scaling Dimensions**: Offer insight into how physical quantities change as the system is viewed at different scales, guiding the choice of relevant directions for coarse-graining.
+
+In practice, the choice of coarse-graining direction is guided by the physical insights one seeks to gain, the symmetries of the system, and the nature of the questions being asked. The power of the RG approach lies in its ability to provide a systematic method for exploring these different perspectives and uncovering the universal properties that emerge at large scales, regardless of the microscopic details.
