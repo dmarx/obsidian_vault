@@ -18,7 +18,7 @@ The covariant derivative is closely associated with the concept of a [[Connectio
 
 ### Applications in Physics
 
-- **[[General Relativity]]:** In the general theory of relativity, the geometry of spacetime is described by a [[Riemannian Manifolds]], and the covariant derivative associated with the [[Levi-Civita connection]] (a connection compatible with the spacetime metric that has no torsion) is used to formulate the [[equations of motion]] and the [[Einstein field equations]]. Gravitational effects are interpreted as the result of the [[curvature]] of spacetime affecting the paths of objects and light rays.
+- **[[General Relativity]]:** In the general theory of relativity, the geometry of spacetime is described by a [[Riemannian Manifolds]], and the covariant derivative associated with the [[Levi-Civita connection]] (a connection compatible with the spacetime metric that has no torsion) is used to formulate the [[equations of motion]] and the [[Einstein Field Equations]]. Gravitational effects are interpreted as the result of the [[curvature]] of spacetime affecting the paths of objects and light rays.
 
 - **[[Gauge Theories]]:** In the context of gauge theories in particle physics, covariant derivatives include terms that account for the interaction of particles with gauge fields. These derivatives respect the local symmetries (gauge symmetries) of the theory and ensure that physical laws are invariant under local transformations.
 

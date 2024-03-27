@@ -16,7 +16,7 @@ General covariance was a key goal for [[Albert Einstein]] in developing [[genera
 
 ### Mathematical Formulation
 
-In general relativity, the principle of general covariance is mathematically implemented through [[tensors]], which are geometric objects that remain [[invariant]] under coordinate transformations. The equations of general relativity are formulated in terms of tensor equations, ensuring their covariance. For instance, the [[Einstein field equations]] can be written as:
+In general relativity, the principle of general covariance is mathematically implemented through [[tensors]], which are geometric objects that remain [[invariant]] under coordinate transformations. The equations of general relativity are formulated in terms of tensor equations, ensuring their covariance. For instance, the [[Einstein Field Equations]] can be written as:
 
 $$ G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu} $$
 
