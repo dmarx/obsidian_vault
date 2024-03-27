@@ -1,3 +1,11 @@
+---
+tags:
+  - needs-outlinks
+---
+
+see also:
+- [[Turing Model of Morphogenesis]]
+
 The concept of "Instabilities Leading to Order" in the context of non-equilibrium dynamics is a fascinating aspect of systems theory, particularly illustrated by the [[Turing mechanism]]. This mechanism, proposed by Alan Turing in 1952, is a seminal idea in the study of morphogenesis—the process through which patterns and structures form in biology. Turing's insight bridged the gap between mathematical theory and biological pattern formation, demonstrating how systems can spontaneously organize into complex patterns through the interaction of simple components under non-equilibrium conditions.
 
 ### The Turing Mechanism Explained

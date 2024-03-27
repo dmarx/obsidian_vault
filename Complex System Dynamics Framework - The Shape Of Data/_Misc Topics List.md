@@ -61,6 +61,7 @@ NeRF
 fast multipole method (FMM)
 octree
 level-of-detail (LOD)
+stephen wolfram
 
 ### Biology and Ecology
 
