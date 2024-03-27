@@ -59,6 +59,8 @@ queueing theory
 SIREN
 NeRF
 fast multipole method (FMM)
+octree
+level-of-detail (LOD)
 
 ### Biology and Ecology
 

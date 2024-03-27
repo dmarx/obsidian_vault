@@ -99,10 +99,11 @@ pip install -r .scripts/requirements.txt
   * [ ] report statistics
   * [ ] benchwarmers-style ToC of `OC`-tagged content
 * [ ] compute node clusters (and assign tags)
+  * [ ] Label propagation from `root` nodes
 * [ ] tagging
-  * [ ] root
+  * [x] root
   * [ ] green
-* [ ] auto-aliases
+* [ ] auto-aliases (this might not be necessary?)
 * [ ] .pre-commit-hook to run certain scripts
 * [ ] .github/workflow to run certain scripts
 
@@ -110,6 +111,10 @@ also, i need to learn how to use linkable sub headings properly
 
 
 # Log
+
+## 2024-03-26
+
+Couple of intersecting ideas, can use tags to group them into overlapping volumes
 
 ## 2024-03-25
 

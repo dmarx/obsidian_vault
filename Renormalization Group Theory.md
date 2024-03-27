@@ -4,8 +4,10 @@ tags:
   - root
   - gold
 ---
+see also:
+- [[Level-Of-Detail]]
 
-Renormalization Group (RG) Theory is a profound and influential concept in theoretical physics, particularly in the fields of statistical mechanics and quantum field theory. It provides a systematic way to study changes in a physical system as one observes it at different scales. The theory has been pivotal in understanding phenomena such as critical behavior near phase transitions, the behavior of quantum fields at high energies, and the scaling properties of various physical systems. Let's delve deeper into its principles, methodology, and implications.
+Renormalization Group (RG) Theory is a profound and influential concept in [[theoretical physics]], particularly in the fields of [[statistical mechanics]] and [[quantum field theory]]. It provides a systematic way to study changes in a physical system as one observes it at different scales. The theory has been pivotal in understanding phenomena such as critical behavior near phase transitions, the behavior of quantum fields at high energies, and the scaling properties of various physical systems. Let's delve deeper into its principles, methodology, and implications.
 
 ### Core Principles
 
@@ -17,7 +19,7 @@ Renormalization Group (RG) Theory is a profound and influential concept in theor
 
 - **Coarse-Graining and Rescaling**: The RG approach involves a procedure called "coarse-graining," where finer details of a system are systematically averaged out or integrated over, followed by a rescaling of lengths (or energies) to restore the system to its original size (or energy scale). This process is iteratively applied to study how the system's behavior evolves across scales.
 
-- **Flow of Parameters**: Through the RG transformations, one examines how the parameters that describe the system's interactions (e.g., coupling constants) change. This leads to the concept of the "RG flow," which is a trajectory in the space of these parameters. [[Fixed Points|Fixed points]] of this flow correspond to [[Scale Invariance|scale-invariant theories]], often associated with [[Phase Transitions]].
+- **[[Flow of Parameters]]**: Through the RG transformations, one examines how the parameters that describe the system's interactions (e.g., coupling constants) change. This leads to the concept of the "RG flow," which is a trajectory in the space of these parameters. [[Fixed Points|Fixed points]] of this flow correspond to [[Scale Invariance|scale-invariant theories]], often associated with [[Phase Transitions]].
 
 ### Implications and Applications
 
@@ -124,11 +126,11 @@ The Renormalization Group (RG) techniques are a set of mathematical methods used
 
 1. **[[Coarse-Graining (RG)]]**: This is the first step in RG analysis, where the degrees of freedom of the system are thinned out. For example, in a lattice model of spins, coarse-graining might involve averaging the spins over blocks of lattice sites to produce a new, effective lattice of block spins. The goal is to reduce the complexity of the system while retaining the essential physics.
 
-2. **Rescaling**: After coarse-graining, the system is rescaled to restore the original size or volume. This step ensures that the comparisons are made at the same spatial or temporal scales. In the spin lattice example, this would mean considering the new block spins as if they were individual spins on a lattice of the original density.
+2. **[[Rescaling]]**: After coarse-graining, the system is rescaled to restore the original size or volume. This step ensures that the comparisons are made at the same spatial or temporal scales. In the spin lattice example, this would mean considering the new block spins as if they were individual spins on a lattice of the original density.
 
-3. **Renormalization of Parameters**: The process of coarse-graining and rescaling generally changes the parameters of the system's Hamiltonian or action (in the case of field theories). For example, the effective coupling constants, representing interaction strengths, may increase or decrease. The RG flow describes how these parameters change as the scale changes.
+3. **[[Renormalization of Parameters]]**: The process of coarse-graining and rescaling generally changes the parameters of the system's [[Hamiltonian]] or action (in the case of field theories). For example, the effective coupling constants, representing interaction strengths, may increase or decrease. The [[RG flow]] describes how these parameters change as the scale changes.
 
-### RG Equations
+### [[RG Equations]]
 
 The mathematical backbone of RG analysis is the RG equations, which describe how the parameters of the system's description (e.g., coupling constants, fields) change under the RG transformations. The formulation typically involves differential equations known as beta functions, which describe the flow of these parameters in the space of possible theories as the scale changes.
 
@@ -154,7 +156,7 @@ A central concept in RG analysis is that of fixed points in the space of paramet
 
 ### Applications
 
-RG techniques have found applications in a wide range of fields beyond critical phenomena, including quantum chromodynamics (QCD), the theory of turbulence, and the analysis of dynamical systems. In chemical kinetics, particularly in the study of reaction-diffusion systems and non-linear chemical dynamics, RG concepts help in understanding how macroscopic patterns and behaviors emerge from microscopic reaction mechanisms.
+RG techniques have found applications in a wide range of fields beyond critical phenomena, including [[quantum chromodynamics]] (QCD), the [[theory of turbulence]], and the [[analysis of dynamical systems]]. In [[chemical kinetics]], particularly in the study of [[reaction-diffusion systems]] and [[non-linear chemical dynamics]], RG concepts help in understanding how macroscopic patterns and behaviors emerge from microscopic reaction mechanisms.
 
 Overall, RG techniques provide a profound insight into the scale-dependent behavior of physical systems, highlighting the universal features that emerge at large scales from complex microscopic dynamics.
 
@@ -175,18 +177,18 @@ where \(\mu\) is a scale parameter that might represent momentum, energy, or som
 
 ### Fixed Points and Critical Behavior
 
-- **Fixed Points**: These are points in the parameter space where the beta functions vanish (\(\beta(g^*) = 0\)). At a fixed point, the theory looks the same at all scales (scale invariance), and the system's behavior is often governed by power laws with universal critical exponents. Fixed points play a crucial role in understanding phase transitions and critical phenomena.
+- **[[Fixed Points]]**: These are points in the parameter space where the beta functions vanish ($\beta(g^*) = 0$). At a fixed point, the theory looks the same at all scales (scale invariance), and the system's behavior is often governed by power laws with universal critical exponents. Fixed points play a crucial role in understanding phase transitions and critical phenomena.
 - **Stability of Fixed Points**: The stability of a fixed point is determined by the eigenvalues of the matrix of second derivatives of the beta functions. If perturbations away from the fixed point decrease as the scale is changed, the fixed point is said to be stable; otherwise, it is unstable.
 
 ### Applications
 
-- **Critical Phenomena**: RG analysis is pivotal in explaining why systems with very different microscopic details can exhibit similar behavior near critical points—phenomena known as universality. The RG approach explains the scaling laws observed in critical systems and allows for the calculation of critical exponents.
-- **Quantum Field Theory**: In QFT, RG equations are used to understand how the physical constants of a theory (e.g., charge, mass) change with energy. This has profound implications for high-energy physics, including the running of the strong coupling constant in QCD (asymptotic freedom) and the prediction of phase transitions in the early universe.
-- **Condensed Matter Physics**: RG techniques are applied to study phenomena like the quantum Hall effect, superconductivity, and phase transitions in magnetic systems, where understanding the scale-dependent behavior is crucial.
+- **[[Critical Phenomena]]**: RG analysis is pivotal in explaining why systems with very different microscopic details can exhibit similar behavior near critical points—phenomena known as universality. The RG approach explains the [[scaling laws]] observed in [[critical systems]] and allows for the calculation of [[critical exponents]].
+- **[[Quantum Field Theory]]**: In QFT, RG equations are used to understand how the physical constants of a theory (e.g., charge, mass) change with energy. This has profound implications for high-energy physics, including the running of the strong coupling constant in QCD ([[asymptotic freedom]]) and the prediction of [[phase transitions]] in the early universe.
+- **[[Condensed Matter Physics]]**: RG techniques are applied to study phenomena like the [[quantum Hall effect]], [[superconductivity]], and phase transitions in magnetic systems, where understanding the [[scale-dependent behavior]] is crucial.
 
 ### Calculating RG Equations
 
-In practice, calculating RG equations can involve sophisticated mathematical techniques, including perturbation theory, functional integrals, and the use of Feynman diagrams. The specific form of the RG equations and the method of calculation depend on the details of the system under study and the relevant interactions.
+In practice, calculating RG equations can involve sophisticated mathematical techniques, including [[perturbation theory]], [[functional integrals]], and the use of [[Feynman diagrams]]. The specific form of the RG equations and the method of calculation depend on the details of the system under study and the relevant interactions.
 
 The renormalization group equations, through the concept of scale dependence and the analysis of fixed points, offer a powerful and unifying framework for understanding the universal aspects of physical systems across a broad range of disciplines.
 
