@@ -1,3 +1,8 @@
+---
+tags:
+  - needs-outlinks
+---
+
 The Ricci curvature tensor is a crucial concept in differential geometry and general relativity, where it plays a key role in describing the curvature of spacetime. Formally, it is derived from the more comprehensive Riemann curvature tensor, which provides a detailed description of how spacetime is curved in various directions around a point. The Ricci tensor simplifies this information into a form that directly relates to the volume deformation of small regions of spacetime due to the presence of mass and energy.
 
 ### Definition

@@ -1,2 +1,2 @@
 see also:
-- [[The Problem of Personal Identity]]
+- [[Problem of Personal Identity]]

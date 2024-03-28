@@ -62,6 +62,7 @@ fast multipole method (FMM)
 octree
 level-of-detail (LOD)
 stephen wolfram
+dirac equation
 
 ### Biology and Ecology
 

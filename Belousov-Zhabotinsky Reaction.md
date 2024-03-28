@@ -1,4 +1,4 @@
-Reaction-diffusion models have become fundamental in understanding various dynamic phenomena across chemistry, ecology, and biology. These models describe how the concentration of one or more substances distributed in space changes under the influence of two processes: local chemical reactions that change the substances' concentration and diffusion which causes the substances to spread out over space. Here’s a closer look at the applications in the Belousov-Zhabotinsky reaction, predator-prey interactions, and biological pattern formation.
+[[Reaction-Diffusion Systems|Reaction-diffusion models]] have become fundamental in understanding various dynamic phenomena across chemistry, ecology, and biology. These models describe how the concentration of one or more substances distributed in space changes under the influence of two processes: local chemical reactions that change the substances' concentration and diffusion which causes the substances to spread out over space. Here’s a closer look at the applications in the Belousov-Zhabotinsky reaction, [[predator-prey interactions]], and biological pattern formation.
 
 ### Belousov-Zhabotinsky Reaction
 

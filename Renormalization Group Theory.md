@@ -11,6 +11,8 @@ see also:
 - [Notes on Wilson's RG views](https://indico.cern.ch/event/630393/contributions/2813297/attachments/1611354/2558774/Fraser.pdf)
 - [[Kenneth Wilson]]
 - [[Spontaneous Symmetry Breaking]]
+- [[Agglomerative Hierarchical Clustering]]
+- 
 
 
 Renormalization Group (RG) Theory is a profound and influential concept in [[theoretical physics]], particularly in the fields of [[statistical mechanics]] and [[quantum field theory]]. It provides a systematic way to study changes in a physical system as one observes it at different scales. The theory has been pivotal in understanding phenomena such as critical behavior near phase transitions, the behavior of quantum fields at high energies, and the scaling properties of various physical systems. Let's delve deeper into its principles, methodology, and implications.

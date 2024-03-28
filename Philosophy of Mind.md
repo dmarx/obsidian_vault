@@ -1,6 +1,26 @@
+---
+tags:
+  - root
+  - stub
+---
+
 see also:
 - [[Daniel Dennett]]
 - [[Patricia Churchland]]
+- [[Reductionism]]
+- [[Predictive Coding]] aka [[Predictive Processing]] 
+- [[Philosophical Zombie]]
+- [[Chinese Room]]
+- [[Unity of Self]]
+- [[Multiplicitous Self]]
+- [[Oliver Sacks]]
+- [[V. S. Ramachandran]]
+- [[Simon Baron Cohen]]
+- [[Synesthesia]]
+- [[Multi-modal Modeling]]
+- [[Representation Learning]]
+- [[Artificial Intelligence]]
+- 
 
 >To the best of your unassisted knowledge, what are some major developments in the academic philosophy of mind research space since 2007
 
@@ -22,7 +42,7 @@ Since 2007, the field of philosophy of mind has seen several important developme
 
 8. **Moral Psychology and Neuroethics:** The study of the biological basis of moral reasoning and ethical decision-making has grown, with implications for broader philosophical discussions about ethics and morality.
 
-9. **[[The Problem of Personal Identity]]:** Philosophical debates about what it is that makes a person the same through time have been influenced by new theories in psychology and neuroscience, as well as by thought experiments involving technology, such as mind uploading and brain duplication.
+9. **[[Problem of Personal Identity]]:** Philosophical debates about what it is that makes a person the same through time have been influenced by new theories in psychology and neuroscience, as well as by thought experiments involving technology, such as mind uploading and brain duplication.
 
 10. **[[Panpsychism]]:** Gaining more serious consideration, panpsychism—the idea that consciousness is a fundamental and ubiquitous aspect of the physical world—has seen a revival as a potential solution to the hard problem of consciousness.
 

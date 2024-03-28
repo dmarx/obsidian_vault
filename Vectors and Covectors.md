@@ -1,3 +1,10 @@
+---
+tags:
+  - needs-outlinks
+  - stub
+  - green
+---
+
 Vectors and covectors are fundamental concepts in linear algebra and differential geometry. Here's a basic rundown of their differences:
 
 1. **Definition**:

@@ -1,3 +1,14 @@
+---
+tags:
+  - green
+  - needs-outlinks
+---
+see also:
+- [[Signal Processing]]
+	- images in frequency domain
+	- sound in frequency domain
+	- timeseries prediction in frequency domain
+
 The Fourier Transform is a mathematical operation that transforms a function of time (or space) into a function of frequency, providing a frequency domain representation of the original time-domain function. This transformation is essential in various fields of science and engineering, especially where the analysis of frequency components is crucial, such as in signal processing, physics, electrical engineering, and quantum mechanics.
 
 ### Mathematical Definition

@@ -1,3 +1,9 @@
+---
+tags:
+  - stub
+  - needs-outlinks
+---
+
 **Amari's Alpha-Geometry**
 
 - **Expanding the Geometry of Information**

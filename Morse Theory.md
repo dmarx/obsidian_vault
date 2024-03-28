@@ -1,3 +1,9 @@
+---
+tags:
+  - needs-outlinks
+  - stub
+---
+
 **Morse Theory and Critical Points Analysis**
 
 - **Basics of Morse Theory**

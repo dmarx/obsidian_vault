@@ -21,6 +21,6 @@ In differential geometry, the concept of a Hermitian operator finds its place pr
 
 ### Hamiltonian Systems in Differential Geometry
 
-- **[[Hamiltonian Dynamics]]:** Beyond its role in mechanics, the Hamiltonian function is fundamental in the study of symplectic geometry, a branch of differential geometry. A symplectic manifold provides the natural setting for Hamiltonian mechanics, where the Hamiltonian function defines a vector field (the Hamiltonian vector field) whose integral curves describe the evolution of the system in time. This formulation is crucial for understanding the geometry of phase space, conservation laws, and symmetries.
+- **[[Hamiltonian Dynamics]]:** Beyond its role in mechanics, the Hamiltonian function is fundamental in the study of [[symplectic geometry]], a branch of differential geometry. A symplectic manifold provides the natural setting for [[Hamiltonian mechanics]], where the Hamiltonian function defines a vector field (the Hamiltonian vector field) whose integral curves describe the evolution of the system in time. This formulation is crucial for understanding the geometry of phase space, conservation laws, and symmetries.
 
 Both in statistical mechanics and differential geometry, Hermitian and Hamiltonian concepts underscore the deep interconnections between physics and mathematics. They illustrate how mathematical structures and operators can provide powerful frameworks for understanding physical laws, geometric structures, and their properties.
