@@ -3,6 +3,9 @@ tags:
   - needs-outlinks
   - green
 ---
+reference:
+- 
+
 The [[Kronecker-Factorization|Kronecker-Factored]] [[Numerical Methods|Approximate]] [[Curvature]] (K-FAC) method is an advanced optimization technique designed to efficiently approximate the natural gradient, specifically tailored for deep learning architectures. It addresses the computational challenges associated with calculating the inverse of the [[Fisher Information Matrix]] (FIM), which is central to implementing the [[Natural Gradient Descent|natural gradient method]]. The innovation of K-FAC lies in its ability to provide a tractable and efficient approximation of the FIM by exploiting the structure of [[neural networks]].
 
 ### Background: The Challenge of the Natural Gradient

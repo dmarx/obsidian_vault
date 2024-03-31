@@ -6,7 +6,7 @@ A principal bundle consists of a [[total space]] $P$, a [[base space]] $M$, a [[
 
 1. **[[Fibers]]:** For each point $x \in M$, the [[preimage]] $\pi^{-1}(x)$, called the fiber over $x$, is [[homeomorphic]] to the structure group $G$. That is, the fiber looks like $G$ but its specific structure may vary from point to point in $M$.
 
-2. **[[Group Action]]:** The group $G$ acts freely and transitively on the fibers. This means any element of $G$ can move points within a single fiber without fixing any point ([[free action]]), and any two points within a fiber can be related by a unique group element ([[transitive action]]).
+2. **[[Group Actions]]:** The group $G$ acts freely and transitively on the fibers. This means any element of $G$ can move points within a single fiber without fixing any point ([[free action]]), and any two points within a fiber can be related by a unique group element ([[transitive action]]).
 
 3. **[[Local Triviality]]:** The total space $P$ locally looks like a product of the base space $M$ and the group $G$. More precisely, for every point in $M$, there exists a [[neighborhood]] $U$ such that $\pi^{-1}(U)$ is homeomorphic to $U \times G$.
 

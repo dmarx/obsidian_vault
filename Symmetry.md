@@ -11,6 +11,7 @@ See Also:
 - [[Symmetry Breaking]]
 - [[Conservation Laws]]
 - [[Noether's Theorem]]
+- [Kunin et al - Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics](https://arxiv.org/abs/2012.04728)
 
 > The types of symmetry that a system exhibits can dictate the kinds of phase transitions it can undergo and thus its universality class.
 

@@ -6,11 +6,9 @@ tags:
 ---
 
 See also:
-- [[Symmetry]]
-- [[Conservation Laws]]
 - [[Symmetry Groups]]
 
-The relationship between conservation laws and symmetry groups is elegantly described by Noether's theorem, named after the mathematician Emmy Noether. This fundamental principle in theoretical physics establishes a direct connection between symmetries and conservation laws, specifically in the context of action-based physics, including classical mechanics, quantum mechanics, and field theory.
+The relationship between conservation laws and symmetry groups is elegantly described by Noether's theorem, named after the mathematician [[Emmy Noether]]. This fundamental principle in theoretical physics establishes a direct connection between [[Symmetry|symmetries]] and [[conservation laws]], specifically in the context of action-based physics, including classical mechanics, quantum mechanics, and field theory.
 
 ### Noether's Theorem
 

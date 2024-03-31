@@ -20,7 +20,7 @@ Alpha-divergence introduces a flexible way to measure the difference between dis
 
 - **Efficiency and Distortion:** From the perspective of Information Geometry, an efficient transport is one that minimizes some notion of information distortion—measured, for example, by [[alpha-divergence]]—between the source and target distributions. This approach transcends simple physical notions of [[distance]], incorporating considerations of how [[information]] is preserved or lost in the [[transport process]].
 
-- **Entropy-Regularized OT:** In the realm of OT, introducing [[entropy]] [[regularization]] leads to the [[Sinkhorn distance]], a computationally tractable variant of the OT distance that incorporates entropy constraints. The connection to [[Information Geometry]] comes through the interpretation of entropy regularization as a way to smooth the transport problem, making it more robust and aligning it with principles from Information Geometry, where entropy plays a central role.
+- **Entropy-Regularized OT:** In the realm of OT, introducing [[entropy]] [[regularization]] leads to the [[Sinkhorn Distances]], a computationally tractable variant of the OT distance that incorporates entropy constraints. The connection to [[Information Geometry]] comes through the interpretation of entropy regularization as a way to smooth the transport problem, making it more robust and aligning it with principles from Information Geometry, where entropy plays a central role.
 
 ### Practical Implications in Machine Learning and Statistics
 
@@ -60,4 +60,3 @@ In practical terms, this interdisciplinary framework enlightens our understandin
 ### Conclusion
 
 By viewing energy as a capacity for change through the lenses of statistical mechanics, Information Geometry, and Optimal Transport, we achieve a richer, more nuanced understanding of how systems evolve, adapt, and reach equilibrium. This perspective not only bridges theoretical concepts across physics, mathematics, and information theory but also illuminates practical strategies for managing complexity and driving change in systems ranging from molecular assemblies to artificial intelligence models.
-

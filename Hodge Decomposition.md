@@ -4,7 +4,7 @@ The central result of [[Hodge Theory]] you're referring to, often called the Hod
 
 ### Hodge Decomposition Theorem
 
-Given a compact oriented Riemannian Manifold $M$, the Hodge Decomposition Theorem states that any differential $k$-form $\omega$ on $M$ can be uniquely decomposed into three orthogonal components:
+Given a compact oriented Riemannian [[Manifolds|Manifold]] $M$, the Hodge Decomposition Theorem states that any differential $k$-form $\omega$ on $M$ can be uniquely decomposed into three [[orthogonal]] components:
 
 $$
 \omega = \alpha + \beta + \gamma

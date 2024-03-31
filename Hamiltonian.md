@@ -1,6 +1,7 @@
 ---
 tags:
   - green
+  - stub
 ---
 
 Shifting focus from [[Quantum Physics]], [[Hermitian Operators]] and Hamiltonian operators also play significant roles in statistical mechanics and differential geometry, though their applications and interpretations in these fields differ from their quantum counterparts. Let’s explore these roles in both domains.

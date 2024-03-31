@@ -2,7 +2,8 @@
 tags:
   - green
 ---
-
+see also:
+- [[_Synthesis - Noether, Identity]]
 The [[Generalized Stokes' Theorem]] plays a pivotal role in the formulation and understanding of conservation laws in physics, providing a framework that is both elegant and profound. By expressing these laws in terms of differential forms and their integrals, it ensures that the laws are independent of coordinate systems, highlighting the fundamental nature of these principles beyond the specifics of geometry. Let's explore how this theorem underpins various conservation laws and emphasizes their topological nature.
 
 ### Conservation Laws and [[Differential Forms]]
@@ -91,3 +92,51 @@ Conserved quantities that characterize system dynamics, extending beyond the rea
 - **Entropy:** Although entropy, a measure of disorder or randomness in a system, tends to increase in closed systems ([[Second Law of Thermodynamics]]), in specific non-equilibrium contexts (like dissipative structures), the system maintains a dynamic order through continuous energy flow, illustrating a balance between energy input, dissipation, and the maintenance of structured complexity.
 
 These examples demonstrate that the concept of conserved quantities—broadly interpreted to include invariants or critically maintained properties—extends far beyond the confines of physical energy. They offer a unifying theme that helps to describe, predict, and understand the stability, transitions, and evolution of complex systems across the scientific spectrum.
+
+---
+
+see also:
+- [[Invariants]]
+
+
+>> conservation of energy, conservation of linear momentum, conservation of angular momentum, conservation laws of motion, conservation of charge...
+>what are some other conservation laws that can be explained as a consequence of invariance within a symmetry, especially as associated to conservation of measurable quantities
+
+The principles of conservation laws tied to symmetries, as elucidated by Noether's Theorem, extend beyond the commonly known conservations of energy, linear momentum, angular momentum, and charge. These principles underscore the profound connection between the symmetries of physical laws and the conservation of measurable quantities. Here are additional examples of conservation laws that arise from symmetries and their corresponding invariances:
+
+### Conservation of Baryon Number
+
+- **Symmetry**: Conservation of baryon number is associated with a symmetry under phase transformations of baryonic fields in particle physics.
+- **Conserved Quantity**: The baryon number, which counts the total number of baryons (protons and neutrons are examples of baryons) minus the number of antibaryons in a system, remains conserved in particle interactions.
+  
+### Conservation of Lepton Number
+
+- **Symmetry**: Similar to baryon number conservation, lepton number conservation arises from a symmetry in the phase transformations of lepton fields.
+- **Conserved Quantity**: The lepton number, representing the total number of leptons (such as electrons and neutrinos) minus the number of antileptons, is conserved in most physical processes.
+
+### Conservation of Electric Charge
+
+- **Symmetry**: Already mentioned, but it's worth emphasizing that the conservation of electric charge is linked to the gauge invariance under U(1) gauge transformations of the electromagnetic field.
+- **Conserved Quantity**: The total electric charge remains constant in an isolated system.
+
+### Conservation of Color Charge
+
+- **Symmetry**: In quantum chromodynamics (QCD), the conservation of color charge is associated with gauge invariance under SU(3) color gauge transformations, related to the strong force.
+- **Conserved Quantity**: The color charge, a property of quarks and gluons related to the strong force, is conserved in interactions involving the strong force.
+
+### Conservation of Parity
+
+- **Symmetry**: Parity conservation, which was believed to be a universal symmetry in physics, involves the invariance of physical laws under spatial inversion (mirror reflection).
+- **Conserved Quantity**: Initially, parity was thought to be conserved in all physical processes, but later experiments with weak interactions showed parity violation, demonstrating that this "symmetry" is not conserved in weak interactions.
+
+### Conservation of Strangeness
+
+- **Symmetry**: In particle physics, the conservation of strangeness in strong and electromagnetic interactions (but not in weak interactions) arises from the approximate symmetry of these interactions to changes in the strangeness quantum number.
+- **Conserved Quantity**: Strangeness, a property of particles like kaons and hyperons, is conserved in strong and electromagnetic interactions, highlighting an approximate symmetry rather than an exact one.
+
+### Conservation of Isospin
+
+- **Symmetry**: The concept of isospin conservation arises from the invariance under rotations in isospin space, an abstract space analogous to spin in quantum mechanics, applied to particles like protons and neutrons.
+- **Conserved Quantity**: Isospin is conserved in strong nuclear interactions, reflecting the nearly identical behavior of protons and neutrons under the strong force.
+
+These examples illustrate the deep and varied ways in which symmetries and conservation laws manifest across different areas of physics. The identification of these symmetries and their associated conserved quantities has been crucial in advancing our understanding of fundamental particles and forces, leading to the development of the Standard Model of particle physics and beyond.

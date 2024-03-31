@@ -3,6 +3,7 @@ tags:
   - green
   - root
   - needs-outlinks
+  - OC
 ---
 
 >"coarse-to-fine" is a powerful paradigm in a lot of domains. as some concrete examples: 
@@ -66,3 +67,13 @@ Implementing this strategy effectively may involve:
 ### Conclusion
 
 This reverse engineering approach to modeling and analysis, anchored in the desired emergent phenomena, offers a promising pathway to tackle the complexity of multi-scale systems. It provides a coherent framework for ensuring consistency across scales and effectively bridges the gap between microscale details and macroscale behaviors. While this strategy may not be applicable in all contexts, especially where emergent phenomena are poorly understood or extremely complex, it represents a valuable paradigm in the toolkit of multi-scale modeling and analysis, particularly when the goal is to capture specific emergent properties with high fidelity.
+
+---
+
+### Misc Thoughts
+
+**coarse -> fine ==> constraint**
+development starts with specification. coarse grained starting point is a constraint the higher resolution needs to satisfy
+
+**fine -> coarse ==> characterization**
+development starts by considering the state of the system and developing decreasing resolutions of abstraction with which to characterize the system

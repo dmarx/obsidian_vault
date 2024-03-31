@@ -15,4 +15,7 @@ see also:
 - [[Causal Inference]]
 - [[Judea Pearl]]
 - [[Philosophy of Causality]]
-- 
+- [[Granger Causality]]
+- [[Transfer Entropy]]
+- [[partial conditional mutual information from mixed embedding]] - https://arxiv.org/pdf/1305.6204.pdf
+- [[Phase Synchronization]]
