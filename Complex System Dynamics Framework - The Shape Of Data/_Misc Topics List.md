@@ -63,7 +63,7 @@ octree
 level-of-detail (LOD)
 stephen wolfram
 dirac equation
-
+homophily
 ### Biology and Ecology
 
 - **Robert May:** An influential figure in theoretical ecology, May's work on the complexity and stability of ecosystems has contributed significantly to our understanding of how ecological systems self-organize and adapt.
