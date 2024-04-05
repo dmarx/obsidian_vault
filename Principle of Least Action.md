@@ -6,7 +6,7 @@ tags:
 ---
 
 see also:
-- [[Principle of Stationary Action]]
+- [[Principle of Stationary Action]] (should probably merge)
 
 Action-based physics is a framework within theoretical physics that uses the principle of least action, or more broadly, the action principle, as its foundation for describing and predicting the dynamics of physical systems. This principle is a cornerstone in modern physics and underlies much of classical mechanics, quantum mechanics, and field theory, including the general theory of relativity. Let's delve into the concept of action and how it shapes our understanding of the physical universe.
 

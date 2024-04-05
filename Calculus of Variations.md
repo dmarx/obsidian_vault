@@ -60,7 +60,7 @@ The Calculus of Variations and Functional Analysis are closely related branches 
 
 - **Optimization of Functionals**: The calculus of variations originated from problems of finding the maxima and minima of functionals, which are mappings from a space of functions to the real numbers. This involves seeking functions that optimize (either maximize or minimize) these functionals, leading to the development of techniques such as the Euler-Lagrange equation.
 
-- **Generalization to [[Functional Spaces]]**: Functional analysis extends these ideas by considering not just individual functions but entire spaces of functions (such as Banach spaces and Hilbert spaces) and studying the properties of these spaces and the operators acting on them. This includes examining the continuity, compactness, and boundedness of operators, which are crucial for understanding the behavior of functionals and the existence and uniqueness of solutions to variational problems.
+- **Generalization to [[Functional Spaces]]**: Functional analysis extends these ideas by considering not just individual functions but entire spaces of functions (such as Banach spaces and Hilbert spaces) and studying the properties of these spaces and the operators acting on them. This includes examining the continuity, [[Compactness]], and boundedness of operators, which are crucial for understanding the behavior of functionals and the existence and uniqueness of solutions to variational problems.
 
 ### Key Intersections
 

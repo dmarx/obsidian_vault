@@ -1,4 +1,12 @@
-The Euler-Lagrange equation is a fundamental equation in the calculus of variations, offering a method to find the stationary points of a functional, which often represents the action in classical mechanics. These stationary points correspond to the paths or configurations of a system for which the action is extremized (minimized or maximized), which, in physical terms, corresponds to the natural motion of the system under the given forces.
+---
+tags:
+  - needs-outlinks
+---
+see also:
+- [[Lagrangian Mechanics]]
+- [[Principle of Least Action]]
+
+The Euler-Lagrange equation is a fundamental equation in the [[calculus of variations]], offering a method to find the [[stationary points]] of a functional, which often represents the [[Action]] in classical mechanics. These stationary points correspond to the paths or configurations of a system for which the action is extremized (minimized or maximized), which, in physical terms, corresponds to the natural motion of the system under the given forces.
 
 ### Derivation of the Euler-Lagrange Equation
 
@@ -8,7 +16,7 @@ $$
 S[q] = \int_{t_1}^{t_2} L(q(t), \dot{q}(t), t) \, dt
 $$
 
-where $L$ is the Lagrangian, $q(t)$ represents the generalized coordinates describing the system's state, and $\dot{q}(t)$ is the derivative of $q(t)$ with respect to time $t$. The aim is to find the function $q(t)$ that makes $S$ stationary (i.e., a minimum, maximum, or saddle point) under small variations.
+where $L$ is the [[Lagrangian]], $q(t)$ represents the generalized coordinates describing the system's state, and $\dot{q}(t)$ is the derivative of $q(t)$ with respect to time $t$. The aim is to find the function $q(t)$ that makes $S$ stationary (i.e., a minimum, maximum, or saddle point) under small variations.
 
 To find this stationary point, we consider a small variation $\delta q(t)$ of the function $q(t)$, where $\delta q(t_1) = \delta q(t_2) = 0$ (the variations vanish at the endpoints). The variation of the action $\delta S$ due to this small change in $q(t)$ is given by:
 
@@ -28,7 +36,7 @@ $$
 
 - **[[Field Theory]]**: The Euler-Lagrange equation generalizes to fields in physics, where $q(t)$ becomes a field $\phi(x,t)$ depending on both space and time, and the integral extends over space and time. The resulting Euler-Lagrange equation for fields is used to derive the field equations governing the dynamics of fields in classical and quantum field theories.
 
-- **Optimization and Control**: Beyond physics, the Euler-Lagrange equation finds applications in optimization and control theory, where it helps in finding optimal paths or strategies subject to certain constraints or dynamics.
+- **[[Optimization]] and Control**: Beyond physics, the Euler-Lagrange equation finds applications in optimization and [[control theory]], where it helps in finding optimal paths or strategies subject to certain [[constraints]] or dynamics.
 
 ### Conclusion
 

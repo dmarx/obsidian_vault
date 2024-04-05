@@ -3,12 +3,14 @@ tags:
   - green
   - gold
 ---
+see also:
+- [[Principle of Least Action]] (should probably merge)
 
 The principle of stationary action, also known as the principle of least action, is a foundational concept in physics and the calculus of variations, serving as the bedrock for classical mechanics, optics, quantum mechanics, and quantum field theory. It posits that the path taken by a physical system between two points in its configuration space is the one for which the action is stationary—meaning it is at a local minimum, maximum, or saddle point.
 
 ### Definition of Action
 
-The [[action]], $S$, is a [[functional]], which means it takes a function (the system's path through its configuration space) as input and returns a scalar. It is defined as the [[integral]] over time of the [[Lagrangian]], $L$, of the system:
+The [[Action]], $S$, is a [[functional]], which means it takes a function (the system's path through its configuration space) as input and returns a scalar. It is defined as the [[integral]] over time of the [[Lagrangian]], $L$, of the system:
 
 $$
 S[q] = \int_{t_1}^{t_2} L(q(t), \dot{q}(t), t) \, dt

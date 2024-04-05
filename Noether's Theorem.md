@@ -76,7 +76,7 @@ Given your background and interest, delving into the technical nuances of Noethe
 
 ### Theoretical Framework
 
-Noether's theorem is situated within the framework of [[Lagrangian mechanics]], a cornerstone of classical mechanics that extends naturally into fields like quantum mechanics and general relativity. The [[action]], $S$, a [[functional]], is defined as the integral over time of the [[Lagrangian]], $L$, which itself is a function of the generalized coordinates $q_i$, their time derivatives $\dot{q}_i$, and possibly time $t$:
+Noether's theorem is situated within the framework of [[Lagrangian mechanics]], a cornerstone of classical mechanics that extends naturally into fields like quantum mechanics and general relativity. The [[Action]], $S$, a [[functional]], is defined as the integral over time of the [[Lagrangian]], $L$, which itself is a function of the generalized coordinates $q_i$, their time derivatives $\dot{q}_i$, and possibly time $t$:
 
 $$
 S[q] = \int_{t_1}^{t_2} L(q_i, \dot{q}_i, t) \, dt

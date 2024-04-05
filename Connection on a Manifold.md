@@ -6,7 +6,7 @@ Intuitively, a connection gives a rule for how to "slide" vectors along paths in
 
 ### Formal Description
 
-Mathematically, a connection on a smooth manifold $M$ is often described using a connection form in the context of [[Principal Bundles]], or more concretely, through its [[action]] on vector fields. One common approach is to define a connection as a [[covariant derivative]], denoted $\nabla$, which is a rule that takes a vector field $X$ and another vector field $Y$ and produces a new vector field $\nabla_X Y$. This derivative has to satisfy certain properties like [[linearity]] in $X$ and the [[Leibniz Rule]] in $Y$:
+Mathematically, a connection on a smooth manifold $M$ is often described using a connection form in the context of [[Principal Bundles]], or more concretely, through its [[Action]] on vector fields. One common approach is to define a connection as a [[covariant derivative]], denoted $\nabla$, which is a rule that takes a vector field $X$ and another vector field $Y$ and produces a new vector field $\nabla_X Y$. This derivative has to satisfy certain properties like [[linearity]] in $X$ and the [[Leibniz Rule]] in $Y$:
 
 1. $\nabla_{fX + gY}Z = f\nabla_X Z + g\nabla_Y Z$ for any scalar functions $f, g$ on $M$,
 2. $\nabla_X(Y + Z) = \nabla_X Y + \nabla_X Z$,
