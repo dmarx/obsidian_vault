@@ -36,4 +36,4 @@ where $\sigma(T)$ is the spectrum of $T$, $\lambda$ ranges over the spectrum, an
 
 - **[[Numerical Analysis]]:** Spectral methods in numerical analysis leverage the spectral decomposition of operators to achieve efficient and accurate solutions to differential equations, optimization problems, and other computational challenges.
 
-The spectral decomposition reveals the deep structure underlying [[linear operators]] and provides a unifying principle that connects various areas of mathematics and physics, illustrating the fundamental role of [[eigenvalues]] and [[eigenvectors]] in understanding linear transformations and their applications.
+The spectral decomposition reveals the deep structure underlying [[linear operators]] and provides a unifying principle that connects various areas of mathematics and physics, illustrating the fundamental role of [[Eigenvalues]] and [[eigenvectors]] in understanding linear transformations and their applications.

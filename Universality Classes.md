@@ -5,13 +5,13 @@ tags:
   - green
 ---
 
-"Universality classes" are a concept primarily found in the field of [[Statistical Mechanics]] and [[critical phenomena]], which deals with the behavior of systems at critical points—points at which the system undergoes a phase transition, such as the transition from liquid to gas or from a ferromagnetic to a paramagnetic state in magnets.
+"Universality classes" are a concept primarily found in the field of [[Statistical Mechanics]] and [[Critical Phenomena]], which deals with the behavior of systems at critical points—points at which the system undergoes a phase transition, such as the transition from liquid to gas or from a ferromagnetic to a paramagnetic state in magnets.
 
 At these [[Critical Points]], many physical systems display [[Scale Invariance]], meaning their behavior looks the same at any scale, and [[Critical Exponents]] describe how physical quantities diverge or go to zero. Remarkably, it's been found that vastly different systems can share the same critical exponents and scaling functions near [[Phase Transitions]]. These systems are said to belong to the same universality class.
 
 The concept of universality classes shows that the detailed microscopic properties of a system (like the type of particles or interactions) do not always determine its macroscopic behavior near critical points. Instead, only a few key features—such as [[Dimensionality]], [[Symmetry]], and the [[range of interactions]]—determine the universality class. This insight simplifies the study of critical phenomena significantly because it means that researchers can study one system and apply their findings to many other systems in the same universality class.
 
-Universality classes have profound implications for theoretical physics and beyond, including condensed matter physics, quantum field theory, and even [[non-equilibrium systems]], offering a powerful framework for understanding phase transitions and [[critical phenomena]] across a wide range of physical systems.
+Universality classes have profound implications for theoretical physics and beyond, including condensed matter physics, quantum field theory, and even [[non-equilibrium systems]], offering a powerful framework for understanding phase transitions and [[Critical Phenomena]] across a wide range of physical systems.
 
 
 > only a few key features—such as dimensionality, symmetry, and the range of interactions—determine the universality class

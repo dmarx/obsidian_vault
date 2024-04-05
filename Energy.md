@@ -26,7 +26,7 @@ In the context of thermodynamics and statistical mechanics, energy plays a pivot
 
 ### Free Energy
 
-**Free energy** concepts, such as Helmholtz free energy (A) and [[Gibbs free energy]] (G), are thermodynamic potentials that [[Measure]] the useful [[Work]] obtainable from a system at constant temperature and volume (A) or constant temperature and pressure (G), respectively. They are vital for understanding chemical reactions, phase transitions, and general systems' spontaneous behavior.
+**Free energy** concepts, such as Helmholtz free energy (A) and [[Gibbs Free Energy]] (G), are thermodynamic potentials that [[Measure]] the useful [[Work]] obtainable from a system at constant temperature and volume (A) or constant temperature and pressure (G), respectively. They are vital for understanding chemical reactions, phase transitions, and general systems' spontaneous behavior.
 
 - **[[Helmholtz Free Energy]] (A):** \( A = U - TS \), where \(U\) is the internal energy, \(T\) is the temperature, and \(S\) is the entropy. It’s useful for closed systems at constant volume.
 

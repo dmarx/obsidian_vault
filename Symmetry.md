@@ -15,7 +15,7 @@ See Also:
 
 > The types of symmetry that a system exhibits can dictate the kinds of phase transitions it can undergo and thus its universality class.
 
-The relationship between the types of symmetry a system exhibits and the kinds of phase transitions it can undergo is a fundamental aspect of understanding universality classes in [[critical phenomena]]. Symmetry and symmetry breaking play a pivotal role in determining the nature of [[Phase Transitions]] and categorizing systems into [[Universality Classes]]. Let's delve into why symmetry is so crucial:
+The relationship between the types of symmetry a system exhibits and the kinds of phase transitions it can undergo is a fundamental aspect of understanding universality classes in [[Critical Phenomena]]. Symmetry and symmetry breaking play a pivotal role in determining the nature of [[Phase Transitions]] and categorizing systems into [[Universality Classes]]. Let's delve into why symmetry is so crucial:
 
 ### Symmetry in Phase Transitions
 

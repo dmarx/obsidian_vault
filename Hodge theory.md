@@ -16,7 +16,7 @@ At the heart of Hodge theory is the study of the cohomology groups of a manifold
 
 - **[[Laplace Operator|Laplacian Operator]]**: In Hodge theory, the Laplacian operator $\Delta$ plays a crucial role. It acts on differential forms and is defined as $\Delta = d\delta + \delta d$, where $d$ is the [[exterior derivative]], and $\delta$ is its [[adjoint]]. Harmonic forms are those for which $\Delta\omega = 0$.
 
-- **[[Hodge Decomposition]]**: A central result in Hodge theory is that on a compact oriented [[Riemannian Manifold]], any $k$-form can be uniquely decomposed into an exact form, a coexact form, and a harmonic form. This decomposition reflects the structure of the manifold's cohomology.
+- **[[Hodge Decomposition]]**: A central result in Hodge theory is that on a compact oriented [[Riemannian Manifolds|Riemannian Manifold]], any $k$-form can be uniquely decomposed into an exact form, a coexact form, and a harmonic form. This decomposition reflects the structure of the manifold's cohomology.
 
 - **[[Hodge Theorem]]**: The Hodge theorem asserts that on a compact oriented Riemannian manifold, each cohomology class in the De Rham cohomology has a unique harmonic representative. This links the [[Topological Invariants]] of the manifold (its [[Cohomology Classes]]) with the geometric objects ([[Harmonic Forms]]).
 

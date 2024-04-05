@@ -4,11 +4,11 @@ see also:
 
 >i am interested in coarse-to-fine processes generally. it sounds like this topic is in the neighborhood. what are some related ideas we might discuss? applications of renormalization groups, sgd, harmonic analysis, that sort of thing
 
-Indeed, the transition from local to global understanding in differential geometry and the modeling of local-global relationships in sheaf theory align with the broader theme of coarse-to-fine processes. Coarse-to-fine strategies are employed across various domains in science and engineering to iteratively refine predictions, understandings, or models, starting from a rough or coarse approximation and progressively adding detail or resolving finer scales. This approach can be particularly effective in complex systems where direct analysis at the finest scale is computationally infeasible or unnecessary for capturing essential features. Let's explore some related ideas and their applications:
+Indeed, the transition from local to global understanding in [[differential geometry]] and the modeling of local-global relationships in [[sheaf theory]] align with the broader theme of coarse-to-fine processes. [[Coarse-to-fine]] strategies are employed across various domains in science and engineering to iteratively refine predictions, understandings, or models, starting from a rough or coarse approximation and progressively adding detail or resolving finer scales. This approach can be particularly effective in complex systems where direct analysis at the finest scale is computationally infeasible or unnecessary for capturing essential features. Let's explore some related ideas and their applications:
 
-### [[Renormalization Groups]]
+### [[Renormalization Group Theory|Renormalization Groups]]
 
-Renormalization Group (RG) techniques are a powerful framework in theoretical physics used to study systems with scale-invariant properties, particularly in the context of phase transitions and critical phenomena. RG approaches involve systematically "zooming out" of a system, analyzing how its properties change (or "renormalize") at different scales. This method allows for the understanding of macroscopic behaviors from microscopic rules, bridging the gap between different scales of observation.
+Renormalization Group (RG) techniques are a powerful framework in theoretical physics used to study systems with scale-invariant properties, particularly in the context of [[phase transitions]] and critical phenomena. RG approaches involve systematically "zooming out" of a system, analyzing how its properties change (or "renormalize") at different scales. This method allows for the understanding of macroscopic behaviors from microscopic rules, bridging the gap between different scales of observation.
 
 - **Application**: In statistical mechanics, RG techniques have been crucial in explaining the universality of phase transitions — why diverse systems exhibit similar behavior near critical points. In quantum field theory, RG has provided insights into the behavior of particles at high energies.
 
@@ -16,7 +16,7 @@ Renormalization Group (RG) techniques are a powerful framework in theoretical ph
 
 SGD is a widely used optimization algorithm in machine learning, especially for training deep neural networks. It can be viewed through a coarse-to-fine lens, where the algorithm initially makes large, coarse updates to the model parameters (when far from a minimum) and gradually makes finer adjustments as it approaches convergence.
 
-- **Application**: In deep learning, employing techniques like learning rate schedules or adaptive learning rate methods (e.g., Adam, RMSprop) enhances the coarse-to-fine behavior of SGD, starting with broad explorations of the parameter space and progressively refining the search for optimal parameters.
+- **Application**: In deep learning, employing techniques like learning rate schedules or [[adaptive learning rate methods]] (e.g., [[Adam]], [[RMSprop]]) enhances the coarse-to-fine behavior of [[SGD]], starting with broad explorations of the [[parameter space]] and [[progressively refining]] the search for optimal parameters.
 
 ### [[Harmonic Analysis]]
 
@@ -26,9 +26,9 @@ Harmonic analysis, particularly wavelet analysis, offers tools for decomposing s
 
 ### [[Multigrid Methods]]
 
-Multigrid methods provide an efficient way to solve differential equations, particularly those arising in physics and engineering. These methods work by solving the problem at multiple scales, from coarse grids (where the problem is solved cheaply but imprecisely) to finer grids (for accuracy), with solutions interpolated between scales. This approach significantly accelerates convergence compared to traditional methods.
+Multigrid methods provide an efficient way to solve [[differential equations]], particularly those arising in physics and engineering. These methods work by solving the problem at multiple scales, from coarse grids (where the problem is solved cheaply but imprecisely) to finer grids (for accuracy), with solutions interpolated between scales. This approach significantly accelerates convergence compared to traditional methods.
 
-- **Application**: In computational fluid dynamics (CFD), multigrid methods are employed to solve the Navier-Stokes equations more efficiently, enabling the simulation of fluid flows over complex geometries with varying scales.
+- **Application**: In computational fluid dynamics (CFD), multigrid methods are employed to solve the [[Navier-Stokes equations]] more efficiently, enabling the simulation of fluid flows over complex geometries with varying scales.
 
 ### Applications Beyond Physics and Engineering
 
@@ -42,19 +42,19 @@ Expanding on the theme of coarse-to-fine processes, we can delve into additional
 
 ### [[Adaptive Mesh Refinement]] (AMR)
 
-In numerical simulations, especially those involving partial differential equations (PDEs) with solutions that exhibit features at multiple scales (such as shocks or boundary layers), a uniform computational grid may be inefficient. AMR techniques address this by dynamically adjusting the grid resolution: coarser in regions where the solution is smooth and finer where the solution exhibits rapid changes. This method optimizes computational resources, focusing effort where it's most needed.
+In numerical simulations, especially those involving [[partial differential equations]] (PDEs) with solutions that exhibit features at multiple scales (such as shocks or boundary layers), a uniform computational grid may be inefficient. AMR techniques address this by dynamically adjusting the grid resolution: coarser in regions where the solution is smooth and finer where the solution exhibits rapid changes. This method optimizes computational resources, focusing effort where it's most needed.
 
 - **Application**: AMR has transformative impacts on astrophysics and cosmology simulations, where it enables the detailed modeling of phenomena ranging from galaxy formation to the behavior of supernovae, without sacrificing the ability to capture the vast scales of the universe.
 
 ### Deep Learning Architectures
 
-In deep learning, certain architectures explicitly implement a coarse-to-fine strategy. Convolutional Neural Networks (CNNs), for example, capture hierarchical features of input data, with early layers detecting simple, coarse features (edges, colors) and deeper layers integrating these into more refined, complex patterns (objects, faces).
+In [[deep learning]], certain architectures explicitly implement a coarse-to-fine strategy. [[Convolutional Neural Networks]] (CNNs), for example, capture [[hierarchical features]] of input data, with early layers detecting simple, coarse features (edges, colors) and deeper layers integrating these into more refined, complex patterns (objects, faces).
 
-- **Application**: In image and video recognition tasks, CNNs leverage coarse-to-fine feature extraction to achieve state-of-the-art performance. Similarly, in Generative Adversarial Networks (GANs), the generator often starts with a coarse representation of an image, which is progressively refined to produce photorealistic outputs.
+- **Application**: In image and video recognition tasks, CNNs leverage coarse-to-fine feature extraction to achieve state-of-the-art performance. Similarly, in [[Generative Adversarial Networks]] (GANs), the generator often starts with a coarse representation of an image, which is progressively refined to produce photorealistic outputs.
 
-### Scale Space Theory
+### [[Scale Space Theory]]
 
-Scale space theory is a framework in computer vision that represents an image at multiple scales, typically by smoothing it with a Gaussian kernel of increasing width. This creates a "scale space," where coarse-scale representations capture the broad outlines of structures in the image, and finer scales capture details. Analyzing images across scales can disambiguate complex visual patterns.
+Scale space theory is a framework in computer vision that represents an image at multiple scales, typically by smoothing it with a [[Gaussian kernel]] of increasing width. This creates a "scale space," where coarse-scale representations capture the broad outlines of structures in the image, and finer scales capture details. Analyzing images across scales can disambiguate complex visual patterns.
 
 - **Application**: Scale space theory underlies feature detection algorithms (e.g., SIFT, SURF) that are invariant to scale changes, crucial for object recognition and matching tasks in computer vision.
 

@@ -6,7 +6,7 @@ Spherical harmonics are a set of [[orthogonal]] functions defined on the surface
 
 ### [[Spectral Decomposition]] and Spherical Harmonics
 
-The link between spectral decomposition and spherical harmonics is rooted in the properties of the [[Laplace Operator]] $\Delta$ on the sphere. When considering the problem of finding solutions to Laplace's equation on a spherical surface, spherical harmonics emerge as the [[eigenfunctions]] of the [[Laplacian]] with the [[eigenvalues]] $-l(l+1)$, where $l$ is the degree of the harmonic. This eigenvalue problem can be expressed as:
+The link between spectral decomposition and spherical harmonics is rooted in the properties of the [[Laplace Operator]] $\Delta$ on the sphere. When considering the problem of finding solutions to Laplace's equation on a spherical surface, spherical harmonics emerge as the [[eigenfunctions]] of the [[Laplacian]] with the [[Eigenvalues]] $-l(l+1)$, where $l$ is the degree of the harmonic. This eigenvalue problem can be expressed as:
 
 $$\Delta Y_l^m(\theta, \phi) = -l(l+1)Y_l^m(\theta, \phi)$$
 

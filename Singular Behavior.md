@@ -7,7 +7,7 @@ tags:
 see also:
 - [[Singularities]]
 
-The term "singular behavior" in the context of [[critical phenomena]] and phase transitions refers to the dramatic changes in physical properties that occur as a system approaches a critical point. At the critical point, certain thermodynamic quantities exhibit singularities, meaning they diverge (become infinite) or go to zero in a manner that cannot be described by standard analytic functions. This singular behavior is a hallmark of continuous (second-order) phase transitions and is characterized by power laws governed by critical exponents.
+The term "singular behavior" in the context of [[Critical Phenomena]] and phase transitions refers to the dramatic changes in physical properties that occur as a system approaches a critical point. At the critical point, certain thermodynamic quantities exhibit singularities, meaning they diverge (become infinite) or go to zero in a manner that cannot be described by standard analytic functions. This singular behavior is a hallmark of continuous (second-order) phase transitions and is characterized by power laws governed by critical exponents.
 
 ### Examples of Singular Behavior
 

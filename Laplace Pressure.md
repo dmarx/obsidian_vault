@@ -5,13 +5,15 @@ tags:
 
 see also:
 - [[Soap Bubbles]]
-The Laplace pressure equation, pivotal in fluid dynamics and interface physics, describes the pressure difference across the interface of a fluid that is curved or has a surface tension. This pressure difference is crucial for understanding the behavior of small droplets, bubbles, and capillary action in narrow spaces.
+- [[Young-Laplace equation]] - uh... same thing :/
+
+The Laplace pressure equation, pivotal in fluid dynamics and [[Interface Phenomena|interface physics]], describes the pressure difference across the interface of a fluid that is curved or has a surface tension. This pressure difference is crucial for understanding the behavior of small droplets, bubbles, and capillary action in narrow spaces.
 
 ### Formula
 
 The Laplace pressure equation is given by:
 
-\[ \Delta P = \gamma \left( \frac{1}{R_1} + \frac{1}{R_2} \right) \]
+$$ \Delta P = \gamma \left( \frac{1}{R_1} + \frac{1}{R_2} \right) $$
 
 where:
 - \( \Delta P \) is the pressure difference across the fluid interface,

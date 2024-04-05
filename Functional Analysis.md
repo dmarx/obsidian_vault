@@ -15,7 +15,7 @@ Functional analysis is a branch of mathematical analysis that studies spaces of 
 
 - **[[Linear Operators]]:** Functional analysis studies linear operators between function spaces, including concepts like [[boundedness]], [[compactness]], and spectrum. The properties of these operators are fundamental in understanding the behavior of functions and solving equations.
 
-- **[[Spectral Theory]]:** This is the study of the spectrum of operators, which includes [[eigenvalues]] and [[eigenvectors]], generalizing these concepts from finite-dimensional linear algebra to infinite-dimensional spaces. Spectral theory is crucial for quantum mechanics and differential equations.
+- **[[Spectral Theory]]:** This is the study of the spectrum of operators, which includes [[Eigenvalues]] and [[eigenvectors]], generalizing these concepts from finite-dimensional linear algebra to infinite-dimensional spaces. Spectral theory is crucial for quantum mechanics and differential equations.
 
 - **Distributions:** As a part of functional analysis, the [[Theory of Distributions]] (or generalized functions) extends the concept of functions to include objects like the Dirac delta function, facilitating the rigorous mathematical treatment of point sources and singularities.
 

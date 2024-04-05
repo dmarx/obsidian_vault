@@ -47,7 +47,7 @@ where $V(\phi)$ is a potential energy function of the field, such as a mass term
 
 ### Quantum Field Theory
 
-In quantum field theory (QFT), the Lagrangian density plays a crucial role in defining the theory and its interactions. It's used to construct the [[Path Integral|path integral]] formulation of quantum mechanics and to calculate scattering amplitudes via [[perturbation theory]]. The form of $\mathcal{L}$ specifies the particles in the theory and how they interact, with each term in $\mathcal{L}$ corresponding to a different interaction or particle property.
+In quantum field theory (QFT), the Lagrangian density plays a crucial role in defining the theory and its interactions. It's used to construct the [[Path Integral|path integral]] formulation of quantum mechanics and to calculate scattering amplitudes via [[Perturbation Theory]]. The form of $\mathcal{L}$ specifies the particles in the theory and how they interact, with each term in $\mathcal{L}$ corresponding to a different interaction or particle property.
 
 - **The [[Standard Model]]**: The Lagrangian density of the Standard Model of particle physics is a highly complex and rich structure that includes terms for the electromagnetic, weak, and strong forces, as well as for the Higgs field. It combines gauge symmetries and spontaneous symmetry breaking to describe the known particles and their interactions.
 

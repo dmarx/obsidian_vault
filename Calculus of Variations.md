@@ -7,7 +7,7 @@ see also:
 - [[Functional Analysis]]
 - [[Functional Calculus]] - aka?
 
-The Calculus of Variations is a branch of mathematical [[analysis]] that deals with [[optimizing]] [[functionals]], which are mappings from a set of functions to the real numbers. Essentially, it involves finding a function that minimizes (or maximizes) a given functional, which typically represents some physical quantity to be optimized, such as distance, energy, or area. The calculus of variations is foundational in physics and engineering, where it is often used to derive equations describing the dynamics of systems and in mathematical problems involving optimization.
+The Calculus of Variations is a branch of mathematical [[analysis]] that deals with [[optimizing]] [[Functionals]], which are mappings from a set of functions to the real numbers. Essentially, it involves finding a function that minimizes (or maximizes) a given functional, which typically represents some physical quantity to be optimized, such as distance, energy, or area. The calculus of variations is foundational in physics and engineering, where it is often used to derive equations describing the dynamics of systems and in mathematical problems involving optimization.
 
 ### Fundamental Concept
 

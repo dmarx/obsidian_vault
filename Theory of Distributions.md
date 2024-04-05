@@ -12,7 +12,7 @@ The theory of distributions, also known as generalized functions, extends the co
 
 ### Basic Concepts
 
-- **Generalized Functions:** Distributions generalize the notion of functions by considering them as [[linear]] [[functionals]] acting on a space of test functions. Test functions are usually taken to be infinitely differentiable functions with compact support (they vanish outside some finite region), ensuring that distributions can act on a wide variety of functions, including those that are not [[smooth]] or [[well-behaved]] in the classical sense.
+- **Generalized Functions:** Distributions generalize the notion of functions by considering them as [[linear]] [[Functionals]] acting on a space of test functions. Test functions are usually taken to be infinitely differentiable functions with compact support (they vanish outside some finite region), ensuring that distributions can act on a wide variety of functions, including those that are not [[smooth]] or [[well-behaved]] in the classical sense.
 
 - **Dirac Delta Function:** One of the most famous examples of a distribution is the Dirac delta function $\delta(x)$, which is defined by its action on a test function $\phi(x)$ as $\langle \delta, \phi \rangle = \phi(0)$. Despite not being a function in the classical sense (since it is infinitely high at $x=0$ and zero elsewhere), the delta function is essential in physics for modeling point charges, impulses, and other localized phenomena.
 

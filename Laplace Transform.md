@@ -19,7 +19,7 @@ The Time Domain and Laplace Domain are crucial concepts in [[Control Theory]] an
 
 ### Importance in Control Theory and Signal Processing
 
-- **System Analysis**: The Laplace Transform is invaluable for analyzing [[linear time-invariant]] (LTI) systems, particularly for determining system stability through the analysis of poles (values of $s$ for which the Laplace transform approaches infinity).
+- **System Analysis**: The Laplace Transform is invaluable for analyzing [[Linear Time-Invariant Systems|linear time-invariant]] (LTI) systems, particularly for determining system stability through the analysis of poles (values of $s$ for which the Laplace transform approaches infinity).
 - **Controller Design**: In control theory, designing a controller often involves specifying desired poles and zeros in the Laplace Domain to achieve particular time-domain response characteristics, such as quick settling time or minimal overshoot.
 - **[[Signal Filtering]]**: Filters designed in the Laplace Domain can be precisely tailored to pass or attenuate signals of specific frequencies, which is essential in signal processing for noise reduction, signal separation, and more.
 

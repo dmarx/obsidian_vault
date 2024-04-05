@@ -5,7 +5,7 @@ tags:
 ---
 
 See also:
-- [[Informational Entropy]]
+- [[Information Entropy]]
 - [[Entropy Measures]]
 	- [[Sensitivity Analysis]]
 	- [[Learning Dynamics]]

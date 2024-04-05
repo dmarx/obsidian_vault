@@ -1,4 +1,4 @@
-Poisson's equation is a fundamental partial differential equation (PDE) in mathematical physics, central to fields such as electrostatics, mechanical engineering, theoretical physics, and heat transfer. Named after the French mathematician and physicist [[Siméon Denis Poisson]], it generalizes Laplace's equation to include a source term, representing the presence of a source or sink within the domain under consideration.
+Poisson's equation is a [[Fundamental Partial Differential Equations|fundamental partial differential equation]] (PDE) in mathematical physics, central to fields such as electrostatics, mechanical engineering, theoretical physics, and heat transfer. Named after the French mathematician and physicist [[Siméon Denis Poisson]], it generalizes [[Laplace's equation]] to include a source term, representing the presence of a source or sink within the domain under consideration.
 
 ### Mathematical Formulation
 
@@ -18,7 +18,7 @@ The function $f(x, y, z)$ is known and specifies the distribution and intensity 
 
 $$\Delta \Phi = -\frac{\rho}{\epsilon_0}$$
 
-where $\rho$ is the charge density, and $\epsilon_0$ is the permittivity of free space.
+where $\rho$ is the charge density, and $\epsilon_0$ is the [[permittivity]] of free space.
 
 - **[[Gravitational Fields]]:** Similar to its use in electrostatics, Poisson's equation models the gravitational potential induced by a mass distribution, with $f$ representing the mass density times the gravitational constant.
 

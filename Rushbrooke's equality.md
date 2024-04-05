@@ -4,7 +4,7 @@ tags:
   - gold
   - green
 ---
-Rushbrooke's equality is one of the fundamental scaling laws in the field of [[critical phenomena]] and [[phase transitions]], providing a relationship among the critical exponents that describe how specific physical quantities diverge or vanish near a critical point. These critical exponents characterize the behavior of the system as it approaches the critical temperature \(T_c\) from above or below.
+Rushbrooke's equality is one of the fundamental scaling laws in the field of [[Critical Phenomena]] and [[phase transitions]], providing a relationship among the critical exponents that describe how specific physical quantities diverge or vanish near a critical point. These critical exponents characterize the behavior of the system as it approaches the critical temperature \(T_c\) from above or below.
 
 The [[critical exponents]] involved in Rushbrooke's equality are:
 - \(\alpha\), which describes the divergence of the specific heat \(C\) near the critical point as \(C \sim |T - T_c|^{-\alpha}\),

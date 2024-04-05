@@ -7,7 +7,7 @@ tags:
 
 > what is meant by "frustration" in the context of modeling critical phenomena, phase transitions, dynamic systems, and complexity
 
-In the context of modeling [[critical phenomena]], [[phase transitions]], [[dynamic systems]], and complexity, "frustration" refers to a situation where a system's components face conflicting interactions that cannot all be simultaneously satisfied. This concept is particularly prevalent in the study of magnetic systems, spin glasses, and certain [[optimization]] problems. Here's a closer look at the concept and its implications across various domains:
+In the context of modeling [[Critical Phenomena]], [[phase transitions]], [[dynamic systems]], and complexity, "frustration" refers to a situation where a system's components face conflicting interactions that cannot all be simultaneously satisfied. This concept is particularly prevalent in the study of magnetic systems, spin glasses, and certain [[Optimization]] problems. Here's a closer look at the concept and its implications across various domains:
 
 ### Origins in Magnetic Systems
 

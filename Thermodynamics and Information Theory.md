@@ -4,7 +4,7 @@
   - Subsection 1.1.2: [[Energy Conservation]] and [[Energy Dissipation]]
 - Section 1.2: [[Entropy]] and Its Dual Role
   - Subsection 1.2.1: [[Thermodynamic Entropy]]
-  - Subsection 1.2.2: [[Informational Entropy]]
+  - Subsection 1.2.2: [[Information Entropy]]
 - Section 1.3: The Laws of Thermodynamics
   - Subsection 1.3.1: Overview of the Four Laws
   - Subsection 1.3.2: Applications and Implications

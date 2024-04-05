@@ -1,4 +1,4 @@
-Score matching is a technique for estimating model parameters in situations where direct likelihood [[optimization]] is challenging, often due to the intractability of the partition function in the model's probability distribution. This method, introduced by [[Aapo Hyvärinen]] in 2005, provides a way to train [[probabilistic models]], including [[Energy-Based Models]] (EBMs) and other types of generative models, by comparing the gradients of the log probabilities (scores) of the model and the data distribution, rather than comparing the probabilities directly.
+Score matching is a technique for estimating model parameters in situations where direct likelihood [[Optimization]] is challenging, often due to the intractability of the partition function in the model's probability distribution. This method, introduced by [[Aapo Hyvärinen]] in 2005, provides a way to train [[probabilistic models]], including [[Energy-Based Models]] (EBMs) and other types of generative models, by comparing the gradients of the log probabilities (scores) of the model and the data distribution, rather than comparing the probabilities directly.
 
 ### The Idea Behind Score Matching
 

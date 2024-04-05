@@ -1,3 +1,8 @@
+---
+tags:
+  - book
+---
+
 ![](profile_arcanegan-pinkfloyd.png)
 
 [[How The World Works]]

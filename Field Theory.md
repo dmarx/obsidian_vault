@@ -20,7 +20,7 @@ QFT extends classical field theory to quantum mechanics, providing a framework f
   
 - **Quantization**: Fields are quantized by promoting field quantities to operators that obey certain commutation or anticommutation relations. This process leads to the creation and annihilation operators that describe how particles and antiparticles are created and destroyed.
   
-- **Feynman Diagrams**: Interactions between particles in QFT are often represented by Feynman diagrams, which visually depict the interaction processes as described by the [[perturbation theory]]. These diagrams correspond to terms in the perturbative expansion of the scattering matrix or S-matrix.
+- **Feynman Diagrams**: Interactions between particles in QFT are often represented by Feynman diagrams, which visually depict the interaction processes as described by the [[Perturbation Theory]]. These diagrams correspond to terms in the perturbative expansion of the scattering matrix or S-matrix.
 
 - **[[Gauge Theories]]**: Many fundamental forces (e.g., electromagnetic, weak, and strong interactions) are described by gauge theories in QFT. These theories are based on the requirement that the Lagrangian is invariant under certain local transformations (gauge symmetries), leading to the introduction of gauge fields and the concept of gauge bosons as force carriers.
 

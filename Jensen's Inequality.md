@@ -18,7 +18,7 @@ $$\phi(\lambda x_1 + (1 - \lambda) x_2) \leq \lambda \phi(x_1) + (1 - \lambda) \
 
 - **[[Economics]] and Finance:** It is used to model [[risk aversion]] in economics and to evaluate the [[expected utility]] and the pricing of financial derivatives in finance.
 
-- **Machine Learning and Deep Learning:** Jensen's Inequality has implications for [[optimization]] in machine learning, particularly in the context of loss functions and [[Regularization]]. It provides insights into the behavior of complex models by understanding the relationship between the expected loss over the data distribution and the loss evaluated at the expected data.
+- **Machine Learning and Deep Learning:** Jensen's Inequality has implications for [[Optimization]] in machine learning, particularly in the context of loss functions and [[Regularization]]. It provides insights into the behavior of complex models by understanding the relationship between the expected loss over the data distribution and the loss evaluated at the expected data.
 
 ### An Intuitive Example
 

@@ -21,7 +21,7 @@ where \(R\) is the [[universal gas constant]], \(h\) is [[Planck's constant]], a
 ### Significance of \(\Delta G^\ddagger\) in Chemical Reactions
 
 - **Reaction Rate Sensitivity**: The [[reaction rate]] is exponentially sensitive to changes in \(\Delta G^\ddagger\), as demonstrated by the [[Arrhenius equation]]. This sensitivity underscores the importance of both [[enthalpic]] and [[entropic]] factors in determining [[reaction kinetics]].
-- **Role of [[Entropy]]**: For some reactions, especially those involving significant structural reorganization or changes in [[solvation]], the entropic term can dominate the [[Gibbs free energy]] of activation. This is particularly relevant in [[biochemical reactions]] where large [[macromolecules]] undergo [[conformational changes]].
+- **Role of [[Entropy]]**: For some reactions, especially those involving significant structural reorganization or changes in [[solvation]], the entropic term can dominate the [[Gibbs Free Energy]] of activation. This is particularly relevant in [[biochemical reactions]] where large [[macromolecules]] undergo [[conformational changes]].
 - **Catalysis and \(\Delta G^\ddagger\)**: [[Catalysts]] function by providing an alternative reaction pathway with a lower \(\Delta G^\ddagger\). This reduction can be achieved through stabilization of the [[transition state]] (lowering \(\Delta H^\ddagger\)) or by making the transition state formation more entropically favorable (increasing \(\Delta S^\ddagger\)).
 
 ### Applications

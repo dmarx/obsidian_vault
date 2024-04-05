@@ -1,4 +1,4 @@
-The Jacobian is a fundamental concept in mathematics, particularly in multivariable calculus, that represents the best [[linear approximation]] of a function at a given point. It plays a crucial role in various domains, including [[optimization]], [[dynamical systems]], and transformation of variables in probability and statistics.
+The Jacobian is a fundamental concept in mathematics, particularly in multivariable calculus, that represents the best [[linear approximation]] of a function at a given point. It plays a crucial role in various domains, including [[Optimization]], [[dynamical systems]], and transformation of variables in probability and statistics.
 
 ### Definition
 
@@ -16,13 +16,13 @@ Each element of $\mathbf{J}$ is a [[partial derivative]] of one of the function'
 
 ### Interpretations and Applications
 
-- **[[Linear Approximation]]**: The Jacobian matrix represents the best linear approximation to a multivariable function near a given point. This approximation is crucial in [[numerical methods]], [[optimization]], and solving [[systems of non-linear equations]].
+- **[[Linear Approximation]]**: The Jacobian matrix represents the best linear approximation to a multivariable function near a given point. This approximation is crucial in [[numerical methods]], [[Optimization]], and solving [[systems of non-linear equations]].
 
 - **[[Transformation of Variables]]**: In [[probability]] and [[statistics]], the Jacobian matrix is used when transforming variables. The determinant of the Jacobian matrix (denoted as $|\mathbf{J}|$ or $\det(\mathbf{J})$) provides a scaling factor necessary to correctly compute [[integrals]] and probabilities under the change of variables.
 
 - **Change of Volume**: The absolute value of the [[determinant]] of the Jacobian matrix, $|\det(\mathbf{J})|$, measures how the volume changes under the transformation $\mathbf{f}$. This is essential in physics and engineering when converting between different coordinate systems (e.g., Cartesian to polar coordinates) or when measuring how physical or geometric quantities transform under mappings.
 
-- **[[Dynamical Systems]]**: In the study of dynamical systems, the Jacobian matrix is used to analyze the stability of equilibrium points. The [[eigenvalues]] of the Jacobian at an equilibrium point can indicate whether perturbations will grow, diminish, or oscillate, providing insights into the system's local behavior near that point.
+- **[[Dynamical Systems]]**: In the study of dynamical systems, the Jacobian matrix is used to analyze the stability of equilibrium points. The [[Eigenvalues]] of the Jacobian at an equilibrium point can indicate whether perturbations will grow, diminish, or oscillate, providing insights into the system's local behavior near that point.
 
 ### Jacobian in [[Flow Models]] and [[Transformations]]
 
@@ -35,7 +35,7 @@ The Jacobian is a powerful tool that captures the essence of how multivariable f
 
 > The Jacobian matrix represents the best linear approximation to a multivariable function near a given point. This approximation is crucial in numerical methods, optimization, and solving systems of non-linear equations.
 
-The Jacobian matrix's role as the best linear approximation to a multivariable function near a given point is central to many areas of mathematics, physics, and engineering, particularly in [[numerical methods]], [[optimization]], and the [[analysis of nonlinear systems]]. Here’s how it functions in these contexts:
+The Jacobian matrix's role as the best linear approximation to a multivariable function near a given point is central to many areas of mathematics, physics, and engineering, particularly in [[numerical methods]], [[Optimization]], and the [[analysis of nonlinear systems]]. Here’s how it functions in these contexts:
 
 ### Numerical Methods
 

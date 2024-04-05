@@ -6,7 +6,7 @@ The theory of linear stability analysis is a fundamental mathematical tool used 
 
 2. **[[Perturbation]] and [[Linearization]]**: Small perturbations are introduced to the system's equilibrium state. The system's equations are then linearized around this equilibrium by assuming the perturbations are sufficiently small. This linearization process involves approximating the system's nonlinear functions with their first-order [[Taylor Series|Taylor expansion]] around the equilibrium.
 
-3. **[[Characteristic Equation]]**: The linearized set of equations is analyzed to derive the characteristic equation, which relates the growth rates of perturbations (often represented by [[eigenvalues]]) to the system parameters. The nature of these eigenvalues determines the stability of the equilibrium state.
+3. **[[Characteristic Equation]]**: The linearized set of equations is analyzed to derive the characteristic equation, which relates the growth rates of perturbations (often represented by [[Eigenvalues]]) to the system parameters. The nature of these eigenvalues determines the stability of the equilibrium state.
 
 ### Analysis Techniques
 

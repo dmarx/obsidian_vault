@@ -4,7 +4,7 @@ tags:
   - stub
   - 2hi4this
 ---
-Scientific knowledge comprises knowledge taken at discrete slices of the [[Renormalization Group]] over [[observable phenomena]] . These are slices because observation always has to occur....
+Scientific knowledge comprises knowledge taken at discrete slices of the [[Renormalization Group Theory|Renormalization Group]] over [[observable phenomena]] . These are slices because observation always has to occur....
 
 actually, maybe i'm wrong. 
 

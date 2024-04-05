@@ -206,7 +206,7 @@ where \(\mu\) is a scale parameter that might represent momentum, energy, or som
 
 ### Calculating RG Equations
 
-In practice, calculating RG equations can involve sophisticated mathematical techniques, including [[perturbation theory]], [[functional integrals]], and the use of [[Feynman diagrams]]. The specific form of the RG equations and the method of calculation depend on the details of the system under study and the relevant interactions.
+In practice, calculating RG equations can involve sophisticated mathematical techniques, including [[Perturbation Theory]], [[functional integrals]], and the use of [[Feynman diagrams]]. The specific form of the RG equations and the method of calculation depend on the details of the system under study and the relevant interactions.
 
 The renormalization group equations, through the concept of scale dependence and the analysis of fixed points, offer a powerful and unifying framework for understanding the universal aspects of physical systems across a broad range of disciplines.
 

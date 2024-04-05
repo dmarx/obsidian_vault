@@ -20,7 +20,7 @@ Analysis is a vast and foundational branch of mathematics that deals with contin
 - **[[Differential Equations]]:** Focuses on the study of differential equations, both ordinary (ODEs) and partial (PDEs), which involve functions and their derivatives. Analysis of differential equations involves finding solutions to equations that describe various physical phenomena, from fluid dynamics to electromagnetism and population dynamics.
 	- see also: [[Differential Forms]]
 
-- **[[Measure Theory]] and [[Integral|Integration]]:** Provides a generalized theory of integration, extending beyond simple cases to more complex functions and sets. It is the foundation for [[probability theory]], [[ergodic theory]], and the [[Lebesgue integral]], which remedies the deficiencies of the [[Riemann integral]].
+- **[[Measure Theory]] and [[Integral|Integration]]:** Provides a generalized theory of integration, extending beyond simple cases to more complex functions and sets. It is the foundation for [[probability theory]], [[Ergodic Theory]], and the [[Lebesgue integral]], which remedies the deficiencies of the [[Riemann integral]].
 
 - **Nonstandard Analysis:** A branch of analysis that uses a rigorous mathematical framework to handle infinitesimals, providing an alternative approach to the classical methods of calculus and analysis.
 
