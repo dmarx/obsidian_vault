@@ -24,7 +24,7 @@ see also:
 
 >>the concept of index influences similar ideas in Morse theory, concerning the topology of manifolds.
 
-Morse theory is a branch of [[differential topology]] that provides a powerful framework for understanding the topology of manifolds by studying smooth functions defined on them. The concept of the index plays a central role in Morse theory, similar to its significance in the study of vector fields. In the context of Morse theory, the index is associated with the critical points of a Morse function—a smooth function whose critical points are non-degenerate (the Hessian matrix at these points is invertible).
+Morse theory is a branch of [[Differential Topology]] that provides a powerful framework for understanding the topology of manifolds by studying smooth functions defined on them. The concept of the index plays a central role in Morse theory, similar to its significance in the study of vector fields. In the context of Morse theory, the index is associated with the critical points of a Morse function—a smooth function whose critical points are non-degenerate (the Hessian matrix at these points is invertible).
 
 ### Morse Functions and Critical Points
 

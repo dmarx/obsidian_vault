@@ -1,4 +1,4 @@
-The Poincaré-Hopf Index Theorem is a foundational result in [[differential topology]] that establishes a profound relationship between the topology of a manifold and the vector fields defined on it. This theorem, sometimes simply called the Index Theorem, connects the concept of the index of a vector field at its isolated zeros to the topological invariant known as the Euler characteristic of the manifold. It has been instrumental in the development of topology, geometry, and mathematical physics.
+The Poincaré-Hopf Index Theorem is a foundational result in [[Differential Topology]] that establishes a profound relationship between the topology of a manifold and the vector fields defined on it. This theorem, sometimes simply called the Index Theorem, connects the concept of the index of a vector field at its isolated zeros to the topological invariant known as the Euler characteristic of the manifold. It has been instrumental in the development of topology, geometry, and mathematical physics.
 
 ### Statement of the Theorem
 

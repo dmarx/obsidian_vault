@@ -2,7 +2,7 @@ The [[Lebesgue Measure|Lebesgue measure]] plays a foundational role in modern [[
 
 ### Definition
 
-The Lebesgue measure, denoted as $\lambda$, is a way of assigning a volume to subsets of $n$-dimensional [[Euclidean space]] $\mathbb{R}^n$. For $n=1$, it represents the length of intervals or unions of intervals; for $n=2$, it represents the area, and for $n=3$, the volume. This measure is defined for a more comprehensive set of objects than those typically measurable by simpler notions of volume.
+The Lebesgue measure, denoted as $\lambda$, is a way of assigning a volume to subsets of $n$-dimensional [[Euclidean Space]] $\mathbb{R}^n$. For $n=1$, it represents the length of intervals or unions of intervals; for $n=2$, it represents the area, and for $n=3$, the volume. This measure is defined for a more comprehensive set of objects than those typically measurable by simpler notions of volume.
 
 The formal construction of the Lebesgue measure involves several steps, starting with the concept of outer measure and then restricting this measure to a class of sets called Lebesgue measurable sets.
 

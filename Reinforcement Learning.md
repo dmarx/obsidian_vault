@@ -1,3 +1,8 @@
+---
+tags:
+  - root
+---
+
 ### Reinforcement Learning Overview
 
 In RL, an agent learns to make decisions by interacting with an environment. The agent's goal is to maximize some notion of cumulative reward over time. Two key components in this process are:

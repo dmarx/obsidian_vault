@@ -11,7 +11,7 @@ At these [[Critical Points]], many physical systems display [[Scale Invariance]]
 
 The concept of universality classes shows that the detailed microscopic properties of a system (like the type of particles or interactions) do not always determine its macroscopic behavior near critical points. Instead, only a few key features—such as [[Dimensionality]], [[Symmetry]], and the [[range of interactions]]—determine the universality class. This insight simplifies the study of critical phenomena significantly because it means that researchers can study one system and apply their findings to many other systems in the same universality class.
 
-Universality classes have profound implications for theoretical physics and beyond, including condensed matter physics, quantum field theory, and even [[non-equilibrium systems]], offering a powerful framework for understanding phase transitions and [[Critical Phenomena]] across a wide range of physical systems.
+Universality classes have profound implications for theoretical physics and beyond, including condensed matter physics, quantum field theory, and even [[Non-Equilibrium Systems]], offering a powerful framework for understanding phase transitions and [[Critical Phenomena]] across a wide range of physical systems.
 
 
 > only a few key features—such as dimensionality, symmetry, and the range of interactions—determine the universality class

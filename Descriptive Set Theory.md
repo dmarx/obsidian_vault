@@ -3,11 +3,11 @@ tags:
   - green
 ---
 
-Descriptive Set Theory is a branch of mathematical logic that deals with the study of definable sets, mainly in [[Polish Spaces]] ([[complete]] [[separable]] [[metric spaces]]) and other topological spaces. It explores the properties and structures of sets that can be described or defined in a precise manner, especially those related to topology, [[Measure Theory]], and [[Complexity Theory|complexity]]. The field intertwines with various areas of mathematics, including [[Analysis]], [[Topology]], and [[Set Theory]], offering deep insights into the nature of sets defined by specific criteria and their implications for broader mathematical concepts.
+Descriptive Set Theory is a branch of [[mathematical logic]] that deals with the study of definable sets, mainly in [[Polish Spaces]] ([[complete]] [[separable]] [[Metric Space|metric spaces]]) and other topological spaces. It explores the properties and structures of sets that can be described or defined in a precise manner, especially those related to topology, [[Measure Theory]], and [[Complexity Theory|complexity]]. The field intertwines with various areas of mathematics, including [[Analysis]], [[Topology]], and [[Set Theory]], offering deep insights into the nature of sets defined by specific criteria and their implications for broader mathematical concepts.
 
 ### Core Concepts and Developments
 
-- **[[Polish Spaces]]:** Much of descriptive set theory focuses on Polish spaces due to their well-behaved topological properties. Examples of Polish spaces include the real numbers $\mathbb{R}$ with the standard topology, the [[Cantor Space]], and the [[Baire Space]].
+- **[[Polish Spaces]]:** Much of descriptive set theory focuses on Polish spaces due to their well-behaved topological properties. Examples of Polish spaces include the real numbers $\mathbb{R}$ with the standard [[topology]], the [[Cantor Space]], and the [[Baire Space]].
 
 - **[[Borel Sets]]:** Borel sets form a hierarchy of sets that are generated from open (or closed) sets through the operations of [[countable]] union, countable intersection, and complementation. The Borel hierarchy is categorized into levels denoted by $\Sigma^0_n$ and $\Pi^0_n$ classes, based on the complexity of their definitions.
 
@@ -23,7 +23,7 @@ Descriptive Set Theory is a branch of mathematical logic that deals with the stu
 
 - **[[Topology]]:** The study of Polish spaces and their subsets has significant implications for topology, including the characterization of [[compactness]], [[connectedness]], and [[continuity]] properties of definable functions.
 
-- **[[Analysis]] [[and]] Probability:** The theory has applications in analysis, particularly in understanding the properties of functions and spaces that arise in real analysis and probability theory. This includes work on the [[regularity properties]] of functions and the structure of spaces of measures.
+- **[[Analysis]] and [[Probability Theory|Probability]]:** The theory has applications in analysis, particularly in understanding the properties of functions and spaces that arise in real analysis and probability theory. This includes work on the [[regularity properties]] of functions and the structure of spaces of measures.
 
 - **Foundations of Mathematics:** Descriptive set theory interacts with the foundations of mathematics, especially through its connections to [[logic]] and the study of models of set theory. It provides tools for understanding the limitations of [[definability]] and the implications for mathematical practice.
 

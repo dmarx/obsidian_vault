@@ -32,4 +32,4 @@ Reaction networks represent a holistic view of chemical processes, capturing the
 
 ### Conclusion
 
-Reaction networks in [[non-equilibrium systems]] present a rich framework for understanding chemical dynamics beyond the scope of isolated reactions. They offer insights into the complexity of chemical and biological systems, where the interconnectivity and kinetics of reactions drive the system's behavior. Through the analysis of reaction networks, scientists and engineers can predict system responses to changes, design efficient catalysts and reactors, and unravel the intricacies of life's molecular machinery.
+Reaction networks in [[Non-Equilibrium Systems]] present a rich framework for understanding chemical dynamics beyond the scope of isolated reactions. They offer insights into the complexity of chemical and biological systems, where the interconnectivity and kinetics of reactions drive the system's behavior. Through the analysis of reaction networks, scientists and engineers can predict system responses to changes, design efficient catalysts and reactors, and unravel the intricacies of life's molecular machinery.

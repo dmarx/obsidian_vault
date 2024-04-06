@@ -24,7 +24,7 @@ At the heart of Hodge theory is the study of the cohomology groups of a manifold
 
 - **[[Algebraic Geometry]]**: Hodge theory provides insights into the properties of algebraic varieties, complex manifolds that are zeros of polynomial equations. It relates the algebraic structure of varieties to their geometric and topological properties.
 
-- **[[Mirror Symmetry]]**: In string theory and theoretical physics, Hodge theory contributes to the understanding of mirror symmetry, a duality between pairs of [[algebraic varieties]]. It helps in studying the [[symplectic structure]] of one variety and the complex structure of its mirror.
+- **[[Mirror Symmetry]]**: In string theory and theoretical physics, Hodge theory contributes to the understanding of mirror symmetry, a duality between pairs of [[Algebraic Varieties]]. It helps in studying the [[symplectic structure]] of one variety and the complex structure of its mirror.
 
 - **[[Kähler Manifolds]]**: In the study of Kähler manifolds, a class of manifolds that are both complex and symplectic, Hodge theory helps in understanding their complex structure through the Hodge decomposition of their [[cohomology groups]].
 

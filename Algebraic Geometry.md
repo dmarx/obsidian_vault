@@ -25,7 +25,7 @@ Algebraic geometry is a branch of mathematics that bridges abstract algebra, esp
 
 ### Modern Directions
 
-- **[[Moduli Spaces]]**: Algebraic geometry investigates the moduli spaces of [[algebraic varieties]], which parametrize families of objects like curves or [[vector bundles]]. Understanding the geometry of these spaces is a central endeavor in the field.
+- **[[Moduli Spaces]]**: Algebraic geometry investigates the moduli spaces of [[Algebraic Varieties]], which parametrize families of objects like curves or [[vector bundles]]. Understanding the geometry of these spaces is a central endeavor in the field.
 - **Derived Algebraic Geometry**: An emerging area that generalizes classical algebraic geometry to include [[derived categories]], enhancing the study of complex geometric situations like [[intersection theory]] and [[singularity theory]].
 - **Homotopical Algebraic Geometry**: Explores the application of [[Homotopy Theory]] to algebraic geometry, further generalizing the concept of spaces and morphisms to capture more nuanced geometric phenomena.
 

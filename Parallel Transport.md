@@ -10,7 +10,7 @@ for all $t \in [a, b]$, where $\dot{\gamma}(t)$ is the tangent vector to the cur
 
 ### Properties and Significance
 
-- **Path Dependence:** Unlike in [[Euclidean space]], parallel transport on a curved manifold is generally path-dependent. That is, the result of transporting a vector from one point to another may depend on the path taken between the points. This path dependence is a manifestation of the manifold's curvature.
+- **Path Dependence:** Unlike in [[Euclidean Space]], parallel transport on a curved manifold is generally path-dependent. That is, the result of transporting a vector from one point to another may depend on the path taken between the points. This path dependence is a manifestation of the manifold's curvature.
 
 - **[[Geodesics]]:** Geodesics, the generalization of straight lines to curved manifolds, can be characterized as curves along which the tangent vector is parallel transported along itself. This means that if $\gamma(t)$ is a geodesic, then $\nabla_{\dot{\gamma}(t)} \dot{\gamma} = 0$.
 

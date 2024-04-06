@@ -11,7 +11,7 @@ see also:
 - [[SO(2)]]
 - [[SO(n)]]
 
-The Special Orthogonal group, denoted as $SO(n)$, plays a crucial role in mathematics and physics, embodying the concept of [[rotations]] in $n$-dimensional [[Euclidean space]]. This group is a subset of the [[orthogonal group]] $O(n)$, which consists of all linear transformations that preserve the [[Euclidean norm]]. The "special" aspect of $SO(n)$ refers to the requirement that these transformations also preserve orientation, meaning they have a determinant of +1.
+The Special Orthogonal group, denoted as $SO(n)$, plays a crucial role in mathematics and physics, embodying the concept of [[rotations]] in $n$-dimensional [[Euclidean Space]]. This group is a subset of the [[orthogonal group]] $O(n)$, which consists of all linear transformations that preserve the [[Euclidean norm]]. The "special" aspect of $SO(n)$ refers to the requirement that these transformations also preserve orientation, meaning they have a determinant of +1.
 
 ### Definition
 

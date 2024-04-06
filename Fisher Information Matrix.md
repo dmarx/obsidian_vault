@@ -118,7 +118,7 @@ The geometric interpretation of the FIM has profound implications for statistica
 
 ### [[Natural Gradient]] and [[Optimization]]
 
-In [[Optimization]], especially in the context of machine learning, the FIM contributes to defining the natural gradient, which takes into account the [[geometry]] of the [[parameter space]]. Unlike the conventional gradient, which assumes a flat [[Euclidean space]], the [[Natural Gradient]] adjusts the direction of steepest descent according to the curvature of the space defined by the FIM. This results in more efficient optimization, as each step is scaled appropriately based on how much information each parameter direction provides.
+In [[Optimization]], especially in the context of machine learning, the FIM contributes to defining the natural gradient, which takes into account the [[geometry]] of the [[parameter space]]. Unlike the conventional gradient, which assumes a flat [[Euclidean Space]], the [[Natural Gradient]] adjusts the direction of steepest descent according to the curvature of the space defined by the FIM. This results in more efficient optimization, as each step is scaled appropriately based on how much information each parameter direction provides.
 
 ### Conclusion
 
