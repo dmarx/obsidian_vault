@@ -4,7 +4,7 @@ Given your background in mathematics and statistics, I'll aim for a detailed and
 
 Quantum mechanics fundamentally diverges from classical mechanics by introducing a probabilistic interpretation of physical phenomena. The key mathematical framework used to describe these probabilities is the theory of Hilbert spaces and operators.
 
-### [[Hilbert Spaces]]
+### [[Hilbert Space]]
 
 In quantum mechanics, the state of a physical system is described by a vector (state vector) in a complex Hilbert space. A Hilbert space is a complete vector space equipped with an inner product that allows measuring angles and lengths. The state vector \(|\psi\rangle\) (often called a "quantum state") encapsulates all the information about the system. The probabilities of various physical outcomes are derived from the properties of these vectors.
 

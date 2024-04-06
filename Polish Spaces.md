@@ -1,4 +1,7 @@
-Polish spaces are a fundamental concept in [[topology]], descriptive set theory, and various fields of mathematical analysis. Named after the Polish mathematician [[Kazimierz Kuratowski]], a Polish space is defined as a separable, completely metrizable topological space. This means that a Polish space is a topological space for which there exists a [[Measure|metric]] that induces the topology of the space, every [[Cauchy Sequence]] in the space converges to a limit within the space, and the space contains a [[countable]], [[dense]] subset.
+see also:
+- [[Completeness]]
+
+Polish spaces are a fundamental concept in [[topology]], descriptive set theory, and various fields of mathematical analysis. Named after the Polish mathematician [[Kazimierz Kuratowski]], a Polish space is defined as a separable, completely metrizable topological space. This means that a Polish space is a topological space for which there exists a [[Measure|metric]] that induces the [[Topology On A Set|topology]] of the space, every [[Cauchy Sequence]] in the space converges to a limit within the space, and the space contains a [[countable]], [[dense]] subset.
 
 ### Key Properties
 

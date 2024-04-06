@@ -8,7 +8,7 @@ On a compact oriented [[Riemannian Manifolds|Riemannian Manifold]], the Hodge Th
 
 ### Key Components
 
-- **[[Harmonic Forms]]**: A [[Differential Forms]] $\omega$ is harmonic if it satisfies the Laplace equation, $\Delta \omega = 0$, where $\Delta = d\delta + \delta d$ is the [[Laplacian operator]], with $d$ being the exterior derivative and $\delta$ its adjoint. Harmonic forms are critical because they are at equilibrium; they don't "flow" or "diffuse" any further under the Laplacian operation.
+- **[[Harmonic Forms]]**: A [[Differential Forms]] $\omega$ is harmonic if it satisfies the Laplace equation, $\Delta \omega = 0$, where $\Delta = d\delta + \delta d$ is the [[Laplace Operator|Laplacian operator]], with $d$ being the exterior derivative and $\delta$ its adjoint. Harmonic forms are critical because they are at equilibrium; they don't "flow" or "diffuse" any further under the Laplacian operation.
 
 - **[[De Rham Cohomology]]**: This is a cohomology theory that uses differential forms to probe the topological structure of manifolds. The $k$-th De Rham cohomology group, denoted $H^k_{\text{dR}}(M)$, classifies closed $k$-forms (those for which $d\omega = 0$) modulo the exact $k$-forms (those for which $\omega = d\eta$ for some $(k-1)$-form $\eta$).
 
@@ -18,7 +18,7 @@ On a compact oriented [[Riemannian Manifolds|Riemannian Manifold]], the Hodge Th
 
 - **Uniqueness and Existence**: The theorem not only asserts the existence of harmonic representatives for each cohomology class but also their uniqueness. This property is crucial for the analysis of the manifold's structure and the comparison of different manifolds.
 
-- **[[Topological Invariants]]**: Since the dimension of the space of harmonic $k$-forms is equal to the $k$-th [[Betti Number]], the Hodge Theorem directly links the manifold's [[Riemannian Geometry]] with these topological invariants, providing insights into how the shape of the manifold influences its topology.
+- **[[Topological Invariants]]**: Since the dimension of the space of harmonic $k$-forms is equal to the $k$-th [[Betti Number]], the Hodge Theorem directly links the manifold's [[Riemannian Geometry]] with these topological invariants, providing insights into how the shape of the manifold influences its [[Topology On A Set|topology]].
 
 ### Applications
 

@@ -4,7 +4,7 @@ tags:
   - green
 ---
 
-A **Hilbert space** is a key concept in functional analysis, a branch of mathematics that studies vector spaces equipped with a complete [[Inner Product]]. A Hilbert space combines the geometric intuition from Euclidean spaces with the infinite-dimensional setting of function spaces, making it a powerful framework for solving problems across various fields, including quantum mechanics, [[Differential Forms|differential equations]], and [[Signal Processing]].
+A **Hilbert space** is a key concept in [[functional analysis]], a branch of mathematics that studies vector spaces equipped with a complete [[Inner Product]]. A Hilbert space combines the geometric intuition from Euclidean spaces with the infinite-dimensional setting of function spaces, making it a powerful framework for solving problems across various fields, including quantum mechanics, [[Differential Forms|differential equations]], and [[Signal Processing]].
 
 ### Definition
 
@@ -12,7 +12,7 @@ A Hilbert space is a [[Normed Vector Spaces|normed vector space]] that is comple
 
 1. **Conjugate Symmetry:** $(x, y) = \overline{(y, x)}$ for all $x, y \in H$.
 2. **[[Linearity]] in the first argument:** $(ax + by, z) = a(x, z) + b(y, z)$ for all $x, y, z \in H$ and scalars $a, b$.
-3. **[[Positive Definiteness]]:** $(x, x) \geq 0$ with equality if and only if $x = 0$.
+3. **[[Space of Positive Definite Matrices|Positive Definiteness]]:** $(x, x) \geq 0$ with equality if and only if $x = 0$.
 
 The norm $\|x\|$ in a Hilbert space is derived from the [[Inner Product]]: $\|x\| = \sqrt{(x, x)}$.
 
@@ -20,7 +20,7 @@ The norm $\|x\|$ in a Hilbert space is derived from the [[Inner Product]]: $\|x\
 
 - **[[Euclidean Space]] $\mathbb{R}^n$ or $\mathbb{C}^n$** with the standard inner product $(x, y) = \sum_{i=1}^n x_i \overline{y_i}$ is a finite-dimensional Hilbert space.
 
-- **Function spaces** like $L^2([a, b])$, the space of square-integrable functions on the interval $[a, b]$. The inner product is defined as $(f, g) = \int_a^b f(x) \overline{g(x)} \, dx$.
+- **[[Function spaces]]** like $L^2([a, b])$, the space of square-integrable functions on the interval $[a, b]$. The inner product is defined as $(f, g) = \int_a^b f(x) \overline{g(x)} \, dx$.
 
 ### Properties
 
@@ -32,7 +32,7 @@ The norm $\|x\|$ in a Hilbert space is derived from the [[Inner Product]]: $\|x\
 
 ### Applications
 
-Hilbert spaces are instrumental in the formulation of quantum mechanics, where the state of a system is represented by a vector in a Hilbert space, and observables are represented by [[operators]] on these spaces. They are also fundamental in solving [[Partial Differential Equations]] through the method of [[Fourier series]] and [[eigenvalue problems]], as well as in signal processing and in the mathematical underpinnings of machine learning algorithms like [[Kernel Methods]].
+Hilbert spaces are instrumental in the formulation of quantum mechanics, where the state of a system is represented by a vector in a Hilbert space, and observables are represented by [[operators]] on these spaces. They are also fundamental in solving [[Partial Differential Equations]] through the method of [[Fourier series]] and [[Eigenvalues|eigenvalue]] problems, as well as in signal processing and in the mathematical underpinnings of machine learning algorithms like [[Kernel|Kernel Methods]].
 
 ### Conclusion
 
@@ -59,7 +59,7 @@ The interplay between Hilbert spaces and differential geometry is particularly r
 
 1. **Optimization on Manifolds:** Deep learning involves optimizing a loss function over the parameters of a neural network. Viewing the parameter space as a manifold in a Hilbert space allows for the application of optimization techniques that respect the geometric structure of this space, potentially improving convergence properties and offering insights into the nature of local minima.
 
-2. **[[Kernel Methods]]:** Kernel methods can be understood within the framework of Hilbert spaces, where they implicitly map input data into a high-dimensional (often infinite-dimensional) space. Understanding these spaces can aid in designing or choosing kernels that capture the semantics of the data more effectively, enhancing the learning of meaningful latent representations.
+2. **[[Kernel|Kernel Methods]]:** Kernel methods can be understood within the framework of Hilbert spaces, where they implicitly map input data into a high-dimensional (often infinite-dimensional) space. Understanding these spaces can aid in designing or choosing kernels that capture the semantics of the data more effectively, enhancing the learning of meaningful latent representations.
 
 3. **Understanding [[Learning Dynamics]]:** The geometry of the latent space impacts the learning dynamics. For instance, the curvature of the manifold formed by latent representations influences the behavior of gradient descent algorithms. By studying these spaces as Hilbert spaces, one can employ tools from Riemannian geometry to analyze and possibly predict learning behavior, such as convergence rates and the effect of hyperparameters.
 

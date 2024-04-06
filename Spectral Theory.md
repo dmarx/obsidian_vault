@@ -17,7 +17,7 @@ Spectral theory is a fundamental branch of mathematics that studies the spectrum
 
 - **[[Functional Calculus]]:** Spectral theory allows the extension of functions defined on numbers to functions of operators. For instance, if $f$ is a function and $A$ is an operator, one can define a new operator $f(A)$ in a manner that generalizes the polynomial calculus.
 
-- **Self-Adjoint and [[Normal Operators]]:** In [[Hilbert spaces]], operators that are equal to their [[adjoint]] (self-adjoint) or that commute with their adjoint (normal) have particularly well-understood spectral properties. For example, [[self-adjoint operators]] have real spectra, and their [[eigenvectors]] corresponding to different eigenvalues are [[orthogonal]].
+- **Self-Adjoint and [[Normal Operators]]:** In [[Hilbert Space]], operators that are equal to their [[adjoint]] (self-adjoint) or that commute with their adjoint (normal) have particularly well-understood spectral properties. For example, [[self-adjoint operators]] have real spectra, and their [[eigenvectors]] corresponding to different eigenvalues are [[orthogonal]].
 
 ### Applications
 

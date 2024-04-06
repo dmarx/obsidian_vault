@@ -24,25 +24,25 @@ A **topological space** $(X, \tau)$ is defined by a set $X$ and a topology $\tau
 
 Topological spaces generalize the notion of "closeness" without necessarily defining a distance, making it a cornerstone concept in topology.
 
-### [[Vector Spaces]]
+### [[Vector Space]]
 
-A **vector space** (or **linear space**) over a field $F$ is a set $V$ along with two operations (vector addition and scalar multiplication) that satisfy eight axioms (e.g., associativity, distributivity, identity elements). These spaces are central to linear algebra and are the setting for studying vectors, linear transformations, and matrices.
+A **[[Vectors and Covectors|vector]] space** (or **linear space**) over a field $F$ is a set $V$ along with two operations (vector addition and scalar multiplication) that satisfy eight axioms (e.g., associativity, distributivity, identity elements). These spaces are central to linear algebra and are the setting for studying vectors, linear transformations, and matrices.
 
-### [[Hilbert Spaces]]
+### [[Hilbert Space]]
 
-A **Hilbert space** is a complete [[inner product space]], meaning it is a vector space equipped with an [[inner product]] that allows for the measurement of angles and lengths, and it is complete in the sense that every Cauchy sequence in the space converges to a point in the space. Hilbert spaces are essential in functional analysis and quantum mechanics.
+A **Hilbert space** is a complete inner product space, meaning it is a vector space equipped with an inner product that allows for the measurement of angles and lengths, and it is complete in the sense that every Cauchy sequence in the space converges to a point in the space. Hilbert spaces are essential in functional analysis and quantum mechanics.
 
-### [[Banach Spaces]]
+### [[Banach Space]]
 
-A **Banach space** is a complete normed vector space, where completeness refers to the property that every [[Cauchy sequence]] in the space converges within the space. The [[norm]] induces a metric, which turns every Banach space into a metric space. Banach spaces are fundamental in [[functional analysis]].
+A **Banach space** is a complete normed vector space, where completeness refers to the property that every Cauchy sequence in the space converges within the space. The norm induces a metric, which turns every Banach space into a metric space. Banach spaces are fundamental in [[functional analysis]].
 
 ### [[Manifolds]]
 
 A **manifold** is a topological space that resembles [[Euclidean space]] near each point. Formally, each point in an $n$-dimensional manifold has a neighborhood that is [[Homeomorphism|homeomorphic]] to the Euclidean space $\mathbb{R}^n$. Manifolds serve as the setting for [[differential geometry]] and are used to study complex shapes and spaces that locally resemble flat space.
 
-### [[Measure Spaces]]
+### [[Measure|Measure Spaces]]
 
-A **measure space** $(X, \mathcal{F}, \mu)$ consists of a set $X$, a sigma-algebra $\mathcal{F}$ of subsets of $X$, and a measure $\mu$ that assigns a non-negative real number to each set in $\mathcal{F}$ in a way that generalizes the concept of length, area, and volume. Measure spaces are crucial in measure theory and probability theory.
+A **measure space** $(X, \mathcal{F}, \mu)$ consists of a set $X$, a [[sigma-algebra]] $\mathcal{F}$ of subsets of $X$, and a measure $\mu$ that assigns a non-negative real number to each set in $\mathcal{F}$ in a way that generalizes the concept of length, area, and volume. Measure spaces are crucial in measure theory and probability theory.
 
 ### Conclusion
 

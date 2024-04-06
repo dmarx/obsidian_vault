@@ -7,11 +7,11 @@ Functional analysis is a branch of mathematical analysis that studies spaces of 
 
 ### Key Concepts and Tools
 
-- **[[Normed Vector Spaces]]:** These are [[vector spaces]] equipped with a norm, which provides a notion of distance and size for vectors (functions in this context). Examples include $L^p$ spaces, which consist of functions whose $p$-th power is integrable, and [[Sobolev spaces]], which include functions along with their derivatives, both meeting certain integrability conditions.
+- **[[Normed Vector Spaces]]:** These are [[Vector Space|vector spaces]] equipped with a norm, which provides a notion of distance and size for vectors (functions in this context). Examples include [[L-p Spaces|$L^p$ spaces]], which consist of functions whose $p$-th power is integrable, and [[Sobolev spaces]], which include functions along with their derivatives, both meeting certain integrability conditions.
 
-- **[[Banach Spaces]]:** A Banach space is a complete normed vector space, meaning that every [[Cauchy sequence]] in the space converges within the space. Completeness is crucial for ensuring that limits of sequences of functions behave well, making Banach spaces a central object of study in functional analysis.
+- **[[Banach Space]]:** A Banach space is a complete normed vector space, meaning that every [[Cauchy Sequence]] in the space converges within the space. Completeness is crucial for ensuring that limits of sequences of functions behave well, making Banach spaces a central object of study in functional analysis.
 
-- **[[Hilbert Spaces]]:** These are [[complete]] [[inner product spaces]], where the [[inner product]] induces a [[norm]]. Hilbert spaces generalize the concept of Euclidean space to infinite dimensions and are essential in the study of Fourier series, quantum mechanics, and ergodic theory. They are characterized by their geometric structure, allowing for the definition of angles and orthogonality.
+- **[[Hilbert Space]]:** These are [[Completeness|complete]] [[inner product spaces]], where the [[inner product]] induces a norm. Hilbert spaces generalize the concept of [[Euclidean space]] to infinite dimensions and are essential in the study of [[Fourier series]], quantum mechanics, and ergodic theory. They are characterized by their geometric structure, allowing for the definition of angles and orthogonality.
 
 - **[[Linear Operators]]:** Functional analysis studies linear operators between function spaces, including concepts like [[boundedness]], [[compactness]], and spectrum. The properties of these operators are fundamental in understanding the behavior of functions and solving equations.
 

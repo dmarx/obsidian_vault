@@ -3,8 +3,8 @@ tags:
   - green
 ---
 see also:
-- [[Banach Spaces]]
-The **inner product** is a fundamental operation in the context of vector spaces, especially [[Hilbert Spaces]], that provides a way to [[Measure]] angles and lengths, thereby generalizing the dot product known from [[Euclidean Geometry]].
+- [[Banach Space]]
+The **inner product** is a fundamental operation in the context of vector spaces, especially [[Hilbert Space]], that provides a way to [[Measure]] angles and lengths, thereby generalizing the dot product known from [[Euclidean Geometry]].
 
 ### **Definition:** 
 

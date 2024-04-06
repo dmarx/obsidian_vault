@@ -9,7 +9,7 @@ $L^p$ spaces are a fundamental concept in functional analysis, a branch of mathe
 
 ### Definition of $L^p$ Spaces
 
-For a given [[measure space]] $(X, \mathcal{F}, \mu)$, where $X$ is a set, $\mathcal{F}$ is a $\sigma$-algebra of subsets of $X$, and $\mu$ is a measure on $\mathcal{F}$, the $L^p$ space, denoted as $L^p(X, \mathcal{F}, \mu)$ or simply $L^p(X)$ when the context is clear, is defined for $1 \leq p < \infty$ as the set of all [[equivalence classes]] of [[measurable functions]] $f: X \to \mathbb{R}$ (or $\mathbb{C}$) for which the $p^\text{th}$ power of the absolute value is [[integrable]]. In other words, a function $f$ belongs to $L^p(X)$ if:
+For a given [[Measure|measure space]] $(X, \mathcal{F}, \mu)$, where $X$ is a set, $\mathcal{F}$ is a $\sigma$-algebra of subsets of $X$, and $\mu$ is a measure on $\mathcal{F}$, the $L^p$ space, denoted as $L^p(X, \mathcal{F}, \mu)$ or simply $L^p(X)$ when the context is clear, is defined for $1 \leq p < \infty$ as the set of all [[equivalence classes]] of [[measurable functions]] $f: X \to \mathbb{R}$ (or $\mathbb{C}$) for which the $p^\text{th}$ power of the absolute value is [[Integral|integrable]]. In other words, a function $f$ belongs to $L^p(X)$ if:
 
 $$
 \|f\|_p = \left( \int_X |f(x)|^p \, d\mu(x) \right)^{1/p} < \infty
@@ -24,8 +24,8 @@ $$
 ### Properties and Importance
 
 - **[[Normed Vector Spaces]]**: Each $L^p$ space is equipped with a norm, $\|\cdot\|_p$, making them normed vector spaces. This allows for the application of linear algebraic and geometric methods to study functions.
-- **Completeness**: $L^p$ spaces are complete, meaning they are Banach spaces for $1 \leq p \leq \infty$. This completeness property ensures that every [[Cauchy sequence]] of functions in $L^p$ converges to a function in the same space, which is crucial for analysis.
-- **Holder and Minkowski Inequalities**: These inequalities are key tools in $L^p$ spaces. The [[Hölder inequality]] is essential for defining the dual space of $L^p$, while the [[Minkowski inequality]] generalizes the triangle inequality, ensuring $L^p$ spaces are metric spaces under their norms.
+- **Completeness**: $L^p$ spaces are complete, meaning they are Banach spaces for $1 \leq p \leq \infty$. This completeness property ensures that every [[Cauchy Sequence]] of functions in $L^p$ converges to a function in the same space, which is crucial for analysis.
+- **Holder and Minkowski Inequalities**: These inequalities are key tools in $L^p$ spaces. The [[Holder Inequality|Hölder inequality]] is essential for defining the dual space of $L^p$, while the [[Minkowski inequality]] generalizes the triangle inequality, ensuring $L^p$ spaces are metric spaces under their norms.
 - **Interplay with Other Spaces**: $L^2$ spaces are Hilbert spaces, possessing an inner product from which their norm is derived. This makes $L^2$ spaces particularly important in quantum mechanics, [[signal processing]], and in solving [[partial differential equations]] using [[Fourier analysis]].
 
 ### Applications

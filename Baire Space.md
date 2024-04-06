@@ -11,7 +11,7 @@ Formally, the Baire space $\mathcal{N}$ is defined as the set of all infinite se
 
 The Baire space is endowed with a topology that makes it a perfect example of a completely metrizable topological space. The basic open sets in this topology are defined by finite sequences of natural numbers. Specifically, for a finite sequence of natural numbers $(a_1, a_2, \ldots, a_k)$, the corresponding basic open set is the set of all infinite sequences that start with this finite sequence. This [[generates a topology]] through the basis of these [[open sets]], leading to several critical properties:
 
-- **[[Complete Metric Space]]**: The Baire space is complete under the metric $d(x,y) = 2^{-k}$, where $k$ is the first index at which the sequences $x$ and $y$ differ. This [[metric induces the topology]] described above and ensures that every [[Cauchy sequence]] in the Baire space converges to a point within the space.
+- **[[Complete Metric Space]]**: The Baire space is complete under the metric $d(x,y) = 2^{-k}$, where $k$ is the first index at which the sequences $x$ and $y$ differ. This [[metric induces the topology]] described above and ensures that every [[Cauchy Sequence]] in the Baire space converges to a point within the space.
 - **Non-[[Compactness]]**: Despite being complete, the Baire space is not compact. However, it is locally compact, meaning that every point has a neighborhood that is compact within the space.
 - **[[Perfect Space]]**: It has no isolated points, meaning that each point is a limit point of other points. This property is significant in both topology and the study of dynamical systems.
 

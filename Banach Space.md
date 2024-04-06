@@ -7,18 +7,18 @@ Banach spaces, named after the Polish mathematician Stefan Banach, are one of th
 
 ### Definition
 
-A Banach space is a complete normed vector space. This means that it is a vector space $V$ over the field of real or complex numbers, equipped with a norm $\|\cdot\|$, and every Cauchy sequence in $V$ converges to an element in $V$. Completeness here refers to the idea that there are no "holes" or "gaps" in the space—every sequence of vectors that should converge based on its norm actually does converge to a limit within the space.
+A Banach space is a [[complete normed vector space]]. This means that it is a vector space $V$ over the field of real or complex numbers, equipped with a norm $\|\cdot\|$, and every [[Cauchy Sequence]] in $V$ converges to an element in $V$. Completeness here refers to the idea that there are no "holes" or "gaps" in the space—every sequence of vectors that should converge based on its norm actually does converge to a limit within the space.
 
 ### Norm and Completeness
 
-- **Norm**: A norm on a vector space $V$ is a function $\|\cdot\|: V \rightarrow \mathbb{R}$ that assigns a non-negative length or size to each vector in $V$, satisfying certain axioms (non-negativity, absolute scalability, triangle inequality, and the zero vector having zero norm).
-- **Completeness**: A space is complete if every Cauchy sequence (a sequence where the vectors get arbitrarily close to each other as the sequence progresses) in the space converges to a limit that is also within the space.
+- **[[Normed Vector Space|Norm]]**: A norm on a vector space $V$ is a function $\|\cdot\|: V \rightarrow \mathbb{R}$ that assigns a non-negative length or size to each vector in $V$, satisfying certain axioms (non-negativity, absolute scalability, triangle inequality, and the zero vector having zero norm).
+- **[[Completeness]]**: A space is complete if every Cauchy sequence (a sequence where the vectors get arbitrarily close to each other as the sequence progresses) in the space converges to a limit that is also within the space.
 
 ### Examples
 
-- **Euclidean Spaces**: $\mathbb{R}^n$ and $\mathbb{C}^n$ with the standard Euclidean norm are simple examples of Banach spaces.
-- **Sequence Spaces**: The spaces $\ell^p$ (for $1 \leq p \leq \infty$), consisting of all sequences whose $p$-th power sum (or supremum, for $p=\infty$) is finite, are Banach spaces under the $p$-norm.
-- **Function Spaces**: Spaces like $L^p(\Omega)$, consisting of Lebesgue integrable functions over a domain $\Omega$ whose $p$-th power integral is finite, are Banach spaces under the $L^p$ norm.
+- **[[Euclidean Space|Euclidean Spaces]]**: $\mathbb{R}^n$ and $\mathbb{C}^n$ with the standard Euclidean norm are simple examples of Banach spaces.
+- **[[Sequence Spaces]]**: The spaces $\ell^p$ (for $1 \leq p \leq \infty$), consisting of all sequences whose $p$-th power sum (or supremum, for $p=\infty$) is finite, are Banach spaces under the $p$-norm.
+- **[[Function Spaces]]**: Spaces like $L^p(\Omega)$, consisting of [[Lebesgue Integral|Lebesgue integrable]] functions over a domain $\Omega$ whose $p$-th power integral is finite, are Banach spaces under the [[L-p Spaces|$L^p$ norm]].
 
 ### Properties and Significance
 

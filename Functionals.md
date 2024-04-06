@@ -26,7 +26,7 @@ In quantum mechanics, particularly in the [[path integral]] formulation, the [[p
 
 ### Functional Analysis
 
-Functional analysis is a branch of mathematical analysis that studies functionals and the spaces of functions on which they act, such as [[Banach spaces]] and [[Hilbert spaces]]. This field is fundamental to modern mathematical physics, [[partial differential equations]], and [[numerical analysis]].
+Functional analysis is a branch of mathematical analysis that studies functionals and the spaces of functions on which they act, such as [[Banach Space]] and [[Hilbert Space]]. This field is fundamental to modern mathematical physics, [[partial differential equations]], and [[numerical analysis]].
 
 ### Applications
 

@@ -5,7 +5,7 @@ tags:
   - needs-outlinks
   - stub
 ---
-> [[hilbert spaces]] are [[Normed Vector Spaces]] equipped with an inner product. if a kernel is a generalization of an [[inner product]], what is the more general class of spaces that are equipped with kernels which the hilbert space would be a member of
+> [[Hilbert Space]] are [[Normed Vector Spaces]] equipped with an inner product. if a kernel is a generalization of an [[inner product]], what is the more general class of spaces that are equipped with kernels which the hilbert space would be a member of
 
 The concept you're referring to hinges on the generalization of inner product spaces via the introduction of a [[kernel]] function. A kernel, in the context of functional analysis and machine learning, is a function that enables the computation of the inner product in an implicitly defined feature space without having to compute the coordinates of the data in that space directly. This concept leads to the framework of **Reproducing Kernel Hilbert Spaces (RKHS)**, which are indeed a more general class of spaces equipped with kernels. However, to clarify, while RKHS are Hilbert spaces associated with a specific kernel function, the kernel concept itself does not necessarily generalize Hilbert spaces but rather extends the utility and application of inner products in these spaces.
 
@@ -28,6 +28,6 @@ In a broader context, when discussing spaces equipped with kernels, one might al
 While Hilbert spaces and RKHS are intimately connected through the concept of kernels, the question of more general classes of spaces equipped with kernels touches on several areas:
 
 - **Function Spaces with Kernel Functions**: Beyond RKHS, various function spaces might be considered in relation to kernels, especially in the context of integral operators and their eigenfunctions. However, RKHS uniquely combines the properties of kernels with the completeness and inner product structure of Hilbert spaces.
-- **[[Banach Spaces]]**: In a different direction, one might also explore Banach spaces, which are complete normed vector spaces not necessarily equipped with an inner product. Certain subspaces of Banach spaces or related constructs might utilize kernels in the analysis of functions or operators, although they lack the direct association with a kernel function that characterizes RKHS.
+- **[[Banach Space]]**: In a different direction, one might also explore Banach spaces, which are complete normed vector spaces not necessarily equipped with an inner product. Certain subspaces of Banach spaces or related constructs might utilize kernels in the analysis of functions or operators, although they lack the direct association with a kernel function that characterizes RKHS.
 
 In summary, RKHS represents a specific and profound integration of the kernel concept with the structure of Hilbert spaces, providing a powerful framework for analyzing and processing functions. While kernels can be used in various mathematical and computational contexts, the unique properties of RKHS highlight the special relationship between kernels and Hilbert spaces, making RKHS a central concept in applications requiring the generalization and extension of inner products.

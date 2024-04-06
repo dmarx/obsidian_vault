@@ -1,6 +1,6 @@
 see also:
 - [[Functional Analysis]]
 - [[Function Spaces]]
-- [[Banach spaces]]
-- [[Hilbert spaces]]
-- 
+- [[Banach Space]]
+- [[Hilbert Space]]
+- [[Mathematical Spaces]]

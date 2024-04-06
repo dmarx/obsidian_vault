@@ -12,7 +12,7 @@ Sequence spaces are fundamental structures in mathematics, particularly within t
 
 Several sequence spaces are central to various areas of mathematics and its applications:
 
-- **$\ell^p$ Spaces**: For $1 \leq p < \infty$, the $\ell^p$ space consists of all infinite sequences of real or complex numbers $(a_n)$ such that the series $\sum_{n=1}^{\infty} |a_n|^p$ converges. The $\ell^p$ norm is defined as $\|a\|_p = \left( \sum_{n=1}^{\infty} |a_n|^p \right)^{1/p}$. For $p=2$, the space becomes a [[Hilbert space]] with the inner product inducing the norm, while for $p \neq 2$, $\ell^p$ spaces are examples of [[Banach Spaces]] but not [[Hilbert spaces]].
+- **[[L-p Spaces|$\ell^p$ Spaces]]**: For $1 \leq p < \infty$, the $\ell^p$ space consists of all infinite sequences of real or complex numbers $(a_n)$ such that the series $\sum_{n=1}^{\infty} |a_n|^p$ converges. The $\ell^p$ norm is defined as $\|a\|_p = \left( \sum_{n=1}^{\infty} |a_n|^p \right)^{1/p}$. For $p=2$, the space becomes a [[Hilbert space]] with the inner product inducing the norm, while for $p \neq 2$, $\ell^p$ spaces are examples of [[Banach Space]] but not [[Hilbert Space]].
   
 - **$\ell^\infty$ Space**: This space consists of all bounded sequences, with the norm defined by $\|a\|_\infty = \sup \{|a_n| : n \in \mathbb{N}\}$. It measures the maximum absolute value among the sequence elements.
 

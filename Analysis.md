@@ -9,11 +9,11 @@ Analysis is a vast and foundational branch of mathematics that deals with contin
 
 ### Core Areas of Analysis
 
-- [[**Real Analysis]]:** Focuses on the properties of real numbers, sequences, series, and functions of real variables. It provides a rigorous foundation for calculus, exploring the limits, continuity, differentiation, and integration of functions. Real analysis investigates the behavior of real-valued functions and their properties, such as uniform [[continuity]], integration techniques, and [[convergence]] of sequences and series.
+- **[[Real Analysis]]:** Focuses on the properties of real numbers, sequences, series, and functions of real variables. It provides a rigorous foundation for calculus, exploring the limits, continuity, differentiation, and integration of functions. Real analysis investigates the behavior of real-valued functions and their properties, such as uniform [[continuity]], integration techniques, and [[convergence]] of sequences and series.
 
 - **[[Complex Analysis]]:** Deals with functions of complex variables, exploring the complex plane and the fundamentally different behavior of analytic functions, which are complex functions that are differentiable in a complex sense. Complex analysis is known for its beautiful results and powerful techniques, such as [[Contour Integration]] and the [[Residue Theorem]], which have profound implications in various areas of mathematics and physics.
 
-- **[[Functional Analysis]]:** Extends the ideas of calculus, geometry, and algebra to spaces of functions and [[abstract spaces]]. It is the study of [[vector spaces]] endowed with a [[topology]], allowing for the examination of [[functional spaces]] and [[operators]] acting upon them. Key objects of study include [[Banach Spaces]] and [[Hilbert Spaces]], [[Linear Operators]], and the [[Spectral Theory]].
+- **[[Functional Analysis]]:** Extends the ideas of calculus, geometry, and algebra to spaces of functions and [[Mathematical Spaces|abstract spaces]]. It is the study of [[Vector Space|vector spaces]] endowed with a [[Topology On A Set|topology]], allowing for the examination of [[functional spaces]] and [[operators]] acting upon them. Key objects of study include [[Banach Space|Banach Space]] and [[Hilbert Space|Hilbert Space]], [[Linear Operators]], and the [[Spectral Theory]].
 
 - **[[Harmonic Analysis]]:** Concerns the representation of functions or signals as the superposition of basic waves. It explores phenomena such as [[Fourier Series]] and [[Fourier Transform|transforms]], and it has applications in fields ranging from [[number theory]] to [[quantum mechanics]] and [[signal processing]].
 
