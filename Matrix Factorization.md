@@ -11,7 +11,7 @@ See also:
 - [[Eigenvalue]]
 - [[Principal Component Analysis]]
 - [[Kronecker Product]]
-- [[[Decomposition]]]
+- [[Decomposition]]
 
 Matrix factorization techniques are fundamental in machine learning, especially for tasks involving [[representation learning]], [[dimensionality reduction]], and feature extraction. These techniques decompose a matrix into simpler, meaningful components, uncovering latent structures within the data. Here are several key matrix factorizations relevant to machine learning and their applications in representation learning:
 

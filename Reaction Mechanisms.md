@@ -14,7 +14,7 @@ Reaction mechanisms are detailed, step-by-step descriptions of the process by wh
 - **Termolecular Reactions**: Involve the simultaneous collision of three reactant molecules, which is a relatively rare event. Due to their low probability, termolecular reactions are less common than unimolecular or bimolecular reactions.
 
 ### The Role of Catalysts
-[[Catalysts]] play a crucial role in modifying reaction mechanisms by providing [[alternative pathways]] with lower [[activation energies]]. This can lead to significant changes in the rate of the reaction and the selectivity for specific products.
+[[Catalysts]] play a crucial role in modifying reaction mechanisms by providing [[alternative pathways]] with lower [[Activation Energy|activation energies]]. This can lead to significant changes in the rate of the reaction and the selectivity for specific products.
 
 ### Determining Reaction Mechanisms
 - **Experimental Evidence**: Techniques such as spectroscopy, [[kinetics studies]], and isolation of intermediates are used to gather evidence for the steps in a reaction mechanism. Observing changes in the rate of a reaction under different conditions can also provide clues to the mechanism.
@@ -27,4 +27,4 @@ Reaction mechanisms are detailed, step-by-step descriptions of the process by wh
 ### Significance of Reaction Mechanisms
 Understanding reaction mechanisms is critical for predicting the outcomes of chemical reactions, designing new synthetic pathways, and developing catalysts for industrial processes. It also plays a fundamental role in fields such as biochemistry, where enzyme-catalyzed reactions are pivotal to metabolic pathways, and in environmental chemistry, where the mechanisms of reactions in the atmosphere or in water bodies can have significant ecological impacts.
 
-In summary, the study of reaction mechanisms is a core aspect of chemistry that bridges theoretical understanding and practical application, enabling scientists to predict, control, and optimize chemical reactions for a wide range of purposes.
+In summary, the study of reaction mechanisms is a core aspect of [[chemistry]] that bridges theoretical understanding and practical application, enabling scientists to predict, control, and optimize chemical reactions for a wide range of purposes.

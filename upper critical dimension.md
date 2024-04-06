@@ -3,11 +3,11 @@ tags:
   - needs-outlinks
 ---
 
-The upper critical dimension (\(d_c\)) of a system undergoing a phase transition is a concept from statistical physics and the theory of critical phenomena that marks the dimensional threshold above which the [[mean-field theory]] predictions for [[critical exponents]] become exact and fluctuations around the mean field can be neglected in the leading order. Below this dimension, fluctuations are crucial and must be considered to accurately describe the critical behavior of the system.
+The upper critical dimension (\(d_c\)) of a system undergoing a [[phase transitions|phase transition]] is a concept from statistical physics and the theory of [[critical phenomena]] that marks the dimensional threshold above which the [[mean-field theory]] predictions for [[critical exponents]] become exact and fluctuations around the mean field can be neglected in the leading order. Below this dimension, fluctuations are crucial and must be considered to accurately describe the critical behavior of the system.
 
 ### Key Aspects of the Upper Critical Dimension
 
-- **[[Fluctuations]]**: For dimensions \(d < d_c\), fluctuations play a significant role in determining the system's behavior near the critical point, leading to critical exponents that deviate from mean-field values. Above the upper critical dimension (\(d \ge d_c\)), the critical exponents take on their mean-field values, indicating that fluctuations do not change the leading-order behavior of critical phenomena.
+- **[[Fluctuations]]**: For dimensions \(d < d_c\), fluctuations play a significant role in determining the system's behavior near the critical point, leading to critical exponents that deviate from mean-field values. Above the upper critical dimension (\(d \ge d_c\)), the critical exponents take on their mean-field values, indicating that fluctuations do not change the [[leading-order behavior]] of critical phenomena.
 
 - **Critical Exponents**: At \(d = d_c\), there is a crossover from fluctuation-dominated behavior to mean-field-like behavior. The mean-field critical exponents, which include \(\alpha = 0\), \(\beta = 1/2\), \(\gamma = 1\), \(\delta = 3\), and \(\nu = 1/2\), become applicable for \(d \ge d_c\).
 
