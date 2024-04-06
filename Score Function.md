@@ -1,4 +1,4 @@
-In the broader context of probabilistic generative models, the score function plays a pivotal role in characterizing, learning, and sampling from complex distributions. Beyond its specific relationship with [[Energy-Based Models]] (EBMs), the score function's utility spans a wide range of models and applications, including but not limited to [[Variational Autoencoders]] (VAEs), [[Generative Adversarial Networks]] (GANs), and score-based generative models.
+In the broader context of [[probabilistic generative models]], the score function plays a pivotal role in characterizing, learning, and sampling from complex distributions. Beyond its specific relationship with [[Energy-Based Models]] (EBMs), the score function's utility spans a wide range of models and applications, including but not limited to [[Variational Autoencoders]] (VAEs), [[Generative Adversarial Networks]] (GANs), and score-based generative models.
 
 ### Definition and Importance
 
@@ -10,11 +10,11 @@ $$
 
 This gradient provides critical information about how small changes in the data point $x$ affect its log probability under the model. It essentially tells us the direction in which to "move" a data point to increase its probability, making it a fundamental tool for understanding and manipulating probability distributions.
 
-### Role in Probabilistic Generative Models
+### Role in Probabilistic [[Generative Models]]
 
 - **Inference and Learning**: For models like VAEs, the score function indirectly influences the design of variational inference techniques. Although VAEs typically do not use the score function directly, understanding the gradient of log probabilities is crucial for designing the encoder networks that approximate posterior distributions and for calculating the [[Evidence Lower Bound]] (ELBO) used in training.
 
-- **[[Generative Modeling]]**: In [[Generative Adversarial Networks|GANs]], while the primary mechanism does not involve directly computing the score function, the concept of gradients of probabilities underlies the training process. The discriminator can be thought of as estimating the ratio of data and model densities, providing a signal used to adjust the generator in a direction that makes its samples more likely under the true data distribution.
+- **Generative Modeling**: In [[Generative Adversarial Networks|GANs]], while the primary mechanism does not involve directly computing the score function, the concept of gradients of probabilities underlies the training process. The discriminator can be thought of as estimating the ratio of data and model densities, providing a signal used to adjust the generator in a direction that makes its samples more likely under the true data distribution.
 
 - **Score-Based Generative Models**: These models, also known as [[Diffusion Models]], explicitly use the score function to generate new samples from a complex distribution. By learning the score function of the data distribution, these models can gradually transform samples from a simple initial distribution (e.g., Gaussian noise) into samples from the target distribution through a process guided by the learned score function. This approach has proven highly effective for generating high-quality synthetic data in domains such as images, audio, and text.
 

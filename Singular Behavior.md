@@ -7,7 +7,7 @@ tags:
 see also:
 - [[Singularities]]
 
-The term "singular behavior" in the context of [[Critical Phenomena]] and phase transitions refers to the dramatic changes in physical properties that occur as a system approaches a critical point. At the critical point, certain thermodynamic quantities exhibit singularities, meaning they diverge (become infinite) or go to zero in a manner that cannot be described by standard analytic functions. This singular behavior is a hallmark of continuous (second-order) phase transitions and is characterized by power laws governed by critical exponents.
+The term "singular behavior" in the context of [[Critical Phenomena]] and phase transitions refers to the dramatic changes in physical properties that occur as a system approaches a critical point. At the critical point, certain thermodynamic quantities exhibit singularities, meaning they diverge (become infinite) or go to zero in a manner that cannot be described by standard analytic functions. This singular behavior is a hallmark of [[Second-Order Phase Transitions|continuous (second-order) phase transitions]] and is characterized by power laws governed by [[critical exponents]].
 
 ### Examples of Singular Behavior
 
@@ -15,11 +15,11 @@ The term "singular behavior" in the context of [[Critical Phenomena]] and phase 
    $$ \xi \sim |T - T_c|^{-\nu} $$
    Here, \(T_c\) is the critical temperature, and \(\nu\) is a critical exponent. The divergence of \(\xi\) signifies that fluctuations occur over all spatial scales, and the system becomes scale-invariant at the critical point.
 
-2. **Divergence of the Susceptibility (\(\chi\))**: The susceptibility, a measure of how the system responds to an external field, also diverges near the critical point:
+2. **Divergence of the Susceptibility (\(\chi\))**: The [[susceptibility]], a measure of how the system responds to an external field, also diverges near the [[critical point]]:
    $$ \chi \sim |T - T_c|^{-\gamma} $$
    For example, in a ferromagnetic system, the magnetic susceptibility diverges as it approaches the Curie temperature from above. The exponent \(\gamma\) describes this singular behavior.
 
-3. **Specific Heat (\(C\))**: The specific heat, which measures the amount of heat required to change the system's temperature, can diverge or exhibit a [[Cusp-Like Behavior]] as the system approaches \(T_c\):
+3. **[[Specific Heat]] (\(C\))**: The specific heat, which measures the amount of heat required to change the system's temperature, can diverge or exhibit a [[Cusp-Like Behavior]] as the system approaches \(T_c\):
    $$ C \sim |T - T_c|^{-\alpha} $$
    The exponent \(\alpha\) characterizes the singularity in the specific heat. In some systems, \(\alpha\) can be negative, indicating a less pronounced, but still singular, cusp-like behavior rather than a divergence.
 

@@ -46,10 +46,6 @@ multi-scale properties of exponential distribution, e, memoryless distributions
 receptive field
 AdaIN and style transfer
 iterated function
-Jacobian
-kernel density estimation
-- what's that one approach that at least used to be really common?
-- relation to convolution
 self assembly
 bullwhip effect (supply chain)
 philosophy of probability
@@ -65,6 +61,9 @@ stephen wolfram
 dirac equation
 homophily
 hyper-cycle
+linear response theory
+VC Dimension
+
 ### Biology and Ecology
 
 - **Robert May:** An influential figure in theoretical ecology, May's work on the complexity and stability of ecosystems has contributed significantly to our understanding of how ecological systems self-organize and adapt.

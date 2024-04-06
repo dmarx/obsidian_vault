@@ -7,6 +7,8 @@ tags:
 see also:
 - [[Philosophy of Probability]]
 - [[Causal Inference]]
+- [[Bayesian Inference]]
+- 
 
 Counterfactuals are statements or hypotheses about what could have happened under different circumstances, contrasting with what actually happened. In the context of causal inference and the philosophy of probability, counterfactuals play a critical role in understanding the effects of interventions and the causal structure of the world. They allow us to consider not just the events that occurred, but also the potential outcomes that did not occur but could have, under different conditions.
 
@@ -50,7 +52,7 @@ The philosophical debates surrounding the use of counterfactuals touch upon deep
 ### Free Will and Counterfactuals
 
 - The concept of **free will** is deeply intertwined with counterfactual reasoning. If individuals possess free will, their decisions could have been different under the same circumstances, validating the exploration of counterfactual scenarios. However, this raises complex questions about how to model human decision-making and the impact of interventions in a world where agents have the autonomy to choose differently.
-- Philosophical discussions on free will often examine how counterfactuals can be understood in a world that seemingly presents a blend of deterministic laws and autonomous agents. This has implications for moral responsibility and the causation of events, influencing how we interpret the effects of actions and decisions.
+- Philosophical discussions on free will often examine how counterfactuals can be understood in a world that seemingly presents a blend of deterministic laws and autonomous agents. This has implications for [[moral responsibility]] and the causation of events, influencing how we interpret the effects of actions and decisions.
 
 ### Causality and Counterfactuals
 

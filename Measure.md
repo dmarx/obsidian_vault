@@ -2,6 +2,9 @@
 tags:
   - green
 ---
+see also:
+- [[Cardinality vs. Measure]]
+- [[Divergence (Statistics)]]
 
 In measure theory, the concept of a "measure" is a fundamental and abstract notion that generalizes the ideas of length, area, volume, and probability. It provides a rigorous mathematical framework for quantifying the size or quantity of a set, particularly within the context of spaces that are more complex than the standard [[Euclidean Spaces]]. The development of [[Measure Theory]] was a significant advancement in mathematics, enabling precise definitions of [[Integral|integration]], probability, and other concepts in analysis.
 

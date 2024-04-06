@@ -2,6 +2,8 @@
 tags:
   - gold
   - green
+aliases:
+  - phase transition
 ---
 see also:
 - [[Activation Energy]]

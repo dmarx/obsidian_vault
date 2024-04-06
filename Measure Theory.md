@@ -3,6 +3,8 @@ tags:
   - green
   - root
 ---
+see also:
+- [[Set Theory]]
 
 Measure theory is a branch of mathematics that studies the concept of measure, which is a systematic way to assign a number to a subset of a given space, somewhat analogous to the general concept of "size". This theory is fundamental in [[Probability Theory]], real analysis, and is used extensively in fields such as mathematical physics, economics, and engineering. It provides the foundation for defining and understanding concepts like length, area, and volume in a rigorous mathematical framework.
 
@@ -149,3 +151,5 @@ While not explicitly called "topological measure theory," several mathematical f
 ### Conclusion
 
 While "topological measure theory" as a term may not denote a distinct branch of mathematics, the profound and rich interactions between topology and measure theory are evident across numerous fields. The study of these interactions is crucial for advancing our understanding of both topological spaces and measure spaces, highlighting the interconnectedness of different areas of mathematical research.
+
+---

@@ -41,7 +41,7 @@ Using this as a tag for now, listing stuff alphabetically here. checkbox indicat
 - [ ] [[Disentangled Representations]]
 - [ ] [[Dissipative Processes]]
 - [ ] [[Dissipative Structures]]
-- [ ] [[Distance Metric]]
+- [ ] [[Metric Space]]
 [[Divergence (Statistics)]]
 [[Divergence (Vector Calculus)]]
 [[Dominated Convergence Theorem]]

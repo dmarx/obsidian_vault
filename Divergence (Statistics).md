@@ -12,7 +12,7 @@ In mathematical and statistical analysis, both "divergence" and "distance" serve
 
 #### Properties of a Metric
 
-A [[Distance Metric]] or distance function $d$ on a set $X$ satisfies the following properties for any elements $a, b, c \in X$:
+A [[Metric Space|Distance Metric]] or distance function $d$ on a set $X$ satisfies the following properties for any elements $a, b, c \in X$:
 
 1. **Non-negativity**: $d(a, b) \geq 0$ and $d(a, b) = 0$ if and only if $a = b$.
 2. **[[Symmetry]]**: $d(a, b) = d(b, a)$.

@@ -1,3 +1,9 @@
+see also:
+- [[Autoencoders]]
+- [[Generative Models]]
+- [[Generative Adversarial Networks]]
+- [[Generative Modeling]]
+
 Variational Inference (VI) is a powerful framework within machine learning and statistics for approximating complex posterior distributions that are typically encountered in Bayesian inference. The crux of VI is to transform the problem of [[Bayesian Inference]], which is computationally challenging due to high-dimensional integrals or sums, into an optimization problem that is more tractable. This transformation is facilitated by the [[Evidence Lower Bound]] (ELBO).
 
 ### Core Principles of Variational Inference

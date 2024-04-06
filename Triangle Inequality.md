@@ -24,7 +24,7 @@ This can be interpreted as saying that the direct path between two points is alw
 
   $$\|x + y\| \leq \|x\| + \|y\|$$
 
-  Here, $\|\cdot\|$ denotes the norm, which generalizes the concept of length to vectors in the space. This form of the inequality indicates that the length of the sum of two vectors is no greater than the sum of their lengths, which is a critical property for analyzing the structure and behavior of these spaces.
+  Here, $\|\cdot\|$ denotes the [[norm]], which generalizes the concept of length to vectors in the space. This form of the inequality indicates that the length of the sum of two vectors is no greater than the sum of their lengths, which is a critical property for analyzing the structure and behavior of these spaces.
 
 - **Inner Product Spaces:** In spaces with an [[Inner Product]], the triangle inequality can be derived from the [[Cauchy-Schwarz Inequality]]. For vectors $x$ and $y$, the inequality is implied by the properties of the inner product and the induced norm.
 
@@ -42,7 +42,7 @@ The triangle inequality is a simple yet powerful tool that captures a basic intu
 
 ---
 
-The Triangle Inequality is a fundamental principle in mathematics, particularly within the study of [[metric spaces]] and [[geometry]]. It provides a crucial constraint on the concept of distance, ensuring that the[[Geodesics| direct path]] between two points is always the shortest. The inequality is essential for understanding the structure of [[spaces]] and has profound implications in various branches of mathematics, including [[algebra]], [[analysis]], and [[topology]].
+The Triangle Inequality is a fundamental principle in mathematics, particularly within the study of metric spaces and [[geometry]]. It provides a crucial constraint on the concept of distance, ensuring that the[[Geodesics| direct path]] between two points is always the shortest. The inequality is essential for understanding the structure of [[spaces]] and has profound implications in various branches of mathematics, including [[algebra]], [[analysis]], and [[topology]].
 
 ### Formal Definition
 
