@@ -6,6 +6,7 @@ tags:
 see also:
 - [[Gradient-Mediated Emergence]]
 - [[_Synthesis - Catalyst Kinetics And Social Behavior]]
+- [[branching patterns]]
 
 Angiogenesis, the process of new blood vessel formation from pre-existing vessels, is critical in both physiological and pathological contexts. The role of gradients, particularly of vascular endothelial growth factor (VEGF), underscores a sophisticated mechanism by which cells communicate and orchestrate complex tissue-level responses. Let's delve deeper into the significance of angiogenesis and the mechanisms involved:
 
