@@ -6,6 +6,9 @@ tags:
   - needs-outlinks
   - empty-hub
 ---
+see also:
+- [[Langevin Dynamics]]
+
 [[Physical Chemistry|Physical chemistry]] is a branch of chemistry that deals with the application of the principles and methodologies of physics to the study of the properties and behavior of matter. It combines principles from physics and chemistry to understand the physical structure of molecules, the forces that act upon them, and the physical properties of chemical substances. Physical chemistry is fundamental in developing theoretical frameworks that can be applied across chemical, biological, and material sciences.
 
 ### Key Areas of Study
