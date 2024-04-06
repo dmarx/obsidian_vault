@@ -1,6 +1,7 @@
-see also:
-- [[spaces]] - [[Triangle Inequality]], [[Principal Bundles]]
-
+---
+tags:
+  - root
+---
 In mathematics, the concept of a **space** refers to a set equipped with some additional structure(s) that allow for the rigorous exploration of geometric, algebraic, or analytical properties. These spaces are the playgrounds for mathematicians and physicists, where abstract concepts can be explored and concrete problems can be solved. Given the vast landscape of mathematical spaces, let's outline some of the most fundamental and widely used types, each serving distinct purposes and embodying unique structures.
 
 ### [[Metric Space|Metric Spaces]]

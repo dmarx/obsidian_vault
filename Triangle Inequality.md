@@ -42,7 +42,7 @@ The triangle inequality is a simple yet powerful tool that captures a basic intu
 
 ---
 
-The Triangle Inequality is a fundamental principle in mathematics, particularly within the study of metric spaces and [[geometry]]. It provides a crucial constraint on the concept of distance, ensuring that the[[Geodesics| direct path]] between two points is always the shortest. The inequality is essential for understanding the structure of [[spaces]] and has profound implications in various branches of mathematics, including [[algebra]], [[analysis]], and [[topology]].
+The Triangle Inequality is a fundamental principle in mathematics, particularly within the study of metric spaces and [[geometry]]. It provides a crucial constraint on the concept of distance, ensuring that the[[Geodesics| direct path]] between two points is always the shortest. The inequality is essential for understanding the structure of [[Mathematical Spaces|spaces]] and has profound implications in various branches of mathematics, including [[algebra]], [[analysis]], and [[topology]].
 
 ### Formal Definition
 

@@ -1,4 +1,4 @@
-Principal [[bundles]] are fundamental objects in [[differential geometry]] and [[mathematical physics]], providing a formal framework for discussing global geometric structures and [[symmetry]] properties of [[spaces]]. They play a crucial role in the formulation of [[gauge theories]] in physics, including the [[standard model]] of particle physics, and in the study of [[Connection on a Manifold|connections]] and [[curvature]] on [[manifolds]].
+Principal [[bundles]] are fundamental objects in [[differential geometry]] and [[mathematical physics]], providing a formal framework for discussing global geometric structures and [[symmetry]] properties of [[Mathematical Spaces|spaces]]. They play a crucial role in the formulation of [[gauge theories]] in physics, including the [[standard model]] of particle physics, and in the study of [[Connection on a Manifold|connections]] and [[curvature]] on [[manifolds]].
 
 ### Definition
 
