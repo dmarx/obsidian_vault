@@ -62,7 +62,9 @@ dirac equation
 homophily
 hyper-cycle
 linear response theory
-VC Dimension
+type theory
+context-free grammar
+regular expression
 
 ### Biology and Ecology
 
