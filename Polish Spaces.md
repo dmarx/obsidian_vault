@@ -13,15 +13,15 @@ Polish spaces are a fundamental concept in [[topology]], descriptive set theory,
 
 - **The Real Numbers $\mathbb{R}$:** With the standard Euclidean metric, the real numbers form a Polish space. The rational numbers $\mathbb{Q}$, being countable and dense in $\mathbb{R}$, serve as the countable dense subset that establishes separability.
 
-- **Hilbert Spaces:** Infinite-dimensional Hilbert spaces, such as the space of square-summable sequences $l^2$, are examples of Polish spaces when equipped with the appropriate metric, such as the $l^2$ metric for the space of square-summable sequences.
+- **[[Hilbert Space|Hilbert Spaces]]:** Infinite-dimensional Hilbert spaces, such as the space of square-summable sequences $l^2$, are examples of Polish spaces when equipped with the appropriate metric, such as the $l^2$ metric for the space of square-summable sequences.
 
-- **Cantor Space:** The Cantor set, equipped with the metric induced by its construction as a subset of the real line, forms a Polish space. It is a fundamental example in topology and descriptive set theory, illustrating a space that is compact, totally disconnected, and perfect.
+- **Cantor Space:** The [[Cantor set]], equipped with the metric induced by its construction as a subset of the real line, forms a Polish space. It is a fundamental example in topology and descriptive set theory, illustrating a space that is compact, totally disconnected, and perfect.
 
-- **Baire Space:** The space of all sequences of natural numbers, with a metric that reflects the sequence convergence, is another key example of a Polish space. It plays a critical role in logic and descriptive set theory.
+- **[[Baire Space]]:** The space of all sequences of natural numbers, with a metric that reflects the sequence convergence, is another key example of a Polish space. It plays a critical role in logic and descriptive set theory.
 
 ### Importance and Applications
 
-- **Descriptive Set Theory:** Polish spaces are central to descriptive set theory, where they provide the setting for studying Borel, analytic, and projective sets. The properties of Polish spaces facilitate the analysis of complexity hierarchies and definability.
+- **[[Descriptive Set Theory]]:** Polish spaces are central to descriptive set theory, where they provide the setting for studying Borel, analytic, and projective sets. The properties of Polish spaces facilitate the analysis of complexity hierarchies and definability.
 
 - **Topology:** Polish spaces offer a rich framework for studying continuity, compactness, and connectedness, among other topological properties. They are often used to illustrate or prove general topological theorems.
 

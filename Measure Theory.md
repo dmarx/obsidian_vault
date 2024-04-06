@@ -14,7 +14,7 @@ Measure theory is a branch of mathematics that studies the concept of measure, w
 
 2. **[[Sigma-Algebra]]:** This is a collection of sets that includes the empty set and is closed under complementation and countable unions. The sigma-algebra defines the sets for which a measure is defined.
 
-3. **[[Measurable Functions]]:** Functions that are compatible with the measure structure of their domain and codomain. For real-valued functions, this typically means that for any [[Borel Measurable|Borel set]] in the codomain, the [[preimage]] of the set under the function is measurable in the domain.
+3. **[[Measurable Functions]]:** Functions that are compatible with the measure structure of their domain and codomain. For real-valued functions, this typically means that for any [[Borel Sets|Borel set]] in the codomain, the [[preimage]] of the set under the function is measurable in the domain.
 
 4. **[[Integral|Integration]]:** Measure theory provides a way to define integrals with respect to a measure, generalizing the [[Riemann Integral]]. The [[Lebesgue Integral]], in particular, allows for the integration of a wider class of functions and is more suited to handling limits under the integral sign.
 
