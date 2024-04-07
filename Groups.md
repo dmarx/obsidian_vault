@@ -3,7 +3,7 @@ see also:
 - [[Group Actions]]
 - [[Semigroup]]
 
-A group is a fundamental concept in [[abstract algebra]], serving as the cornerstone for much of mathematical structure and theory. It generalizes and extends the idea of algebraic operations beyond the familiar realms of numbers to a wide array of mathematical objects. Understanding groups provides insight into symmetry, transformations, and the inherent structure of mathematical entities.
+A group is a fundamental concept in [[Abstract Algebra]], serving as the cornerstone for much of mathematical structure and theory. It generalizes and extends the idea of algebraic operations beyond the familiar realms of numbers to a wide array of mathematical objects. Understanding groups provides insight into symmetry, transformations, and the inherent structure of mathematical entities.
 
 ### Definition
 

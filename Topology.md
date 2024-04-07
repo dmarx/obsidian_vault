@@ -34,7 +34,7 @@ Topology is a major branch of mathematics that studies properties of space that 
 
 - **General Topology** (also known as [[Point-Set Topology]]): Focuses on the foundational aspects of topology, including the study of open and closed sets, continuity, compactness, and connectedness.
 
-- **[[Algebraic Topology]]**: Uses algebraic methods to study [[topological spaces]]. The main goal is to associate [[algebraic invariants]] to spaces, such as [[homology groups]] and [[homotopy groups]], to distinguish between them or to show their equivalences.
+- **[[Algebraic Topology]]**: Uses algebraic methods to study [[topological spaces]]. The main goal is to associate [[algebraic invariants]] to spaces, such as [[homology groups]] and [[Homotopy Groups]], to distinguish between them or to show their equivalences.
 
 - **[[Differential Topology]]**: Studies the properties and structures of differentiable manifolds (spaces that locally resemble Euclidean space and are smooth). It involves techniques from both differential calculus and algebraic topology.
 

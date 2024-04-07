@@ -1,6 +1,7 @@
 ---
 tags:
   - green
+  - empty-hub
 ---
 
 > tell me about group theory as if I were graduate deep learning researcher focused on learning dynamics of semantic latent representations through the lens of geometry, and connecting notions of symmetry and equivariance to inductive priors

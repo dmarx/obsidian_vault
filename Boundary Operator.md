@@ -20,9 +20,9 @@ In classical differential geometry, the boundary of a \(k\)-dimensional manifold
 Currents extend differential forms and geometric objects by allowing for integration over spaces that are not necessarily smooth or even manifolds in the traditional sense. The boundary operator for currents, denoted by \(\partial\), generalizes this concept:
 
 - **Definition**: For a \(k\)-current \(T\), its boundary \(\partial T\) is defined as a \((k-1)\)-current such that the action of \(\partial T\) on any \((k-1)\)-form \(\omega\) is given by the action of \(T\) on the exterior derivative of \(\omega\), \(d\omega\). Symbolically, this is expressed as:
-  \[
+  $$
   \langle \partial T, \omega \rangle = \langle T, d\omega \rangle
-  \]
+  $$
   where \(\langle \cdot , \cdot \rangle\) denotes the action of a current on a form.
 
 - **Properties**: The boundary operator for currents inherits the crucial property from its manifold counterpart: the boundary of a boundary is zero (\(\partial^2 T = 0\)). This property is fundamental in GMT and algebraic topology, as it underpins the construction of homology and cohomology theories.

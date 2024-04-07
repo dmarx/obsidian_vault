@@ -2,7 +2,7 @@
 tags:
   - needs-outlinks
 ---
-The Morse Inequalities provide a profound connection between the [[critical points]] of a [[Morse function]] on a manifold and the manifold's topological invariants. These inequalities leverage the concept of the index of a critical point—essentially, the count of the negative eigenvalues of the function's Hessian matrix at that point—to relate the geometry of the manifold to its topology. [[Morse theory]], developed by Marston Morse, uses these insights to bridge [[Differential Topology]] and [[algebraic topology]], offering a powerful framework for understanding the shape and structure of [[manifolds]].
+The Morse Inequalities provide a profound connection between the [[critical points]] of a [[Morse function]] on a manifold and the manifold's topological invariants. These inequalities leverage the concept of the index of a critical point—essentially, the count of the negative eigenvalues of the function's Hessian matrix at that point—to relate the geometry of the manifold to its topology. [[Morse theory]], developed by Marston Morse, uses these insights to bridge [[Differential Topology]] and [[Algebraic Topology]], offering a powerful framework for understanding the shape and structure of [[manifolds]].
 
 ### Statement of Morse Inequalities
 

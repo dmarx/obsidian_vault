@@ -6,7 +6,7 @@ tags:
   - empty-hub
 ---
 
-Geometric group theory is an interdisciplinary field of mathematics that studies groups through their actions on geometric spaces. It blends elements from [[group theory]], [[topology]], and [[geometry]], focusing on understanding the algebraic properties of groups by examining the topological and geometric structures these groups can act upon. The field has deep connections with [[algebraic topology]], [[differential geometry]], and even [[mathematical logic]] and [[theoretical computer science]].
+Geometric group theory is an interdisciplinary field of mathematics that studies groups through their actions on geometric spaces. It blends elements from [[group theory]], [[topology]], and [[geometry]], focusing on understanding the algebraic properties of groups by examining the topological and geometric structures these groups can act upon. The field has deep connections with [[Algebraic Topology]], [[differential geometry]], and even [[mathematical logic]] and [[theoretical computer science]].
 
 ### Core Concepts and Tools
 
@@ -22,7 +22,7 @@ Geometric group theory is an interdisciplinary field of mathematics that studies
 
 ### Applications and Intersections
 
-- **Topological and Algebraic Properties**: Geometric group theory provides insights into the [[cohomology]], [[homology]], and other [[topological invariants]] of groups, as well as their algebraic properties such as [[solvability]] and [[torsion]].
+- **Topological and Algebraic Properties**: Geometric group theory provides insights into the [[cohomology]], [[Homology Groups]], and other [[topological invariants]] of groups, as well as their algebraic properties such as [[solvability]] and [[torsion]].
 
 - **[[Kleinian Groups]] and [[Fuchsian Groups]]**: These are examples of groups acting as [[isometries]] of [[hyperbolic spaces]], with connections to [[complex analysis]] and the [[Reimannian Manifolds|theory of Riemann surfaces]].
 
