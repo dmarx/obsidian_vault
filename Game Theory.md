@@ -3,6 +3,7 @@ tags:
   - green
   - root
   - needs-outlinks
+  - empty-hub
 ---
 see also:
 - [[Competition]]

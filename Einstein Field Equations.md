@@ -1,18 +1,18 @@
-The Einstein Field Equations (EFE) are a set of ten interrelated [[differential equations]] in [[Albert Einstein]]'s theory of [[general relativity]] that describe the fundamental interaction of gravitation as a result of [[spacetime]] being curved by matter and [[energy]]. First published by Einstein in 1915 as a tensor equation, the EFE equate local spacetime [[curvature]] (expressed by the [[Einstein tensor]]) with the local energy and momentum within that spacetime (expressed by the [[stress-energy tensor]]).
+The Einstein Field Equations (EFE) are a set of ten interrelated [[differential equations]] in [[Albert Einstein]]'s theory of [[general relativity]] that describe the fundamental interaction of gravitation as a result of [[spacetime]] being curved by matter and [[energy]]. First published by Einstein in 1915 as a tensor equation, the EFE equate local spacetime [[curvature]] (expressed by the [[Einstein tensor]]) with the local energy and momentum within that spacetime (expressed by the stress-energy tensor).
 
 ### Key Components
 
 1. **[[Einstein Tensor]] (G)**: Represents the curvature of spacetime as influenced by mass and energy. The tensor is a mathematical object that encapsulates the way in which spacetime is curved in different directions around a point.
 
-2. **Stress-Energy Tensor (T)**: Describes the density and flux of energy and momentum in spacetime, accounting for factors like energy density, pressure, and shear stress. This tensor acts as the source of the gravitational field in the theory of general relativity.
+2. **[[Stress-Energy Tensor]] (T)**: Describes the density and flux of energy and momentum in spacetime, accounting for factors like energy density, pressure, and shear stress. This tensor acts as the source of the gravitational field in the theory of general relativity.
 
-3. **Cosmological Constant (Λ)**: Einstein introduced this term to allow for a stationary universe, although it was later reconsidered to explain the accelerated expansion of the universe. It acts as a constant energy density filling space homogeneously.
+3. **[[Cosmological Constant]] (Λ)**: Einstein introduced this term to allow for a stationary universe, although it was later reconsidered to explain the accelerated expansion of the universe. It acts as a constant energy density filling space homogeneously.
 
 ### The Equation
 
 The Einstein Field Equations can be compactly written as:
 
-\[ G_{\mu \nu} + \Lambda g_{\mu \nu} = \frac{8\pi G}{c^4} T_{\mu \nu} \]
+$$ G_{\mu \nu} + \Lambda g_{\mu \nu} = \frac{8\pi G}{c^4} T_{\mu \nu} $$
 
 - \(G_{\mu \nu}\) is the Einstein tensor,
 - \(\Lambda\) is the cosmological constant,

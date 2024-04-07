@@ -1,12 +1,13 @@
 ---
-tags:
-  - needs-outlinks
+tags: []
 ---
 
 see also:
 - [[_Synthesis - Catalyst Kinetics And Social Behavior]]
 - [[Metabolic Chemistry]]
 - [[Immune Response]]
+- [[Collective Behavior]]
+- [[Scale-Free Networks]]
 
 >incident scaling in the national incident response system, from first response to inter-state
 

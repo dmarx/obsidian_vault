@@ -1,15 +1,14 @@
 ---
-tags:
-  - needs-outlinks
+tags: []
 ---
 
-The Ricci curvature tensor is a crucial concept in differential geometry and general relativity, where it plays a key role in describing the curvature of spacetime. Formally, it is derived from the more comprehensive Riemann curvature tensor, which provides a detailed description of how spacetime is curved in various directions around a point. The Ricci tensor simplifies this information into a form that directly relates to the volume deformation of small regions of spacetime due to the presence of mass and energy.
+The Ricci curvature tensor is a crucial concept in differential geometry and [[general relativity]], where it plays a key role in describing the curvature of spacetime. Formally, it is derived from the more comprehensive [[Riemann curvature tensor]], which provides a detailed description of how spacetime is curved in various directions around a point. The Ricci tensor simplifies this information into a form that directly relates to the volume deformation of small regions of spacetime due to the presence of mass and energy.
 
 ### Definition
 
 The Ricci curvature tensor, denoted as \(R_{\mu\nu}\), is obtained by contracting two indices of the [[Riemann curvature tensor]], \(R^\alpha_{\mu\alpha\nu}\). Mathematically, this can be expressed as:
 
-\[ R_{\mu\nu} = R^\alpha_{\mu\alpha\nu} \]
+$$ R_{\mu\nu} = R^\alpha_{\mu\alpha\nu} $$
 
 where:
 
@@ -24,7 +23,7 @@ where:
 
 ### Physical Significance
 
-In general relativity, the Ricci tensor is used to describe the curvature of spacetime due to the presence of mass, energy, and momentum, excluding gravitational waves. More specifically, it characterizes the degree to which the volume of a small cloud of test particles initiated in a gravitational field with no relative velocity will either converge or diverge over time. Thus, it directly influences the motion of matter through the Einstein Field Equations:
+In general relativity, the Ricci tensor is used to describe the curvature of spacetime due to the presence of mass, energy, and momentum, excluding gravitational waves. More specifically, it characterizes the degree to which the volume of a small cloud of test particles initiated in a gravitational field with no relative velocity will either converge or diverge over time. Thus, it directly influences the motion of matter through the [[Einstein Field Equations]]:
 
 \[ G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} \]
 

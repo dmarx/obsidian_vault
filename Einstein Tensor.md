@@ -1,20 +1,18 @@
 ---
-tags:
-  - needs-outlinks
+tags: []
 ---
-
-The Einstein Tensor, denoted as \(G_{\mu\nu}\), plays a central role in the Einstein Field Equations (EFE) of general relativity. It's a mathematical object that describes the curvature of spacetime resulting from the presence of mass, energy, and momentum. The Einstein Tensor is derived from the Riemann curvature tensor and the metric tensor of spacetime, and its components relate directly to the way in which matter and energy curve spacetime.
+The Einstein Tensor, denoted as \(G_{\mu\nu}\), plays a central role in the [[Einstein Field Equations]] (EFE) of [[general relativity]]. It's a mathematical object that describes the curvature of spacetime resulting from the presence of mass, energy, and momentum. The Einstein Tensor is derived from the [[Riemann curvature tensor]] and the [[metric tensor]] of spacetime, and its components relate directly to the way in which matter and energy curve spacetime.
 
 ### Definition
 
 The Einstein Tensor is defined as:
 
-\[ G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} \]
+$$ G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} $$
 
 where:
 
 - \(G_{\mu\nu}\) is the Einstein Tensor,
-- \(R_{\mu\nu}\) is the [[Ricci curvature tensor]], which represents the amount by which the volume of a small geodesic ball in spacetime is different from that in flat (Euclidean) space, effectively describing how much the presence of mass or energy curves space.
+- \(R_{\mu\nu}\) is the [[Ricci Curvature Tensor]], which represents the amount by which the volume of a small geodesic ball in spacetime is different from that in flat (Euclidean) space, effectively describing how much the presence of mass or energy curves space.
 - \(R\) is the Ricci scalar, a scalar value obtained by contracting the Ricci tensor, which provides a measure of the degree to which spacetime is curved.
 - \(g_{\mu\nu}\) is the metric tensor, which defines the geometry of spacetime and allows for the measurement of distances and angles.
 

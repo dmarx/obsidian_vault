@@ -5,6 +5,7 @@ tags:
   - root
 ---
 see also:
+- [[Stationary Distribution]]
 
 Stability analysis in the context of dynamical systems, whether they are continuous or discrete, linear or nonlinear, is a fundamental aspect of understanding the behavior of these systems over time. It involves determining the conditions under which small perturbations or deviations from a system's [[equilibrium state]] (or a periodic [[orbit]]) will either decay, leading to a return to the equilibrium, or amplify, potentially leading to a departure from the equilibrium and possibly to chaos. This analysis is crucial across various fields, including [[control theory]], physics, engineering, and biology.
 

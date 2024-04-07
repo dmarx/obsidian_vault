@@ -1,7 +1,6 @@
 ---
 tags:
   - green
-  - needs-outlinks
   - gold
 ---
 

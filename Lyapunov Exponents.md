@@ -1,3 +1,8 @@
+---
+tags:
+  - gold
+---
+
 Lyapunov Exponents are fundamental to understanding the dynamics of systems that evolve over time, especially in the study of [[chaotic systems]]. These exponents measure the rates at which nearby trajectories in the [[phase space]] diverge or converge, offering a quantitative way to assess the [[sensitivity]] of the system to initial conditions. 
 
 Consider a [[dynamical system]] described by a set of [[differential equations]] or a [[discrete map]]. Let $x(t)$ denote the state of the system at time $t$, and suppose $x(t)$ evolves according to some rule, which could be either deterministic or stochastic in nature.

@@ -31,7 +31,7 @@ Second-order phase transitions are described by critical exponents that characte
 
 - $\alpha$: Governs the divergence of the [[specific heat]], $C \sim |T-T_c|^{-\alpha}$.
 - $\beta$: Describes the onset of the [[order parameter]], $\phi \sim |T-T_c|^\beta$ for $T < T_c$.
-- $\gamma$: Describes the divergence of the [[susceptibility]], $\chi \sim |T-T_c|^{-\gamma}$.
+- $\gamma$: Describes the divergence of the [[Susceptibility]], $\chi \sim |T-T_c|^{-\gamma}$.
 - $\nu$: Governs the divergence of the [[correlation length]], $\xi \sim |T-T_c|^{-\nu}$.
 
 ### [[Renormalization Group Theory]]
