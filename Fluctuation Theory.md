@@ -16,7 +16,7 @@ Fluctuation theory encompasses a set of principles and mathematical frameworks u
 
 4. **[[Fluctuation-Dissipation Theorem]]**: This theorem links the response of a system to external perturbations with its internal fluctuations in thermal equilibrium. It provides a powerful tool for studying [[systems near equilibrium]] by relating [[Dissipative Processes]] to equilibrium fluctuations.
 
-5. **[[Fluctuation Theorems]]**: In non-equilibrium statistical mechanics, fluctuation theorems such as the Jarzynski equality and Crooks fluctuation theorem relate the probability distributions of work done on a system during non-equilibrium transformations to free energy differences. These theorems have broad implications for understanding the thermodynamics of small systems, including molecular motors and nanoscale devices.
+5. **[[Fluctuation Theorems]]**: In non-equilibrium statistical mechanics, fluctuation theorems such as the [[Jarzynski equality]] and [[Crooks fluctuation theorem]] relate the probability distributions of work done on a system during non-equilibrium transformations to free energy differences. These theorems have broad implications for understanding the thermodynamics of small systems, including molecular motors and nanoscale devices.
 
 ### Mathematical Framework
 

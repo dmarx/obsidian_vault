@@ -6,7 +6,7 @@ tags:
 see also:
 - https://www.youtube.com/watch?v=0pIRibivolA
 
-Singularity theory is a branch of mathematics that studies spaces of mappings and the singular points of these mappings, focusing on the properties and structures of singularities—places where mappings fail to be differentiable or where differential properties change abruptly. Originating from the study of critical points of differentiable functions and extending to more general settings, singularity theory intersects with [[algebraic geometry]], [[differential topology]], and [[complex analysis]], offering profound insights into the behavior of functions and spaces under deformation.
+Singularity theory is a branch of mathematics that studies spaces of mappings and the singular points of these mappings, focusing on the properties and structures of singularities—places where mappings fail to be differentiable or where differential properties change abruptly. Originating from the study of critical points of differentiable functions and extending to more general settings, singularity theory intersects with [[algebraic geometry]], [[differential topology]], and [[Complex Analysis]], offering profound insights into the behavior of functions and spaces under deformation.
 
 ### Fundamental Concepts
 

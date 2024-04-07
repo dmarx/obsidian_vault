@@ -247,4 +247,4 @@ The primary challenge in using the natural gradient is computing the inverse of 
 
 ### Conclusion
 
-The natural gradient represents a sophisticated approach to optimization that leverages the [[intrinsic geometry]] of the [[parameter space]], offering a path to more efficient and effective learning in complex models. Its development and use highlight the deep connections between [[Optimization]], [[geometry]], and [[information theory]], showcasing the interdisciplinary nature of modern computational sciences.
+The natural gradient represents a sophisticated approach to optimization that leverages the [[intrinsic geometry]] of the [[parameter space]], offering a path to more efficient and effective learning in complex models. Its development and use highlight the deep connections between [[Optimization]], [[geometry]], and [[Information Theory]], showcasing the interdisciplinary nature of modern computational sciences.

@@ -8,7 +8,7 @@ where $|B(x_0, r)|$ denotes the volume of the ball, $|\partial B(x_0, r)|$ denot
 
 - **Uniqueness and Maximum Principle:** The mean value property is instrumental in proving fundamental theorems about harmonic functions, such as the uniqueness of solutions to [[Laplace's equation]] and the [[maximum principle]]. The maximum principle states that if $D$ is a bounded domain, then any harmonic function attains its maximum and minimum on the boundary of $D$, not in the interior. This principle has far-reaching consequences in the study of [[partial differential equations]] and [[mathematical physics]].
 
-- **[[Analytic Continuation]]:** In [[complex analysis]], harmonic functions in two dimensions are closely related to holomorphic functions (complex differentiable functions), with the real and imaginary parts of a holomorphic function being harmonic. The mean value property in this context helps in understanding the behavior and extension of holomorphic functions.
+- **[[Analytic Continuation]]:** In [[Complex Analysis]], harmonic functions in two dimensions are closely related to holomorphic functions (complex differentiable functions), with the real and imaginary parts of a holomorphic function being harmonic. The mean value property in this context helps in understanding the behavior and extension of holomorphic functions.
 
 - **[[Potential Theory]]:** Harmonic functions are often interpreted as gravitational, electrostatic, or fluid potential fields in free space, where the mean value property reflects physical intuitions about the equilibrium states of these fields.
 

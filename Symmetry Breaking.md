@@ -1,7 +1,6 @@
 ---
 tags:
   - gold
-  - green
 ---
 
 see also:
@@ -27,7 +26,7 @@ Symmetry breaking occurs when a system's state changes in such a way that it no 
 
 The order parameter is a quantity that measures the degree of symmetry breaking. Its value is zero in the symmetric (disordered) phase and non-zero in the broken symmetry (ordered) phase. This change in the order parameter:
 
-- **Identifies the [[Phase Transition]]**: The onset of a non-zero order parameter indicates the system has undergone a phase transition.
+- **Identifies the [[Phase Transitions|Phase Transition]]**: The onset of a non-zero order parameter indicates the system has undergone a phase transition.
 - **Describes the New Phase**: The specific value and nature of the order parameter describe the characteristics of the new, less symmetric phase.
 
 ### Examples of Symmetry Breaking

@@ -22,6 +22,6 @@ Morse homology is a powerful tool in [[Differential Topology]] and [[Algebraic T
 
 - **Equivalence to [[Singular Homology]]**: A fundamental result is that Morse homology is equivalent to singular homology, a more traditional, purely topological way to compute homology. This equivalence not only validates Morse homology as a robust tool but also enriches the understanding of singular homology through geometric intuition.
 
-- **Applications Across Mathematics**: Beyond its intrinsic mathematical interest, Morse homology has implications for [[symplectic topology]], [[complex analysis]], and mathematical physics, particularly in the study of space-time manifolds, string theory, and quantum field theory.
+- **Applications Across Mathematics**: Beyond its intrinsic mathematical interest, Morse homology has implications for [[symplectic topology]], [[Complex Analysis]], and mathematical physics, particularly in the study of space-time manifolds, string theory, and quantum field theory.
 
 Morse homology epitomizes the beauty of mathematical interconnections, seamlessly tying together [[differential geometry]], topology, and algebraic structures to illuminate the underlying structure of manifolds. Its development has broadened the scope of [[Morse theory]] and reinforced the unity of mathematics by demonstrating how algebraic and geometric perspectives on [[topology]] complement and enrich each other.

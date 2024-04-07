@@ -1,4 +1,4 @@
-Twistor theory is a mathematical framework in theoretical physics that proposes a novel approach to the description of the fundamental structure of spacetime and fields on it, particularly in the context of quantum mechanics and general relativity. Developed by [[Roger Penrose]] in the 1960s, twistor theory seeks to provide a more unified and deeper understanding of the universe by replacing the standard descriptions of particles and spacetime with more geometric concepts derived from [[complex analysis]] and [[algebraic geometry]].
+Twistor theory is a mathematical framework in theoretical physics that proposes a novel approach to the description of the fundamental structure of spacetime and fields on it, particularly in the context of quantum mechanics and general relativity. Developed by [[Roger Penrose]] in the 1960s, twistor theory seeks to provide a more unified and deeper understanding of the universe by replacing the standard descriptions of particles and spacetime with more geometric concepts derived from [[Complex Analysis]] and [[algebraic geometry]].
 
 ### Basic Principles
 

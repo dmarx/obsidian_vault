@@ -24,7 +24,7 @@ Geometric group theory is an interdisciplinary field of mathematics that studies
 
 - **Topological and Algebraic Properties**: Geometric group theory provides insights into the [[cohomology]], [[Homology Groups]], and other [[topological invariants]] of groups, as well as their algebraic properties such as [[solvability]] and [[torsion]].
 
-- **[[Kleinian Groups]] and [[Fuchsian Groups]]**: These are examples of groups acting as [[isometries]] of [[hyperbolic spaces]], with connections to [[complex analysis]] and the [[Reimannian Manifolds|theory of Riemann surfaces]].
+- **[[Kleinian Groups]] and [[Fuchsian Groups]]**: These are examples of groups acting as [[isometries]] of [[hyperbolic spaces]], with connections to [[Complex Analysis]] and the [[Reimannian Manifolds|theory of Riemann surfaces]].
 
 - **[[Automatic Groups]]**: The study of automatic groups, which have finite presentations amenable to algorithmic analysis, intersects with [[theoretical computer science]], providing tools for solving the [[word problem]] and other [[decision problems in groups]].
 

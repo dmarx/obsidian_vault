@@ -7,7 +7,7 @@ tags:
 see also:
 - [[Central Limit Theorem]] - ChatGPT says not directly related, but frankly I don't believe them.
 
-Harmonic functions, which satisfy [[Laplace's equation]] $\Delta f = 0$, are indeed remarkable for their properties, with the mean value property being one of their most celebrated characteristics. This property has profound implications in both theoretical and applied mathematics, particularly in [[potential theory]], [[complex analysis]], and [[partial differential equations]]. Let's delve deeper into the mean value property and its significance.
+Harmonic functions, which satisfy [[Laplace's equation]] $\Delta f = 0$, are indeed remarkable for their properties, with the mean value property being one of their most celebrated characteristics. This property has profound implications in both theoretical and applied mathematics, particularly in [[potential theory]], [[Complex Analysis]], and [[partial differential equations]]. Let's delve deeper into the mean value property and its significance.
 
 ### [[Mean Value Property]]
 

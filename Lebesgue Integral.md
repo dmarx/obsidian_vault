@@ -18,10 +18,10 @@ The foundation of the Lebesgue integral is measure theory. A measure on a set is
 
 - **[[Dominated Convergence Theorem]]:** If $\{f_n\}$ is a sequence of measurable functions that converges almost everywhere to a function $f$, and there exists an integrable function $g$ such that $|f_n| \leq g$ for all $n$, then $f$ is integrable, and the integral of $f_n$ converges to the integral of $f$.
 
-- **Fatou's Lemma:** For any sequence of non-negative measurable functions $\{f_n\}$, the integral of the pointwise limit infimum of $f_n$ is less than or equal to the limit infimum of the integrals of $f_n$.
+- **[[Fatou's Lemma]]:** For any sequence of non-negative measurable functions $\{f_n\}$, the integral of the pointwise limit infimum of $f_n$ is less than or equal to the limit infimum of the integrals of $f_n$.
 
 ### Advantages Over Riemann Integral
 
 The Lebesgue integral's major advantage is its ability to integrate a wider range of functions, especially those that are problematic for the Riemann integral due to discontinuities or other irregularities. Its framework also facilitates the development of advanced mathematical concepts and techniques, particularly in the analysis of functions and their properties.
 
-Furthermore, the Lebesgue integral's properties, especially the Dominated Convergence Theorem, provide powerful tools for exchanging limits and integrals, which is essential in many areas of analysis and applied mathematics. This makes the Lebesgue integral a fundamental concept in modern mathematics, underpinning many theoretical and applied areas of research.
+Furthermore, the Lebesgue integral's properties, especially the [[Dominated Convergence Theorem]], provide powerful tools for exchanging limits and integrals, which is essential in many areas of analysis and applied mathematics. This makes the Lebesgue integral a fundamental concept in modern mathematics, underpinning many theoretical and applied areas of research.

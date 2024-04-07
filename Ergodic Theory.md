@@ -1,4 +1,4 @@
-Ergodic theory is a branch of mathematics that studies dynamical systems with an invariant measure and related problems. It lies at the intersection of several areas of mathematics, including [[measure theory]], [[probability theory]], and [[statistical mechanics]], and has profound implications in fields as diverse as number theory, quantum mechanics, and [[information theory]]. The core idea of ergodic theory is to understand the long-term behavior of a dynamical system by analyzing its trajectories and invariant measures.
+Ergodic theory is a branch of mathematics that studies dynamical systems with an invariant measure and related problems. It lies at the intersection of several areas of mathematics, including [[measure theory]], [[probability theory]], and [[statistical mechanics]], and has profound implications in fields as diverse as number theory, quantum mechanics, and [[Information Theory]]. The core idea of ergodic theory is to understand the long-term behavior of a dynamical system by analyzing its trajectories and invariant measures.
 
 ### [[Dynamical Systems]] and [[Invariant Measure]]
 

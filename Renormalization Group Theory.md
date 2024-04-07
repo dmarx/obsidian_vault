@@ -116,7 +116,7 @@ In condensed matter physics, RG theory has been instrumental in understanding ph
 
 ### Ecology
 
-In ecology, the concept of scale-free networks can explain the [[resilience]] and vulnerability of [[ecosystems]]. For instance, the [[interaction networks]] between species (e.g., [[food webs]]) often exhibit scale-free characteristics, helping to understand how ecosystems can remain stable despite changes in biodiversity or the environment. Insights from RG theory also contribute to understanding spatial patterns and [[population dynamics]] over different scales, aiding in conservation efforts and habitat management.
+In ecology, the concept of scale-free networks can explain the [[resilience]] and vulnerability of [[ecosystems]]. For instance, the [[interaction networks]] between species (e.g., [[food webs]]) often exhibit scale-free characteristics, helping to understand how ecosystems can remain stable despite changes in biodiversity or the environment. Insights from RG theory also contribute to understanding spatial patterns and [[Population Dynamics]] over different scales, aiding in conservation efforts and habitat management.
 
 ### [[Economics]]
 

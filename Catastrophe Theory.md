@@ -10,7 +10,7 @@ Catastrophe theory is a branch of mathematics that studies and classifies phenom
 
 ### Fundamental Concepts
 
-Catastrophe theory is built upon the study of [[dynamical systems]], particularly the [[critical points]] of [[potential functions]] and how these points change as parameters are varied. The theory focuses on [[gradient dynamical systems]], described by [[potential functions]] $V: \mathbb{R}^n \to \mathbb{R}$, and analyzes the [[topology]] of these functions to understand the discontinuities in the behavior of their minima.
+Catastrophe theory is built upon the study of [[dynamical systems]], particularly the [[critical points]] of [[potential functions]] and how these points change as parameters are varied. The theory focuses on [[Gradient Dynamical Systems]], described by [[potential functions]] $V: \mathbb{R}^n \to \mathbb{R}$, and analyzes the [[Topology On A Set|topology]] of these functions to understand the discontinuities in the behavior of their minima.
 
 ### Classification of Catastrophes
 
@@ -48,3 +48,6 @@ The analysis often involves calculating the gradient and [[Hessian matrix]] of t
 ### Conclusion
 
 Catastrophe theory provides a powerful lens through which to view and analyze systems that exhibit sudden, discontinuous changes in behavior in response to smooth, continuous changes in underlying parameters. While its initial reception in the broader scientific community was mixed, due in part to overambitious applications, the core mathematical concepts of catastrophe theory remain valuable tools for understanding complex, nonlinear phenomena across a wide range of disciplines.
+
+---
+

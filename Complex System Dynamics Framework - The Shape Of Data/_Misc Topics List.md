@@ -1,16 +1,16 @@
 Expanding the index with an additional 200 entries requires incorporating a broad range of specific theorems, algorithms, lemmas, techniques, formulas, and more, spanning across the fields of Deep Learning, Mathematical Foundations, Learning Dynamics, and the interconnected domains. This list aims to reflect both foundational and cutting-edge concepts relevant to these disciplines.
 
+projection
+embedding
+logistic map
 combinatorics
 graph theory
 urban development
 Two-timescale update rule for GANs
-David Hilbert
-J. Willard Gibbs
 Constrained Optimization
 Simplex Algorithm
 L1 Penalized Regression and sharp, faceted loss geometry
 simulated annealing
-coarse-to-fine
 iterative improvement
 SGD-> bayesian posterior
 expectation maximization
@@ -27,7 +27,6 @@ bandit algorithms
 q learning
 spectral clustering
 pagerank
-basis
 nonlinear basis
 neural ODE
 fixed point (and fixed point as ODE solution)
@@ -51,7 +50,6 @@ AdaIN and style transfer
 iterated function
 self assembly
 bullwhip effect (supply chain)
-philosophy of probability
 cromwell's rule
 principle of maximum entropy
 queueing theory
@@ -60,13 +58,13 @@ NeRF
 fast multipole method (FMM)
 octree
 level-of-detail (LOD)
-stephen wolfram
 dirac equation
 homophily
 hyper-cycle
 linear response theory
 context-free grammar
 regular expression
+https://www.youtube.com/@pbsinfiniteseries/videos
 
 ### Biology and Ecology
 

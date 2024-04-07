@@ -1,6 +1,5 @@
 ---
 tags:
-  - green
   - root
 ---
 
@@ -44,7 +43,7 @@ The rate of phase change propagation in a material, especially during processes 
 
 1. **Sensitivity to Initial Conditions**: Just as chaotic systems are sensitive to their initial conditions, the initial state of a material (including temperature distribution, existing defects, or impurity concentration) can dramatically influence the path and rate of a phase change. Small differences in initial conditions can lead to vastly different microstructures and properties.
 
-2. **[[Non-Linear Dynamics]]**: Phase change processes often involve non-linear dynamics, especially when multiple phases interact or when the propagation of the phase boundary involves complex feedback mechanisms (e.g., latent heat release during solidification). These non-linear interactions can lead to unpredictable and complex patterns in the resulting material structure, reminiscent of chaotic behavior.
+2. **[[NonLinear Dynamics]]**: Phase change processes often involve non-linear dynamics, especially when multiple phases interact or when the propagation of the [[phase boundary]] involves complex feedback mechanisms (e.g., latent heat release during solidification). These non-linear interactions can lead to unpredictable and complex patterns in the resulting material structure, reminiscent of chaotic behavior.
 
 3. **[[Fractal Structures]]**: In some cases, the interface between phases during a transition can develop fractal structures. This is particularly evident in dendritic solidification, where the solid-liquid interface forms intricate, tree-like patterns. The formation of these patterns can be influenced by boundary conditions and is an example of how chaos theory principles manifest in material science.
 

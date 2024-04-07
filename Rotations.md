@@ -1,5 +1,5 @@
 see also:
-- [[Rotation Mattrices]]
+- [[Rotation Matrices]]
 - [[Camera Matrix]]
 - [[Quaternion]]
 - [[Complex Analysis]]
@@ -8,8 +8,5 @@ see also:
 - [[Harmonic Analysis]]
 - [[Periodicity]]
 - [[Spinors]] - https://www.youtube.com/watch?v=b7OIbMCIfs4
-- [[SO(3)]]
-- [[SO(2)]]
-- [[SO(n)]]
 - [[Special Orthogonal group]]
-- 
+- [[Circle Group]]

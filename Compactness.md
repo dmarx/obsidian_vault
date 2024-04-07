@@ -3,7 +3,7 @@ tags:
   - needs-outlinks
   - green
 ---
-Compactness is a fundamental concept in topology, analysis, and related areas of mathematics, characterizing spaces that, in a certain sense, behave like finite sets despite possibly being infinite. It is a property that captures the essence of "closeness" and "boundedness" in a topological setting and has profound implications across various branches of mathematics.
+Compactness is a fundamental concept in [[topology]], analysis, and related areas of mathematics, characterizing spaces that, in a certain sense, behave like finite sets despite possibly being infinite. It is a property that captures the essence of "closeness" and "boundedness" in a topological setting and has profound implications across various branches of mathematics.
 
 ### Definition
 
@@ -11,9 +11,9 @@ A topological space is called **compact** if every open cover of the space has a
 
 ### Properties and Implications
 
-1. **Heine-Borel Theorem**: In \(\mathbb{R}^n\), a subset is compact if and only if it is closed and bounded. This result bridges the intuitive notion of compactness with the practical aspects of Euclidean spaces.
+1. **[[Heine-Borel Theorem]]**: In \(\mathbb{R}^n\), a subset is compact if and only if it is closed and bounded. This result bridges the intuitive notion of compactness with the practical aspects of [[Euclidean Space|Euclidean spaces]].
 
-2. **Sequential Compactness**: A space is sequentially compact if every sequence of points in the space has a subsequence that converges to a point within the space. For metric spaces, compactness and sequential compactness are equivalent, but this is not generally true in all topological spaces.
+2. **[[Sequential Compactness]]**: A space is sequentially compact if every sequence of points in the space has a subsequence that converges to a point within the space. For [[Metric Space|metric spaces]], compactness and sequential compactness are equivalent, but this is not generally true in all [[Topological Space|topological spaces]].
 
 3. **Limit Point Compactness**: A space is limit point compact if every infinite subset has a limit point in the space. This notion is closely related to sequential compactness and is equivalent to compactness in metric spaces.
 
@@ -29,9 +29,9 @@ A topological space is called **compact** if every open cover of the space has a
 
 - **[[Functional Analysis]]**: Compactness is a key concept in the spectral theory of operators, particularly in the study of compact operators, which are operators that map bounded sets to relatively compact sets, playing a vital role in the analysis of linear operators on function spaces.
 
-### Compactification
+### [[Compactification]]
 
-The process of compactification involves extending a space by adding "points at infinity" or other constructions to make it compact without significantly altering its original structure. Compactification techniques are essential in various areas, such as algebraic geometry (projective compactification) and the study of dynamical systems (one-point compactification or Alexandroff extension).
+The process of compactification involves extending a space by adding "points at infinity" or other constructions to make it compact without significantly altering its original structure. Compactification techniques are essential in various areas, such as algebraic geometry ([[projective compactification]]) and the study of dynamical systems (one-point compactification or [[Alexandroff extension]]).
 
 ### Conclusion
 

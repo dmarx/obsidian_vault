@@ -5,6 +5,7 @@ tags:
 ---
 see also:
 - [[Set Theory]]
+- [[Borel Sets]]
 
 Measure theory is a branch of mathematics that studies the concept of measure, which is a systematic way to assign a number to a subset of a given space, somewhat analogous to the general concept of "size". This theory is fundamental in [[Probability Theory]], real analysis, and is used extensively in fields such as mathematical physics, economics, and engineering. It provides the foundation for defining and understanding concepts like length, area, and volume in a rigorous mathematical framework.
 

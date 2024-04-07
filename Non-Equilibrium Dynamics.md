@@ -1,7 +1,7 @@
 ---
 tags:
   - gold
-  - green
+  - empty-hub
 ---
 
 Non-equilibrium dynamics encompasses the study of systems that are not in thermodynamic equilibrium, where external forces, gradients, or fluxes drive the system, or internal processes lead to time-dependent changes. Unlike equilibrium statistical mechanics, where systems are characterized by a lack of macroscopic change over time, non-equilibrium systems exhibit temporal or spatial changes in macroscopic properties, leading to rich and complex behaviors.
@@ -12,7 +12,7 @@ Non-equilibrium dynamics encompasses the study of systems that are not in thermo
 These are states where a system has constant macroscopic properties over time despite the ongoing external driving forces or internal processes that prevent it from reaching equilibrium. Examples include temperature gradients causing constant heat flow or chemical reactions held away from equilibrium by continuous supply of reactants.
 
 #### [[Transport Phenomena]]
-These involve the study of how quantities such as mass, energy, and momentum are transferred within physical systems driven out of equilibrium. Key examples include diffusion, thermal conduction, and viscosity. The underlying principles are often described by equations like [[Fick's laws]] ([[diffusion]]), [[Fourier's law]] ([[heat conduction]]), and the [[Navier-Stokes equations]] (fluid dynamics).
+These involve the study of how quantities such as mass, energy, and momentum are transferred within physical systems driven out of equilibrium. Key examples include diffusion, thermal conduction, and viscosity. The underlying principles are often described by equations like [[Fick's laws of diffusion]], [[Fourier's Law of Heat Conduction]], and the [[Navier-Stokes equations]] (fluid dynamics).
 
 #### Relaxation to [[Equilibrium]]
 This area focuses on how systems approach equilibrium from a non-equilibrium state, involving processes such as [[relaxation phenomena]], where systems return to equilibrium states, and how the rate of return and pathways taken are governed by the system's dynamics and interactions.
@@ -25,9 +25,9 @@ This involves systems that are not only out of equilibrium but are also subject 
 
 ### Mathematical and Computational Tools
 
-- **[[Non-Linear Differential Equations]]**: Many non-equilibrium phenomena are described by non-linear [[partial differential equations]], which can exhibit a wide range of behaviors including [[shock waves]], [[solitons]], and [[chaos]].
+- **[[Non-Linear Differential Equations]]**: Many non-equilibrium phenomena are described by non-linear [[partial differential equations]], which can exhibit a wide range of behaviors including [[shock waves]], [[solitons]], and [[Chaos Theory|chaos]].
 
-- **[[Stochastic Processes]]**: Randomness and fluctuations play a crucial role in non-equilibrium systems. [[Stochastic differential equations]], [[Langevin Dynamics|Langevin]] and [[Fokker-Planck equations]], and [[Monte Carlo simulations]] are widely used to model and understand these effects.
+- **[[Stochastic Processes]]**: Randomness and fluctuations play a crucial role in non-equilibrium systems. [[Stochastic differential equations]], [[Langevin Dynamics|Langevin]] and [[Fokker-Planck Equation|Fokker-Planck equations]], and [[Monte Carlo simulations]] are widely used to model and understand these effects.
 
 - **Complex Systems and Network Theory**: The study of complex networks and systems with many interacting components, which may exhibit emergent behavior not predictable from the properties of individual components, is crucial in understanding non-equilibrium dynamics in biological, ecological, and social systems.
 

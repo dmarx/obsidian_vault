@@ -22,7 +22,7 @@ This construction leads to a wide variety of sets being considered Borel, includ
 
 ### Significance and Applications
 
-- **Measure Theory**: Borel sets are crucial in the development of Lebesgue measure, which extends the intuitive concept of length and volume to a wider class of sets. The Lebesgue measure of any Borel set is well-defined, making Borel sets fundamental to the theory of integration and measure.
+- **Measure Theory**: Borel sets are crucial in the development of [[Lebesgue measure]], which extends the intuitive concept of length and volume to a wider class of sets. The Lebesgue measure of any Borel set is well-defined, making Borel sets fundamental to the theory of integration and measure.
 
 - **Probability Theory**: In probability theory, Borel sets provide the necessary structure for defining probability spaces over real numbers or other continuous sample spaces. Events in such spaces are often Borel sets, ensuring that probabilities can be assigned in a mathematically rigorous manner.
 

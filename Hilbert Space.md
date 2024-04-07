@@ -26,7 +26,7 @@ The norm $\|x\|$ in a Hilbert space is derived from the [[Inner Product]]: $\|x\
 
 - **[[Orthogonality]]:** Two elements $x$ and $y$ in a Hilbert space are orthogonal if $(x, y) = 0$. This concept extends the geometric notion of perpendicularity in Euclidean spaces to infinite dimensions.
 
-- **[[Orthonormal]] [[Basis]]:** A Hilbert space has an orthonormal basis $\{e_i\}_{i \in I}$ such that any $x \in H$ can be expressed as $x = \sum_{i \in I} (x, e_i) e_i$, where the series converges in the norm of $H$. Unlike bases in algebra, this sum can be infinite, reflecting the possible infinite dimensionality of Hilbert spaces.
+- **[[Orthonormal Basis]]:** A Hilbert space has an orthonormal [[basis]] $\{e_i\}_{i \in I}$ such that any $x \in H$ can be expressed as $x = \sum_{i \in I} (x, e_i) e_i$, where the series converges in the norm of $H$. Unlike bases in algebra, this sum can be infinite, reflecting the possible infinite dimensionality of Hilbert spaces.
 
 - **[[Projection]]:** For every closed subspace $M$ of a Hilbert space $H$, any element $x \in H$ can be uniquely decomposed as $x = m + n$ where $m \in M$ and $n \in M^\perp$, the orthogonal complement of $M$. This decomposition leads to the concept of the projection of $x$ onto $M$.
 

@@ -134,3 +134,35 @@ A **measure** is a systematic way to assign a non-negative number to subsets of 
 Despite these differences, the concepts of measure and metric can intersect. For instance, in measure theory, the **metric outer measure** can be constructed using a metric to define the "external size" of sets. Conversely, in a metric space, one can define measures like the **Lebesgue measure** on $\mathbb{R}^n$ or the **Hausdorff measure** that rely on the metric to quantify the size of sets in a way that aligns with our geometric intuition.
 
 Understanding both metrics and measures is crucial for navigating the vast landscape of mathematical analysis, each illuminating different but equally fundamental aspects of the structure and behavior of mathematical spaces.
+
+---
+
+>> analysis on metric spaces
+
+Analysis on metric spaces extends the concepts and techniques of mathematical analysis, traditionally developed in the setting of the real number line $\mathbb{R}$ or the Euclidean space $\mathbb{R}^n$, to more general spaces endowed with a notion of distance. This generalization is crucial for studying the structure and behavior of spaces and functions in settings that are not necessarily linear or flat, accommodating a wide variety of geometrical contexts.
+
+### Metric Spaces: Basics
+
+A **metric space** $(X, d)$ consists of a set $X$ and a metric $d: X \times X \to [0, \infty)$ that assigns a distance between any two points in $X$. The metric $d$ must satisfy the following properties for all $x, y, z \in X$:
+
+1. **Non-negativity**: $d(x, y) \geq 0$ and $d(x, y) = 0$ if and only if $x = y$.
+2. **Symmetry**: $d(x, y) = d(y, x)$.
+3. **Triangle Inequality**: $d(x, z) \leq d(x, y) + d(y, z)$.
+
+These properties ensure that the metric $d$ provides a meaningful concept of distance within the space $X$.
+
+### Key Concepts in Analysis on Metric Spaces
+
+- **[[Continuity]]**: A function $f: (X, d_X) \to (Y, d_Y)$ between two metric spaces is continuous if, for every point $x_0 \in X$ and every $\epsilon > 0$, there exists a $\delta > 0$ such that for all $x \in X$ with $d_X(x, x_0) < \delta$, we have $d_Y(f(x), f(x_0)) < \epsilon$. This generalizes the familiar notion of continuity from calculus, adapting it to settings beyond $\mathbb{R}^n$.
+
+- **Convergence and [[Completeness]]**: A sequence $\{x_n\}$ in a metric space $(X, d)$ converges to a point $x \in X$ if, for every $\epsilon > 0$, there exists an $N$ such that for all $n \geq N$, $d(x_n, x) < \epsilon$. A metric space is **complete** if every Cauchy sequence (a sequence where the elements get arbitrarily close to each other as the sequence progresses) in the space converges to a limit within the space.
+
+- **[[Compactness]]**: A subset of a metric space is compact if every open cover of the set has a finite subcover. This extends the notion of compactness from Euclidean spaces, which, in that setting, is equivalent to a set being closed and bounded.
+
+- **[[Uniform Spaces]]**: Extending the concept of uniform continuity and completeness to settings beyond metric spaces, uniform spaces provide a framework for discussing uniform properties without a specific metric, relying instead on a more general notion of uniformity.
+
+### Applications and Importance
+
+Analysis on metric spaces underpins much of modern mathematics, including differential geometry, functional analysis, and topology. It provides a foundational language for discussing convergence, continuity, and other analytical properties in a wide range of contexts. Notably, it allows for the analysis of functions on fractals, graphs, and other complex structures, where traditional Euclidean methods are insufficient. 
+
+Furthermore, this framework is crucial for understanding the behavior of spaces and functions in many areas of mathematics and physics, especially in the study of manifolds, metric geometry, and geometric group theory, among others. By generalizing the principles of calculus and analysis to more abstract settings, analysis on metric spaces significantly broadens the scope and power of mathematical investigation.

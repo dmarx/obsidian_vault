@@ -1,6 +1,7 @@
 ---
 tags:
   - green
+  - gold
 ---
 > The predator-prey model, often represented by the Lotka-Volterra equations, describes the dynamics between two species: one serving as a predator and the other as its prey.
 

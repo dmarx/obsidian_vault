@@ -1,7 +1,7 @@
 ---
 tags:
-  - green
   - empty-hub
+  - gold
 ---
 ### Continuous Symmetry Groups
 

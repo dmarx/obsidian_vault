@@ -1,4 +1,4 @@
-Informational entropy, often simply called entropy in the context of information theory, is a measure of the unpredictability or uncertainty associated with a random variable. Introduced by [[Claude Shannon]] in his seminal 1948 paper, "[[A Mathematical Theory of Communication]]," entropy has become a foundational concept in [[information theory]], with applications ranging from telecommunications to thermodynamics, cryptography, and complexity theory.
+Informational entropy, often simply called entropy in the context of information theory, is a measure of the unpredictability or uncertainty associated with a random variable. Introduced by [[Claude Shannon]] in his seminal 1948 paper, "[[A Mathematical Theory of Communication]]," entropy has become a foundational concept in [[Information Theory]], with applications ranging from telecommunications to thermodynamics, cryptography, and complexity theory.
 
 ### Mathematical Definition
 

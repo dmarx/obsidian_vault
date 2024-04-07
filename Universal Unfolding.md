@@ -29,7 +29,7 @@ These examples illustrate how universal unfoldings extend the original function 
 
 ### Applications
 
-Universal unfoldings are not only of theoretical interest; they have practical applications across various fields where understanding the stability and bifurcations of systems is crucial. This includes physics (e.g., [[phase transitions]], optical phenomena), engineering (e.g., [[structural stability]], [[control systems]]), economics (e.g., [[market equilibria]], [[catastrophic shifts]]), and biology (e.g., [[population dynamics]], [[morphogenesis]]).
+Universal unfoldings are not only of theoretical interest; they have practical applications across various fields where understanding the stability and bifurcations of systems is crucial. This includes physics (e.g., [[phase transitions]], optical phenomena), engineering (e.g., [[structural stability]], [[control systems]]), economics (e.g., [[market equilibria]], [[catastrophic shifts]]), and biology (e.g., [[Population Dynamics]], [[morphogenesis]]).
 
 ### Mathematical Challenges and Developments
 
