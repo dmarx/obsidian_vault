@@ -1,5 +1,6 @@
 Expanding the index with an additional 200 entries requires incorporating a broad range of specific theorems, algorithms, lemmas, techniques, formulas, and more, spanning across the fields of Deep Learning, Mathematical Foundations, Learning Dynamics, and the interconnected domains. This list aims to reflect both foundational and cutting-edge concepts relevant to these disciplines.
 
+combinatorics
 graph theory
 urban development
 Two-timescale update rule for GANs
@@ -64,7 +65,6 @@ dirac equation
 homophily
 hyper-cycle
 linear response theory
-type theory
 context-free grammar
 regular expression
 

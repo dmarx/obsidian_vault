@@ -25,7 +25,7 @@ Tropical geometry has found applications across a range of mathematical discipli
 
 - **[[Enumerative Algebraic Geometry]]**: Tropical geometry provides tools for counting the number of curves of a given degree passing through a specified set of points, a problem that is generally much harder in the classical setting.
 
-- **[[Mirror Symmetry]]**: Connections between tropical geometry and mirror symmetry (a duality between pairs of [[Calabi-Yau manifolds]]) have been explored, leading to new insights into string theory and theoretical physics.
+- **[[Mirror Symmetry]]**: Connections between tropical geometry and mirror symmetry (a duality between pairs of [[Calabi-Yau Manifolds]]) have been explored, leading to new insights into string theory and theoretical physics.
 
 - **Computational Geometry and Optimization**: The combinatorial nature of tropical geometry, together with its geometric interpretations, has implications for algorithms in computational geometry and optimization problems.
 
