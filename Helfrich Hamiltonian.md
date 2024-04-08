@@ -20,7 +20,7 @@ where:
 - $H$ is the mean curvature, defined as the average of the principal curvatures, $k_1$ and $k_2$, of the membrane surface at a point: $H = \frac{1}{2}(k_1 + k_2)$.
 - $K$ is the Gaussian curvature, given by the product of the principal curvatures: $K = k_1k_2$.
 
-The first term in the Helfrich Hamiltonian represents the energy due to bending of the membrane, while the second term accounts for changes in the topological characteristics of the membrane. It's important to note that, due to the [[Gauss-Bonnet theorem]], the integral of the [[Gaussian curvature]] over a closed surface is a [[topological invariant]], which means it remains constant under continuous deformations of the surface.
+The first term in the Helfrich Hamiltonian represents the energy due to bending of the membrane, while the second term accounts for changes in the topological characteristics of the membrane. It's important to note that, due to the [[Gauss-Bonnet theorem]], the integral of the Gaussian [[curvature]] over a [[closedness|closed]] surface is a [[Topological Invariants|topological invariant]], which means it remains constant under continuous deformations of the surface.
 
 ### Physical Implications and Applications
 

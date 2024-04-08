@@ -7,6 +7,11 @@ see also:
 - [[Oliver Sacks]]
 - [[Douglas Hofstadter]]
 - [[Karl Friston]]
+- [[Pattern Formation]]
+- [[Apoptosis]]
+- [[Organization As Entity]]
+- [[organizational behavior]]
+- [[Self-Organization]]
 
 studies on memory, decision-making, and consciousness show that these processes are not monolithic but involve complex interactions between different brain regions, supporting the idea of a [[Multiplicitous Self]]
 

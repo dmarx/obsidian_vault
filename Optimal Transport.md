@@ -1,10 +1,14 @@
 ---
 tags:
   - gold
-  - green
+  - needs-outlinks
+  - stub
 ---
+see also:
+- [[Differential Geometry]]
+- [[Geodesics]]
 
-> Information Geometry and Optimal Transport: Alpha-divergence contributes to the understanding of the optimal transport problem, where the goal is to find the most "efficient" way to morph one distribution into another. The geometry induced by different alpha-divergences provides insights into the nature of this efficiency, whether in terms of minimal distortion (information loss) or adherence to constraints (like entropy).
+> [[Information Geometry]] and Optimal Transport: Alpha-divergence contributes to the understanding of the optimal transport problem, where the goal is to find the most "efficient" way to morph one distribution into another. The geometry induced by different alpha-divergences provides insights into the nature of this efficiency, whether in terms of minimal distortion (information loss) or adherence to constraints (like entropy).
 
 The intersection of Information Geometry and Optimal Transport through the lens of alpha-divergence illuminates intriguing aspects of how probability distributions can be transformed efficiently from one to another, highlighting the role of geometric structures in defining what "efficiency" means in this context.
 

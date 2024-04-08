@@ -11,7 +11,7 @@ The group algebra is a unifying structure in mathematics that blends [[group the
 
 ### Definition
 
-Given a group $G$ and a field $F$, the group algebra $F[G]$ is a vector space over $F$ with a [[basis]] consisting of the elements of $G$. This vector space is also equipped with a multiplication operation that extends the group operation linearly.
+Given a group $G$ and a field $F$, the group algebra $F[G]$ is a [[vector space]] over $F$ with a [[basis]] consisting of the elements of $G$. This vector space is also equipped with a multiplication operation that extends the group operation linearly.
 
 Formally, elements of $F[G]$ are formal sums of the form
 $$

@@ -1,6 +1,8 @@
 ---
 tags:
   - needs-outlinks
+  - gold
+  - root
 ---
 see also:
 - [[Decomposition]]

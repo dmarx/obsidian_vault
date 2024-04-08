@@ -2,6 +2,7 @@
 tags:
   - needs-outlinks
   - gold
+  - root
 ---
 see also:
 - [[Orthogonality]]

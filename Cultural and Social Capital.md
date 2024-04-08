@@ -1,8 +1,10 @@
 ---
 tags:
   - gold
-  - green
 ---
+see also:
+- [[Chemical Kinetics]]
+- [[Non-Equilibrium Systems]]
 
 Cultural and social capital, though not conserved in the strict physical sense, play pivotal roles in shaping social structures, dynamics, and the pathways to individual and collective success. These concepts, deeply ingrained in sociology and economics, highlight the intangible assets that individuals and communities possess, which facilitate social mobility, cooperation, and the strengthening of societal bonds. Understanding these forms of capital provides insights into the mechanisms of social cohesion, inequality, and the transmission of values and norms across generations.
 

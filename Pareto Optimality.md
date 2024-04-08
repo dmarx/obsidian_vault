@@ -1,14 +1,15 @@
 ---
 tags:
-  - green
   - gold
-  - needs-outlinks
+  - empty-hub
 ---
 see also:
 - [[Resource Allocation]]
 - [[Resource Distribution]]
+- [[Optimization]]
+- [[Game Theory]]
 
-Pareto Optimality, named after the Italian economist Vilfredo Pareto, is a concept within the field of economics and game theory that represents a state of allocation of resources from which it is impossible to reallocate so as to make any one individual or preference criterion better off without making at least one individual or preference criterion worse off. This concept is a fundamental criterion for efficiency in economics and game theory, indicating an optimal distribution of resources in a society or system, assuming that utility or benefit can be measured and compared across individuals or entities.
+Pareto Optimality, named after the Italian economist [[Vilfredo Pareto]], is a concept within the field of economics and game theory that represents a state of allocation of resources from which it is impossible to reallocate so as to make any one individual or preference criterion better off without making at least one individual or preference criterion worse off. This concept is a fundamental criterion for [[efficiency]] in [[economics]] and [[game theory]], indicating an [[optimal distribution of resources in a society or system]], [[assuming that utility or benefit can be measured and compared across individuals or entities]].
 
 ### Formal Definition
 
@@ -31,8 +32,8 @@ $$
 
 ### Mathematical Extensions and Applications
 
-Pareto Optimality extends beyond simple resource allocation problems to more complex scenarios, including public economics, environmental economics, and multi-objective optimization in engineering and management science. For instance, in environmental economics, an allocation of environmental resources is Pareto optimal if no environmental quality improvement can be achieved without worsening economic output or vice versa.
+Pareto Optimality extends beyond simple resource allocation problems to more complex scenarios, including [[public economics]], [[environmental economics]], and [[multi-objective optimization]] in engineering and [[management science]]. For instance, in environmental economics, an allocation of environmental resources is Pareto optimal if no environmental quality improvement can be achieved without worsening economic output or vice versa.
 
 In multi-objective optimization, a solution is considered Pareto optimal if it is not dominated by any other solution in all objectives. Mathematically, a solution $x^*$ is Pareto optimal if there does not exist another solution $x$ such that $f_i(x) \leq f_i(x^*)$ for all objectives $i$ and $f_j(x) < f_j(x^*)$ for at least one objective $j$, where $f_i(x)$ is the value of objective $i$ at solution $x$.
 
-Pareto Optimality represents a foundational principle in understanding the trade-offs and potential improvements in systems involving multiple agents or criteria, highlighting the complexities of achieving efficiency and the challenges inherent in balancing efficiency with other [[societal values]] such as equity and [[justice]].
+Pareto Optimality represents a foundational principle in understanding the [[trade-offs]] and potential improvements in systems involving multiple agents or criteria, highlighting the complexities of achieving efficiency and the challenges inherent in balancing efficiency with other [[societal values]] such as [[equity]] and [[justice]].

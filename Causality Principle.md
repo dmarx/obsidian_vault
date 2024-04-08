@@ -1,9 +1,11 @@
 ---
 tags:
-  - green
   - gold
   - empty-hub
 ---
+see also:
+- [[Philosophy of Probability]]
+
 The causality principle in physics is a fundamental concept stating that [[cause-and-effect relationships]] proceed in a forward direction in time: an effect cannot occur before its cause. This principle underpins the temporal structure of all physical theories, ensuring that predictions and explanations adhere to a logical sequence where causes lead to effects. [[Causality]] is deeply embedded in the mathematical formulations of both classical and quantum theories, influencing how we interpret interactions, fields, and even the structure of spacetime itself.
 
 ### Manifestations and Implications of Causality

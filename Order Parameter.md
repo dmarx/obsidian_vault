@@ -1,3 +1,10 @@
+---
+tags:
+  - gold
+---
+see also:
+- [[Rank]]
+
 > Central to Landau theory is the concept of an order parameter, a quantity that measures the degree of order across a phase transition. 
 
 The order parameter is a fundamental concept in Landau theory and in the study of phase transitions and critical phenomena. It serves as a quantitative measure that distinguishes between different phases of a system, especially near critical points where phase transitions occur. The order parameter typically changes in a characteristic way as the system undergoes a transition from one phase to another, providing a clear signal of the transition and its nature. Let's explore this concept in more detail:

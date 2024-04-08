@@ -3,6 +3,18 @@ tags:
   - gold
   - green
 ---
+see also:
+- [[Bayesian Inference]]
+- [[Game Theory]]
+- [[Mathematical Ecology]]
+- [[Social Networks]]
+- [[Information Flow in Social Networks]]
+- [[Probability Measure]]
+- [[Probability Theory]]
+- [[probability space]]
+- [[Probability Simplex]]
+- [[Probability as Propensity]]
+- 
 
 The philosophy of probability is a branch of philosophy concerned with the analysis and interpretation of probability and its implications for our understanding of the world. It addresses questions about the nature of probability, how probabilities are determined and interpreted, and how probability theory relates to reality. There are several key interpretations or theories of probability within this philosophical domain, each offering a different perspective on what probabilities represent and how they should be understood. Below, we'll explore some of the main interpretations.
 

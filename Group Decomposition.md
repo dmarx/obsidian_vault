@@ -1,6 +1,7 @@
 ---
 tags:
   - gold
+  - needs-outlinks
 ---
 
 The decomposition of representations of a finite group into irreducible components is a central theme in [[representation theory]], with profound implications for understanding the symmetry and structure of both mathematical objects and physical systems. This decomposition leverages the powerful framework of [[character theory]], specifically the [[Orthogonality relations for the characters of irreducible representations of finite groups|orthogonality relations]] of characters, to break down complex representations into simpler, irreducible parts.

@@ -10,6 +10,9 @@ see also:
 - [[Pattern Formation]]
 - [[Emergence]]
 - [[Collective Behavior]]
+- [[Tradition]]
+- [[Information Transmission]]
+- [[Mathematical Ecology]]
 
 >>biomimicry in engineering and design
 

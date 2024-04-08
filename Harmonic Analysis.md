@@ -1,8 +1,10 @@
 ---
 tags:
-  - green
+  - root
 ---
-
+see also:
+- [[Peter-Weyl Theorem]]
+- [[Pontryagin Duality]]
 Harmonic analysis is a branch of mathematics that studies the representation of functions or signals as the superposition of basic waves. It investigates and generalizes the notions of Fourier series and Fourier transforms. Harmonic analysis is deeply rooted in the study of periodic functions and their expansions in trigonometric series, but it extends far beyond to more general functions and transforms, as well as to the analysis on different types of groups and spaces.
 
 ### Key Concepts and Tools

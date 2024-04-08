@@ -1,5 +1,6 @@
 see also:
 - [[Linear Algebra]]
+- [[Order Parameter]]
 
 In mathematics, the concept of "rank" is utilized in various contexts, such as matrices, tensors, and abstract algebra, each with a slightly different definition depending on the structure being considered. However, at its core, rank is a measure of the [[dimensionality]] or the degree of complexity of the mathematical object in question. Here, we'll focus on tensor rank, while also touching upon matrix rank for foundational understanding.
 
