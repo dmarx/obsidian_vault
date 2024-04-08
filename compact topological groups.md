@@ -6,6 +6,7 @@ tags:
 see also:
 - [[Orthogonality]]
 - [[Locally Compact Abelian Groups]]
+- [[Group Representation Theory]]
 
 Compact topological groups are a fundamental object of study within the intersection of topology and algebra. These groups are both topological spaces and groups, where the group operations (multiplication and inversion) are continuous with respect to the topology, and the topology itself is compact, meaning every open cover of the space has a finite subcover. The compactness property imbues these groups with many powerful structural and analytical properties, making them a rich area of research with applications in various mathematical and physical theories.
 

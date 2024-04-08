@@ -13,3 +13,29 @@ For research archive:
 
 1. autoURI plugin thing: grab arxiv URL from clipboard.
 
+---
+
+For development of this wiki:
+- extract and dedupe nodeset and skeleton graph
+- apply templated prompts over node classes to develop content
+
+prompting ideas
+- key terms
+- core ideas
+- implications
+- applications
+- modern developments
+- mathematical formalization
+- important relations (query neighborhood, prompt for elaboration on respective relationships)
+- RAG over canonical content
+	- wikipedia
+	- nlab
+	- open textbooks
+
+---
+
+auto page numbers
+auto distance from root (level sets of topic "depth")
+- assign each root a depth and use those as levelset prototypes
+- identify other "prototype" nodes and assign them fixed depths as levelset prototypes (as if they were roots)
+- 

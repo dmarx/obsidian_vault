@@ -1,11 +1,11 @@
 ---
 tags:
-  - green
   - needs-outlinks
   - gold
 ---
 see also:
 - [[Fourier's Law of Heat Conduction]]
+- see also [[Ricci Flow]] - generalitzation
 
 The heat equation is a [[Fundamental Partial Differential Equations|fundamental partial differential equation]] (PDE) in the field of mathematics and physics that describes how heat (or some analogous quantity) distributes itself over time in a given region. It is a cornerstone of classical heat conduction theory and plays a crucial role in various applications, including [[diffusion processes]], financial mathematics (e.g., the [[Black-Scholes equation]] for option pricing), and even in image processing techniques.
 

@@ -1,3 +1,17 @@
+---
+tags:
+  - needs-outlinks
+  - gold
+  - 2hi4this
+  - weak-oc
+---
+Notes:
+
+model families are Moduli Spaces. Parameterizations with and without hyperparameters are both moduli spaces. 
+
+
+
+---
 Moduli spaces are fundamental constructs in mathematics and theoretical physics, providing a structured way to study families of geometric objects that share certain properties. These spaces serve as parameter spaces, where each point represents a distinct geometric object, such as a curve, a surface, a manifold, or an algebraic variety, subject to specific conditions or equivalence relations. The concept of moduli spaces is pervasive in fields such as algebraic geometry, differential geometry, complex analysis, and string theory, reflecting the deep interconnections between geometry, topology, and physics.
 
 ### Definition and Purpose
@@ -20,9 +34,9 @@ A **moduli space** $M$ for a class of geometric objects is a space whose points 
 
 Constructing moduli spaces involves overcoming several technical hurdles:
 
-- **Compactification**: Many moduli spaces are not compact, complicating their study. Techniques such as the addition of "boundary points" that represent degenerate or limit objects can be used to compactify these spaces, making tools from algebraic geometry applicable.
+- **[[Compactification]]**: Many moduli spaces are not compact, complicating their study. Techniques such as the addition of "boundary points" that represent degenerate or limit objects can be used to compactify these spaces, making tools from algebraic geometry applicable.
 
-- **Singularities**: Moduli spaces can have singularities, points where the local geometric structure breaks down, often corresponding to objects with extra symmetries or automorphisms. Understanding and resolving these singularities is a significant area of research.
+- **[[Singularities]]**: Moduli spaces can have singularities, points where the local geometric structure breaks down, often corresponding to objects with extra symmetries or automorphisms. Understanding and resolving these singularities is a significant area of research.
 
 - **Existence of Universal Families**: A universal family over a moduli space provides a concrete realization of the geometric objects classified by the space. However, such families do not always exist, leading to the study of stacks as a more flexible framework for classifying geometric objects.
 

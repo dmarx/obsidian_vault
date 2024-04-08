@@ -12,7 +12,7 @@ tags:
 
 2. **[[Betti Numbers]]**: The Betti numbers are a series of integers that represent the maximal number of cuts that can be made without dividing a space into two separate pieces, or more formally, the rank of the homology groups of a space. They give a measure of the space's connectivity, with the first Betti number corresponding to the number of loops, the second to the number of voids, and so on. The sum of Betti numbers, under certain conditions, contributes to the Euler characteristic.
 
-3. **[[De Rham Cohomology]]**: The de Rham [[cohomology groups of a manifold]] are a powerful tool in [[Differential Geometry]] and [[Topology]]. They are topological invariants that classify the differential forms on a manifold up to the exterior derivative. Roughly speaking, the de Rham cohomology captures the ways in which forms can be closed (their [[exterior derivative]] vanishes) but not exact (they are not the exterior derivative of another form). The dimension of these cohomology groups gives rise to invariants that can classify manifolds.
+3. **[[De Rham Cohomology]]**: The de Rham [[cohomology groups of a manifold]] are a powerful tool in [[Differential Geometry]] and [[Topology]]. They are topological invariants that classify the differential forms on a manifold up to the exterior derivative. Roughly speaking, the de Rham cohomology captures the ways in which forms can be closed (their [[Exterior Derivative]] vanishes) but not exact (they are not the exterior derivative of another form). The dimension of these cohomology groups gives rise to invariants that can classify manifolds.
 
 ### Importance in Mathematics and Physics
 

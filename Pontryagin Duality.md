@@ -1,7 +1,12 @@
 ---
 tags:
   - gold
+  - root
 ---
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2-adic_integers_with_dual_colorings.svg/600px-2-adic_integers_with_dual_colorings.svg.png)
+see also:
+- [[Decomposition]]
+- https://en.wikipedia.org/wiki/Pontryagin_duality
 
 Pontryagin duality is a profound concept in harmonic analysis and topology that establishes a duality between [[locally compact abelian]] (LCA) groups and [[their dual groups]]. Named after Lev Pontryagin, this duality framework has far-reaching implications in various areas of mathematics, including number theory, signal processing, and quantum physics.
 
