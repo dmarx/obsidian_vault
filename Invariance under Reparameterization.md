@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - green
+  - sod/green
 ---
 
 The concept of **Invariance under Reparameterization** is central in various fields, including physics, information geometry, and statistical modeling. It expresses the principle that certain properties of a system or model are preserved despite changes in the parameterization or the coordinate system used to describe the system. This principle is foundational in understanding how different representations of the same model relate to each other and maintain consistent properties or behaviors across transformations. Let's formalize this concept and its implications:

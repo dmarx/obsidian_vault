@@ -1,6 +1,6 @@
 ---
 tags:
-  - admin
+  - prune/admin
 ---
 ![[2024-03-26_graph.png]]
 # DigCyclopedia

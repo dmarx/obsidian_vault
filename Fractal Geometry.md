@@ -1,6 +1,6 @@
 ---
 tags:
-  - root
+  - sod/root
 ---
 see also:
 - [[Fractal Structures]]

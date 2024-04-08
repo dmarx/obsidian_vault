@@ -1,6 +1,6 @@
 ---
 tags:
-  - admin
+  - prune/admin
 ---
 
 developer docs:

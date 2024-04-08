@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - gold
+  - sod/gold
 ---
 see also:
 - [[Fourier's Law of Heat Conduction]]

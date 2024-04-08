@@ -1,7 +1,7 @@
 ---
 tags:
-  - green
-  - gold
+  - sod/green
+  - sod/gold
 ---
 
 **Shattering** is a concept central to [[Statistical Learning Theory]] and is key to understanding the capacity of a [[Hypothesis Class]] to fit a given set of data points. It specifically pertains to the idea of how flexibly a set of functions (or models) can categorize or label all possible configurations of data points. This concept is closely related to the Vapnik-Chervonenkis (VC) dimension, which provides a quantitative [[measure]] of a model's capacity based on shattering.

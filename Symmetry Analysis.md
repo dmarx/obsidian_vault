@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
 ---
 
 Symmetry analysis is a powerful mathematical tool used to study the symmetries of equations, systems, and structures across various fields of science and engineering. This approach not only helps in understanding the inherent properties of systems but also significantly simplifies problem-solving by reducing the complexity of equations and identifying conservation laws and invariant quantities. Symmetry analysis hinges on the use of [[group theory]], particularly [[Lie groups]] and their associated algebras, to systematically explore the transformations that leave certain properties of a system unchanged.

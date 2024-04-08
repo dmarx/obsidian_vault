@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - green
+  - sod/green
 ---
 
 The **Cusp Catastrophe** is one of the seven elementary catastrophes in [[Catastrophe Theory]], a branch of mathematics concerned with the study of abrupt changes in system behavior in response to smooth changes in parameters. The cusp catastrophe is particularly interesting because it can model situations where a system exhibits sudden jumps between different states, hysteresis, and bifurcation behavior, making it applicable to a wide range of phenomena across natural sciences, social sciences, and engineering.

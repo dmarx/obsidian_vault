@@ -1,7 +1,7 @@
 ---
 tags:
   - OC
-  - 2hi4this
+  - OC/2hi4this
 ---
 proteins on surface act like addresses
 

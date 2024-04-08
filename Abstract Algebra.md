@@ -1,6 +1,6 @@
 ---
 tags:
-  - root
+  - sod/root
   - needs-outlinks
 ---
 

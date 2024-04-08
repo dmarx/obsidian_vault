@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - green
+  - sod/green
 ---
 
 > tell me about phase transitions and critical phenomena

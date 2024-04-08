@@ -1,8 +1,8 @@
 ---
 tags:
-  - gold
-  - green
-  - root
+  - sod/gold
+  - sod/green
+  - sod/root
   - needs-outlinks
   - empty-hub
 ---

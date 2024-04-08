@@ -1,6 +1,6 @@
 ---
 tags:
-  - 2hi4this
+  - OC/2hi4this
   - OC
   - way2hi4this
 ---

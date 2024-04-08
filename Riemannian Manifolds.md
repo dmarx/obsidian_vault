@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 see also:
 - [[Reimannian Geometry]]

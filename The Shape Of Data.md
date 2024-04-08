@@ -3,7 +3,7 @@ tags:
   - import-from-workbench
   - OC
   - stub
-  - book
+  - prune/book
 ---
 
 

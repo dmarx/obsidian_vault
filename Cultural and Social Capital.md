@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
 ---
 see also:
 - [[Chemical Kinetics]]

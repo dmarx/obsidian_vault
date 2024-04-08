@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
   - empty-hub
 ---
 Geometric [[Measure Theory]] (GMT) is a mathematical discipline that bridges the gap between geometric analysis and measure theory. It focuses on studying geometric properties and structures, such as surfaces and curves, within the rigorous framework provided by measure theory. GMT deals with problems where both the geometry of the objects and their measure (such as length, area, or volume) are of fundamental importance. This field has applications and connections to various areas of mathematics, including [[Calculus of Variations]], [[Partial Differential Equations]] (PDEs), [[Differential Geometry]], and [[Topology]].

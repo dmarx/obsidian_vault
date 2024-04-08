@@ -1,7 +1,7 @@
 ---
 tags:
-  - gold
-  - green
+  - sod/gold
+  - sod/green
 ---
 
 > tell me about tangent space in the context of reimannian geometry

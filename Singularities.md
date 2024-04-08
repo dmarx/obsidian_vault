@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
   - stub
 ---
 

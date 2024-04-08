@@ -1,6 +1,6 @@
 ---
 tags:
-  - root
+  - sod/root
   - needs-outlinks
 ---
 [[Continuum Mechanics|Continuum mechanics]] is a branch of mechanics that deals with the analysis of the physical properties of materials modeled as continuous mass rather than as discrete particles. The fundamental assumption in continuum mechanics is that matter is continuously distributed throughout the space it occupies, allowing the properties of materials to be described in terms of fields such as stress, strain, and displacement. This approach is essential for understanding and predicting the behavior of solids, liquids, and gases under various loading conditions.

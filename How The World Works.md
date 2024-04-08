@@ -1,6 +1,6 @@
 ---
 tags:
-  - book
+  - prune/book
 ---
 
 [[The Illusion Of Control]]

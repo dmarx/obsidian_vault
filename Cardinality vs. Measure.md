@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 
 The concepts of **Cardinality** and **Measure** are fundamental in mathematics, offering two different perspectives on the "size" of a set. These concepts often coincide in our intuition, especially when dealing with finite sets, but diverge significantly in the context of infinite sets, revealing deep and non-intuitive properties of mathematical structures. Understanding the distinction between cardinality and measure is crucial for navigating areas like [[set theory]], [[measure theory]], and [[real analysis]].

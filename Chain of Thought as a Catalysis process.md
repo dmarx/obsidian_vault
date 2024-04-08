@@ -1,7 +1,7 @@
 ---
 tags:
   - OC
-  - green
+  - sod/green
 created: 2024-03-26
 ---
 consider some information state from which we are starting

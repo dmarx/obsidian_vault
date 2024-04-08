@@ -1,7 +1,7 @@
 ---
 tags:
-  - gold
-  - green
+  - sod/gold
+  - sod/green
 ---
 see also:
 - [[L-p Spaces]]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
   - needs-outlinks
 ---
 Mean-Field Theory (MFT) is a fundamental approach in statistical physics for modeling and understanding the behavior of [[many-body systems]] by averaging the effects of all interactions on a particular particle or spin to a single average or "mean field." This simplification reduces the complexity of dealing with interactions in a many-body system to a problem that involves only the interaction of individual particles with an effective field representing the average effect of their neighbors. MFT is widely used in various contexts, including magnetism, superconductivity, and phase transitions, providing insights into critical phenomena and the collective behavior of systems.

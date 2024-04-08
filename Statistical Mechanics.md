@@ -1,6 +1,6 @@
 ---
 tags:
-  - root
+  - sod/root
 ---
 
 Statistical mechanics is a branch of theoretical physics that uses probability theory to study the behavior of systems composed of a large number of particles. It provides a framework for relating the microscopic properties of individual atoms and molecules to the macroscopic or bulk properties of materials that can be observed at the human scale, such as temperature, pressure, and volume.

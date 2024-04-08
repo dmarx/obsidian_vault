@@ -1,7 +1,7 @@
 ---
 tags:
   - empty-hub
-  - gold
+  - sod/gold
 ---
 Chemical kinetics is the branch of [[physical chemistry]] that studies the rates of chemical reactions and the mechanisms by which these reactions occur. It aims to understand the speed at which reactants are converted into products and the factors that influence this speed. By analyzing the rate of a reaction and how it changes under different conditions, chemists can elucidate the [[reaction mechanism]]—providing a step-by-step account of the [[molecular pathway]] from reactants to products. Here are the fundamental aspects and key concepts of chemical kinetics:
 

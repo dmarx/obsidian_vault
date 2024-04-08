@@ -1,7 +1,7 @@
 ---
 tags:
   - empty-hub
-  - green
+  - sod/green
 ---
 
 see also:

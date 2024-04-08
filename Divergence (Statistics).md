@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 > in the context of divergence qua [[KL Divergence]], and was asking you to differentiate a "divergence" from a "distance". I said "metric", and was referring to a "measure". as you correctly noted, divergences do not satisfy the definition of a measure for several reasons, and was hoping to invite you to elaborate on that
 

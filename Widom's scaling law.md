@@ -1,8 +1,8 @@
 ---
 tags:
   - needs-outlinks
-  - gold
-  - green
+  - sod/gold
+  - sod/green
 ---
 Widom's scaling law is a fundamental relation in the theory of critical phenomena that connects several critical exponents which characterize the behavior of physical systems near phase transitions. This scaling law is named after Benjamin Widom, a chemist who made significant contributions to the understanding of critical phenomena and phase transitions during the 1960s. Widom's scaling law provides a link between the critical exponents \(\beta\), \(\gamma\), and \(\delta\), which describe how the order parameter, susceptibility, and response to an external field, respectively, behave near the critical point.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2-adic_integers_with_dual_colorings.svg/600px-2-adic_integers_with_dual_colorings.svg.png)
 see also:

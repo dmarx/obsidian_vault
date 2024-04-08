@@ -1,8 +1,8 @@
 ---
 tags:
   - needs-outlinks
-  - green
-  - gold
+  - sod/green
+  - sod/gold
 ---
 
 see also:

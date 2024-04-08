@@ -1,7 +1,7 @@
 ---
 tags:
-  - green
-  - gold
+  - sod/green
+  - sod/gold
   - needs-outlinks
 ---
 Eigenvalues are a fundamental concept in linear algebra with extensive applications in mathematics, physics, engineering, and many other disciplines. They play a crucial role in understanding linear transformations and matrices, providing insights into the properties of systems described by these transformations.

@@ -1,8 +1,8 @@
 ---
 tags:
   - needs-outlinks
-  - gold
-  - root
+  - sod/gold
+  - sod/root
 ---
 see also:
 - [[Orthogonality]]

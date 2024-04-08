@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
   - needs-outlinks
 ---
 A saddle-node bifurcation, also known as a fold bifurcation, is a fundamental concept in dynamical systems and bifurcation theory. It describes a scenario where, as a parameter in the system is varied, two equilibrium points (one stable and one unstable) collide and annihilate each other. This process results in a qualitative change in the system's dynamics, specifically in the number and stability of equilibrium points.

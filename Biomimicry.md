@@ -1,8 +1,8 @@
 ---
 tags:
   - needs-outlinks
-  - gold
-  - green
+  - sod/gold
+  - sod/green
 ---
 see also:
 - [[Crown Shyness]]

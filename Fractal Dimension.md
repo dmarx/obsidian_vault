@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 
 The concept of fractal dimension is a cornerstone of [[fractal geometry]], providing a quantitative measure of the complexity and scaling behavior of fractal shapes. Unlike the dimensions of Euclidean geometry, which are integer values corresponding to the familiar dimensions of lines (1D), planes (2D), and volumes (3D), fractal dimensions are typically non-integer values. These non-integer dimensions reflect the fact that fractals exhibit detail and complexity at every scale, filling the space between traditional dimensions.

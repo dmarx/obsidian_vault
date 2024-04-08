@@ -1,7 +1,7 @@
 ---
 tags:
   - empty-hub
-  - gold
+  - sod/gold
 ---
 ### Continuous Symmetry Groups
 

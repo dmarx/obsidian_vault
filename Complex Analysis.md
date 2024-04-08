@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - root
+  - sod/root
 ---
 
 [[Complex Analysis]], a branch of mathematics, delves into the study of functions of complex numbers. It is distinguished by its powerful and elegant theories, which have profound implications across various domains of mathematics including geometry, number theory, applied mathematics, and notably, in solving problems in engineering and physics. The foundational object of study in complex analysis is the complex function, $f(z)$, where $z$ is a complex number.

@@ -1,8 +1,8 @@
 ---
 tags:
-  - green
+  - sod/green
   - empty-hub
-  - root
+  - sod/root
 ---
 
 Analysis is a vast and foundational branch of mathematics that deals with continuous change, in the broadest sense, and encompasses many sub-disciplines that study concepts like [[limits]], [[continuity]], [[differentiation]], [[integration]], [[sequences]], and [[series]]. It originated from the calculus developed in the 17th century by [[Isaac Newton]] and [[Gottfried Wilhelm Leibniz]], and has since evolved into a rigorous and comprehensive framework that underpins much of modern mathematics and its applications.

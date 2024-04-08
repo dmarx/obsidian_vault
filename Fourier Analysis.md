@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 
 Fourier analysis is a mathematical method used for breaking down complex periodic (or in some cases, non-periodic) signals into [[Factorization|simpler components]], typically sine and cosine functions, which are easier to analyze. Named after [[Jean-Baptiste Joseph Fourier]], who introduced the concept in the early 19th century, Fourier analysis is pivotal in various fields, including engineering, physics, and applied mathematics, due to its ability to model and understand phenomena across many domains.

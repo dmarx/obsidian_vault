@@ -1,7 +1,7 @@
 ---
 tags:
   - stub
-  - root
+  - sod/root
 ---
 
 see also:

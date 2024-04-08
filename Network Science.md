@@ -1,8 +1,8 @@
 ---
 tags:
   - empty-hub
-  - root
-  - green
+  - sod/root
+  - sod/green
 ---
 see also:
 - [[Scale-Free Networks]]

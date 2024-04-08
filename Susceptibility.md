@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 
 >susceptibility (measure of how a chaotic system responds to an external field)

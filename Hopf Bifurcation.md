@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
   - needs-outlinks
 ---
 A Hopf bifurcation is a critical phenomenon in dynamical systems where a fixed point (equilibrium) loses stability and gives rise to a periodic solution, leading to oscillatory behavior. This type of bifurcation is named after Eberhard Hopf, who first described it. It marks the transition from steady-state behavior to cyclic or periodic dynamics as a parameter in the system crosses a critical value.

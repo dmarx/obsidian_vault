@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
 ---
 
 The Laplace-Beltrami operator is a fundamental [[differential operator]] in the field of [[differential geometry]], generalizing the classical Laplacian from Euclidean space to Riemannian (and pseudo-Riemannian) manifolds. Named after Pierre-Simon Laplace and Eugenio Beltrami, it plays a crucial role in mathematical physics, geometry, and analysis, capturing the intrinsic notion of diffusion, flow, and curvature on manifolds.

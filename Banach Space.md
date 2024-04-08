@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
   - needs-outlinks
 ---
 Banach spaces, named after the Polish mathematician Stefan Banach, are one of the central concepts in functional analysis, a branch of mathematics focusing on the study of vector spaces equipped with a norm and the linear operators acting upon these spaces. Banach spaces generalize the notion of Euclidean spaces to more abstract settings, allowing mathematicians and scientists to work with functions and sequences in a rigorous analytical framework.

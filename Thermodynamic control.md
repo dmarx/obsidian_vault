@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - gold
+  - sod/gold
 ---
 
 Thermodynamic control governs the product distribution when a reaction is allowed to reach equilibrium or is carried out under conditions (usually higher temperatures or over longer reaction times) that favor the most stable product. Under thermodynamic control, the reaction pathways may still form less stable products initially, but given enough time or at higher temperatures, the system will proceed towards producing the most stable product according to the principles of thermodynamics.

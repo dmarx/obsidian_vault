@@ -1,7 +1,7 @@
 ---
 tags:
-  - green
-  - root
+  - sod/green
+  - sod/root
 ---
 
 > tell me about differential geometry as if I were graduate deep learning researcher ocused on learning dynamics of semantic latent representations through the lens of geometry

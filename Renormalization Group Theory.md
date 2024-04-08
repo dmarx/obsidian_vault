@@ -1,8 +1,8 @@
 ---
 tags:
-  - green
-  - root
-  - gold
+  - sod/green
+  - sod/root
+  - sod/gold
 ---
 see also:
 - [[Level-Of-Detail]]

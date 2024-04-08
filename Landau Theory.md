@@ -1,8 +1,8 @@
 ---
 tags:
   - stub
-  - gold
-  - green
+  - sod/gold
+  - sod/green
 ---
 
 NB: superceded by [[Renormalization Group|Renormalization Group Theory]]

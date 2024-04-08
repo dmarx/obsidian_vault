@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - green
+  - sod/green
 ---
 
 The hyperscaling relation, deeply rooted in the theory of [[Critical Phenomena]], provides a pivotal connection between the [[Singular Behavior]] of the free energy near a critical point and the spatial dimensions of the system. Specifically, it relates the critical exponents \(\nu\), \(d\), and \(\alpha\) through the equation:

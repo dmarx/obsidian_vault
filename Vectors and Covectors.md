@@ -2,7 +2,7 @@
 tags:
   - needs-outlinks
   - stub
-  - green
+  - sod/green
 ---
 
 Vectors and covectors are fundamental concepts in linear algebra and differential geometry. Here's a basic rundown of their differences:

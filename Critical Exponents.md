@@ -1,7 +1,7 @@
 ---
 tags:
-  - green
-  - gold
+  - sod/green
+  - sod/gold
 ---
 
 > Near the critical temperature, the behavior of the order parameter can be used to define critical exponents that describe how quantities like the order parameter, specific heat, and susceptibility diverge or go to zero. These critical exponents are universal within universality classes defined by the dimensionality and symmetry properties of the system.

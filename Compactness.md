@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - green
+  - sod/green
 ---
 Compactness is a fundamental concept in [[topology]], analysis, and related areas of mathematics, characterizing spaces that, in a certain sense, behave like finite sets despite possibly being infinite. It is a property that captures the essence of "closeness" and "boundedness" in a topological setting and has profound implications across various branches of mathematics.
 

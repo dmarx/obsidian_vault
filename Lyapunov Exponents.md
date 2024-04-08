@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
 ---
 
 Lyapunov Exponents are fundamental to understanding the dynamics of systems that evolve over time, especially in the study of [[chaotic systems]]. These exponents measure the rates at which nearby trajectories in the [[phase space]] diverge or converge, offering a quantitative way to assess the [[sensitivity]] of the system to initial conditions. 

@@ -1,9 +1,9 @@
 ---
 tags:
   - needs-outlinks
-  - gold
-  - 2hi4this
-  - weak-oc
+  - sod/gold
+  - OC/2hi4this
+  - OC/weak
 ---
 Notes:
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
   - needs-outlinks
 ---
 A pitchfork bifurcation is a critical phenomenon in the study of dynamical systems, where a system's stability structure changes as a parameter is varied. It is distinguished by the fact that an equilibrium point either splits into multiple equilibrium points or multiple equilibrium points merge into a single one as a parameter crosses a critical value. The pitchfork bifurcation can be classified into two main types: supercritical and subcritical, based on the stability of the emerging equilibrium points and the direction in which they bifurcate.

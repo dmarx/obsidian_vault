@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
 ---
 
 The dual group plays a pivotal role in [[harmonic analysis]], topology, and the study of [[locally compact abelian groups]] (LCA). It provides a way to analyze the structure and properties of groups through the lens of their characters, which are continuous homomorphisms from the group to the unit circle $S^1$ in the complex plane. Understanding the dual group is essential for grasping concepts like Pontryagin duality, which establishes a deep relationship between a group and its dual.

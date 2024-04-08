@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
   - needs-outlinks
 ---
 The Cauchy-Schwarz Inequality is a fundamental result in linear algebra, analysis, and many other areas of mathematics. It provides a critical bound on the dot product of two vectors, showcasing the geometric and algebraic structure underlying [[Vector Space|vector spaces]]. The inequality plays a key role in proving various other mathematical results and is foundational in understanding angles and lengths in inner product spaces.

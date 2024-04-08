@@ -1,7 +1,7 @@
 ---
 tags:
-  - root
-  - green
+  - sod/root
+  - sod/green
   - needs-outlinks
 ---
 Optimization is a broad field within mathematics and engineering focused on finding the best solution from a set of available alternatives. In mathematical terms, optimization involves selecting the best element, with regard to some criterion, from some set of available alternatives. Optimization problems can be found in various domains such as economics, engineering, logistics, artificial intelligence, and machine learning, often dealing with maximizing efficiency, minimizing costs, or finding the best parameters for a system or model.

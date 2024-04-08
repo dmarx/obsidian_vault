@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
 ---
 
 The Langevin equation is a cornerstone of [[Statistical Mechanics|statistical physics]], particularly in the study of non-equilibrium and stochastic processes. It provides a framework for modeling the dynamics of systems under the influence of both deterministic forces and random fluctuations. Langevin dynamics, derived from these equations, describe how microscopic particles evolve over time in such environments, capturing essential aspects of physical processes ranging from [[Brownian Motion]] to the behavior of complex fluids and biological systems.

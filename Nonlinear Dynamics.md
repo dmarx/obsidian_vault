@@ -1,8 +1,8 @@
 ---
 tags:
   - stub
-  - root
-  - green
+  - sod/root
+  - sod/green
 ---
 
 - **Introduction to Nonlinear Dynamics**

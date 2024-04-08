@@ -1,7 +1,7 @@
 ---
 tags:
-  - green
-  - root
+  - sod/green
+  - sod/root
   - empty-hub
 ---
 Control theory is a multidisciplinary field of engineering and mathematics that deals with the behavior of dynamical systems with inputs. The objective of control theory is to develop models for controlling these systems using feedback mechanisms to achieve desired behaviors, such as stability, accuracy, and performance, despite internal and external disturbances.

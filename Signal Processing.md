@@ -1,7 +1,7 @@
 ---
 tags:
-  - root
-  - green
+  - sod/root
+  - sod/green
   - needs-outlinks
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 
 Singular Value Decomposition (SVD) stands out as a versatile and powerful technique in machine learning, particularly in tasks related to representation learning and dimensionality reduction. By decomposing a matrix $A$ into $U\Sigma V^T$, SVD reveals the underlying structure of the data, making it invaluable for a wide range of applications. Let's delve deeper into its applications and significance in machine learning:

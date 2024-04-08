@@ -1,9 +1,9 @@
 ---
 tags:
   - stub
-  - gold
-  - root
-  - green
+  - sod/gold
+  - sod/root
+  - sod/green
 ---
 see also
 - [[Algebraic Topology]]

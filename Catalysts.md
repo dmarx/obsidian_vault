@@ -2,8 +2,8 @@
 tags:
   - stub
   - needs-outlinks
-  - gold
-  - green
+  - sod/gold
+  - sod/green
 ---
 > how do catalysts work
 

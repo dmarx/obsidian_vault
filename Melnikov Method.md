@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - green
+  - sod/green
 ---
 
 The Melnikov method is a powerful analytical tool used in dynamical systems theory to predict the occurrence of chaos and to detect homoclinic and heteroclinic bifurcations in perturbed Hamiltonian systems. This method provides a criterion for the existence of [[transversal intersections]] between stable and unstable manifolds of saddle points or periodic orbits, a key feature associated with chaotic dynamics according to the [[Smale Horseshoe Theory]].

@@ -1,8 +1,8 @@
 ---
 tags:
   - stub
-  - root
-  - green
+  - sod/root
+  - sod/green
 ---
 
 [[Information Geometry]] extends the concepts of [[Differential Geometry]] to the space of probability distributions. In this framework, a statistical model is viewed as a geometric space, where points represent different probability distributions, and the [[distance]] between points reflects the dissimilarity between distributions. 

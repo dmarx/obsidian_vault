@@ -1,7 +1,7 @@
 ---
 tags:
-  - green
-  - gold
+  - sod/green
+  - sod/gold
 ---
 see also:
 - [[Principle of Least Action]] (should probably merge)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - book
+  - prune/book
 ---
 
 ![](profile_arcanegan-pinkfloyd.png)

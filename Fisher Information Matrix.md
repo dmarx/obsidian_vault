@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 > >The Fisher Information Metric endows a statistical manifold with a Riemannian metric and provides a natural way to measure distances and angles between probability distributions on the manifold, facilitating the application of geometric and differential tools. 
 > tell me more about the geometric interpretation of the fisher information matrix

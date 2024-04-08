@@ -1,7 +1,7 @@
 ---
 tags:
   - stub
-  - green
+  - sod/green
 aliases:
   - Hölder's Inequality
 ---

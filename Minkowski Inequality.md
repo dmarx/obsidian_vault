@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
   - needs-outlinks
 ---
 The Minkowski Inequality is a fundamental result in the field of mathematical analysis, particularly within the theory of $L^p$ spaces, which are spaces of functions equipped with a specific norm known as the $L^p$ norm. This inequality is a cornerstone of functional analysis and plays a crucial role in various branches of mathematics, including probability theory, partial differential equations, and geometric analysis. It generalizes the Triangle Inequality to the context of $L^p$ spaces and is essential for understanding the structure and behavior of these spaces.

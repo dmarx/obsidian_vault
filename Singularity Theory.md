@@ -1,7 +1,7 @@
 ---
 tags:
-  - gold
-  - green
+  - sod/gold
+  - sod/green
 ---
 see also:
 - https://www.youtube.com/watch?v=0pIRibivolA

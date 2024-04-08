@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 
 > In Information Geometry, the paths that statistical estimation procedures take in the space of probability distributions can be understood in terms of geodesics with respect to the Fisher-Rao metric.

@@ -1,10 +1,10 @@
 ---
 tags:
   - OC
-  - green
+  - sod/green
   - import-from-workbench
-  - 2hi4this
-  - half-baked
+  - OC/2hi4this
+  - OC/half-baked
 ---
 [[Airforce slogan]]
 [[What is it like to be NASA]]

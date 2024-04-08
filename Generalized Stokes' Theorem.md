@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
 ---
 
 The Generalized Stokes' Theorem is a powerful and fundamental result in [[Differential Geometry]] and mathematical analysis, encapsulating and extending several theorems from vector calculus, including the classical Stokes' theorem, the divergence theorem, and Green's theorem. It provides a unified framework for understanding these results, highlighting the deep connections between the topology of a manifold and the integration of differential forms over it.

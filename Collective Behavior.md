@@ -1,6 +1,6 @@
 ---
 tags:
-  - green
+  - sod/green
 ---
 
 Collective behavior in biological systems is a fascinating display of emergence, where complex and coordinated patterns arise from simple interactions among individuals. These behaviors are not dictated by any central control but emerge from local rules followed by each individual. This phenomenon is observed across a wide range of species and scales, from microbial colonies to human societies, and offers insights into how [[decentralized systems]] can achieve complex [[goals]]. Let's delve deeper into some examples and the principles behind them.

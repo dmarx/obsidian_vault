@@ -1,7 +1,7 @@
 ---
 aliases: []
 tags:
-  - green
+  - sod/green
   - stub
   - empty-hub
 ---

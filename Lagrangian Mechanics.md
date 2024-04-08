@@ -1,7 +1,7 @@
 ---
 tags:
   - stub
-  - green
+  - sod/green
 ---
 
 Lagrangian mechanics is based on the [[Principle of Stationary Action]] (also known as the principle of least action). It uses the [[Lagrangian]], $L$, a function that represents the difference between the kinetic energy, $T$, and potential energy, $V$, of a system:

@@ -1,6 +1,6 @@
 ---
 tags:
-  - gold
+  - sod/gold
   - empty-hub
 ---
 see also:

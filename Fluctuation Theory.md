@@ -1,7 +1,7 @@
 ---
 tags:
-  - green
-  - gold
+  - sod/green
+  - sod/gold
   - empty-hub
 ---
 Fluctuation theory encompasses a set of principles and mathematical frameworks used to describe and analyze the variations or "fluctuations" in physical quantities away from their average values in systems across physics and related disciplines. These fluctuations can be pivotal in understanding the behavior of [[many-body systems]], [[phase transitions]], [[statistical mechanics]], and [[thermodynamics]], among other areas. The theory provides insights into how and why systems deviate from equilibrium states, the role of randomness and disorder, and the [[emergence]] of [[collective phenomena]] from the microscopic interactions of individual components.

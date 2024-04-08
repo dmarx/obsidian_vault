@@ -1,8 +1,8 @@
 ---
 tags:
   - needs-outlinks
-  - gold
-  - green
+  - sod/gold
+  - sod/green
 ---
 Fisher's scaling law is another important relation in the field of critical phenomena, named after the physicist Michael E. Fisher, who made significant contributions to the understanding of phase transitions and critical points. This scaling law relates the critical exponent \(\gamma\), which describes the divergence of the susceptibility near the critical point, to the critical exponents \(\nu\) and \(\eta\), which describe the behavior of the correlation length and the decay of correlations at the critical point, respectively.
 

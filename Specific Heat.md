@@ -1,8 +1,8 @@
 ---
 tags:
-  - weak-oc
+  - OC/weak
   - OC
-  - green
+  - sod/green
 ---
 
 Specific heat, in the context of [[critical phenomena]] and [[thermodynamics]], is a fundamental physical quantity that measures the amount of heat required to change the temperature of a substance by a unit amount. Mathematically, it is defined as the rate of change of the internal energy, $U$, with respect to temperature, $T$, at constant volume ($C_V$) or pressure ($C_P$). These are expressed as:

@@ -1,8 +1,8 @@
 ---
 tags:
   - needs-outlinks
-  - green
-  - gold
+  - sod/green
+  - sod/gold
 ---
 
 > what is meant by "frustration" in the context of modeling critical phenomena, phase transitions, dynamic systems, and complexity
