@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 A [[Topological Space]] imbued with a metric, i.e. some notion of "distance"
 
 See also:

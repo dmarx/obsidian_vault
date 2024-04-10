@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 Generalization in deep learning refers to the ability of a model to perform well on previously unseen data—that is, data not present in the training set. The goal of a deep learning model is not just to memorize the training data but to learn the underlying patterns and structures that can be applied to new, similar data. The concept of generalization is deeply intertwined with several advanced mathematical and theoretical frameworks, including differential geometry, chaos theory, criticality, sparsity, and the manifold hypothesis. Let's explore how these connections enrich our understanding of generalization in deep learning.
 
 ### Differential Geometry and the Manifold Hypothesis

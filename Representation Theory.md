@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 [[Representation Theory]] is a mathematical framework that studies [[Abstract Algebra|abstract algebraic]] structures by representing their elements as linear transformations of [[Vector Space|vector spaces]]. In essence, it involves expressing algebraic entities, such as groups, rings, or algebras, in a concrete manner through matrices and linear operations, making the abstract properties of these entities more accessible and understandable through the well-developed machinery of linear algebra and analysis. Representation theory bridges numerous mathematical disciplines, including [[group theory]], algebra, geometry, and number theory, and finds applications in physics, notably in quantum mechanics, crystallography, and the theory of elementary particles.
 
 ### Core Concepts of Representation Theory

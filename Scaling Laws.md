@@ -2,8 +2,7 @@
 tags:
   - empty-hub
   - sod/green
-  - sod/gold
-  - stub
+  - needs-outlinks
 ---
 Yes, apart from the well-known [[Rushbrooke's equality]], [[Widom's scaling law]], and [[Fisher's Scaling Law]], there are several other scaling laws and relations in the theory of critical phenomena that further elucidate the interdependencies among critical exponents. These scaling laws help in understanding the universal behavior near critical points and in characterizing phase transitions. Here are a few notable ones:
 

@@ -1,4 +1,4 @@
-Center manifold reduction is a mathematical technique used in the analysis of dynamical systems, particularly for studying the behavior of systems near equilibrium points where linear analysis does not provide sufficient information. This method focuses on reducing the dimensionality of a system to a lower-dimensional manifold (the center manifold) that captures the essential dynamics near the equilibrium, especially when the system exhibits a mix of stable, unstable, and neutrally stable behaviors.
+Center manifold reduction is a mathematical technique used in the analysis of [[dynamical systems]], particularly for studying the behavior of systems [[near-equilibrium systems|near equilibrium]] points where linear analysis does not provide sufficient information. This method focuses on reducing the dimensionality of a system to a lower-dimensional manifold (the center manifold) that captures the essential dynamics near the equilibrium, especially when the system exhibits a mix of stable, unstable, and neutrally stable behaviors.
 
 ### Background and Importance
 
@@ -14,21 +14,21 @@ In the study of dynamical systems, when linearizing the system around an equilib
 
 ### Procedure
 
-1. **Linearization**: Linearize the dynamical system near the equilibrium point to identify the eigenvalues and eigenvectors of the linearized system.
+1. **[[Linearization]]**: Linearize the dynamical system near the equilibrium point to identify the eigenvalues and eigenvectors of the linearized system.
 
-2. **Decomposition**: Decompose the state space into stable, unstable, and center subspaces based on the sign of the real part of the eigenvalues.
+2. **[[Decomposition]]**: Decompose the state space into stable, unstable, and center subspaces based on the sign of the real part of the eigenvalues.
 
 3. **Derivation of the Center Manifold**: Use the invariance property of the center manifold and the dynamics of the system to derive an equation for the center manifold. This often involves solving a partial differential equation or applying an approximation method.
 
-4. **Analysis on the Center Manifold**: Reduce the original system to a lower-dimensional system defined on the center manifold. Analyze this reduced system to understand the behavior near the equilibrium, including identifying potential bifurcations.
+4. **Analysis on the Center Manifold**: Reduce the original system to a [[Dimensionality Reduction|lower-dimensional]] system defined on the center manifold. Analyze this reduced system to understand the behavior near the equilibrium, including identifying potential bifurcations.
 
 ### Applications
 
-- **Bifurcation Analysis**: Center manifold reduction is particularly useful for studying bifurcations, where the system's behavior changes qualitatively as parameters are varied. The method can reveal the conditions under which different types of bifurcations occur.
+- **[[Bifurcation Theory|Bifurcation Analysis]]**: Center manifold reduction is particularly useful for studying [[bifurcations]], where the system's behavior changes qualitatively as parameters are varied. The method can reveal the conditions under which different types of bifurcations occur.
 
-- **Control and Stabilization**: Understanding the dynamics on the center manifold can inform strategies for controlling or stabilizing dynamical systems, particularly in engineering applications where certain behaviors need to be enhanced or suppressed.
+- **[[Control Theory|Control]] and Stabilization**: Understanding the dynamics on the center manifold can inform strategies for controlling or stabilizing dynamical systems, particularly in engineering applications where certain behaviors need to be enhanced or suppressed.
 
-- **Complex Systems**: The technique is applicable to a wide range of complex systems in physics, engineering, biology, and beyond, especially where systems exhibit critical points with complex dynamics.
+- **[[Complex Systems Theory|Complex Systems]]**: The technique is applicable to a wide range of complex systems in physics, engineering, biology, and beyond, especially where systems exhibit critical points with complex dynamics.
 
 ### Conclusion
 

@@ -2,7 +2,6 @@
 tags:
   - sod/gold
   - empty-hub
-  - sod/green
 ---
 
 "Universality classes" are a concept primarily found in the field of [[Statistical Mechanics]] and [[Critical Phenomena]], which deals with the behavior of systems at critical points—points at which the system undergoes a phase transition, such as the transition from liquid to gas or from a ferromagnetic to a paramagnetic state in magnets.

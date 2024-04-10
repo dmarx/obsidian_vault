@@ -1,7 +1,6 @@
 ---
 tags:
   - sod/gold
-  - sod/green
 ---
 see also:
 - https://en.wikipedia.org/wiki/Transport_phenomena

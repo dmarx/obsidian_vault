@@ -2,7 +2,7 @@
 tags:
   - needs-outlinks
   - OC
-  - sod/green
+  - sod/synthesis
 ---
 see also:
 - [[Activation Energy]]

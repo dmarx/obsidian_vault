@@ -1,7 +1,7 @@
 ---
 tags:
-  - sod/gold
   - empty-hub
+  - sod/root
 ---
 
 see also:

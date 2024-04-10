@@ -11,6 +11,8 @@ tags:
 [[Prelude - Ant Fugue]]
 [[Multiplicitous Self]]
 [[The DigCyclopedia Cascadia]]
+[[Crowd Psychology]]
+
 [[The Illusion Of Control]]
 
 ---

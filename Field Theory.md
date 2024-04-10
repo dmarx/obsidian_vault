@@ -2,13 +2,13 @@ Field theory is a branch of physics that studies how fields interact with matter
 
 ### Classical Field Theory
 
-In classical field theory, fields are described by continuous, smooth functions over space and time. The dynamics of classical fields are governed by [[Partial Differential Equations]] (PDEs) derived from a [[Lagrangian]] or [[Hamiltonian]] framework, similar to the method used in classical mechanics but extended to continuous systems.
+In classical field theory, [[field|fields]] are described by continuous, smooth functions over space and time. The dynamics of classical fields are governed by [[Partial Differential Equations]] (PDEs) derived from a [[Lagrangian]] or [[Hamiltonian]] framework, similar to the method used in classical mechanics but extended to continuous systems.
 
 #### Key Equations and Concepts
 
 - **Electromagnetic Field**: [[Maxwell's Equations]] govern the dynamics of the electromagnetic field. These equations can be derived from a Lagrangian density that includes terms for the electric and magnetic fields, expressed in terms of the vector potential $A_\mu$ and the scalar potential $\phi$.
   
-- **Gravitational Field**: In [[General Relativity]], the gravitational field is described by the metric tensor $g_{\mu\nu}$, and its dynamics are governed by the Einstein field equations. These equations can be derived from the [[Einstein-Hilbert Action]], which is a functional of the metric tensor and includes the [[Ricci Scalar]] $R$, a [[Curvature]] [[Measure]] of spacetime.
+- **Gravitational Field**: In [[General Relativity]], the gravitational field is described by the metric tensor $g_{\mu\nu}$, and its dynamics are governed by the Einstein field equations. These equations can be derived from the [[Einstein-Hilbert Action]], which is a functional of the metric tensor and includes the [[Ricci curvature tensor|Ricci Scalar]] $R$, a [[Curvature]] [[Measure]] of spacetime.
 
 ### [[Quantum Field Theory]] (QFT)
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/green
+---
+
 Mathematical ecology is an interdisciplinary field that applies mathematical techniques and theories to understand ecological systems and their components. This field encompasses a wide range of topics, from population dynamics and species interactions to ecosystem processes and conservation biology. Here are some key aspects of mathematical ecology:
 
 ### 1. **Population Dynamics**

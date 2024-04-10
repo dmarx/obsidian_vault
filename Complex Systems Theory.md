@@ -1,3 +1,5 @@
+see also:
+- [[Systems Theory]]
 
 In the context of our discussion, a "complex system" refers to a [[Systems|System]] composed of interconnected parts that as a whole exhibit one or more properties (behavior or structure) not obvious from the properties of the individual parts. These systems are often characterized by specific features that help distinguish them from merely "complicated" systems. The definition of complex systems is inherently interdisciplinary, drawing from physics, biology, computer science, sociology, and more. Here are key characteristics that typically define a complex system:
 

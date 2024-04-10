@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 see also: 
 - [[Fundamental Partial Differential Equations]]
 - [[Ordinary Differential Equations]]

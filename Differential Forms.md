@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 Differential forms are a central concept in [[Differential Geometry]] and mathematical physics, serving as a powerful language for describing and analyzing geometric, topological, and physical properties of spaces. They generalize the concepts of scalar functions and vector fields to higher dimensions and offer a unified framework for calculus on manifolds. Let's delve into their definitions and properties, particularly focusing on their integration and the role of exterior derivatives.
 
 ### Differential Forms

@@ -4,11 +4,11 @@ tags:
   - stub
   - OC/2hi4this
 ---
-Scientific knowledge comprises knowledge taken at discrete slices of the [[Renormalization Group Theory|Renormalization Group]] over [[observable phenomena]] . These are slices because observation always has to occur....
+Scientific [[knowledge]] comprises knowledge taken at discrete slices of the [[Renormalization Group Theory|Renormalization Group]] over [[observable phenomena]] . These are slices because observation always has to occur....
 
 actually, maybe i'm wrong. 
 
-anyway, the general idea i wanted to express was imaginging scientific disciplines as carving out slices/spans over the RG group, kind of picturing the RG group as a cylinder where the vertical dimension of the cylinder is the "resolution" of the observation/phenomena. This was sparked by the wikipedia article about Cascadia, which also discusses the "bioregionalism" movement. this got me thinking about how within ecology, the notion of "region" is defined at a variety of scales. The hypothesis was that the space of these scales is continuous and therefore we should be able to define a coarse grained abstraction whose resolution is bounded above and below by any two arbitrary, previously defined abstractions. which is to say, if ecology currently has sub-specialties for people who study aggregates of ecological behaviors at resolutions x, y, ... n, we can always invent a new specialty that studies phenomena at a new scale between x and y previously characterized scales.
+anyway, the general idea i wanted to express was imaginging scientific disciplines as carving out slices/spans over the [[Renormalization Group Theory|RG group]], kind of picturing the RG group as a cylinder where the vertical dimension of the cylinder is the "resolution" of the observation/phenomena. This was sparked by the wikipedia article about Cascadia, which also discusses the "bioregionalism" movement. this got me thinking about how within ecology, the notion of "region" is defined at a variety of scales. The hypothesis was that the space of these scales is continuous and therefore we should be able to define a coarse grained abstraction whose resolution is bounded above and below by any two arbitrary, previously defined abstractions. which is to say, if ecology currently has sub-specialties for people who study aggregates of ecological behaviors at resolutions x, y, ... n, we can always invent a new specialty that studies phenomena at a new scale between x and y previously characterized scales.
 
 biology -> ecology -> bioregional ecology -> ... -> chemistry -> chemical kinetics -> ... physics -> statistical mechanics -> ... -> field theory -> quantum field theory
 

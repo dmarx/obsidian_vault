@@ -1,7 +1,7 @@
 ---
 tags:
-  - sod/green
   - stub
+  - sod/root
 ---
 
 see also:

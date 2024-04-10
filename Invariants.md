@@ -1,9 +1,8 @@
 ---
 tags:
-  - stub
   - needs-outlinks
+  - sod/root
 ---
-
 see also:
 - [[Conservation Laws]]
 - [[Topological Invariants]]

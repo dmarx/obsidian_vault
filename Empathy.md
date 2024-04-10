@@ -1,3 +1,13 @@
+---
+tags:
+  - OC
+  - OC/2hi4this
+  - OC/half-baked
+---
+
+see also:
+- [[Active Inference]]
+
 empathy is the taking on of another's perspective
 
 empathy is how we build our world model

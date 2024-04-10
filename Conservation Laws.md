@@ -1,6 +1,7 @@
 ---
 tags:
   - sod/green
+  - sod/root
 ---
 see also:
 - [[_Synthesis - Noether, Identity]]

@@ -1,7 +1,7 @@
 ---
 tags:
-  - sod/green
   - sod/gold
+  - sod/root
 ---
 
 See also:

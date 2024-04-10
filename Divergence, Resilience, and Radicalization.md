@@ -5,6 +5,9 @@ tags:
 see also:
 - [[Social Networks]]
 - [[Divergence]]
+- [[Community Dynamics]]
+- [[Radicalization Pressure]]
+
 
 consider some community $A$ that contains subcommunities, such that membership of a community is part of that members personal identity.
 

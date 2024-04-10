@@ -1,3 +1,9 @@
+---
+tags:
+  - sod/root
+  - sod/gold
+---
+
 Nonequilibrium systems are an extensive field of study within physics and applied mathematics, touching on a broad array of phenomena where the system under consideration is not in [[thermodynamic equilibrium]]. These systems are characterized by changes over time, where the detailed balance typically seen in [[equilibrium states]]—where macroscopic properties remain constant—is absent. Instead, these systems exhibit dynamic behavior, including steady states, oscillations, and [[chaotic dynamics]], often driven by external forces or internal fluxes of energy and matter.
 
 ### Fundamental Concepts

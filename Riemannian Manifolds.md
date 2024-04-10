@@ -1,6 +1,6 @@
 ---
 tags:
-  - sod/green
+  - sod/root
 ---
 see also:
 - [[Reimannian Geometry]]

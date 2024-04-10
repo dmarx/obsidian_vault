@@ -1,7 +1,6 @@
 ---
 tags:
   - sod/gold
-  - sod/green
 ---
 
 Hodge theory is a fundamental area of mathematics that intersects differential geometry, algebraic geometry, and partial differential equations. It provides a powerful framework for studying the properties of differential forms on smooth manifolds, especially in the context of complex manifolds and algebraic varieties. The theory is named after W.V.D. Hodge, who developed significant aspects of this theory in the first half of the 20th century.

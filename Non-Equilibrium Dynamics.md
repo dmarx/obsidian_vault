@@ -1,7 +1,7 @@
 ---
 tags:
-  - sod/gold
   - empty-hub
+  - sod/root
 ---
 
 Non-equilibrium dynamics encompasses the study of systems that are not in thermodynamic equilibrium, where external forces, gradients, or fluxes drive the system, or internal processes lead to time-dependent changes. Unlike equilibrium statistical mechanics, where systems are characterized by a lack of macroscopic change over time, non-equilibrium systems exhibit temporal or spatial changes in macroscopic properties, leading to rich and complex behaviors.

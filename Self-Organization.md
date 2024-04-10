@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 see also:
 - [[Emergence]]
 - [[Complexity Theory]]

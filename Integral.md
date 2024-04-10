@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 See also:
 - [[Differential Forms]]
 - [[Path Integral]]

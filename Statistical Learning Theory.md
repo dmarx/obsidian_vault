@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 see also:
 - [[Probability Theory]]
 - [[Information Geometry]]

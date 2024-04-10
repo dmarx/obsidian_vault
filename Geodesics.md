@@ -1,8 +1,7 @@
 ---
 tags:
-  - sod/green
+  - sod/root
 ---
-
 > In Information Geometry, the paths that statistical estimation procedures take in the space of probability distributions can be understood in terms of geodesics with respect to the Fisher-Rao metric.
 
 Understanding statistical estimation procedures through the lens of geodesics in Information Geometry provides a deep insight into the nature of these processes. The [[Fisher-Rao Metric]], serving as a foundational tool in this field, allows us to conceptualize the space of probability distributions as a geometric manifold. Here, the "distance" between probability distributions is measured in a way that captures the informational difference between them. This approach bridges the abstract statistical concepts with the tangible geometric intuition of paths and distances on a curved surface.

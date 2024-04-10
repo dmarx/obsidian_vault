@@ -1,7 +1,7 @@
 ---
 tags:
-  - sod/green
   - stub
+  - sod/root
 ---
 
 Singularities -- in the context of [[Information Geometry]] -- refer to points where the usual smoothness assumptions about the space break down. These can be points where the model is not well-defined, or where there is a sudden change in the model's structure (e.g., a [[Phase Transitions|phase transition]]).

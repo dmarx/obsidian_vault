@@ -1,3 +1,9 @@
+---
+tags:
+  - sod/root
+  - stub
+---
+
 See also:
 - [[Matrix Factorization]]
 - [[Fourier Transform]]

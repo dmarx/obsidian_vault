@@ -1,7 +1,7 @@
 ---
 tags:
   - needs-outlinks
-  - sod/green
+  - sod/root
 ---
 Critical points are a fundamental concept in calculus and mathematical [[analysis]], particularly in the study of functions from $\mathbb{R}^n$ to $\mathbb{R}$. They play a crucial role in [[Optimization]], [[dynamical systems]], and the qualitative study of [[differential equations]] and [[manifolds]]. Understanding critical points allows us to analyze the behavior of functions, such as identifying local and global maxima or minima, and understanding the shape and [[topology]] of graphs and surfaces.
 

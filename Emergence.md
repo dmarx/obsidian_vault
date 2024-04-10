@@ -1,6 +1,6 @@
 ---
 tags:
-  - sod/green
+  - sod/root
 ---
 
 Emergence is a cornerstone concept in the study of [[Complexity Theory|complex systems]], capturing the idea that the whole is more than the sum of its parts. This principle highlights how macro-level complexity, order, and properties can arise from the interactions and relationships between simpler entities at the micro-level. Emergent phenomena are not merely an aggregation of individual components but represent new attributes and behaviors that cannot be deduced directly from the properties of the individual elements. This concept is pivotal across a wide range of disciplines, from physics and biology to sociology and economics.

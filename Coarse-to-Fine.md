@@ -1,7 +1,6 @@
 ---
 tags:
   - sod/green
-  - sod/root
   - needs-outlinks
   - OC
 ---

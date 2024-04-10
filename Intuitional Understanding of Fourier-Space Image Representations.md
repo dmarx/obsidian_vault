@@ -3,6 +3,7 @@ tags:
   - OC
   - stub
   - sod/green
+  - sod/synthesis
 ---
 see also:
 - [[Fourier Transform]]

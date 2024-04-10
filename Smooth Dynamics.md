@@ -1,12 +1,11 @@
 ---
 tags:
   - needs-outlinks
-  - sod/green
   - sod/gold
 ---
-
 see also:
 - [[Geometric Group Theory]]
+- [[Continuity]]
 
 Smooth dynamics, a branch of the mathematical field of dynamical systems, focuses on the study of systems that are differentiable, meaning they have derivatives up to a required degree of smoothness. This field applies concepts from differential geometry and analysis to understand the behavior of continuous systems over time, particularly those described by differential equations or smooth transformations. Smooth dynamics explores how smooth maps—functions that are continuously differentiable—transform a manifold or a smooth space, revealing intricate behaviors such as stability, chaos, and bifurcations in the system's evolution.
 

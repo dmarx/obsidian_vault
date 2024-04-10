@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 Algebraic topology is a branch of mathematics that uses tools from abstract algebra to study topological spaces. The fundamental goal of algebraic topology is to translate problematic topological questions into more manageable algebraic problems. This translation process involves associating algebraic structures, such as groups and rings, to topological spaces in ways that reflect the spaces' topological properties. Key concepts and tools developed in algebraic topology include homotopy groups, homology groups, cohomology rings, and characteristic classes, among others.
 
 ### Key Concepts

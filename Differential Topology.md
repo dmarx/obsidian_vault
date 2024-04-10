@@ -1,8 +1,7 @@
 ---
 tags:
-  - sod/gold
-  - sod/green
   - needs-outlinks
+  - sod/root
 ---
 
 Differential [[topology]] is a branch of mathematics that uses the techniques of differential and [[integral]] calculus, along with [[Linear Algebra|linear]] and [[multilinear algebra]], to study the topological and geometric properties of differentiable manifolds. A differentiable manifold is a [[topological manifold]] equipped with a globally defined differential structure. Differential topology focuses on those properties of manifolds that are invariant under [[diffeomorphisms]], essentially treating [[manifolds]] that can be smoothly transformed into each other as being equivalent.

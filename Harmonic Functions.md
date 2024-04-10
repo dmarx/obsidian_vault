@@ -1,7 +1,6 @@
 ---
 tags:
   - sod/gold
-  - sod/green
 ---
 
 see also:

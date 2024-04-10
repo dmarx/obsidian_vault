@@ -1,6 +1,7 @@
 ---
 tags:
   - sod/gold
+  - sod/root
 ---
 see also:
 - [[Singularities]]

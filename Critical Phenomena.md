@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 Critical phenomena refer to the peculiar behavior of physical systems near continuous phase transitions, also known as second-order phase transitions. At these critical points, a system undergoes dramatic changes in its physical properties, and these changes are characterized by universal features that are largely independent of the system's microscopic details. The study of critical phenomena encompasses a broad range of systems across physics, chemistry, and materials science, including the transition between liquid and gas phases, magnetization in ferromagnetic materials, and superconductivity.
 
 ### Key Features of Critical Phenomena
