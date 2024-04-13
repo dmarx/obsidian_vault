@@ -1,3 +1,6 @@
+see also:
+- [[Conjugacy Classes]]
+
 Conjugate domains refer to pairs of related domains or spaces in which certain mathematical operations or transformations, such as the [[Fourier Transform]], create a linkage or duality between functions or signals defined in these domains. In the context of Fourier analysis and other areas of applied mathematics and physics, this concept often manifests through the relationship between time and frequency domains, position and momentum spaces, or other analogous pairs. The transformation from one domain to the other provides a different perspective on the information represented by the function or signal, often revealing insights or properties that are not immediately apparent in the original domain.
 
 ### Time and Frequency Domains

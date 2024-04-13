@@ -49,3 +49,8 @@ Moduli spaces are pivotal in many areas of mathematics and physics:
 - **[[Arithmetic Geometry]]**: The study of moduli spaces of elliptic curves and their higher-dimensional generalizations has profound implications for number theory, including the proof of Fermat's Last Theorem.
 
 Moduli spaces encapsulate the essence of mathematical elegance, revealing deep insights into the nature of geometric objects and their interrelations, with profound implications across mathematics and theoretical physics.
+
+---
+
+see also:
+- [[_Synthesis - model families are Moduli Spaces]]

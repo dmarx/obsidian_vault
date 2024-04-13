@@ -1,3 +1,9 @@
+---
+tags:
+  - sod/gold
+  - needs-outlinks
+---
+
 Geometric Invariant Theory (GIT) is a fundamental area of mathematics that lies at the intersection of [[algebraic geometry]], [[group theory]], and [[representation theory]]. Introduced by [[David Mumford]] in the 1960s, GIT provides a rigorous framework for studying the actions of groups on algebraic varieties and constructing quotients of these actions, especially when the groups are reductive (a class of groups that includes, for example, all finite groups and many important Lie groups). The theory is essential for understanding the [[moduli spaces]] of algebraic varieties, which are spaces parameterizing families of algebraic objects up to some [[equivalence relation]].
 
 ### Core Concepts and Goals
@@ -85,3 +91,31 @@ David Mumford provided a numerical criterion for determining the stability and s
 - **Algebraic Geometry and Beyond**: GIT and its stability criteria have profound implications in algebraic geometry, providing tools to study geometric objects under group actions and contributing to the understanding of vector bundles, algebraic curves, and more complex structures.
 
 The concepts of stability, semistability, and instability in GIT provide a nuanced and powerful language for analyzing and constructing quotients under group actions, highlighting the interplay between algebraic geometry and group theory in the study of geometric structures.
+
+---
+
+[[Geometric Invariant Theory|Geometric Invariant Theory (GIT)]] is a sophisticated area of algebraic geometry that deals with the action of a group on a variety of algebraic structures. It provides a method for constructing "quotients" of algebraic varieties by group actions, particularly in contexts where traditional quotient constructions (like topological or differential quotients) do not make sense algebraically. Developed primarily by [[David Mumford]] in the 1960s, GIT is instrumental in moduli theory and the study of algebraic stacks.
+
+### Key Concepts of GIT
+
+#### Group Actions
+In GIT, a *group action* is a formal way in which a group $G$ interacts with an algebraic variety $X$. Specifically, for each element $g \in G$, there is a corresponding automorphism of $X$ (i.e., a bijective morphism from $X$ to itself that respects the algebraic structure). The group action is typically denoted as $g \cdot x$, where $x \in X$.
+
+#### Stability
+A central notion in GIT is the concept of stability, which determines which points in a variety can be considered to form a "good" quotient. Stability is defined with respect to a linearization of the group action, often involving a line bundle over the variety. Points can be classified into types:
+- **Stable points** ($x \in X^{s}$): Points that admit a well-behaved quotient under the group action and have finite stabilizers.
+- **Semistable points** ($x \in X^{ss}$): Points that may be included in a quotient space in some meaningful way, though possibly in a more degenerate form than stable points.
+- **Unstable points** ($x \in X^{us}$): Points that cannot be included in a quotient.
+
+The precise definitions of these depend on the choice of a linearization, and different choices can lead to different notions of stability.
+
+#### Quotients
+The GIT quotient, denoted $X /\!\!/ G$, is constructed using the set of semistable points $X^{ss}$. This quotient is a projective variety that represents an "algebraic" category-theoretical quotient of $X^{ss}$ by the equivalence relation induced by $G$. Notably, the GIT quotient is not just a set-theoretic quotient but rather a quotient in the category of schemes, which respects the underlying algebraic geometry.
+
+### Mathematical Formalism
+Mathematically, GIT can be understood through the lens of invariant theory and ring theory. If $k[X]$ denotes the ring of regular functions on $X$, and $G$ acts on $X$, then $G$ induces an action on $k[X]$. The [[Invariant Ring]] $k[X]^G$ consists of all functions in $k[X]$ that are invariant under the action of $G$. The spectrum of this ring, $\operatorname{Spec}(k[X]^G)$, can be interpreted as the GIT quotient of $X$ by $G$ under suitable conditions.
+
+### Applications and Importance
+GIT is crucial in various branches of mathematics and theoretical physics, particularly in the construction of moduli spaces, where one needs to classify geometric objects up to some notion of equivalence. For example, in the study of vector bundles, algebraic curves, or complex manifolds, GIT provides a way to construct spaces that parametrize classes of these objects modulo some group action, typically arising from automorphisms.
+
+In summary, GIT intertwines group theory, algebraic geometry, and the theory of linear algebraic groups to address the problem of forming quotients in a non-trivial algebraic setting. This interplay allows GIT to provide powerful tools for constructing and understanding moduli spaces in many areas of mathematics.

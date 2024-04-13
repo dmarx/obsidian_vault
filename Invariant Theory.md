@@ -2,7 +2,6 @@
 tags:
   - sod/gold
 ---
-
 Invariant theory is a branch of abstract algebra dealing with the study of algebraic forms, polynomials, and functions that remain unchanged (invariant) under the action of groups through transformations. Originating in the 19th century with the work of mathematicians like [[Arthur Cayley]] and [[Felix Klein]], invariant theory initially focused on understanding the [[invariants]] and [[covariants]] of polynomial equations under linear transformations. Its development played a significant role in the evolution of modern algebra, particularly in the areas of algebraic geometry, representation theory, and algebraic number theory.
 
 ### Foundations and Key Concepts

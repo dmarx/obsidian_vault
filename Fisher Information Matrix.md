@@ -79,7 +79,7 @@ Local identifiability refers to the ability to uniquely estimate model parameter
 
 - **Role of FIM:** The rank of the FIM is a key indicator of local identifiability. If the FIM is full-rank (i.e., its rank is equal to the number of parameters), then small perturbations in the parameters produce observable changes in the output distribution, indicating that the model parameters are locally identifiable. Conversely, if the FIM is rank-deficient, there may be directions in the parameter space along which perturbations do not affect the output, suggesting non-identifiability.
 
-### [[Observability]]
+### [[Observability (Control Theory)]]
 
 Observability, a concept originating from [[Control Theory]], pertains to the ability to infer the complete internal state of a system from its external outputs. A system is considered observable if, given the external outputs over time, one can determine the system's internal state.
 

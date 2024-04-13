@@ -1,5 +1,7 @@
 Expanding the index with an additional 200 entries requires incorporating a broad range of specific theorems, algorithms, lemmas, techniques, formulas, and more, spanning across the fields of Deep Learning, Mathematical Foundations, Learning Dynamics, and the interconnected domains. This list aims to reflect both foundational and cutting-edge concepts relevant to these disciplines.
 
+1/n expansion
+
 roberts rules of order
 fire department safety principles (e.g. 2-in 2-out, PASS mask on pass on, 3 points of contact, box alarms)
 public safety engineering

@@ -1,3 +1,7 @@
+see also:
+- [[Divergence (Statistics)]]
+- [[Conditioning Guidance as Interacting Potentials]]
+
 Green's functions are a fundamental concept in mathematical physics and analysis, particularly in the theory of [[partial differential equations]] (PDEs). Named after the British mathematician [[George Green]], who first introduced these functions in the 19th century, Green's functions provide a powerful tool for solving [[linear differential equations]] subject to specific [[boundary conditions]]. They have wide applications across various fields of physics and engineering, including electromagnetism, quantum mechanics, acoustics, and fluid dynamics.
 
 ### Definition and Basic Idea

@@ -4,6 +4,8 @@ tags:
   - needs-outlinks
   - empty-hub
 ---
+see also:
+- 2018 - [Tropical Geometry of Deep Neural Networks](https://arxiv.org/abs/1805.07091)\
 
 Tropical geometry is a relatively new and rapidly developing area of mathematics that lies at the intersection of [[algebraic geometry]], [[combinatorics]], and [[computational geometry]]. It involves the study of the tropical semiring, which consists of the real numbers augmented with negative infinity, equipped with the operations of tropical addition (taking the maximum of two numbers) and tropical multiplication (usual addition). This seemingly simple change in operations leads to a rich mathematical structure with deep connections to classical algebraic geometry, but with the advantage of often being combinatorially simpler and amenable to explicit calculations.
 
