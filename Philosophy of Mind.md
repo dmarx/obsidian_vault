@@ -20,7 +20,10 @@ see also:
 - [[Multi-modal Modeling]]
 - [[Representation Learning]]
 - [[Artificial Intelligence]]
-- 
+- [[Recurrent Processing]]
+- [[Computational Higher-Order Theories]]
+- [[Collective Decision Making]]
+- [[Embodied Cognition]]
 
 >To the best of your unassisted knowledge, what are some major developments in the academic philosophy of mind research space since 2007
 

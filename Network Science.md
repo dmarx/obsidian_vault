@@ -28,6 +28,14 @@ see also:
 - [[Collective Behavior]]
 - [[Self-Organization]]
 - [[Self-Organized Criticality]]
+- [[Exponential Family Random Graph Models]]
+- [[dynamic social networks]]
+- [[Hawkes processes]]
+- [[Scan statistics on network graphs]]
+- [[label propagation]]
+- [[bipartite projection]]
+- [[Matroid]]
+- [[Spectral Theory of Graphs]]
 
 [[Network Science|Network science]] is an interdisciplinary research area that studies the structure, dynamics, and functions of complex networks. It applies mathematical [[graph theory]], physics, statistics, and computational techniques to analyze networks in various domains, including [[social networks]], biological networks, technological networks, and more. By exploring the patterns and principles underlying these networks, network science aims to understand how the structure of a network affects its behavior, how information flows within it, and how these networks evolve over time.
 
@@ -49,7 +57,7 @@ see also:
 
 ### Applications of Network Science
 
-- **Social Networks**: Analysis of [[social structures]], [[community detection]], [[influence dynamics]], and [[information dissemination]].
+- **Social Networks**: Analysis of [[social structures]], [[Community Detection]], [[influence dynamics]], and [[information dissemination]].
 - **Biological Networks**: Study of [[Gene Regulatory Networks|genetic regulatory networks]], [[protein interaction networks]], neural networks, and [[ecological networks]] to understand complex biological systems.
 - **Technological Networks**: Exploration of the Internet, [[power grids]], [[transportation networks]], and other infrastructure to improve efficiency, robustness, and security.
 - **Economic Networks**: Investigation of [[trade networks]], financial transaction networks, and [[market dynamics]] to understand [[economic behavior]] and [[systemic risks]].

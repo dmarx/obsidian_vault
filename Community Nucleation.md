@@ -5,7 +5,7 @@ tags:
 see also:
 - [[_Synthesis - Catalyst Kinetics And Social Behavior]]
 - [[Organization As Entity]]
-- 
+- [[Nucleation in Social Dynamics]]
 
 
 "if you build it, they will come"

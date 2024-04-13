@@ -135,7 +135,7 @@ Societal systems are perpetually engaged in balancing the costs and benefits of 
 Viewing societal systems through the principles of energy efficiency and information exchange provides a rich framework for understanding the complex dynamics of human organization and cultural evolution. By applying analogies from physical systems, information theory, and optimal transport, we can appreciate the nuanced ways in which societies adapt to changing environments, optimize their structures and processes, and navigate the future. This interdisciplinary approach not only deepens our understanding of societal dynamics but also highlights the interconnectedness of all complex systems, whether natural or human-made.
 
 see also:
-- [[Information Flow in Social Networks]]
+- [[Information Flow in Interaction Networks]]
 
 
 >summarize the topics, themes, subtopics, connections, and implications we've discussed thus far

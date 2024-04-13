@@ -8,4 +8,4 @@ In geometry, curvature is a measure of how much a curve deviates from being a st
 
 See also:
 - [[Learning Dynamics]]
-- 
+- [[Network analog of curvature]]

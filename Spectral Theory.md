@@ -5,6 +5,8 @@ tags:
 ---
 see also:
 - [[Calculus of Variations]]
+- [[Spectral Theory of Graphs]]
+- [[Harmonic Analysis]]
 
 Spectral theory is a fundamental branch of mathematics that studies the spectrum of operators, particularly linear operators acting on function spaces. Originating from the [[Analysis]] of [[differential operators]] and [[matrix theory]], spectral theory has grown to encompass a broad range of mathematical disciplines, including [[Functional Analysis]], [[partial differential equations]] (PDEs), and quantum mechanics. The "spectrum" of an operator includes values such as eigenvalues, around which the operator exhibits certain characteristic behavior, analogous to the way physical systems have natural frequencies at which they resonate.
 

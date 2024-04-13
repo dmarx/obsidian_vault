@@ -8,7 +8,7 @@ see also:
 - [[Game Theory]]
 - [[Mathematical Ecology]]
 - [[Social Networks]]
-- [[Information Flow in Social Networks]]
+- [[Information Flow in Interaction Networks]]
 - [[Probability Measure]]
 - [[Probability Theory]]
 - [[probability space]]

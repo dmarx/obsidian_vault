@@ -91,7 +91,7 @@ Using this as a tag for now, listing stuff alphabetically here. checkbox indicat
 
 [[Ideal Gas Law]]
 
-- [ ] [[Information Flow in Social Networks]]
+- [ ] [[Information Flow in Interaction Networks]]
 - [ ] [[Information Geometry]]
 - [ ] [[Inner Product]]
 - [ ] [[Integral]]

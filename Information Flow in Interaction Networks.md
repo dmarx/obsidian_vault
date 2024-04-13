@@ -1,3 +1,6 @@
+see also:
+- [[Network Cascade]]
+
 > Just as energy flows through physical systems following paths of least resistance, information flows through social networks along the most efficient paths, shaped by the network's topology.
 
 This analogy between energy flow in physical systems and information flow in social networks captures a fundamental principle of efficiency and adaptability that pervades both natural and human-made systems. The concept of flowing along paths of least resistance or most efficiency is a powerful tool for understanding how systems self-organize and evolve over time. Let's explore this idea further, highlighting its implications in the context of social networks.
@@ -197,3 +200,83 @@ The exploration of stochastic gradient methods in deep learning, particularly th
 ### Transcending Disciplines
 
 The fundamental principles that govern the behavior and evolution of complex systems—whether they're found in the physical phenomena of dissipative structures, the adaptive processes of biological ecosystems, or the learning dynamics of artificial neural networks—highlight a remarkable universality. These principles, such as the continuous interplay between order and chaos, the role of feedback in self-organization, and the critical balance between exploration and exploitation, transcend the specifics of any one domain, offering a holistic framework for understanding complexity across the natural and social sciences, as well as in artificial systems. This interdisciplinary perspective not only deepens our comprehension of individual phenomena but also illuminates the pathways through which complex systems navigate the challenges of adaptation, optimization, and evolution.
+
+---
+>criticality and information transmission through interaction networks
+
+Criticality and information transmission through interaction networks are deeply intertwined concepts that play a significant role in understanding complex systems, ranging from neural networks to social and ecological systems. Criticality refers to a state of a system at which it is poised at the edge of a phase transition, exhibiting maximal sensitivity to external stimuli and an optimal balance between order and disorder. This state is characterized by long-range correlations and the potential for small perturbations to lead to large-scale responses. Information transmission in this context relates to how signals or data propagate through the network, influenced by the network's structure and the dynamical state of its components.
+
+### Criticality in Complex Systems
+
+In complex systems, criticality is often associated with the concept of self-organized criticality (SOC), a theory proposed by Per Bak, Chao Tang, and Kurt Wiesenfeld. SOC suggests that certain complex systems naturally evolve into a critical state where they exhibit scale-invariant behavior without the need for fine-tuning external parameters. At criticality, these systems demonstrate power-law distributions in the sizes and durations of their responses to perturbations, indicative of fractal structures and dynamics.
+
+### Information Transmission
+
+The transmission of information through a network is fundamentally influenced by the network's topology (i.e., its connectivity structure) and the dynamical rules governing the interactions among its nodes. In a critical state, networks are thought to optimize information transmission, storage, and processing capabilities. This optimization is partly because the long-range correlations characteristic of criticality facilitate the spread of information across the network, allowing for efficient communication between distant parts.
+
+### Mathematical Modeling of Criticality and Information Transmission
+
+The study of how information transmission is affected by criticality often involves mathematical and computational models, including:
+
+- **Ising Models and Spin Systems:** Used to study phase transitions, where the critical point separates ordered and disordered phases. In the context of neural networks, for example, an Ising-like model might be used to represent the state of neurons (spins) and their interactions (edges), with the system's critical state maximizing information capacity and sensitivity.
+
+- **Random Boolean Networks (RBNs):** These are models of gene regulatory networks where nodes represent genes that can be on or off, and edges represent regulatory interactions. RBNs can exhibit a phase transition between ordered and chaotic dynamics, with criticality optimizing the balance between stability and flexibility, crucial for robust information processing and adaptation.
+
+- **Graph Theory and Network Science:** These fields provide tools to quantify the structural properties of networks, such as clustering coefficients, path lengths, and degree distributions, which are crucial for understanding information flow. Metrics such as betweenness centrality or eigenvector centrality can identify key nodes in facilitating or bottlenecking information transmission.
+
+### Criticality and Information in Neural Networks
+
+One of the most compelling applications of these concepts is in neuroscience, where the brain is hypothesized to operate at or near criticality. This criticality is believed to optimize the brain's computational capabilities, such as:
+
+- **Maximal Sensitivity:** At criticality, neural networks can respond to a wide range of stimuli with appropriate scaling of response.
+- **Large-Scale Integration:** Criticality allows for the integration of information across spatially distributed regions.
+- **[[Information Capacity]]:** The critical state maximizes the amount of information that can be stored and processed by the network.
+
+### Implications and Applications
+
+Beyond neuroscience, the principles of criticality and information transmission through interaction networks have broad implications, including:
+
+- **Ecosystem Management:** Understanding critical thresholds in ecological networks can help prevent transitions to degraded states.
+- **Social Networks:** Insights into how information spreads in social systems can inform strategies for public health, marketing, and beyond.
+- **Technology and Engineering:** Design principles derived from criticality can inform the development of resilient and efficient distributed computing and communication systems.
+
+In sum, exploring the intersection of criticality and information transmission through interaction networks offers rich insights into the fundamental principles governing complex systems, with wide-ranging applications across the natural and social sciences, as well as engineering.
+
+---
+>modeling network information propagation via intensity functions
+
+Modeling network information propagation via intensity functions, particularly within the framework of [[Hawkes processes]], offers a powerful approach to understanding how information, behaviors, and other phenomena spread across networks. In this context, the intensity function represents the rate at which events (such as information sharing, posting, or adoption of behaviors) are expected to occur at a given time, conditioned on the history of past events. This method captures the self-exciting nature of information spread, where each event increases the likelihood of future events, mirroring the viral spread of information in social networks.
+
+### Intensity Function in Hawkes Processes
+
+The core of the Hawkes process is its intensity function, \(\lambda(t)\), which models the rate of occurrence of events over time. For networked information propagation, this intensity function can be adapted to consider the influence of events across the network. The generalized form of the intensity function for a node \(i\) in a network can be expressed as:
+
+$$ \lambda_i(t) = \mu_i + \sum_{j \in \Gamma(i)} \sum_{t_j < t} \phi_{ij}(t - t_j) $$
+
+Here:
+- \(\mu_i\) is the baseline intensity at node \(i\), representing the rate of spontaneous events independent of previous events.
+- \(\Gamma(i)\) denotes the set of nodes that have a direct influence on node \(i\), typically the neighbors of \(i\) in the network.
+- \(\phi_{ij}(t - t_j)\) is the influence function or kernel, describing how an event at node \(j\) at time \(t_j\) affects the rate of events at node \(i\) at time \(t\). This function often decays over time, indicating that the influence of past events diminishes.
+
+### Modeling Network Propagation
+
+To model information propagation across a network, the intensity function needs to capture the dynamics of information flow between nodes. This involves specifying:
+- **The network structure**, which determines the set \(\Gamma(i)\) for each node, i.e., which other nodes can influence it.
+- **The baseline intensity \(\mu_i\)** for each node, which could depend on the node's attributes or external factors influencing the node's activity.
+- **The influence function \(\phi_{ij}\)**, which may vary depending on the relationship between nodes \(i\) and \(j\), such as the strength of their connection or the similarity of their content interests.
+
+### Challenges in Modeling
+
+- **Complexity of Influence Functions:** Determining the appropriate form for \(\phi_{ij}\) can be challenging, as it may need to account for various factors like temporal decay, the type of information, and the medium of propagation.
+- **Scalability:** For large networks, computing the intensity function over all nodes and their interactions becomes computationally intensive, requiring efficient algorithms and approximations.
+- **Data Requirements:** Accurate modeling and parameter estimation require detailed data on the timing of events and the network structure, which may not always be available or may raise privacy concerns.
+
+### Applications
+
+- **Social Media Analytics:** Understanding how information spreads through social media platforms can inform strategies for content distribution, marketing, and viral campaigns.
+- **Epidemiology:** Similar models can be applied to the spread of diseases in contact networks, where each infection event increases the risk to connected individuals.
+- **Market Dynamics:** In financial networks, the propagation model can help in understanding how trading actions or news about one entity influence the behaviors of others in the market.
+
+### Conclusion
+
+Modeling information propagation in networks via intensity functions, especially using Hawkes processes, provides a nuanced understanding of the temporal and network-driven dynamics of information spread. It highlights the interplay between network structure and event dynamics, offering insights into the mechanisms driving viral phenomena and the spread of behaviors across networks. Despite computational and data challenges, these models are invaluable tools for researchers and practitioners aiming to decipher the complexities of information flow in various domains.

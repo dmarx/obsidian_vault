@@ -1,7 +1,10 @@
 ---
 tags:
   - needs-outlinks
+  - todo/merge
 ---
+see also:
+- [[Perturbation Methods]] - todo: merge
 
 Perturbation theory is a mathematical approach used to find an approximate solution to a problem by starting from the exact solution of a simpler, related problem. This technique is widely employed in various domains of physics and engineering, such as quantum mechanics, classical mechanics, and fluid dynamics, to deal with problems that cannot be solved exactly due to their complexity. The essence of perturbation theory lies in introducing a small parameter, $\epsilon$, which measures the deviation of the complex problem from the simpler one. The solution is then expressed as a series expansion in terms of $\epsilon$.
 

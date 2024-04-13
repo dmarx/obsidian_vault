@@ -6,6 +6,8 @@ see also:
 - [[Denoising Autoencoders]]
 - [[Diffusion Models]]
 - [[Diffusion Processes]]
+- [[Wick contraction]]
+- [[1-Over-N Expansion]]
 
 Perturbation theory is a mathematical technique used across various fields of physics and applied mathematics to find an approximate solution to a problem by starting from an exact solution of a simpler, related problem. This approach is particularly useful for dealing with complex systems where the interactions or forces involved cannot be solved exactly due to their non-linear, complex nature. Perturbation theory introduces a small, manageable "perturbation" to the system and examines how this perturbation affects the system's behavior, allowing for an approximate solution to be constructed iteratively.
 

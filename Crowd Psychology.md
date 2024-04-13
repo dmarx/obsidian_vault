@@ -1,7 +1,12 @@
 ---
 tags:
-  - needs-outlinks
+  - empty-hub
 ---
+see also:
+- [[Philosophy of Mind]]
+- [[Organization As Entity]]
+- [[Multiplicitous Self]]
+- [[Herd Behavior]]
 
 [[Crowd Psychology]] is a branch of social psychology that focuses on understanding how individual behavior, thoughts, and emotions are influenced by the presence of others, especially within large groups or crowds. This field explores the mechanisms through which crowds exert their influence, the changes in individual cognition and behavior that occur in group settings, and the dynamics of crowd behavior itself. Early studies in crowd psychology were influenced by notions of the "collective mind" and the idea that individuals in a crowd lose their sense of self and act based on the group's emotions and desires.
 
@@ -11,15 +16,15 @@ One of the foundational figures in crowd psychology is Gustave Le Bon, who in hi
 
 ### Key Concepts and Theories
 
-- **Anonymity:** Being in a crowd can create a sense of anonymity, reducing personal accountability and inhibitions, which may lead to behaviors an individual would not typically engage in alone.
+- **[[Anonymity]]:** Being in a crowd can create a sense of anonymity, reducing personal accountability and inhibitions, which may lead to behaviors an individual would not typically engage in alone.
 
-- **Contagion:** Emotional states and behaviors can spread through a crowd rapidly, as individuals' mimic and amplify the actions and emotions of those around them.
+- **[[Contagion]]:** Emotional states and behaviors can spread through a crowd rapidly, as individuals' mimic and amplify the actions and emotions of those around them.
 
-- **Deindividuation:** This theory, which builds on concepts of anonymity and contagion, suggests that individuals in a crowd can lose their sense of self-awareness and as a result, their actions may become disconnected from their personal values and norms.
+- **[[Deindividuation]]:** This theory, which builds on concepts of anonymity and contagion, suggests that individuals in a crowd can lose their sense of self-awareness and as a result, their actions may become disconnected from their personal values and norms.
 
-- **Convergence Theory:** Contrary to the notion of the "collective mind," this theory suggests that crowd behavior is not simply the emergence of a group mind but rather the result of like-minded individuals coming together.
+- **[[Convergence Theory]]:** Contrary to the notion of the "collective mind," this theory suggests that crowd behavior is not simply the emergence of a group mind but rather the result of like-minded individuals coming together.
 
-- **Emergent Norm Theory:** This perspective argues that crowd behavior emerges through the establishment of new norms among individuals in response to a specific situation or context. These norms can develop rapidly and guide the behavior of the crowd.
+- **[[Emergent Norm Theory]]:** This perspective argues that crowd behavior emerges through the establishment of new norms among individuals in response to a specific situation or context. These norms can develop rapidly and guide the behavior of the crowd.
 
 ### Mathematical and Computational Models
 
