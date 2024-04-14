@@ -38,4 +38,11 @@ auto page numbers
 auto distance from root (level sets of topic "depth")
 - assign each root a depth and use those as levelset prototypes
 - identify other "prototype" nodes and assign them fixed depths as levelset prototypes (as if they were roots)
-- 
+
+---
+
+### Exploration Mode
+
+auto-book/auto-wiki: show local graph, and *propose pages in the local graph*. Add links to proposed nodes to pull them into the 1 step neighborhood. This triggers process to propose the new additions to the two step neighborhood: the 1 step neighborhood around the (previously proposed) newly added node
+
+originally via [[Semantic Space Geometry]]

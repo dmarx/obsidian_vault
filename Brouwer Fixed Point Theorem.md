@@ -3,7 +3,9 @@ tags:
   - needs-outlinks
   - sod/green
 ---
-The Brouwer [[Fixed Points|Fixed Point]] Theorem is a foundational result in topology with significant implications across mathematics, economics, physics, and engineering. Formulated by Luitzen Brouwer in the early 20th century, it states that any continuous function from a compact, convex subset of a Euclidean space to itself has at least one fixed point. A fixed point of a function \(f\) is a point \(x\) such that \(f(x) = x\).
+The Brouwer [[Fixed Points|Fixed Point]] Theorem is a foundational result in topology with significant implications across mathematics, economics, physics, and engineering. Formulated by Luitzen Brouwer in the early 20th century, 
+
+it states that any continuous function from a compact, convex subset of a Euclidean space to itself has at least one fixed point. A fixed point of a function \(f\) is a point \(x\) such that \(f(x) = x\).
 
 ### Statement of the Theorem
 

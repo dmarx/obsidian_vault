@@ -2,6 +2,8 @@
 tags:
   - sod/gold
   - needs-outlinks
+aliases:
+  - homology
 ---
 
 Homology is a fundamental concept in algebraic topology, providing a systematic way to study and classify topological spaces based on their shapes and the "holes" within those shapes. The essence of homology is to associate a sequence of algebraic objects, typically [[Abelian Groups]] or [[Vector Space|vector spaces]], with a topological space in such a way that these algebraic invariants reflect the space's topological structure. Homology groups are powerful tools for distinguishing between different types of topological spaces and for understanding their properties in an algebraic manner.

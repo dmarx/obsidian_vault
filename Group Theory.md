@@ -6,7 +6,9 @@ tags:
 
 > tell me about group theory as if I were graduate deep learning researcher focused on learning dynamics of semantic latent representations through the lens of geometry, and connecting notions of symmetry and equivariance to inductive priors
 
-As a graduate researcher in deep learning with a focus on the learning dynamics of semantic latent representations through the lens of geometry, and particularly interested in connecting notions of symmetry and equivariance to inductive priors, group theory becomes an invaluable mathematical framework for your work. Group theory, the study of algebraic structures known as groups, provides a powerful language for formalizing and understanding symmetries in mathematical systems. In the context of deep learning, symmetry and equivariance concepts are central to designing models that can generalize well by recognizing and exploiting the inherent symmetries in data.
+As a graduate researcher in deep learning with a focus on the learning dynamics of semantic latent representations through the lens of geometry, and particularly interested in connecting notions of symmetry and equivariance to inductive priors, group theory becomes an invaluable mathematical framework for your work. 
+
+Group theory, the study of algebraic structures known as groups, provides a powerful language for formalizing and understanding symmetries in mathematical systems. In the context of deep learning, symmetry and equivariance concepts are central to designing models that can generalize well by recognizing and exploiting the inherent symmetries in data.
 
 ### Group Theory and Its Relevance to Your Research
 

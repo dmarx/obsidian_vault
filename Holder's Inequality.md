@@ -2,6 +2,7 @@
 tags:
   - stub
   - sod/green
+  - prune/out-of-scope
 aliases:
   - Hölder's Inequality
 ---

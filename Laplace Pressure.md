@@ -1,6 +1,17 @@
 ---
 tags:
   - needs-outlinks
+  - sod/gold
+  - OC
+  - OC/weak
+---
+see also:
+- [[Semantic Space Geometry]]
+
+Notes:
+
+Feels like there's an opportunity to connect this to the "informational pressure" in a dataset, i.e. a potential to add information to a model that has some fixed capacity and already contains information in this volume, maintaining an informational pressure.
+
 ---
 
 see also:

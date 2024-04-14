@@ -1,11 +1,17 @@
+---
+aliases:
+  - cohomology
+---
+
 see also:
 - [[Geometric Group Theory]]
+- [[Group Theory]]
 
 Group cohomology is a mathematical framework that explores the properties and structures of groups using the tools of homological algebra. It provides a way to study group actions on modules (or more general abelian groups) and to understand the extensions, representations, and cohomological invariants of groups. Originating in algebraic topology, where it was used to study the topology of spaces with group symmetries, group cohomology has profound implications in various areas of mathematics and theoretical physics.
 
 ### Basic Concepts
 
-- **Cohomology Groups**: For a group \(G\) acting on an abelian group \(A\) (considered as a \(G\)-module), the \(n\)-th cohomology group of \(G\) with coefficients in \(A\), denoted \(H^n(G, A)\), measures the obstructions to lifting \(n\)-1 cocycles to \(n\)-cocycles. These groups provide algebraic invariants that reflect both the structure of \(G\) and the nature of its action on \(A\).
+- **Cohomology Groups**: For a group \(G\) acting on an [[Abelian Groups|abelian group]] \(A\) (considered as a \(G\)-module), the \(n\)-th cohomology group of \(G\) with coefficients in \(A\), denoted \(H^n(G, A)\), measures the obstructions to lifting \(n\)-1 cocycles to \(n\)-cocycles. These groups provide algebraic invariants that reflect both the structure of \(G\) and the nature of its action on \(A\).
 
 - **Cochains, Cocycles, and Coboundaries**: The construction of cohomology groups involves defining cochains (functions from \(G^n\) to \(A\)), cocycles (cochains satisfying a certain condition that generalizes the notion of being closed), and coboundaries (cochains that can be expressed as the coboundary of another cochain). Cocycles that are not coboundaries represent nontrivial elements of cohomology groups.
 
