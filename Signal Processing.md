@@ -25,7 +25,7 @@ $$X(f) = \int_{-\infty}^{\infty} x(t) e^{-j 2\pi ft} dt$$
 
 where $X(f)$ is the Fourier transform of $x(t)$, $f$ is the frequency in Hertz, and $j$ is the imaginary unit. The inverse Fourier transform allows us to convert back from the frequency domain to the time domain.
 
-For discrete signals, the [[Discrete Fourier Transform (DFT)|Discrete Fourier Transform]] and its efficient computation algorithm, the [[Fast Fourier Transform (FFT)|Fast Fourier Transform]], are used.
+For discrete signals, the [[Discrete Fourier Transform (DFT)|Discrete Fourier Transform]] and its efficient computation algorithm, the [[Fourier Transform|Fast Fourier Transform (FFT)]], are used.
 
 #### Filters
 
@@ -38,7 +38,7 @@ Filters are systems designed to selectively enhance or suppress certain aspects 
 
 #### Statistical Signal Processing
 
-Statistical signal processing involves the use of statistical tools to analyze and process signals. This includes techniques like estimation theory to estimate the values of certain parameters of a signal, detection theory for identifying the presence of a signal in noise, and stochastic processes for modeling and analyzing time-varying random signals.
+[[Statistical signal processing]] involves the use of statistical tools to analyze and process signals. This includes techniques like [[estimation theory]] to estimate the values of certain parameters of a signal, detection theory for identifying the presence of a signal in noise, and stochastic processes for modeling and analyzing time-varying random signals.
 
 ### Application Areas
 

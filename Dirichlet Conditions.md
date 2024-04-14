@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/gold
+---
+
 The Dirichlet conditions are a set of criteria that, if satisfied by a function, ensure that its [[Fourier Series]] converges at most points. Named after the German mathematician [[Peter Gustav Lejeune Dirichlet]], these conditions are used to determine whether a periodic function can be represented as a Fourier series in a manner that converges to the function itself at points of continuity and to the average of the left-hand and right-hand limits at points of discontinuity. The Dirichlet conditions for a function $f(t)$ over a period $T$ are as follows:
 
 1. **[[Periodicity]]**: The function $f(t)$ must be periodic, meaning there exists a positive value $T$ such that $f(t + T) = f(t)$ for all $t$.

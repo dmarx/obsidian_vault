@@ -2,6 +2,9 @@
 tags:
   - empty-hub
   - sod/green
+aliases:
+  - Laplacian
+  - Laplacian Operator
 ---
 
 see also:

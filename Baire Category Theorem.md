@@ -20,7 +20,7 @@ This form emphasizes the concept of "category". A set is called "nowhere dense" 
 
 ### Applications
 
-- **Functional Analysis**: In functional analysis, the Baire Category Theorem is used to prove important results such as the [[Open Mapping Theorem]], the [[Closed Graph Theorem]], and the [[Uniform Boundedness Principle]]. These theorems, in turn, are foundational for understanding the behavior of [[linear operators]] in [[Banach Space|Banach spaces]] and beyond.
+- **Functional Analysis**: In functional analysis, the Baire Category Theorem is used to prove important results such as the [[Open Mapping Theorem]], the [[Closed Graph Theorem]], and the [[Uniform Boundedness Principle]]. These theorems, in turn, are foundational for understanding the behavior of [[Linear Operators]] in [[Banach Space|Banach spaces]] and beyond.
 
 - **Real Analysis**: The theorem has implications for the structure of real functions. For example, it can be used to show that there are functions that are continuous everywhere but differentiable nowhere, challenging intuitive notions of what typical functions "look like".
 

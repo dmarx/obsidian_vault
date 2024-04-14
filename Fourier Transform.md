@@ -2,6 +2,9 @@
 tags:
   - sod/green
   - needs-outlinks
+aliases:
+  - Fast Fourier Transform
+  - Fast Fourier Transform (FFT)
 ---
 see also:
 - [[Signal Processing]]

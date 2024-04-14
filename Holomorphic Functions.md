@@ -15,9 +15,9 @@ Holomorphic functions have several remarkable properties:
 
 - **Complex Differentiability:** A key difference between real and complex differentiability is that if a complex function is differentiable at a point, it is infinitely differentiable at that point. Furthermore, complex differentiability implies that the function satisfies the Cauchy-Riemann equations, a set of partial differential equations.
 
-- **Analyticity:** Holomorphic functions are analytic, meaning they can be locally represented by a convergent power series. This implies that knowing the behavior of a holomorphic function in a small region (in principle, an arbitrarily small one) determines its behavior everywhere within its domain of convergence.
+- **[[Analytic Functions|Analyticity]]:** Holomorphic functions are analytic, meaning they can be locally represented by a convergent power series. This implies that knowing the behavior of a holomorphic function in a small region (in principle, an arbitrarily small one) determines its behavior everywhere within its domain of convergence.
 
-- **Conformality:** At points where their derivative is non-zero, holomorphic functions preserve angles and the shape of small figures, though they may alter their size and orientation. This property makes them conformal mappings.
+- **Conformality:** At points where their derivative is non-zero, holomorphic functions preserve angles and the shape of small figures, though they may alter their size and orientation. This property makes them [[conformal mappings]].
 
 - **Path Independence:** The integral of a holomorphic function over a path in its domain depends only on the endpoints of the path, a consequence of Cauchy's integral theorem. This leads to the powerful Cauchy integral formula, which provides an expression for the values of a holomorphic function inside a contour in terms of the values on the contour.
 

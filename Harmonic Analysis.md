@@ -15,7 +15,7 @@ Harmonic analysis is a branch of mathematics that studies the representation of 
 
 - **[[Laplace Transform]]:** A related tool that transforms a function of time into a function of complex frequency, widely used in engineering and physics to solve differential equations and analyze linear time-invariant systems.
 
-- **[[Spectral Theory]]:** Part of harmonic analysis involves the study of the [[spectrum]] of [[operators]], particularly [[linear operators]] on [[function spaces]]. Spectral theory investigates how functions decompose in terms of [[eigenfunctions]] of operators, which is crucial for understanding various physical and mathematical systems.
+- **[[Spectral Theory]]:** Part of harmonic analysis involves the study of the [[spectrum]] of [[operators]], particularly [[Linear Operators]] on [[function spaces]]. Spectral theory investigates how functions decompose in terms of [[eigenfunctions]] of operators, which is crucial for understanding various physical and mathematical systems.
 
 - **[[Wavelets]]:** [[Wavelet analysis]] provides a way to decompose functions into components [[localized]] in both time and frequency. Unlike Fourier transforms, which are localized only in frequency, wavelets are well-suited to analyzing transient and non-stationary signals.
 

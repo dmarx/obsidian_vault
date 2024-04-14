@@ -7,6 +7,8 @@ tags:
 see also:
 - [[Orthogonality relations for the characters of irreducible representations of finite groups]]
 - [[Independence]]
+- [[Orthogonal Group]]
+- [[Orthonormal Basis]]
 
 Orthogonality is a fundamental concept in mathematics and physics that signifies a form of independence or perpendicularity under a given inner product. Originating from geometry, where it describes perpendicular lines or planes, the concept has been vastly generalized to various branches of mathematics, including linear algebra, functional analysis, and beyond. In these broader contexts, orthogonality plays a crucial role in understanding the structure of spaces, simplifying problems, and developing efficient computational algorithms.
 

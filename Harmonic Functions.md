@@ -1,6 +1,8 @@
 ---
 tags:
   - sod/gold
+aliases:
+  - Harmonic Function
 ---
 
 see also:

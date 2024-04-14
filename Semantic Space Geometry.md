@@ -84,15 +84,9 @@ see also:
 [[Sparsity]]
 [[Lipschitz continuity]]
 [[Curse of Dimensionality]]
-[[Network analog of curvature]]
-[[Descriptive Set Theory]]
-[[Borel Sets]]
-[[Borel Measures]]
-[[Connection on a Manifold]]
-[[Geometric Flows]]
-[[Cauchy Sequence]]
-[[Minimal Surfaces]]
-[[Soap Bubbles]]
+
+
+
 [[Laplace Pressure]] - Yo I think this is what I was looking for.
 [[Topology On A Set]]
 [[Group Theory]]
@@ -124,7 +118,85 @@ trees, ontologies, knowledge graphs, hiearchies
 
 [[Extreme Value Theorem]]
 [[Conditioning Guidance as Interacting Potentials]]
+[[Dirichlet Conditions]]
+[[Leibniz Rule]]
 
+[[Loss Landscape]]
+[[Grokking]]
+
+[[Hodge theory]]
+[[Spectral Theory]]
+[[Signal Processing]]
+[[Pontryagin Duality]]
+
+[[Attractors]]
+[[Attractor Basins]]
+[[Topological Dynamics]]
+
+[[Fisher Information]]
+
+[[Divergence (Statistics)]]
+
+[[Eigenvalues]]
+[[Coarse-To-Fine Processes]]
+
+
+[[Fiedler vector]]
+[[Numerical Analysis]]
+
+
+[[Tangent Space]]
+[[Lebesgue Measure]]
+
+[[Mode Connectivity]]
+[[Generative Adversarial Networks]]
+[[Score Function]]
+[[Sparse Representation]]
+[[Parable of the Average Pilot]]
+[[Concentration of Measure]]
+[[Probability Measure]]
+[[Diffusion Models]]
+[[Diffusion Processes]]
+
+[[Orthonormal Basis]]
+[[Singular Value Decomposition]]
+[[Matrix Factorization]]
+[[Space of Positive Definite Matrices]]
+
+[[Cauchy-Schwarz Inequality]]
+
+[[Holomorphic Functions]]
+[[Analytic Functions]]
+
+[[Langevin Dynamics]]
+
+[[Laplace Operator]]
+[[Laplace-Beltrami operator]]
+[[Harmonicity]]
+
+[[Support Vector Machines]]
+
+[[Spectral Analysis]]
+[[Statistical signal processing]]
+
+
+Probably out of scope...
+[[Cardinality vs. Measure]]
+[[Counting Measure]]
+[[Singularities]]
+[[Abelian Groups]]
+[[Kronecker Product]]
+
+more borderlin out of scope?
+[[Network analog of curvature]]
+[[Descriptive Set Theory]]
+[[Borel Sets]]
+[[Borel Measures]]
+[[Connection on a Manifold]]
+[[Geometric Flows]]
+[[Cauchy Sequence]]
+[[Minimal Surfaces]]
+[[Soap Bubbles]]
 
 
 auto-book/auto-wiki: show local graph, and *propose pages in the local graph*. Add links to proposed nodes to pull them into the 1 step neighborhood. This triggers process to propose the new additions to the two step neighborhood: the 1 step neighborhood around the (previously proposed) newly added node

@@ -15,7 +15,7 @@ where $\partial_i$ denotes the partial derivative with respect to $x^i$, $g^{ij}
 
 ### Properties and Significance
 
-- **Generalization of the [[Laplacian]]**: In $\mathbb{R}^n$ with the standard Euclidean metric, the Laplace-Beltrami operator reduces to the classical Laplacian $\Delta f = \sum_{i=1}^{n} \partial_{ii} f$. On more general manifolds, it accounts for the curvature and geometry encoded by the metric $g$.
+- **Generalization of the [[Laplace Operator|Laplacian]]**: In $\mathbb{R}^n$ with the standard Euclidean metric, the Laplace-Beltrami operator reduces to the classical Laplacian $\Delta f = \sum_{i=1}^{n} \partial_{ii} f$. On more general manifolds, it accounts for the curvature and geometry encoded by the metric $g$.
 
 - **[[Harmonic Functions]]**: A function $f$ is called harmonic on $M$ if $\Delta f = 0$. Harmonic functions minimize the [[Dirichlet energy]] over the manifold and play a significant role in [[potential theory]] and mathematical physics.
 

@@ -8,7 +8,7 @@ see also:
 - [[Singular Value Decomposition]]
 - [[Principal Component Analysis]]
 
-The concept of spectral [[decomposition]] is a cornerstone in the study of [[linear algebra]] and [[functional analysis]], particularly within the framework of [[spectral theory]]. It offers a powerful tool for understanding the structure and behavior of [[linear operators]] on [[vector spaces]], especially in [[Hilbert Space]] or finite-dimensional spaces. This decomposition breaks down a complex [[operator]] into simpler, more manageable parts that are easier to analyze and interpret, both mathematically and in practical applications.
+The concept of spectral [[decomposition]] is a cornerstone in the study of [[linear algebra]] and [[functional analysis]], particularly within the framework of [[spectral theory]]. It offers a powerful tool for understanding the structure and behavior of [[Linear Operators]] on [[vector spaces]], especially in [[Hilbert Space]] or finite-dimensional spaces. This decomposition breaks down a complex [[operator]] into simpler, more manageable parts that are easier to analyze and interpret, both mathematically and in practical applications.
 
 ### Spectral Decomposition in Finite Dimensions
 
@@ -24,7 +24,7 @@ In infinite-dimensional Hilbert spaces, the spectral theorem extends the concept
 
 $$T = \int_{\sigma(T)} \lambda dE(\lambda)$$
 
-where $\sigma(T)$ is the spectrum of $T$, $\lambda$ ranges over the spectrum, and $E(\lambda)$ are projection operators onto the invariant subspaces corresponding to $\lambda$. This [[integral]] representation [[Decomposition|decomposes]] $T$ into a "continuous sum" of simpler operators acting on [[orthogonal]] subspaces of $H$.
+where $\sigma(T)$ is the spectrum of $T$, $\lambda$ ranges over the spectrum, and $E(\lambda)$ are projection operators onto the invariant subspaces corresponding to $\lambda$. This [[integral]] representation [[Decomposition|decomposes]] $T$ into a "continuous sum" of simpler operators acting on [[Orthogonality|orthogonal]] subspaces of $H$.
 
 ### Applications and Implications
 
@@ -36,4 +36,4 @@ where $\sigma(T)$ is the spectrum of $T$, $\lambda$ ranges over the spectrum, an
 
 - **[[Numerical Analysis]]:** Spectral methods in numerical analysis leverage the spectral decomposition of operators to achieve efficient and accurate solutions to differential equations, optimization problems, and other computational challenges.
 
-The spectral decomposition reveals the deep structure underlying [[linear operators]] and provides a unifying principle that connects various areas of mathematics and physics, illustrating the fundamental role of [[Eigenvalues]] and [[eigenvectors]] in understanding linear transformations and their applications.
+The spectral decomposition reveals the deep structure underlying [[Linear Operators]] and provides a unifying principle that connects various areas of mathematics and physics, illustrating the fundamental role of [[Eigenvalues]] and [[eigenvectors]] in understanding linear transformations and their applications.

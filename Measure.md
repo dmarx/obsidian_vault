@@ -6,11 +6,11 @@ see also:
 - [[Cardinality vs. Measure]]
 - [[Divergence (Statistics)]]
 
-In measure theory, the concept of a "measure" is a fundamental and abstract notion that generalizes the ideas of length, area, volume, and probability. It provides a rigorous mathematical framework for quantifying the size or quantity of a set, particularly within the context of spaces that are more complex than the standard [[Euclidean Spaces]]. The development of [[Measure Theory]] was a significant advancement in mathematics, enabling precise definitions of [[Integral|integration]], probability, and other concepts in analysis.
+In measure theory, the concept of a "measure" is a fundamental and abstract notion that generalizes the ideas of length, area, volume, and probability. It provides a rigorous mathematical framework for quantifying the size or quantity of a set, particularly within the context of spaces that are more complex than the standard [[Euclidean Space|Euclidean Spaces]]. The development of [[Measure Theory]] was a significant advancement in mathematics, enabling precise definitions of [[Integral|integration]], probability, and other concepts in analysis.
 
 ### Definition of a Measure
 
-A measure is a function that assigns a non-negative real number or infinity to subsets of a given space, satisfying certain axioms. Formally, let $X$ be a set and $\mathcal{F}$ a [[Sigma-Algebra|$\sigma$-algebra]] over $X$ (a collection of subsets of $X$ including the empty set and closed under complementation and [[Countable]] unions). A measure $\mu$ is a function $\mu: \mathcal{F} \to [0, \infty]$ satisfying the following properties:
+A measure is a function that assigns a non-negative real number or infinity to subsets of a given space, satisfying certain axioms. Formally, let $X$ be a set and $\mathcal{F}$ a $\sigma$-[[Sigma-Algebra|algebra]] over $X$ (a collection of subsets of $X$ including the empty set and closed under complementation and [[Countability|Countable]] unions). A measure $\mu$ is a function $\mu: \mathcal{F} \to [0, \infty]$ satisfying the following properties:
 
 1. **Non-negativity:** For every $E \in \mathcal{F}$, $\mu(E) \geq 0$.
 2. **Null Empty Set:** $\mu(\emptyset) = 0$.
@@ -34,6 +34,6 @@ The triple $(X, \mathcal{F}, \mu)$ is known as a measure space.
 
 - **[[Functional Analysis]]:** In the context of functional analysis, measures are used to study spaces of functions, such as $L^p$ spaces, which play a critical role in various areas of mathematics and applied fields.
 
-- **[[Ergodic Theory]] and [[Dynamical Systems]]:** Measure theory is also essential in ergodic theory, where it is used to analyze the long-term average behavior of dynamical systems.
+- **[[Ergodic Theory]] and [[Dynamical Systems Theory|Dynamical Systems]]:** Measure theory is also essential in ergodic theory, where it is used to analyze the long-term average behavior of dynamical systems.
 
 The concept of measure is central to understanding many areas of mathematics and provides the tools necessary for dealing with continuous phenomena in a precise and logical manner. Its development was a key moment in the formalization of concepts such as integration and probability, and it continues to be a vital area of research in mathematical analysis.

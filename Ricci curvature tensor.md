@@ -1,6 +1,11 @@
 ---
 tags:
   - sod/gold
+aliases:
+  - Ricci Curvature
+  - Ricci Curvature Analysis
+  - Ricci curvature
+  - Ricci curvature analysis
 ---
 see also:
 - [[Geometric Flows]]
