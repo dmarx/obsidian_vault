@@ -2,6 +2,16 @@
 tags:
   - sod/gold
 ---
+see also:
+- [[Harmonic Forms]]
+- [[Harmonic Maps]]
+- [[Harmonic Functions]]
+- [[Harmonic Analysis]]
+- [[Harmonic Analysis On Groups]]
+- [[Spherical Harmonics]]
+- [[Harmonic Oscillator]]
+- [[Fourier Analysis]]
+- [[Functional Analysis]]
 
 The concept of **harmonicity** is central in various mathematical disciplines, especially in differential geometry, complex analysis, and potential theory. Harmonicity describes functions or objects that satisfy a specific condition derived from the Laplacian operator. This operator, which measures how a function deviates from its mean value at a point, is pivotal in understanding the behavior of functions and forms under diffusion and wave propagation, as well as in physical and geometric contexts.
 

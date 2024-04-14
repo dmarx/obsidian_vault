@@ -6,7 +6,7 @@ tags:
   - OC/weak
 ---
 see also:
-- [[Semantic Space Geometry]]
+- [[Latent Semantic Geometry]]
 
 Notes:
 

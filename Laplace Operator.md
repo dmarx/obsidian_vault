@@ -12,7 +12,7 @@ see also:
 - [[Graph Laplacian]]
 - [[Conditioning Guidance as Interacting Potentials]]
 
-The Laplace operator, denoted by $\Delta$, is a second-order [[differential operator]] that plays a central role in mathematics, particularly in the fields of [[differential geometry]], [[analysis]], and [[mathematical physics]]. It is defined as the [[divergence]] of the [[gradient]] of a function, encapsulating a measure of the rate at which the average value of the function diverges from its value at a point. The Laplace operator provides critical insights into the behavior of scalar fields and appears in numerous physical laws and equations, including [[Laplace's equation]], the [[heat equation]], and the [[Schrödinger equation]].
+The Laplace operator, denoted by $\Delta$, is a second-order [[differential operator]] that plays a central role in mathematics, particularly in the fields of [[differential geometry]], [[analysis]], and [[mathematical physics]]. It is defined as the [[divergence]] of the [[Gradient]] of a function, encapsulating a measure of the rate at which the average value of the function diverges from its value at a point. The Laplace operator provides critical insights into the behavior of scalar fields and appears in numerous physical laws and equations, including [[Laplace's equation]], the [[heat equation]], and the [[Schrödinger equation]].
 
 ### Definition
 

@@ -4,6 +4,8 @@ tags:
 aliases:
   - Harmonic Function
 ---
+see also:
+- [[Harmonicity]]
 
 see also:
 - [[Central Limit Theorem]] - ChatGPT says not directly related, but frankly I don't believe them.

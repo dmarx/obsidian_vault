@@ -6,6 +6,14 @@ tags:
 A Survey.
 By David Marx
 
+In process:
+- Backfill graph topics
+	- local graph out to depth = 2 hops
+	- outlinks and neighbor links
+	- crucially: UNCHECK EXISTING FILES ONLY
+		- This is the point of the exercise
+	- Goal is identify candidate articles that have been referenced in multiple places or otherwise look relevant.
+
 see also:
 
 [[Inner Product]]
@@ -88,6 +96,8 @@ see also:
 
 
 [[Laplace Pressure]] - Yo I think this is what I was looking for.
+[[Dirichlet energy]] - maybe also this
+
 [[Topology On A Set]]
 [[Group Theory]]
 [[Invariance]]
@@ -178,6 +188,15 @@ trees, ontologies, knowledge graphs, hiearchies
 
 [[Spectral Analysis]]
 [[Statistical signal processing]]
+[[Gradient]]
+
+[[Harmonic Forms]]
+[[Spherical Harmonics]]
+
+[[Theory of Distributions]]
+[[Group Actions]]
+
+
 
 
 Probably out of scope...
@@ -187,7 +206,7 @@ Probably out of scope...
 [[Abelian Groups]]
 [[Kronecker Product]]
 
-more borderlin out of scope?
+more borderline out of scope?
 [[Network analog of curvature]]
 [[Descriptive Set Theory]]
 [[Borel Sets]]
@@ -197,6 +216,7 @@ more borderlin out of scope?
 [[Cauchy Sequence]]
 [[Minimal Surfaces]]
 [[Soap Bubbles]]
+
 
 
 auto-book/auto-wiki: show local graph, and *propose pages in the local graph*. Add links to proposed nodes to pull them into the 1 step neighborhood. This triggers process to propose the new additions to the two step neighborhood: the 1 step neighborhood around the (previously proposed) newly added node

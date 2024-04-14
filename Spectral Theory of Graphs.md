@@ -13,7 +13,7 @@ Spectral theory of graphs is a significant area of study in mathematics and comp
 
 1. **Adjacency Matrix (A):** For a graph \(G\) with \(n\) vertices, the adjacency matrix is an \(n \times n\) matrix \(A\) where the element \(A_{ij}\) is 1 if there is an edge between vertex \(i\) and vertex \(j\), and 0 otherwise. The spectral properties of \(A\) can reveal information about the graph’s connectivity, the presence of triangles, and other features.
 
-2. **[[Laplacian]] Matrix (L):** The [[graph Laplacian]] is defined as \(L = D - A\), where \(D\) is the diagonal degree matrix (with \(D_{ii}\) being the degree of vertex \(i\)), and \(A\) is the adjacency matrix. The Laplacian matrix is symmetric and [[positive semi-definite]], making its eigenvalues real and non-negative.
+2. **[[Laplace Operator|Laplacian Operator]] Matrix (L):** The [[graph Laplacian]] is defined as \(L = D - A\), where \(D\) is the diagonal degree matrix (with \(D_{ii}\) being the degree of vertex \(i\)), and \(A\) is the adjacency matrix. The Laplacian matrix is symmetric and [[positive semi-definite]], making its eigenvalues real and non-negative.
 
 ### Applications of Spectral Theory
 

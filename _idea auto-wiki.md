@@ -45,4 +45,4 @@ auto distance from root (level sets of topic "depth")
 
 auto-book/auto-wiki: show local graph, and *propose pages in the local graph*. Add links to proposed nodes to pull them into the 1 step neighborhood. This triggers process to propose the new additions to the two step neighborhood: the 1 step neighborhood around the (previously proposed) newly added node
 
-originally via [[Semantic Space Geometry]]
+originally via [[Latent Semantic Geometry]]
