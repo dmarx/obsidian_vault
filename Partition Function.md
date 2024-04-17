@@ -9,8 +9,8 @@ The partition function is a central concept in [[statistical mechanics]], a bran
 
 ### Definition and Mathematical Formulation
 
-The partition function, denoted as \(Z\), for a system at thermal equilibrium is defined as the sum over all possible microstates (\(i\)) of the system, where each state's contribution is weighted by its [[Boltzmann Factor]], \(e^{-\beta E_i}\), with \(\beta = 1/(k_BT)\) (where \(k_B\) is the Boltzmann constant and \(T\) is the temperature), and \(E_i\) is the energy of the \(i\)-th microstate:
-\[ Z = \sum_{i} e^{-\beta E_i} \]
+The partition function, denoted as \(Z\), for a system at thermal equilibrium is defined as the sum over all possible microstates (\(i\)) of the system, where each state's contribution is weighted by its [[Boltzmann Factor]], $e^{-\beta E_i}$, with $\beta = 1/(k_BT)$ (where \(k_B\) is the [[Boltzmann constant]] and \(T\) is the temperature), and \(E_i\) is the energy of the \(i\)-th microstate:
+$$ Z = \sum_{i} e^{-\beta E_i} $$
 
 ### Connection to Dissipative Structures and Complex Systems
 

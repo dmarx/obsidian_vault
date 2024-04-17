@@ -1,15 +1,21 @@
-The Boltzmann distribution is a cornerstone of statistical mechanics, providing a fundamental description of the statistical distribution of states for a system in thermal equilibrium at a given temperature. Named after Ludwig Boltzmann, one of the founders of statistical mechanics, this distribution gives profound insights into the microscopic behavior of systems from the perspective of their macroscopic thermodynamic properties.
+see also:
+- [[Maxwell-Boltzmann Distribution]]
+- [[Partition Function]]
+- [[Entropy]]
+- [[Statistical Mechanics]]
+
+The Boltzmann distribution is a cornerstone of statistical mechanics, providing a fundamental description of the statistical distribution of states for a system in thermal equilibrium at a given temperature. Named after [[Ludwig Boltzmann]], one of the founders of statistical mechanics, this distribution gives profound insights into the microscopic behavior of systems from the perspective of their macroscopic thermodynamic properties.
 
 ### Definition and Formula
 
-The Boltzmann distribution describes the probability $P_i$ of a system being in a state $i$ with energy $E_i$, given the system is in thermal equilibrium at temperature $T$. It is expressed as:
+The Boltzmann distribution describes the probability $P_i$ of a system being in a state $i$ with [[energy]] $E_i$, given the system is in thermal equilibrium at temperature $T$. It is expressed as:
 
 $$
 P_i = \frac{1}{Z} e^{-\frac{E_i}{k_B T}}
 $$
 
 where:
-- $k_B$ is the Boltzmann constant, which relates energy scales to temperature,
+- $k_B$ is the [[Boltzmann constant]], which relates energy scales to temperature,
 - $T$ is the absolute temperature of the system,
 - $E_i$ is the energy of the state $i$,
 - $Z$ is the partition function, given by $Z = \sum_{j} e^{-\frac{E_j}{k_B T}}$, summing over all possible states $j$ of the system. The partition function serves as a normalization factor ensuring that the total probability sums to 1.
@@ -22,7 +28,7 @@ where:
 
 - **[[Equilibrium Statistical Mechanics]]**: The Boltzmann distribution is foundational for equilibrium [[Statistical Mechanics]], allowing for the derivation of macroscopic thermodynamic quantities (like pressure, internal energy, and [[Entropy]]) from the microscopic properties of systems.
 
-- **Entropy and the [[Second Law of Thermodynamics]]**: Boltzmann's distribution provides a statistical interpretation of entropy, which can be linked to the number of microstates corresponding to a macrostate. This underpins the second law of thermodynamics, which states that for an isolated system, the total entropy can never decrease over time.
+- **[[Entropy]] and the [[Second Law of Thermodynamics]]**: Boltzmann's distribution provides a statistical interpretation of entropy, which can be linked to the number of microstates corresponding to a macrostate. This underpins the second law of thermodynamics, which states that for an isolated system, the total entropy can never decrease over time.
 
 - **Quantum Statistics**: While the Boltzmann distribution applies to classical particles, it also forms the basis for quantum statistical distributions, including the Fermi-Dirac distribution for fermions and the Bose-Einstein distribution for bosons, which account for quantum mechanical principles and particle statistics.
 
