@@ -15,6 +15,9 @@ see also:
 - [[Function Spaces]]
 - [[Functional Analysis]]
 - [[Harmonic Analysis]]
+- [[Hamel Bases]]
+- [[Schauder Bases]]
+- [[Markushevich bases]]
 
 In mathematics, particularly in linear algebra, a basis is a set of vectors in a given vector space that is linearly independent and spans the space. This means two things: first, none of the vectors in the set can be written as a linear combination of the others (linear independence); and second, any vector in the vector space can be expressed as a linear combination of the vectors in the set (spanning property).
 

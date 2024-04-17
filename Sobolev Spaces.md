@@ -1,3 +1,8 @@
+---
+tags:
+  - empty-hub
+---
+
 see also:
 - [[L-p Spaces]]
 
@@ -15,7 +20,7 @@ A Sobolev space \(W^{k,p}(\Omega)\) is defined over a domain \(\Omega \subset \m
 
 - **Existence and Regularity of Solutions**: The theory of Sobolev spaces is instrumental in proving the existence, uniqueness, and regularity of solutions to PDEs. It provides the tools to establish when a weak solution exists, when it is unique, and under what conditions it corresponds to a classically differentiable function.
 
-- **[[Embedding Theorems]]**: Sobolev embedding theorems are powerful results that relate different Sobolev spaces and, importantly, show under what conditions functions in a Sobolev space are also continuous or belong to spaces of continuously differentiable functions. These theorems help in understanding the behavior of solutions at the boundary of the domain and in proving regularity properties of solutions.
+- **[[Embedding Theorems]]**: [[Sobolev embedding theorems]] are powerful results that relate different Sobolev spaces and, importantly, show under what conditions functions in a Sobolev space are also continuous or belong to spaces of continuously differentiable functions. These theorems help in understanding the behavior of solutions at the boundary of the domain and in proving regularity properties of solutions.
 
 - **Variational Problems**: In the [[calculus of variations]], Sobolev spaces offer a natural setting for formulating problems where the objective is to find the extremal of functionals defined on functions and their derivatives. They provide a framework to rigorously define and analyze the minimization of [[energy functionals]], which often arise in physics and engineering.
 

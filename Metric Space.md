@@ -7,6 +7,7 @@ A [[Topological Space]] imbued with a metric, i.e. some notion of "distance"
 
 See also:
 - [[Measure]]
+- [[Metric Tensor]]
 
 A metric space is a fundamental concept in mathematics, particularly in the fields of geometry, analysis, and topology. It provides a formal framework for quantifying the notion of distance between elements of a set.
 

@@ -1,5 +1,15 @@
 Expanding the index with an additional 200 entries requires incorporating a broad range of specific theorems, algorithms, lemmas, techniques, formulas, and more, spanning across the fields of Deep Learning, Mathematical Foundations, Learning Dynamics, and the interconnected domains. This list aims to reflect both foundational and cutting-edge concepts relevant to these disciplines.
 
+hebbian theory
+neuroplasticity
+
+goodhart's law
+
+katz centrality
+zariski topology
+clifford algebras
+separable space (separable topological space)
+
 1/n expansion
 
 roberts rules of order
@@ -18,11 +28,12 @@ logistic map
 combinatorics
 graph theory
 urban development
-Two-timescale update rule for GANs
+
+numerical approximation
 Constrained Optimization
 Simplex Algorithm
-L1 Penalized Regression and sharp, faceted loss geometry
 simulated annealing
+L1 Penalized Regression and sharp, faceted loss geometry
 iterative improvement
 SGD-> bayesian posterior
 expectation maximization
@@ -31,6 +42,7 @@ approximating hessians
 momentum in optimization
 convergence in optimization
 population based training
+
 rare/extreme event modeling, gumbel distribution
 convolution
 dropout
@@ -40,39 +52,45 @@ q learning
 spectral clustering
 pagerank
 nonlinear basis
+
 neural ODE
 fixed point (and fixed point as ODE solution)
 hinton's dark knowledge, knowledge distillation
+Two-timescale update rule for GANs
 GAN geometry, two-timescale updates
 geometry of self-play
 monte carlo tree search
+
 pareto boundary
 scaling laws, efficientnet
 bag of features
 eigenfaces
-numerical approximation
 word2vec
 distributional hypothesis in nlp
 dense representation
 LPIPS
+
 resnet and the identity function
 multi-scale properties of exponential distribution, e, memoryless distributions
 receptive field
 AdaIN and style transfer
 iterated function
+
 self assembly
 bullwhip effect (supply chain)
 cromwell's rule
 principle of maximum entropy
-queueing theory
+
 SIREN
 NeRF
 fast multipole method (FMM)
+
 octree
 level-of-detail (LOD)
 dirac equation
 homophily
 hyper-cycle
+
 linear response theory
 context-free grammar
 regular expression
