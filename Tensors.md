@@ -1,5 +1,6 @@
 see also:
 - [[Einstein Notation]]
+- [[Tensor Decompositions]]
 
 >tell me about tensors and tensor contractions
 
