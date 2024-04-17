@@ -1,6 +1,7 @@
 ---
 tags:
   - needs-outlinks
+  - needs-segmentation
 ---
 see also:
 - [[Complex Systems Theory]]
@@ -251,4 +252,89 @@ Recent developments in neuroscience, such as information integration theory (IIT
 
 In the last 20 years, contemporary philosophy of mind has increasingly questioned and redefined the boundaries and components of cognitive systems. Through the lenses of embedded, embodied, enactive, and extended cognition, as well as advances in understanding brain networks, philosophers have challenged traditional views of cognition as a brain-bound process. These developments reflect a broader move towards a more holistic, interconnected understanding of mind, emphasizing the importance of bodily and environmental interactions in cognitive processes.
 
+---
+>anatomy of a "system"
 
+The concept of a "system" is fundamental in many fields including physics, engineering, computer science, biology, and economics. At its core, a system can be defined as a collection of interacting or interdependent components forming an integrated whole. Each system is bounded by a space or by functional limits that distinguish it from other systems. Systems can be physical or conceptual, and they can be natural or human-made. Here, we'll explore the anatomy of a system from a general systems theory perspective.
+
+### Components of a System
+
+1. **Elements**: The most basic parts of a system that can't be divided into smaller parts without losing the system's essential properties. Elements could be physical objects, conceptual ideas, or a mixture of both depending on the system's nature.
+
+2. **Relationships**: The interactions or connections between the elements of a system. These can include physical processes, information flows, or causal interactions. The nature and structure of these relationships often determine the system’s behavior.
+
+3. **Boundaries**: These define the limits of the system, distinguishing it from its environment. Boundaries are crucial for determining what is inside the system and what is external to it. They can be physical or conceptual.
+
+4. **Inputs and Outputs**: Systems often exchange matter, energy, or information with their environment. Inputs are what the system receives from its environment, while outputs are what it releases back into the environment.
+
+5. **Subsystem**: Larger systems can be divided into smaller systems, known as subsystems, each capable of functioning independently but contributing to the overall system.
+
+6. **Environment**: The external conditions and forces that impact the system but are not under the direct control of the system itself.
+
+### System States and Behaviors
+
+- **State**: The condition or snapshot of all the elements at any given time. A system’s state can provide information about its past (historical state), present, or future (predicted state).
+
+- **Dynamics**: The manner in which systems evolve over time. Dynamics are often governed by laws or rules, which can be deterministic or stochastic.
+
+### Mathematical Formalism in Systems Theory
+
+Systems can often be modeled mathematically to predict behaviors and outcomes. For example, a simple linear system might be expressed in terms of differential equations:
+
+$$ \frac{d\vec{x}}{dt} = A\vec{x} + B\vec{u} $$
+
+where:
+- $ \vec{x} $ is the state vector representing the system states,
+- $ \vec{u} $ is the input vector,
+- $ A $ and $ B $ are matrices defining the system dynamics.
+
+### Types of Systems
+
+- **Open vs. Closed Systems**: Open systems interact with their environment through exchanging energy, matter, or information, whereas closed systems do not exchange energy, matter, or information with their environment.
+- **Adaptive Systems**: These systems can change their structure or function in response to the environment. Often seen in biological and social systems.
+- **Complex Systems**: Characterized by intricate interactions and behaviors that may lead to emergent properties, which cannot be predicted solely by understanding individual system components.
+
+Systems theory provides a framework for understanding diverse phenomena, from the mechanics of [[Planetary Motion|planetary systems]] to the dynamics of [[Economic Markets|economic markets]], and even the behavior of [[Social Networks|social networks]]. Each of these examples can be elaborated upon in their own dedicated Obsidian pages, providing rich, interconnected content for deeper exploration.
+
+>>subsystems interact with each other, exchanging resources and information. characterize inter-subsystem interactions, and the relationship between the set of interactions a subsystem is capable of engaging with, and the relative scales upon which the subsystem and those interactions are defined
+
+Inter-subsystem interactions are a crucial aspect of system theory, particularly in complex systems where multiple layers and scales of operations exist. The interactions between subsystems often define the behavior and functionality of the overall system. These interactions can be analyzed in terms of the nature of exchanges (such as resources, information, or energy), the scale at which these interactions occur, and the capabilities of each subsystem to engage in these interactions.
+
+### Characterization of Inter-Subsystem Interactions
+
+1. **Types of Interactions**:
+    - **Resource Sharing**: Subsystems may share physical resources (e.g., materials, energy) to achieve a common goal or support overall system functionality.
+    - **Information Exchange**: This includes the transfer of data, instructions, or feedback between subsystems. Information exchange is critical in adaptive systems where the response of one subsystem might depend on the state or output of another.
+    - **Control and Feedback Mechanisms**: Often, one subsystem might regulate or influence the behavior of another through control signals or feedback loops. This is common in engineered and biological systems.
+
+2. **Modes of Interaction**:
+    - **Direct vs. Indirect**: Interactions can occur directly between two subsystems or indirectly through a mediating subsystem or a shared environment.
+    - **Synchronous vs. Asynchronous**: Interactions might require synchronization (occurring at the same time) or could happen asynchronously (independent of time alignment).
+    - **Bidirectional vs. Unidirectional**: The flow of resources or information can be in both directions or just one, affecting how subsystems influence each other.
+
+### Relationship Between Interaction Capabilities and Scales
+
+The capabilities of a subsystem to engage in interactions and the scale of those interactions are deeply intertwined. These relationships can be categorized into several aspects:
+
+1. **Scale of Subsystem Operation**:
+    - **Spatial Scale**: Larger subsystems might interact with multiple smaller subsystems, distributing or aggregating resources across them. For instance, in a power grid (a large-scale subsystem), local substations (smaller subsystems) distribute electricity to even smaller subsystems (homes or businesses).
+    - **Temporal Scale**: The timing of interactions can vary; larger systems might operate on slower timescales, while their smaller subsystems might have rapid dynamics. The interaction needs to consider these temporal disparities to be effective.
+
+2. **Capability of Interaction**:
+    - **Complexity of Interaction**: Subsystems with more complex interaction capabilities can engage in more diverse types of exchanges and control mechanisms. For instance, a computer's CPU has more complex interaction capabilities with RAM and storage than a simple mechanical switch with its electrical contacts.
+    - **Adaptivity and Learning**: Subsystems that can adapt or learn from interactions (e.g., neural networks within a larger AI system) can change their interaction patterns based on past experiences or external feedback.
+
+### Mathematical Representation
+
+The interactions can often be modeled using systems of equations that reflect the dynamics of exchanges. For example, in a system of coupled differential equations, each equation might represent a subsystem, with terms that describe the interactions with other subsystems:
+
+$$ \frac{d\vec{x}_i}{dt} = f_i(\vec{x}_i, \sum_{j \neq i} g_{ij}(\vec{x}_j)) $$
+
+where:
+- $\vec{x}_i$ is the state vector of the $i$-th subsystem,
+- $f_i$ is a function describing the internal dynamics of the $i$-th subsystem,
+- $g_{ij}$ is a function representing the interaction between subsystem $i$ and subsystem $j$.
+
+### Conclusion
+
+The scale and capabilities of subsystems determine the nature and efficacy of their interactions. Understanding these interactions requires not only a grasp of the individual components and their immediate relationships but also a broader view of how these components fit within the larger system's goals and operations. Each subsystem’s design—whether in terms of size, speed, complexity, or adaptability—needs to be aligned with both its local and global interaction demands. This alignment is crucial for the optimal performance of the system as a whole and can be explored in more detail in specific contexts such as [[Complex Adaptive Systems|complex adaptive systems]] or [[Network Theory|network theory]].

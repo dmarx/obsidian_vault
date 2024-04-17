@@ -4,6 +4,7 @@ tags:
   - OC/weak
   - OC/half-baked
   - sod/gold
+  - sod/synthesis
 ---
 see also:
 - [[Collective Behavior]]
@@ -14,7 +15,10 @@ see also:
 - [[Embodied Cognition]]
 - [[Extended Mind]]
 - [[Extended and Embodied Mind]]
-- 
+- [[Philosophy of Biology]]
+- [[Philosophy of Colonial Organisms]]
+- [[Organismal Identity]]
+- [[Composite theories of consciousness]]
 
 >environment as a medium/substrate for communication
 
