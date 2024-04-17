@@ -1,6 +1,3 @@
-see also:
-- [[Philosophy of Science]]
-
 [[Homotopy Type Theory]] (HoTT) is a modern branch of mathematics that combines concepts from [[type theory]], [[homotopy theory]], and [[higher category theory]] to create a new foundation for mathematics and computer science. It is an extension of the propositions-as-types correspondence (also known as the [[Curry-Howard correspondence]]), which equates types with propositions and terms with proofs. HoTT introduces the idea that types can be regarded as spaces, terms as points in these spaces, and equalities as paths between points. This perspective allows for a rich interplay between algebraic and geometric reasoning, providing new insights into the structure of proofs and the nature of mathematical objects.
 
 ### Key Concepts
