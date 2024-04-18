@@ -7,6 +7,7 @@ see also:
 - [[Superorganism]]
 - [[Organismal Identity]]
 - [[Organization As Entity]]
+- [[Environment as a medium of communication]]
 
 Eusociality is an extreme form of social organization observed in certain animals, particularly insects like ants, bees, wasps, and termites, but also in some crustaceans like naked mole-rats. This term, derived from the Greek word "eu-" meaning "good" or "real," describes a complex social structure characterized by cooperative care of offspring, overlapping generations within a colony of adults, and a division of labor into reproductive and non-reproductive groups.
 

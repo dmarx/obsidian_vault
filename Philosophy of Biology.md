@@ -15,6 +15,7 @@ see also:
 - [[Philosophy of Science]]
 - [[Philosophy of Systems Biology]]
 - [[Theoretical Biology]]
+- [[Ecology]]
 
 ### Philosophy of Biology
 
