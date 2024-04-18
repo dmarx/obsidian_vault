@@ -7,6 +7,9 @@ tags:
 ---
 see als:
 - [[Colonial Organisms]]
+- [[Philosophy of Systems Biology]]
+- [[Philosophy of Biology]]
+- [[Sociobiology]]
 
 > philosophy of dual organisms 
 

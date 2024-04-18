@@ -9,16 +9,19 @@ see also:
 - [[Collective Behavior]]
 - [[Organization As Entity]]
 - [[Multiplicitous Self]]
+- [[Phylosymbiosis]]
+- [[Philosophy of Systems Biology]]
+- [[Systems Biology]]
 
 Symbiosis is a biological interaction between two or more different biological organisms, which is often but not necessarily beneficial to each participant. This interaction can take various forms, ranging from mutualistic to parasitic, with a spectrum of relationships in between. Here we'll explore the mathematical and biological complexities behind different types of symbiosis, focusing particularly on mutualism, commensalism, and parasitism.
 
 ### Types of Symbiosis
 
-1. **Mutualism**: Both organisms benefit from the relationship. An example is the relationship between bees and flowering plants, where bees get nectar for food and plants get their pollen spread for reproduction.
+1. **[[Mutualism]]**: Both organisms benefit from the relationship. An example is the relationship between bees and flowering plants, where bees get nectar for food and plants get their pollen spread for reproduction.
    
-2. **Commensalism**: One organism benefits while the other is neither helped nor harmed significantly. An example includes barnacles that attach themselves to whales. The barnacles gain mobility to access more nutrients, while the whale remains largely unaffected.
+2. **[[Commensalism]]**: One organism benefits while the other is neither helped nor harmed significantly. An example includes barnacles that attach themselves to whales. The barnacles gain mobility to access more nutrients, while the whale remains largely unaffected.
 
-3. **Parasitism**: One organism benefits at the expense of the other. An example is the relationship between tapeworms and vertebrates, where the tapeworm benefits from nutrients absorbed from the host’s intestines, weakening the host.
+3. **[[Parasitism]]**: One organism benefits at the expense of the other. An example is the relationship between tapeworms and vertebrates, where the tapeworm benefits from nutrients absorbed from the host’s intestines, weakening the host.
 
 ### Mathematical Modeling of Symbiotic Relationships
 

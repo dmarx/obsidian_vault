@@ -9,6 +9,9 @@ see also:
 - [[Philosophy of Colonial Organisms]]
 - [[Zooids]]
 - [[Siphonophores]]
+- [[Holobiont]]
+- [[Eusociality]]
+- [[Zooxanthellae]]
 
 A colonial organism is a fascinating biological entity that blurs the lines between individuality and collectivity in the biological world. It consists of a group of genetically identical cells or organisms that live together in a colony but can, in many cases, survive independently. These organisms often exhibit a division of labor among different cell types or individuals within the colony, and they challenge traditional notions of what constitutes an individual organism.
 

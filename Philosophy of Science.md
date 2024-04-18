@@ -10,3 +10,4 @@ see also:
 - [[Philosophy of Causality]]
 - [[Philosophy of Probability]]
 - [[Organismal Identity]]
+- [[Philosophy of Artificial Intelligence]]
