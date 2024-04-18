@@ -16,6 +16,7 @@ see also:
 - [[Philosophy of Systems Biology]]
 - [[Theoretical Biology]]
 - [[Ecology]]
+- [[Coexistence Theory]]
 
 ### Philosophy of Biology
 

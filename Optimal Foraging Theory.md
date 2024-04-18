@@ -15,10 +15,10 @@
 
 #### Models in Optimal Foraging Theory
 
-- **The Marginal Value Theorem**:
-  - Developed by Eric Charnov in 1976, this model describes how a forager decides when to leave a resource patch and move to another. The theorem predicts that a forager should leave a patch when the rate of energy gain has declined to the average rate for the habitat, balancing the diminishing returns of the current patch against the time and energy costs to travel and begin foraging in a new patch.
+- **The [[Marginal Value Theorem]]**:
+  - Developed by Eric Charnov in 1976, this model describes how a forager decides when to leave a resource patch and move to another. The theorem predicts that a forager should leave a patch when the rate of energy gain has declined to the average rate for the habitat, balancing the [[diminishing returns]] of the current patch against the time and energy costs to travel and begin foraging in a new patch.
 
-- **Diet Model**:
+- **[[Diet Model (Optimal Foraging)|Diet Model]]**:
   - This model addresses the decision of which prey types to include in the diet. It predicts that a forager should select food items based on the ratio of the energy gained from the food item to the handling time (time to capture and consume the prey), ignoring less profitable prey when more profitable options are abundant.
 
 #### Empirical Evidence and Applications
@@ -27,7 +27,7 @@
   - OFT has been successful in predicting the foraging behavior of a variety of animals, including birds, mammals, and insects. For example, studies on shorebirds have validated predictions about prey selection and patch residence time based on caloric intake and depletion rates.
 
 - **Human Applications**:
-  - OFT has also been applied to understanding human hunter-gatherer societies' foraging patterns, providing insights into the economic and ecological factors driving human food choices and movement patterns historically and prehistorically.
+  - OFT has also been applied to understanding human [[hunter-gatherer societies]]' foraging patterns, providing insights into the economic and ecological factors driving human food choices and movement patterns historically and prehistorically.
 
 #### Criticisms and Limitations
 
