@@ -5,6 +5,10 @@ tags:
 ---
 see also:
 - [chaotic hyperparameters tweet](https://twitter.com/jaschasd/status/1756930242965606582)
+- [[Habitat Fragmentation]]
+- [[Edge effects]]
+- [[Edge of Chaos]]
+- [[Edge Dynamics]]
 
 Boundary effects in [[Learning Dynamics]] can refer to the behavior of models at the edges of their [[Model Capacity|capacity]] or when operating near the limits of their training regimes. These effects can be crucial in understanding how models [[Phase Transitions|transition]] between phases of learning, similar to how boundary conditions affect dynamical systems in physics.
 
