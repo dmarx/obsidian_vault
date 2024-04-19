@@ -6,6 +6,7 @@ see also:
 - [[Petri Nets]]
 - [[Ecology]]
 - [[Philosophy of Science]]
+- [[Graph Theory]]
 
 [[Systems theory]] is a transdisciplinary approach that studies the complex systems in nature, society, and science. It is a framework for understanding the dynamic interactions and interdependencies within and between systems of any scale, from simple mechanisms to entire ecosystems or societies. Systems theory seeks to develop abstract models and principles that can apply across various types of systems, emphasizing holistic analysis and the integration of different perspectives.
 

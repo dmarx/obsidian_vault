@@ -23,17 +23,17 @@ Graph theory is a fundamental area of mathematics focused on the study of graphs
 
 - **Connected Graph**: An undirected graph is connected if there is a path between every pair of vertices. A directed graph is strongly connected if there is a directed path from any vertex to every other vertex.
 
-- **Graph Isomorphism**: Two graphs $G$ and $H$ are isomorphic if there is a bijection $f: V(G) \to V(H)$ such that any two vertices $u$ and $v$ of $G$ are adjacent in $G$ if and only if $f(u)$ and $f(v)$ are adjacent in $H$.
+- **[[Graph Isomorphism]]**: Two graphs $G$ and $H$ are isomorphic if there is a bijection $f: V(G) \to V(H)$ such that any two vertices $u$ and $v$ of $G$ are adjacent in $G$ if and only if $f(u)$ and $f(v)$ are adjacent in $H$.
 
 - **Subgraph**: A graph $H$ is a subgraph of a graph $G$ if $V(H) \subseteq V(G)$ and $E(H) \subseteq E(G)$.
 
 ### Advanced Topics
 
-1. **Planar Graphs**: Graphs that can be drawn on a plane without any edges crossing. The famous [[Four Color Theorem]] states that any planar graph's vertices can be colored with at most four colors such that no two adjacent vertices share the same color.
+1. **[[Planar Graphs]]**: Graphs that can be drawn on a plane without any edges crossing. The famous [[Four Color Theorem]] states that any planar graph's vertices can be colored with at most four colors such that no two adjacent vertices share the same color.
 
-2. **Graph Coloring**: Assignment of labels or colors to vertices of a graph subject to certain constraints, the most typical being that no two adjacent vertices can share the same color.
+2. **[[Graph Coloring]]**: Assignment of labels or colors to vertices of a graph subject to certain constraints, the most typical being that no two adjacent vertices can share the same color.
 
-3. **Network Flow**: Maximizing the flow from a source to a sink in a network. The [[Max-Flow Min-Cut Theorem]] establishes that the maximum amount of flow possible is equal to the capacity of the smallest cut set separating the source and sink.
+3. **[[Network Flow]]**: Maximizing the flow from a source to a sink in a network. The [[Max-Flow Min-Cut Theorem]] establishes that the maximum amount of flow possible is equal to the capacity of the smallest cut set separating the source and sink.
 
 4. **Graph Algorithms**: Many algorithms exist for solving problems on graphs, such as:
    - [[Dijkstra's Algorithm]] for finding the shortest path in a graph.

@@ -15,15 +15,15 @@ Active matter systems consist of individual units that consume energy to move or
 
 2. **Self-propulsion**: The units in active matter systems can often propel themselves using mechanisms tailored to their environment. For example, bacteria use flagella to swim, while synthetic colloidal particles might use chemical reactions on their surfaces to generate propulsion.
 
-3. **Collective Behavior**: One of the most intriguing aspects of active matter is the emergence of collective behaviors from the interactions among individual units. These behaviors can include flocking, swarming, pattern formation, and collective transport, which arise from simple rules at the individual level without any central coordination.
+3. **[[Collective Behavior]]**: One of the most intriguing aspects of active matter is the emergence of collective behaviors from the interactions among individual units. These behaviors can include [[flocking]], [[swarming]], [[pattern formation]], and [[collective transport]], which arise from simple rules at the individual level without any central coordination.
 
-### Emergent Phenomena in Active Matter
+### [[Emergent Phenomena]] in Active Matter
 
 Active matter systems can exhibit a range of emergent phenomena, including:
 
-- **Flocking and Swarming**: Similar to birds or fish, active particles can align their directions of motion, leading to coherent movement of the group. Models like the Vicsek model have been pivotal in understanding the conditions under which such order emerges.
+- **Flocking and Swarming**: Similar to birds or fish, active particles can align their directions of motion, leading to coherent movement of the group. Models like the [[Vicsek model]] have been pivotal in understanding the conditions under which such order emerges.
 - **Dynamic Clustering**: Active particles can spontaneously aggregate into clusters that continuously form, dissolve, and reform, a behavior that has implications for understanding how cells might organize into tissues or how to design self-assembling materials.
-- **Phase Separation**: Active systems can exhibit phase separation into dense and dilute phases, even in the absence of attractive forces. This phenomenon, known as "motility-induced phase separation" (MIPS), arises from the persistent motion of particles and their interactions.
+- **Phase Separation**: Active systems can exhibit phase separation into dense and dilute phases, even in the absence of attractive forces. This phenomenon, known as "[[Motility-Induced Phase Separation]]" (MIPS), arises from the persistent motion of particles and their interactions.
 
 ### Theoretical and Computational Models
 
