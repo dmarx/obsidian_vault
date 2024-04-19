@@ -4,9 +4,9 @@
 
 1. **Surface Structure and Topography**: Understanding the atomic and molecular arrangement on surfaces, including reconstructions, defects, and the influence of these features on material properties.
 
-2. **Surface Chemistry**: Investigating the chemical reactions that take place at surfaces, including adsorption, desorption, catalysis, and corrosion. Surface chemistry plays a crucial role in industrial catalysis, semiconductor manufacturing, and corrosion protection.
+2. **[[Surface Chemistry]]**: Investigating the chemical reactions that take place at surfaces, including adsorption, desorption, catalysis, and corrosion. Surface chemistry plays a crucial role in industrial catalysis, semiconductor manufacturing, and corrosion protection.
 
-3. **Surface Physics**: Exploring the electronic, vibrational, and magnetic properties of surfaces, which are often markedly different from the bulk properties due to reduced dimensionality and symmetry.
+3. **[[Surface Physics]]**: Exploring the electronic, vibrational, and magnetic properties of surfaces, which are often markedly different from the bulk properties due to reduced dimensionality and symmetry.
 
 4. **Adsorption and Desorption Dynamics**: Studying how atoms, ions, and molecules interact with surfaces, including the mechanisms and [[kinetics of adsorption]] and [[desorption]] processes.
 

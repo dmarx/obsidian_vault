@@ -14,7 +14,7 @@ A **metric space** $(X, d)$ consists of a set $X$ along with a metric $d: X \tim
 
 Metric spaces are foundational in analysis and topology, providing a framework for discussing convergence, continuity, and compactness.
 
-### [[Topological Spaces]]
+### [[Topological Space|Topological Spaces]]
 
 A **topological space** $(X, \tau)$ is defined by a set $X$ and a topology $\tau$ - a collection of open sets that satisfies three axioms:
 

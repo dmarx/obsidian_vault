@@ -1,3 +1,6 @@
+see also:
+- [[Dual of a Graph]]
+
 > dual in the strict mathematical sense of duality found in linear algebra or optimization theory
 
 The concept of duality in the strict mathematical sense, especially as found in linear algebra and optimization theory, offers a profound and elegant framework for understanding relationships between seemingly disparate mathematical structures or problems. Let's explore this concept, particularly focusing on its manifestations in linear algebra and optimization, and then consider whether any aspects of this notion of duality might illuminate the relationship between parameter spaces and solution spaces in optimization contexts.
