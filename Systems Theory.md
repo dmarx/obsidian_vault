@@ -1,3 +1,7 @@
+---
+tags:
+  - sod/root
+---
 see also:
 - [[Petri Nets]]
 - [[Ecology]]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - stub
+  - sod/gold
 ---
 see also:
 - [[organizational behavior]]

@@ -1,8 +1,16 @@
 ---
 tags:
-  - sod/green
   - empty-hub
+  - stub
+  - sod/root
 ---
+see also:
+- [[Renormalization Group Theory]]
+- [[Lie Groups]]
+- [[General Linear Group]]
+- [[Galois Groups]]
+- [[Langlands Program]]
+- [[Galois Theory]]
 
 > tell me about group theory as if I were graduate deep learning researcher focused on learning dynamics of semantic latent representations through the lens of geometry, and connecting notions of symmetry and equivariance to inductive priors
 
@@ -32,11 +40,3 @@ Implementing insights from group theory into your deep learning models involves 
 - **Incorporating [[Representation Theory]]:** Use representation theory to guide the construction of latent spaces that faithfully represent the action of symmetry groups, enhancing the model's ability to learn and generalize from the structure of the data.
 
 Group theory thus provides a foundational framework for exploring and exploiting symmetries in your research, enabling you to design deep learning models that are more aligned with the geometric and algebraic structures inherent in your data. This approach not only enhances the efficiency and effectiveness of learning algorithms but also deepens our understanding of the fundamental principles guiding the learning dynamics of semantic latent representations.
-
-see also:
-- [[Renormalization Group Theory]]
-- [[Lie Groups]]
-- [[General Linear Group]]
-- [[Galois Groups]]
-- [[Langlands Program]]
-- [[Galois Theory]]

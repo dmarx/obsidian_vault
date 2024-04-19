@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/root
+---
+
 see also:
 - [[Philosophy of Systems Biology]]
 - [[Complexity]]
