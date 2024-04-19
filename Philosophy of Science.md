@@ -11,3 +11,5 @@ see also:
 - [[Philosophy of Probability]]
 - [[Organismal Identity]]
 - [[Philosophy of Artificial Intelligence]]
+- [[Systems Theory]]
+- [[Structure of Scientific Revolutions]]

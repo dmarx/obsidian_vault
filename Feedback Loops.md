@@ -3,13 +3,13 @@ tags:
   - sod/gold
   - OC/weak
 ---
-
 see also:
 - [[Queuing Theory]]
 - [[Control Theory]]
 - [[Systems Theory]]
 - [[Organization As Entity]]
 - [[Mechanisms]]
+- [[Virtuous Cycle]]
 
 Feedback loops are fundamental mechanisms in both natural and engineered systems, affecting everything from biological processes to electronic circuits and [[control systems]]. The essence of a feedback loop is to use the output of a system as input to control its behavior, thus allowing the system to regulate itself, maintain stability, or exhibit complex dynamic behavior. Feedback loops can be categorized broadly into two types: positive feedback loops and negative feedback loops.
 

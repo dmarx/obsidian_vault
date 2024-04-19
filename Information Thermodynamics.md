@@ -7,13 +7,13 @@ tags:
 
 ### Key Concepts
 
-#### Maxwell's Demon
-Maxwell's demon is a thought experiment that challenges the second law of thermodynamics. It imagines a demon capable of sorting particles in a gas into hot and cold compartments without expending energy, seemingly creating a perpetual motion machine of the second kind. This paradox highlights the relationship between information and entropy, prompting deep questions about the role of information in physical processes.
+#### [[Maxwell's Demon]]
+Maxwell's demon is a thought experiment that challenges the [[second law of thermodynamics]]. It imagines a demon capable of sorting particles in a gas into hot and cold compartments without expending energy, seemingly creating a perpetual motion machine of the second kind. This paradox highlights the relationship between information and [[entropy]], prompting deep questions about the role of information in physical processes.
 
-#### Landauer's Principle
-Landauer's principle asserts that erasing a bit of information in a computational device has a fundamental minimum energy cost, given by $k_BT \ln 2$, where $k_B$ is the Boltzmann constant, $T$ is the temperature of the environment, and the logarithm base is 2. This principle establishes a direct link between information manipulation and physical entropy, providing a resolution to Maxwell's demon by accounting for the thermodynamic cost of information erasure.
+#### [[Landauer's Principle]]
+Landauer's principle asserts that erasing a bit of information in a computational device has a fundamental minimum energy cost, given by $k_BT \ln 2$, where $k_B$ is the [[Boltzmann constant]], $T$ is the temperature of the environment, and the logarithm base is 2. This principle establishes a direct link between information manipulation and physical entropy, providing a resolution to Maxwell's demon by accounting for the thermodynamic cost of information erasure.
 
-#### Bennett's Reversible Computing
+#### [[Bennett's Reversible]] Computing
 Charles Bennett showed that computation can be made theoretically energy-free if performed in a reversible manner, except for the process of erasing information, which must obey Landauer's principle. This insight led to the concept of reversible computing, which aims to minimize energy dissipation in computational processes by avoiding irreversible operations.
 
 ### Applications and Implications

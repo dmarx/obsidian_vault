@@ -25,10 +25,10 @@ Metabolic chemistry refers to the complex network of chemical reactions that occ
 
 ### Key Metabolic Pathways
 
-- **Glycolysis**: The breakdown of glucose to pyruvate, producing a net gain of ATP and reducing equivalents in the form of NADH. This process occurs in the cytoplasm and is the first step in both aerobic and anaerobic respiration.
-- **Citric Acid Cycle (Krebs Cycle)**: A series of reactions in the mitochondria that oxidizes the acetyl group from acetyl-CoA to CO2, producing ATP, NADH, and FADH2.
-- **Oxidative Phosphorylation**: The process by which ATP is formed as a result of the transfer of electrons from NADH or FADH2 to O2 by a series of electron carriers. This occurs in the inner mitochondrial membrane and generates the majority of ATP in aerobic organisms.
-- **Photosynthesis**: The process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.
+- **[[Glycolysis]]**: The breakdown of glucose to pyruvate, producing a net gain of ATP and reducing equivalents in the form of NADH. This process occurs in the cytoplasm and is the first step in both aerobic and anaerobic respiration.
+- **Citric Acid Cycle ([[Krebs Cycle]])**: A series of reactions in the mitochondria that oxidizes the acetyl group from acetyl-CoA to CO2, producing ATP, NADH, and FADH2.
+- **[[Oxidative Phosphorylation]]**: The process by which ATP is formed as a result of the transfer of electrons from NADH or FADH2 to O2 by a series of electron carriers. This occurs in the inner mitochondrial membrane and generates the majority of ATP in aerobic organisms.
+- **[[Photosynthesis]]**: The process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. Photosynthesis in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct.
 
 ### Metabolic Regulation and Integration
 
@@ -44,11 +44,11 @@ Regulation of metabolic pathways is a critical aspect of cellular function, ensu
 
 ### Allosteric Modulation of Enzymes
 
-Allosteric regulation involves the binding of an effector molecule (either an activator or inhibitor) to a site on the enzyme other than the active site, known as the allosteric site. This binding causes a conformational change in the enzyme that alters its activity. Allosteric enzymes typically have multiple subunits and multiple active sites, and the binding of an effector to one subunit can affect the activity at all the other subunits, either enhancing or inhibiting the enzyme's catalytic activity. This form of regulation is crucial for controlling the rates of key metabolic pathways, such as glycolysis and the citric acid cycle.
+[[Allosteric regulation]] involves the binding of an effector molecule (either an activator or inhibitor) to a site on the enzyme other than the active site, known as the allosteric site. This binding causes a conformational change in the enzyme that alters its activity. Allosteric enzymes typically have multiple subunits and multiple active sites, and the binding of an effector to one subunit can affect the activity at all the other subunits, either enhancing or inhibiting the enzyme's catalytic activity. This form of regulation is crucial for controlling the rates of key metabolic pathways, such as glycolysis and the citric acid cycle.
 
 ### Covalent Modification
 
-Covalent modification of enzymes is another versatile method of metabolic regulation. The most common form of covalent modification is phosphorylation, where a phosphate group is added to or removed from the enzyme, altering its activity. Other types of covalent modifications include acetylation, methylation, and ubiquitination. These modifications can change the enzyme's shape and either activate or inhibit its function. Phosphorylation is particularly important in signal transduction pathways and the regulation of enzyme activity in response to cellular signals.
+Covalent modification of enzymes is another versatile method of [[metabolic regulation]]. The most common form of covalent modification is phosphorylation, where a phosphate group is added to or removed from the enzyme, altering its activity. Other types of covalent modifications include acetylation, methylation, and ubiquitination. These modifications can change the enzyme's shape and either activate or inhibit its function. Phosphorylation is particularly important in signal transduction pathways and the regulation of enzyme activity in response to cellular signals.
 
 ### Changes in Gene Expression
 

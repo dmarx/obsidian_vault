@@ -5,7 +5,7 @@ tags:
 ---
 The Brouwer [[Fixed Points|Fixed Point]] Theorem is a foundational result in topology with significant implications across mathematics, economics, physics, and engineering. Formulated by Luitzen Brouwer in the early 20th century, 
 
-it states that any continuous function from a compact, convex subset of a Euclidean space to itself has at least one fixed point. A fixed point of a function \(f\) is a point \(x\) such that \(f(x) = x\).
+it states that any [[Continuity|continuous]] function from a [[Compactness|compact]], [[Convexity|convex]] subset of a [[Euclidean space]] to itself has at least one fixed point. A fixed point of a function \(f\) is a point \(x\) such that \(f(x) = x\).
 
 ### Statement of the Theorem
 
@@ -28,9 +28,9 @@ For a more precise formulation: Let \(D\) be a compact, convex set in \(\mathbb{
 
 ### Variants and Generalizations
 
-- **Lefschetz Fixed Point Theorem**: A generalization of the Brouwer Fixed Point Theorem to more complex topological spaces, which provides a way to count fixed points in terms of algebraic invariants of the space.
+- **[[Lefschetz Fixed Point Theorem]]**: A generalization of the Brouwer Fixed Point Theorem to more complex topological spaces, which provides a way to count fixed points in terms of algebraic invariants of the space.
 
-- **Schauder Fixed Point Theorem**: Extends the fixed-point concept to maps in Banach spaces, providing conditions under which a continuous map has a fixed point, important for the analysis of nonlinear problems.
+- **[[Schauder Fixed Point Theorem]]**: Extends the fixed-point concept to maps in Banach spaces, providing conditions under which a continuous map has a fixed point, important for the analysis of nonlinear problems.
 
 ### Proof Ideas and Techniques
 
