@@ -3,6 +3,12 @@ tags:
   - sod/root
   - needs-outlinks
 ---
+see also:
+- [[Marginalization (Probability)]]
+- [[Error Propagation]]
+- [[Markov random fields]]
+- [[Bayesian Networks]]
+- [[Weibull Distribution]]
 
 Probability theory is a branch of mathematics concerned with analyzing random phenomena. The fundamental object of study in probability theory is the probability measure, a function that assigns a probability to events in a certain space, satisfying specific axioms. Probability theory enables the quantification of uncertainty, the modeling of stochastic processes, and the derivation of outcomes' likelihoods based on the mathematical properties of those processes. It lays the foundation for statistical inference, where data are analyzed to make decisions or predictions about a population.
 
