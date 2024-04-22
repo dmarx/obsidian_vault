@@ -1,6 +1,11 @@
+see also:
+- [[Phase Space]]
+- [[Stability Analysis]]
+- [[Dynamic Systems]]
+- 
 ### Phase Plane Analysis: Overview
 
-**Phase plane analysis** is a powerful qualitative tool used in the study of dynamical systems described by differential equations, particularly those involving two variables. This analysis involves plotting the trajectories of the system in a plane defined by its variables, usually referred to as the state variables. These plots help visualize how the system evolves over time from different initial conditions, revealing the nature of fixed points, stability, and the occurrence of phenomena such as limit cycles, bifurcations, and other complex behaviors.
+**Phase plane analysis** is a powerful qualitative tool used in the study of [[dynamical systems]] described by differential equations, particularly those involving two variables. This analysis involves plotting the trajectories of the system in a plane defined by its variables, usually referred to as the state variables. These plots help visualize how the system evolves over time from different initial conditions, revealing the nature of fixed points, stability, and the occurrence of phenomena such as limit cycles, bifurcations, and other complex behaviors.
 
 ### Mathematical Background
 
@@ -25,7 +30,7 @@ where \( x \) and \( y \) are the state variables, and \( f \) and \( g \) are f
 
 5. **Trajectories and Orbits**: Solutions to the differential equations can be plotted in the phase plane as trajectories showing how the state of the system evolves over time from different initial conditions.
 
-6. **Limit Cycles**: Closed trajectories representing periodic solutions. Stability of limit cycles can also be analyzed to determine if they are attracting or repelling.
+6. **[[Limit Cycles]]**: Closed trajectories representing periodic solutions. Stability of limit cycles can also be analyzed to determine if they are attracting or repelling.
 
 ### Example: Phase Plane of the FitzHugh-Nagumo Model
 
