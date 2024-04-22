@@ -9,6 +9,11 @@ tags:
 see also:
 - [[Quality (ZatAoMM)]]
 - [[Taoist Physicalism]]
+- [[Eastern Philosophy]]
+- [[Conservation Laws]]
+- [[Organization As Entity]]
+- [[Emergence]]
+- [[Philosophy of Systems]]
 
 >how does zen connect with shinto
 

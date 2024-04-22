@@ -62,7 +62,7 @@ Self-awareness is indeed foundational to [[personal identity]], playing a crucia
 ### Psychological and Philosophical Perspectives
 
 **Existential and Phenomenological Theories**:
-   - Philosophers like Jean-Paul Sartre and psychologists such as Carl Rogers emphasize the importance of self-awareness in existential and humanistic theories. They argue that true self-awareness leads to authenticity, which is the congruence between one's experienced self and one's ideal self, forming a coherent personal identity.
+   - Philosophers like Jean-Paul Sartre and psychologists such as Carl Rogers emphasize the importance of self-awareness in existential and humanistic theories. They argue that true self-awareness leads to [[Authenticity]], which is the congruence between one's experienced self and one's ideal self, forming a coherent personal identity.
 
 **Cognitive and Developmental Approaches**:
    - Developmental theories, such as those proposed by Jean Piaget and later Erik Erikson, suggest that self-awareness evolves through stages as individuals grow. Each stage brings about new challenges and opportunities for identity formation, highlighting the dynamic nature of self-awareness and identity development.
