@@ -5,6 +5,7 @@ tags:
   - import-from-workbench
   - OC/2hi4this
   - OC/half-baked
+  - OC/strict
 ---
 [[Airforce slogan]]
 [[What is it like to be NASA]]

@@ -3,6 +3,7 @@ tags:
   - OC
   - OC/half-baked
   - OC/2hi4this
+  - OC/strict
 ---
 
 some TBD set of properties.

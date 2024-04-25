@@ -1,6 +1,7 @@
 ---
 tags:
   - OC
+  - OC/strict
 ---
 see also:
 - [[_Synthesis - Catalyst Kinetics And Social Behavior]]

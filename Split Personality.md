@@ -3,6 +3,7 @@ tags:
   - OC
   - OC/2hi4this
   - OC/half-baked
+  - OC/strict
 ---
 
 see also:

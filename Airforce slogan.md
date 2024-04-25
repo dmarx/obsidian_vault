@@ -1,6 +1,7 @@
 ---
 tags:
   - OC
+  - OC/strict
 ---
 see also:
 - [[Organization As Entity]]

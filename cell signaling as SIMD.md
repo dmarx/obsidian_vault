@@ -2,6 +2,7 @@
 tags:
   - OC
   - OC/2hi4this
+  - OC/strict
 ---
 see also:
 - [[Organization As Entity]]
