@@ -1,7 +1,6 @@
 ---
 tags:
   - empty-hub
-  - stub
   - sod/root
 ---
 see also:

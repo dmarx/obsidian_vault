@@ -1,6 +1,5 @@
 ---
 tags:
-  - stub
   - sod/gold
   - sod/root
   - sod/green

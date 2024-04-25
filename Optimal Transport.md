@@ -2,7 +2,6 @@
 tags:
   - sod/gold
   - needs-outlinks
-  - stub
 ---
 see also:
 - [[Differential Geometry]]

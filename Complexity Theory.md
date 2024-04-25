@@ -1,6 +1,5 @@
 ---
 tags:
-  - sod/green
   - sod/root
   - stub
   - needs-outlinks

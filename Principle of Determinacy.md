@@ -16,7 +16,7 @@ The [[Axiom of Determinacy]] (AD) is a statement that asserts the determinacy of
 
 ### Implications of Determinacy
 
-1. **Descriptive Set Theory**: Determinacy has deep implications for descriptive set theory, which studies sets in [[topological spaces]] that can be defined or "described" by specific properties. Under AD, sets of real numbers that are [[Borel Sets|Borel]], [[Analytic Sets|analytic], or [[Coanalytic Sets|coanalytic]] are determined, which helps in understanding their structure and properties.
+1. **Descriptive Set Theory**: Determinacy has deep implications for descriptive set theory, which studies sets in [[topological spaces]] that can be defined or "described" by specific properties. Under AD, sets of real numbers that are [[Borel Sets|Borel]], [[Analytic Sets|analytic]], or [[Coanalytic Sets|coanalytic]] are determined, which helps in understanding their structure and properties.
 
 2. **[[Large Cardinals]]**: The determinacy of certain complex sets, such as [[projective sets]], is [[equiconsistent]] with the existence of large cardinals, which are certain types of infinite numbers that extend beyond the standard axiomatic framework of set theory. This creates a link between determinacy, large cardinals, and the overall structure of the mathematical universe.
 

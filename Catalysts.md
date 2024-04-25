@@ -1,6 +1,5 @@
 ---
 tags:
-  - stub
   - needs-outlinks
   - sod/gold
 ---

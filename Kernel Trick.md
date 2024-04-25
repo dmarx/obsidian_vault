@@ -1,7 +1,6 @@
 ---
 tags:
   - sod/green
-  - stub
 ---
 
 The kernel concept is pivotal in machine learning, especially in scenarios where you're dealing with complex data that isn't linearly separable in its original form. The kernel trick is a technique that underpins several powerful algorithms, allowing them to efficiently handle high-dimensional, non-linear patterns without the need for explicit dimensionality expansion. Let's explore how this concept is particularly relevant for graduate researchers in deep learning, focusing on learning dynamics and semantic latent representations.
