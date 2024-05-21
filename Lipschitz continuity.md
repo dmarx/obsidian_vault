@@ -1,3 +1,8 @@
+---
+tags:
+  - sod
+---
+
 Lipschitz continuity is a concept from mathematical analysis that quantifies the idea of a function being "uniformly continuous" or having bounded derivatives, making it a central concept in various areas of mathematics, including differential geometry, functional analysis, and optimization theory. It also plays a crucial role in deep learning, particularly in the analysis of neural network models, their training algorithms, and in enforcing stability and generalizability of learning algorithms.
 
 ### Definition
