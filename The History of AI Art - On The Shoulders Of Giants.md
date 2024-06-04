@@ -82,3 +82,9 @@ Misc entities that belong in this history
 - Ben Poole
 - NeRF
 - Gaussian Splatting
+- Pharmapsychotic - Deforum, stability animation, big list of tools and notebooks
+- nsheppard
+- jdp
+- gandamu
+- louis/CARP
+- uwu

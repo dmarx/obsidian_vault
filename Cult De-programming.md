@@ -1,7 +1,6 @@
 ---
 tags:
-  - OC/weak
-  - OC/collaboration
+  - infohazard
 ---
 see also:
 - [[Disinformation and Propaganda]]

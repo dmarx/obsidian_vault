@@ -20,6 +20,7 @@ see also:
 - [[Corporate Social Responsibility]]
 - [[Corporate ecology]]
 - [[Ethics and Order Parameter]]
+- [[Corporate X-Risk]]
 
 Bacteria transfer knowledge via [[plasmids]]
 
@@ -33,9 +34,9 @@ Historically, the lowest level of organizational hierarchy/encoding governing th
 
 When a community is small, it's Corporate component is more reliant on the success of its biological projection, necessitating a symbiotic relationship where the Corporate component promotes the needs of the biological component.
 
-There exists some phase transition in the order parameter of these Corporate entities above which the Corporation is able to persist itself independently of whether or not it serves its biological component. As the order parameter of the Corporate component grows, the relationship naturally evolves from mutualism to commensalism to parasitism, where the biological component is exploited potentially to the Corporations own ultimate detriment. This is permitted due to the disconnect between the persistence of the Corporate component in the physical domain on biology. 
+There exists some [[phase transition]] in the [[order parameter]] of these [[Corporate entities]] above which the Corporation is able to persist itself independently of whether or not it serves its biological component. As the order parameter of the Corporate component grows, the relationship naturally evolves from [[mutualism]] to [[commensalism]] to [[parasitism]], where the biological component is exploited potentially to the Corporations own ultimate detriment. This is permitted due to the disconnect between the persistence of the Corporate component in the physical domain on biology. 
 
-The timescale of the spread and persistence of Corporations is a significant factor at play here. If a Corporate entity's spread is limited by the lifespan of its biological components -- as is the case for regionalized Corporate entities like towns, cities, states, etc. -- there are much stronger pressures for the Corporate component to maintain a symbiotic relationship with its biological component. 
+The timescale of the spread and persistence of Corporations is a significant factor at play here. If a Corporate entity's spread is limited by the lifespan of its biological components -- as is the case for [[regionalized Corporate entities]] like towns, cities, states, etc. -- there are much stronger pressures for the Corporate component to maintain a symbiotic relationship with its biological component. 
 
 The written word, and even moreso the internet, permits Corporate entities to exist, persist, and multiply with almost no regard to the physical domain. In a previous age, perceived "dangerous" ideas were attacked by burning books, and attempting to relegate unsuccessful Corporate entities to the graveyard of "lost knowledge". In the age of the internet, once an idea is manifested into existence, it will potentially *always exist*, like an invasive species that can potentially be periodically fought back but will always have the potential to re-emerge from hibernation from an inaccessible burrow that will always be a part of the environment for someone to unearth and reopen pandoras box.
 

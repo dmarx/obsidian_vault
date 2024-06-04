@@ -15,7 +15,7 @@ things that should be members of this set:
 * [[Language]] and maybe also indidividual [[words]]
 * [[Ant Colonies]]
 * [[Prelude - Ant Fugue]]
-* 
+* [[Me, LLC]]
 
 I think one of the axes of classification here is in the time dimension, specifically distribution over scale of interaction/bifurcation/'phase transition' duration/length/lifecycle.
 
