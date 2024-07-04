@@ -13,3 +13,4 @@ see also:
 - [[Philosophy of Artificial Intelligence]]
 - [[Systems Theory]]
 - [[Structure of Scientific Revolutions]]
+- [[Philosophies and Theories of Hierarchical Complex Systems]]

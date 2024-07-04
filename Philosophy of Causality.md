@@ -4,6 +4,7 @@ tags:
 ---
 see also:
 - [[Philosophy of Probability]]
+- [[Interventionist Theories of Causation]]
 
 The philosophy of causality delves into the conceptual underpinnings of cause and effect, exploring how causes relate to their effects and the nature of causal relationships. This field intersects with [[metaphysics]], [[epistemology]], and the [[philosophy of science]], raising fundamental questions about how the world operates and how we understand it. Several key themes and theories dominate the philosophical discussion on causality.
 
