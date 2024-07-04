@@ -1,4 +1,6 @@
-### Morality: A Comprehensive Overview
+see also:
+- [[Morality As Cooperation]]
+- [[Human Rights]]
 
 Morality, often described as the principles concerning the distinction between right and wrong or good and bad behavior, is a complex and multifaceted concept. It encompasses various theories, frameworks, and systems aimed at understanding, guiding, and assessing human actions and character. This overview will touch upon the primary theories of morality, key concepts, and notable debates in moral philosophy.
 
