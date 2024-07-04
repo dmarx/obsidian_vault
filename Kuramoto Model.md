@@ -1,4 +1,4 @@
-The Kuramoto model is a conceptual and mathematical framework used to understand the phenomenon of [[Collective Behavior]] in complex systems, particularly synchronization among a group of oscillating elements. Developed in the 1970s by [[Yoshiki Kuramoto]], it has since become a fundamental model in the study of complex systems, with applications ranging from physics and chemistry to neuroscience and engineering.
+The Kuramoto model is a conceptual and mathematical framework used to understand the phenomenon of [[Collective Behavior]] in complex systems, particularly [[Synchronization]] among a group of oscillating elements. Developed in the 1970s by [[Yoshiki Kuramoto]], it has since become a fundamental model in the study of complex systems, with applications ranging from physics and chemistry to neuroscience and engineering.
 
 ### Key Concepts of the Kuramoto Model
 
