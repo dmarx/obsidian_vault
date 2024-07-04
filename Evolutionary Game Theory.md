@@ -1,6 +1,10 @@
 see also:
 - [[Evolution of Cooperation]]
 - [[Evolutionary Psychology]]
+- [[Cooperation]]
+- [[Morality As Cooperation]]
+- [[Game Theory]]
+- [[Public Goods Game]]
 
 Evolutionary game theory is a branch of [[game theory]] that draws from [[evolutionary biology]] to study the [[strategic interactions]] among [[rational agents]]. Unlike classical game theory, which focuses on the [[equilibrium]] outcomes of games among fully rational players, evolutionary game theory is more concerned with the dynamics of strategy change in populations over time. This approach is particularly useful for understanding the evolution of behaviors in biological and social systems.
 
