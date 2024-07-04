@@ -6,7 +6,7 @@ Embodied cognition emphasizes that our cognitive processes are deeply rooted in 
 
 ### [[Extended Mind]]
 
-The Extended Mind thesis, initially proposed by Andy Clark and David Chalmers, argues that external objects, tools, and environments can become so closely integrated with our cognitive processes that they can be considered part of the mind itself. Recent discussions have moved beyond theoretical arguments to include empirical studies demonstrating how tools and technologies—from simple instruments like pen and paper to advanced technologies like smartphones and wearable devices—extend our cognitive capacities. For example, research in human-computer interaction has examined how information stored in digital devices can function as an extension of our memory, effectively becoming part of our cognitive system.
+The [[Extended Mind Thesis]], initially proposed by Andy Clark and David Chalmers, argues that external objects, tools, and environments can become so closely integrated with our cognitive processes that they can be considered part of the mind itself. Recent discussions have moved beyond theoretical arguments to include empirical studies demonstrating how tools and technologies—from simple instruments like pen and paper to advanced technologies like smartphones and wearable devices—extend our cognitive capacities. For example, research in human-computer interaction has examined how information stored in digital devices can function as an extension of our memory, effectively becoming part of our cognitive system.
 
 ### [[Situated and Enactive Cognition]]
 
