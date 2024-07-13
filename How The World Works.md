@@ -4,3 +4,4 @@ tags:
 ---
 
 [[The Illusion Of Control]]
+[[The Shape Of Data]]

@@ -64,3 +64,105 @@ The geometric perspective on generative models offers several utilities:
 - **Guiding Model Design**: Insights into the data’s geometric structure can inform the design of model architectures, loss functions, and training procedures that are better suited to capturing the true nature of the data.
 
 The geometric interpretation of generative models not only enriches our understanding of how these models work but also opens up avenues for new research directions, aiming to more effectively capture and utilize the complex, underlying structures in high-dimensional data.
+
+---
+
+### Generative Models
+
+Generative models are a class of machine learning models that aim to model the underlying distribution of a dataset in order to generate new samples from it. These models are fundamental to tasks such as data generation, density estimation, and learning complex data distributions. They play a crucial role in various applications, including image and text generation, anomaly detection, and semi-supervised learning.
+
+#### Key Concepts
+
+1. **Generative vs. Discriminative Models**
+   - **Generative Models**: Model the joint probability distribution \(P(X, Y)\) and can generate new data points. They can perform both classification and generation tasks.
+   - **Discriminative Models**: Model the conditional probability distribution \(P(Y|X)\) and are used primarily for classification tasks.
+
+2. **Training Objective**
+   - **Likelihood Maximization**: The primary objective in training generative models is to maximize the likelihood of the observed data under the model's distribution.
+
+3. **Types of Generative Models**
+   - **Explicit Density Models**: Models that explicitly define and learn the probability density function.
+   - **Implicit Density Models**: Models that learn to generate samples without explicitly defining the probability density function.
+
+#### Types of Generative Models
+
+1. **Gaussian Mixture Models (GMMs)**
+   - **Description**: GMMs model the data distribution as a mixture of several Gaussian distributions, each representing a cluster.
+   - **Training**: Typically trained using the Expectation-Maximization (EM) algorithm to find the parameters that maximize the likelihood of the data.
+
+2. **Hidden Markov Models (HMMs)**
+   - **Description**: HMMs are used to model time series data and sequential data, assuming that the system being modeled is a Markov process with hidden states.
+   - **Training**: Trained using the Baum-Welch algorithm (a special case of the EM algorithm) to estimate the transition probabilities and emission probabilities.
+
+3. **Restricted Boltzmann Machines (RBMs)**
+   - **Description**: RBMs are stochastic neural networks that learn a probability distribution over the input data. They consist of visible and hidden layers with symmetric connections.
+   - **Training**: Trained using Contrastive Divergence (CD) to approximate the gradient of the log-likelihood.
+
+4. **Variational Autoencoders (VAEs)**
+   - **Description**: VAEs are neural networks that learn to encode input data into a latent space and then decode it back to the original space. They incorporate variational inference to approximate the posterior distribution.
+   - **Training**: Trained by maximizing the Evidence Lower Bound (ELBO), which balances reconstruction loss and KL divergence between the approximate posterior and the prior distribution.
+
+5. **Generative Adversarial Networks (GANs)**
+   - **Description**: GANs consist of two networks, a generator and a discriminator, that compete against each other. The generator learns to create realistic data, while the discriminator learns to distinguish real data from generated data.
+   - **Training**: Trained using a minimax game where the generator aims to fool the discriminator, and the discriminator aims to correctly classify real and generated data.
+
+6. **Normalizing Flows**
+   - **Description**: Normalizing Flows are models that transform a simple base distribution into a more complex distribution using a series of invertible and differentiable transformations.
+   - **Training**: Trained by maximizing the likelihood of the data, utilizing the change of variables formula to compute the exact likelihood.
+
+#### Applications of Generative Models
+
+1. **Data Generation**
+   - **Synthetic Data**: Generative models can generate synthetic data for various purposes, including data augmentation, simulation, and privacy-preserving data sharing.
+   - **Image and Text Generation**: Used to create realistic images and text, such as generating new faces, artworks, or coherent paragraphs of text.
+
+2. **Anomaly Detection**
+   - **Outlier Detection**: By learning the normal data distribution, generative models can identify anomalies or outliers that do not fit the learned distribution.
+
+3. **Semi-Supervised Learning**
+   - **Label Propagation**: Generative models can improve classification performance by generating additional labeled data from a small labeled dataset, thus leveraging both labeled and unlabeled data.
+
+4. **Representation Learning**
+   - **Feature Extraction**: Generative models can learn meaningful latent representations of data, useful for downstream tasks such as clustering and classification.
+
+5. **Density Estimation**
+   - **Probability Estimation**: Generative models can estimate the probability density function of the data, providing insights into the data distribution and enabling probabilistic reasoning.
+
+#### Training and Evaluation
+
+1. **Training Methods**
+   - **Maximum Likelihood Estimation (MLE)**: Directly maximizing the likelihood of the observed data.
+   - **Variational Inference**: Approximating complex posterior distributions using simpler variational distributions.
+   - **Adversarial Training**: Training a generator and discriminator in a competitive setting.
+
+2. **Evaluation Metrics**
+   - **Log-Likelihood**: Measures how well the model explains the observed data.
+   - **Frechet Inception Distance (FID)**: Used to evaluate the quality of generated images by comparing the distribution of generated images to real images.
+   - **Perplexity**: Used in language models to measure how well the model predicts the next word in a sequence.
+
+#### Mathematical Formulation
+
+1. **Gaussian Mixture Models**
+   - **Likelihood**:
+     $$
+     P(\mathbf{x}) = \sum_{k=1}^{K} \pi_k \mathcal{N}(\mathbf{x} | \mu_k, \Sigma_k)
+     $$
+     where \( \pi_k \) are the mixture weights, and \( \mathcal{N}(\mathbf{x} | \mu_k, \Sigma_k) \) are Gaussian components.
+
+2. **Variational Autoencoders**
+   - **Evidence Lower Bound (ELBO)**:
+     $$
+     \mathcal{L}(\theta, \phi) = \mathbb{E}_{q_\phi(\mathbf{z}|\mathbf{x})} \left[ \log p_\theta(\mathbf{x}|\mathbf{z}) \right] - \text{KL}(q_\phi(\mathbf{z}|\mathbf{x}) || p(\mathbf{z}))
+     $$
+     where \( q_\phi(\mathbf{z}|\mathbf{x}) \) is the variational posterior and \( p_\theta(\mathbf{x}|\mathbf{z}) \) is the likelihood.
+
+3. **Generative Adversarial Networks**
+   - **Minimax Objective**:
+     $$
+     \min_G \max_D \mathbb{E}_{\mathbf{x} \sim p_{\text{data}}(\mathbf{x})} [\log D(\mathbf{x})] + \mathbb{E}_{\mathbf{z} \sim p_{\mathbf{z}}(\mathbf{z})} [\log (1 - D(G(\mathbf{z})))]
+     $$
+     where \( G \) is the generator, \( D \) is the discriminator, and \( \mathbf{z} \) is the input noise vector.
+
+### Conclusion
+
+Generative models are powerful tools for modeling complex data distributions and generating new data samples. Understanding the various types of generative models, their training methods, and applications provides valuable insights into their capabilities and potential uses in machine learning and data science. For further exploration, consider examining related topics such as [[Variational Autoencoders]], [[Generative Adversarial Networks]], and [[Normalizing Flows]].
