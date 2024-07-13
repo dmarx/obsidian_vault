@@ -2,6 +2,28 @@
 tags:
   - prune/book
 ---
+NB: this list isn't really curated but rather represents a particular wiki rabbit hole that was mostly relevant. 
+
+Todo:
+* Thin out non-relevant content (i.e. misc psych)
+* Add pre-existing content
+	* Psychological Manipulation, Fraud
+	* Complexity and Systems Theory
+	* Organizational Theory, control mechanisms
+	* Behavioral Economics
+	* Disunity of Self
+	* Systems Ecology
+	* Cog Sci
+	* Chaos
+	* Animal psych
+	* game theory
+	* evolutionary psychology
+
+
+
+
+
+
 [[Illusion Of Control]]
 [[Overconfidence Bias]]
 [[Introspection Illusion]]
