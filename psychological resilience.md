@@ -1,4 +1,7 @@
-### Psychological Resilience
+---
+tags:
+  - needs-outlinks
+---
 
 **Psychological Resilience** refers to the ability to adapt positively and recover from stress, adversity, trauma, or significant sources of stress. It involves maintaining or quickly regaining mental health despite experiencing difficulties. Resilience is not a fixed trait but a dynamic process that can be developed and strengthened over time.
 

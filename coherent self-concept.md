@@ -1,6 +1,6 @@
-### Coherent Self-Concept
+See also:
 
-A coherent self-concept is a stable and consistent understanding of oneself that integrates various aspects of identity, beliefs, values, and experiences into a unified whole. It enables individuals to maintain a stable sense of self across different contexts and over time, contributing to psychological well-being and effective functioning. Understanding the formation, characteristics, benefits, and therapeutic approaches to fostering a coherent self-concept is essential for personal development and mental health.
+A coherent [[self-concept]] is a stable and consistent understanding of oneself that integrates various aspects of identity, beliefs, values, and experiences into a unified whole. It enables individuals to maintain a stable sense of self across different contexts and over time, contributing to psychological well-being and effective functioning. Understanding the formation, characteristics, benefits, and therapeutic approaches to fostering a coherent self-concept is essential for personal development and mental health.
 
 #### Formation of a Coherent Self-Concept
 
@@ -31,7 +31,7 @@ A coherent self-concept is a stable and consistent understanding of oneself that
    - **Resilience**: A coherent self-concept provides a stable foundation for coping with stress and adversity, enhancing resilience.
 
 4. **Effective Functioning**
-   - **Decision-Making**: [[Clarity of values and goals facilitates effective decision-making and goal-setting]].
+   - **Decision-Making**: [[Clarity of Values and Goals Facilitates Effective Decision-Making and Goal-Setting]].
    - **Interpersonal Relationships**: Consistency and authenticity in self-presentation enhance trust and reliability in relationships.
 
 #### Benefits of a Coherent Self-Concept

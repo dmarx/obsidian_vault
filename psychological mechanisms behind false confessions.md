@@ -1,4 +1,8 @@
-## Psychological Mechanisms Behind False Confessions
+---
+tags:
+  - infohazard
+---
+
 
 False confessions are admissions of guilt for a crime the confessor did not commit, often resulting from various psychological mechanisms. Understanding these mechanisms is crucial for preventing wrongful convictions and ensuring ethical interrogation practices.
 

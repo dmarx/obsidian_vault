@@ -1,6 +1,8 @@
-## Psychological Mechanisms Underlying Groupthink
-
-**Groupthink** occurs when a cohesive group's desire for unanimity and consensus overrides the motivation to critically evaluate alternative courses of action. The psychological mechanisms behind groupthink involve complex interactions between social pressures, cognitive biases, and group dynamics. Understanding these mechanisms is essential for preventing poor decision-making outcomes associated with groupthink.
+---
+tags:
+  - infohazard
+---
+[[Groupthink]] occurs when a cohesive group's desire for unanimity and consensus overrides the motivation to critically evaluate alternative courses of action. The psychological mechanisms behind groupthink involve complex interactions between social pressures, cognitive biases, and group dynamics. Understanding these mechanisms is essential for preventing poor decision-making outcomes associated with groupthink.
 
 ### Key Psychological Mechanisms
 

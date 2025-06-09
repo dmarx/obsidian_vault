@@ -1,4 +1,8 @@
-**Concentration of Media Ownership**
+see also:
+- [[Mass Communication Theories]]
+- [[Ethics of Influence]]
+- [[Propaganda]]
+- [[Groupthink]]
 
 Concentration of media ownership refers to a situation where a small number of individuals or corporations control a large share of the media industry. This can lead to reduced diversity of viewpoints, limited competition, and the potential for [[Media Bias]] that serves the interests of the owners rather than the public.
 

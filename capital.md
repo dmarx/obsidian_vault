@@ -1,7 +1,7 @@
 see also:
-- [[Social Capital]]
 - [[Currency]]
 - [[Finance]]
+- [[Ethics of Influence]]
 
 **Capital**
 
