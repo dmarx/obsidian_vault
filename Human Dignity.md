@@ -1,4 +1,5 @@
-**Human Dignity**
+see also:
+- [[Fundamental Rights]]
 
 Human dignity is the inherent worth and respect that every individual deserves simply by being human. It is a foundational concept in human rights law, ethics, and philosophy, underpinning the principles of equality, freedom, and justice. Recognizing human dignity is crucial for ensuring that individuals are treated with respect and have their rights protected.
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 see also:
 - [[Unity of Self]]
 - [[Consciousness]]

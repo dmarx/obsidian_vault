@@ -1,5 +1,7 @@
-## Communication Accommodation Theory
-
+---
+tags:
+  - cognition
+---
 **Communication Accommodation Theory (CAT)** is a theory developed by Howard Giles in the early 1970s that explores how and why individuals adjust their communication behaviors to align with or differentiate from their conversation partners. This theory focuses on the dynamic nature of interpersonal communication and how social and contextual factors influence communicative adjustments.
 
 ### Core Principles

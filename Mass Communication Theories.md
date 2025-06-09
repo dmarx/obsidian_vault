@@ -1,3 +1,8 @@
+---
+tags:
+  - needs-outlinks
+---
+
 ## Mass Communication Theories
 
 Mass communication theories explore the processes, effects, and dynamics of communication on a large scale, typically involving the dissemination of information to a broad audience via media such as television, radio, newspapers, and the internet. These theories provide insights into how media influence individuals and society, the role of media in shaping public opinion, and the interactions between media and audiences.

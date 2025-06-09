@@ -1,3 +1,31 @@
+see also:
+- [[The Illusion Of Control - (very wide net)]]
+- [[Susceptibility to Suggestion]]
+- [[Illusion of unanimity]]
+- [[Psychological Mechanisms Underlying Groupthink]]
+- [[Groupthink]]
+- [[How The World Works]]
+- [[Psychological Pressure]]
+- [[Misinformation Effect]]
+- [[Mass Communication Theories]]
+- [[Exposure Effect]]
+- [[Attitude Formation]]
+- [[Manipulation and Coercion]]
+- [[Weaponization of social media signals]]
+- [[Social Influence]]
+- [[Social Media Influence on Mental Health]]
+- [[Infiltrating and dismantling social media disinformation echo chambers]]
+- [[Echo Chambers]]
+- [[Social Media Amplification]]
+- [[Socio-Technical Systems Theory]]
+- [[Sociobiology]]
+- [[Society of Mind]]
+- [[Social Conformity]]
+- [[Conformity]]
+- [[Media Bias]]
+- [[Exploitation of Cognitive Biases]]
+
+
 ## Cultivation Theory
 
 **Cultivation Theory** is a mass communication theory developed by George Gerbner and Larry Gross in the late 1960s and early 1970s. The theory examines the long-term effects of television viewing on audiences, suggesting that prolonged exposure to television content shapes viewers' perceptions of reality. The theory posits that heavy television viewers are more likely to perceive the world in ways that reflect the recurrent themes and messages presented in television programming.

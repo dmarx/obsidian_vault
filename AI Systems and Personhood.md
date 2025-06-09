@@ -1,3 +1,17 @@
+---
+tags:
+  - cognition
+---
+
+see also:
+- [[Philosophy of Consciousness]]
+- [[Philosophy of Mind]]
+- [[Philosophy of Science]]
+- [[Philosophy of Biology]]
+- [[Philosophy of Systems]]
+- [[Philosophy of Systems Biology]]
+- [[Philosophy of Artificial Intelligence]]
+
 The question of whether AI systems can or should be granted some form of personhood is a fascinating and complex issue that intersects technology, ethics, philosophy, and law. As AI systems become more advanced, exhibiting capabilities that include learning, problem-solving, and some level of autonomy, the debate intensifies around their legal status, moral rights, and ethical treatment.
 
 ### Theoretical Considerations in AI Personhood:

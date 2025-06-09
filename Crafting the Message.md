@@ -2,7 +2,6 @@
 tags:
   - infohazard
 ---
-
 see also:
 - [[Psychology]]
 

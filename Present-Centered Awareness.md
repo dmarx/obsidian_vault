@@ -1,6 +1,6 @@
 ### Present-Centered Awareness
 
-**Present-Centered Awareness** is a core component of mindfulness, involving the focused attention on the current moment, including thoughts, feelings, and sensory experiences, without distraction or judgment. This practice enhances overall well-being, reduces stress, and improves mental clarity by anchoring the mind in the here and now.
+**Present-Centered Awareness** is a core component of [[mindfulness]], involving the focused attention on the current moment, including thoughts, feelings, and sensory experiences, without distraction or judgment. This practice enhances overall well-being, reduces stress, and improves mental clarity by anchoring the mind in the here and now.
 
 #### Key Aspects
 

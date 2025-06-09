@@ -1,4 +1,9 @@
-**Duty to Tell the Truth**
+see also:
+- [[Deontological Ethics]]
+- [[Ethical Principles]]
+- [[Ethics]]
+- [[Morality]]
+- [[Moral Duty]]
 
 The duty to tell the truth, also known as the duty of honesty or veracity, is a fundamental ethical obligation that underpins trust and integrity in personal, professional, and societal interactions. It involves being truthful in communication, avoiding deception, and providing accurate information.
 

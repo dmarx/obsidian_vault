@@ -1,4 +1,8 @@
-### Central Executive Network (CEN)
+---
+tags:
+  - cognition
+---
+
 
 The Central Executive Network (CEN), often referred to as the task-positive network, plays a crucial role in maintaining and manipulating information in the service of complex cognitive tasks, such as reasoning, problem-solving, and planning. It is essential for directing attention and managing higher-order cognitive processes, particularly under conditions requiring focused attention and conscious control.
 

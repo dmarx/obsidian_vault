@@ -67,7 +67,7 @@ In operations research, the analysis and theory of distributed systems focus on 
 
 ### Techniques and Approaches
 
-- **[[Queuing Theory]]**: Used to model systems where 'customers' arrive and wait for 'service' from one or more 'servers'. In distributed systems, queuing theory can help design and manage systems where requests for resources are queued and serviced by different components, such as data servers or manufacturing units.
+- **[[Queueing Theory]]**: Used to model systems where 'customers' arrive and wait for 'service' from one or more 'servers'. In distributed systems, queuing theory can help design and manage systems where requests for resources are queued and serviced by different components, such as data servers or manufacturing units.
 
 - **[[Game Theory]]**: Often applied in scenarios where multiple agents operate in a shared environment and interact in competitive or cooperative manners. Game theory can help in analyzing and designing mechanisms for optimal strategies and outcomes in distributed decision-making scenarios.
 

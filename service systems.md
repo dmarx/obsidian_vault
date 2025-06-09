@@ -33,7 +33,7 @@ Service systems are complex configurations where services are delivered to custo
 ### Operational Strategies in Service Systems
 
 - **Lean Management**: Implementing [[lean principles]] to eliminate waste in service processes, improve efficiency, and enhance customer value.
-- **Queue Management**: Applying [[queuing theory]] to manage customer wait times and improve flow within the service system.
+- **Queue Management**: Applying [[Queueing Theory]] to manage customer wait times and improve flow within the service system.
 - **Technology Utilization**: Leveraging technology, such as AI and machine learning, for automating routine tasks, enhancing customer interactions, and gathering data to improve service decisions.
 - **Training and Development**: Continuously training service providers to improve their skills and adapt to new service technologies and methodologies.
 

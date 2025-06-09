@@ -24,7 +24,7 @@ The integration of self refers to the process of unifying various aspects of one
 
 1. **Enhanced Psychological Well-Being**
    - **Reduced Anxiety and Depression**: Integrating conflicting aspects of the self can alleviate internal tension and reduce symptoms of anxiety and depression.
-   - **Increased Resilience**: A [[coherent self-concept]] provides a stable foundation for coping with stress and adversity.
+   - **Increased Resilience**: A [[Coherent Self-Concept]] provides a stable foundation for coping with stress and adversity.
 
 2. **Improved Interpersonal Relationships**
    - **Authentic Connections**: Being able to present a more integrated and authentic self fosters deeper and more meaningful relationships.

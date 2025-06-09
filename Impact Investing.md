@@ -1,4 +1,6 @@
-**Impact Investing**
+see also:
+- [[Ethics of Ownership]]
+- [[Ethics of Influence]]
 
 Impact investing refers to investments made with the intention of generating positive social and environmental impact alongside a financial return. This investment strategy seeks to address societal challenges such as poverty, education, healthcare, and climate change, while also achieving financial gains for investors. Impact investing operates on the premise that capital can be leveraged to create meaningful change, aligning financial returns with broader social and environmental goals.
 

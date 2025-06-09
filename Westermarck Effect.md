@@ -5,7 +5,7 @@ The **Westermarck effect** is a psychological hypothesis proposing that individu
 ### Core Principles
 
 1. **Early Co-residence**: The key factor in the Westermarck effect is the early co-residence of individuals, typically within the first six years of life. During this period, close living conditions foster a sense of familial bonding that suppresses sexual attraction.
-2. **Incest Avoidance**: The primary evolutionary advantage of the Westermarck effect is to reduce the likelihood of inbreeding, which can lead to an increased risk of genetic disorders and reduced fitness in offspring.
+2. **[[Incest Avoidance]]**: The primary evolutionary advantage of the Westermarck effect is to reduce the likelihood of inbreeding, which can lead to an increased risk of genetic disorders and reduced fitness in offspring.
 3. **Universal Mechanism**: While cultural norms and taboos against incest exist, the Westermarck effect is proposed to be a biological mechanism that operates independently of these cultural influences.
 
 ### Evidence and Examples
@@ -58,7 +58,6 @@ As \( C \) increases, \( A \) decreases, indicating that longer co-residence red
 ### Further Reading
 
 - [[Edvard Westermarck]]
-- [[Incest Avoidance]]
 - [[Evolutionary Psychology]]
 - [[Kin Recognition]]
 - [[Olfactory Cues in Behavior]]

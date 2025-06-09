@@ -1,4 +1,8 @@
-### Basic Psychological Needs Theory
+---
+tags:
+  - cognition
+---
+
 
 **Basic Psychological Needs Theory (BPNT)** is a sub-theory within the broader framework of [[Self-Determination Theory]] (SDT) developed by Edward L. Deci and Richard M. Ryan. BPNT posits that human well-being and optimal functioning are contingent on the satisfaction of three innate psychological needs: autonomy, competence, and relatedness. The satisfaction of these needs is essential for fostering intrinsic motivation, psychological growth, and well-being.
 
@@ -59,7 +63,7 @@
 
 3. **Mental Health**:
    - **Therapeutic Approaches**: Therapists can focus on addressing clients’ unmet psychological needs to improve mental health and well-being.
-   - **Personal Growth**: Helping individuals understand and fulfill their needs for autonomy, competence, and relatedness can facilitate personal development and [[psychological resilience]].
+   - **Personal Growth**: Helping individuals understand and fulfill their needs for autonomy, competence, and relatedness can facilitate personal development and [[Psychological Resilience]].
 
 ### Related Concepts
 

@@ -1,4 +1,3 @@
-### Control Orientation
 
 **Control Orientation** is one of the three causality orientations described in [[Causality Orientations Theory]] (COT), a sub-theory of [[Self-Determination Theory]] (SDT) developed by Edward L. Deci and Richard M. Ryan. Control orientation reflects a tendency to regulate behavior based on external pressures, demands, and contingencies, such as rewards, punishments, and social evaluations.
 

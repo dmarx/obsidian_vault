@@ -1,3 +1,9 @@
+---
+tags:
+  - OC/half-baked
+  - oc/theory
+---
+
 todo: copy over the intro from the KLMC2 superposition notebook
 
 but yeah the cond and the negative cond are like attractive and repulsive forces

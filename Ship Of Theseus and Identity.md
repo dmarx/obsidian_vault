@@ -11,7 +11,7 @@ see also:
 
 >ship of theseus and consequences for sports teams through the lens of philosophy of identity, in light of player trading and team purchasing
 
-The Ship of Theseus is a classical philosophical problem that explores the nature of identity over time, specifically whether an object that has had all of its components replaced remains fundamentally the same object. This thought experiment can be usefully applied to modern sports teams, which often undergo significant changes in player lineup and ownership, challenging the notions of team identity and continuity.
+The [[Ship of Theseus (meditation)]] is a classical philosophical problem that explores the nature of identity over time, specifically whether an object that has had all of its components replaced remains fundamentally the same object. This thought experiment can be usefully applied to modern sports teams, which often undergo significant changes in player lineup and ownership, challenging the notions of team identity and continuity.
 
 ### Application to Sports Teams
 

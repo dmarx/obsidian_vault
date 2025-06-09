@@ -1,4 +1,9 @@
-The Schauder Fixed Point Theorem is a cornerstone result in functional analysis and nonlinear analysis, extending the concept of fixed points beyond finite-dimensional spaces to infinite-dimensional topological vector spaces. Named after Juliusz Schauder, the theorem provides conditions under which a continuous map in a Banach space (a complete normed vector space) must have a fixed point. Unlike the Brouwer Fixed Point Theorem, which is restricted to finite-dimensional spaces, Schauder's theorem applies to a wide range of problems in partial differential equations, integral equations, and economic models where infinite-dimensional spaces naturally arise.
+---
+tags:
+  - needs-outlinks
+---
+
+The Schauder Fixed Point Theorem is a cornerstone result in [[Functional Analysis]] and nonlinear analysis, extending the concept of fixed points beyond finite-dimensional spaces to infinite-dimensional topological vector spaces. Named after Juliusz Schauder, the theorem provides conditions under which a continuous map in a Banach space (a complete normed vector space) must have a fixed point. Unlike the Brouwer Fixed Point Theorem, which is restricted to finite-dimensional spaces, Schauder's theorem applies to a wide range of problems in partial differential equations, integral equations, and economic models where infinite-dimensional spaces naturally arise.
 
 ### Statement of the Theorem
 

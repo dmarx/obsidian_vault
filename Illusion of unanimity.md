@@ -1,4 +1,14 @@
-## Illusion of Unanimity
+---
+tags:
+  - cognition
+  - infohazard
+---
+see also:
+- [[Groupthink]]
+- [[Psychology]]
+- [[Mass Communication Theories]]
+- [[Propaganda]]
+- [[Conformity]]
 
 **Illusion of unanimity** is a key characteristic of groupthink, a psychological phenomenon where the desire for harmony and conformity within a group leads to irrational or dysfunctional decision-making outcomes. This illusion occurs when the absence of dissent or open disagreement gives the false impression that everyone in the group agrees with the majority view.
 

@@ -1,5 +1,3 @@
-**Mens Rea**
-
 "Mens rea" is a Latin term that translates to "guilty mind." It refers to the mental state or intent of a person while committing a crime, which is a crucial element in criminal law. The presence of mens rea differentiates between someone who committed an act with criminal intent and someone who did so unintentionally.
 
 ### Elements of Mens Rea

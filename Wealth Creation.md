@@ -77,7 +77,7 @@ Wealth creation refers to the process of generating economic value through the p
 
 #### Example 2: **Grameen Bank in Bangladesh**
 
-- **Context**: Founded by Nobel Laureate Muhammad Yunus, [[Grameen Bank  Microloans|Grameen Bank provides microloans]] to the rural poor in Bangladesh.
+- **Context**: Founded by Nobel Laureate Muhammad Yunus, [[Grameen Bank Microloans|Grameen Bank provides microloans]] to the rural poor in Bangladesh.
 - **Initiatives**: The bank focuses on empowering women and fostering entrepreneurship by offering small loans without collateral.
 - **Impact**: Grameen Bank has lifted millions out of poverty, created economic opportunities, and demonstrated the power of microfinance in wealth creation and social development.
 

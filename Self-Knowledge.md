@@ -1,3 +1,7 @@
+---
+tags:
+  - cognition
+---
 Self-knowledge is a broad and deeply significant concept in psychology, philosophy, and various wisdom traditions. It refers to the understanding one has of oneself, encompassing knowledge of one's own thoughts, feelings, motivations, desires, and characteristics. This knowledge is not merely about surface-level traits but includes deeper insights into one's psychological states, moral convictions, and the underlying reasons for one's actions and beliefs.
 
 ### Dimensions of Self-Knowledge

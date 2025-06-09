@@ -1,6 +1,7 @@
 ---
 tags:
   - OC
+  - OC/collaboration
 ---
 see also:
 - [[_Synthesis - Noether, Identity]]

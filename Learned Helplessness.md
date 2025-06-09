@@ -1,4 +1,8 @@
-### Learned Helplessness
+---
+tags:
+  - infohazard
+---
+
 
 **Learned Helplessness** is a psychological phenomenon wherein individuals come to believe that they have no control over the outcomes of their actions, leading to a state of passive resignation. This concept was extensively studied by Martin Seligman and his colleagues, initially in the context of animal behavior, and later applied to human psychology.
 

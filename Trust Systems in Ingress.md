@@ -1,6 +1,7 @@
 ---
 tags:
   - OC/weak
+  - infohazard
 ---
 see also:
 - [[Vouching Network]]

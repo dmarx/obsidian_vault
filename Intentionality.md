@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 see als:
 - [[Philosophy of Mind]]
 - [[Multiplicitous Self]]

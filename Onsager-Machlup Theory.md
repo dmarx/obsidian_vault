@@ -1,11 +1,12 @@
 see also:
-- [[Onsager Reciprocal Relations]]
 - [[Transport Phenomena]]
 - [[Physical Chemistry]]
 - [[Non-Equilibrium Systems]]
 - [[Non-Equilibrium Dynamics]]
+- [[Fluctuation Theory]]
+- [[Fluctuation Theorems]]
 
-The Onsager-Machlup theory extends and generalizes the concepts introduced by Lars Onsager through his reciprocal relations, by formulating a comprehensive statistical framework for the fluctuations and irreversible processes in systems near [[thermodynamic equilibrium]]. Developed by [[Lars Onsager]] and [[Seymour Machlup]] in the 1950s, this theory provides a deeper insight into the behavior of systems out of equilibrium, particularly focusing on the probabilities of various fluctuations from equilibrium states.
+The Onsager-Machlup theory extends and generalizes the concepts introduced by Lars Onsager through his [[Onsager Reciprocal Relations|reciprocal relations]], by formulating a comprehensive statistical framework for the fluctuations and irreversible processes in systems near [[thermodynamic equilibrium]]. Developed by [[Lars Onsager]] and [[Seymour Machlup]] in the 1950s, this theory provides a deeper insight into the behavior of systems out of equilibrium, particularly focusing on the probabilities of various fluctuations from equilibrium states.
 
 ### Key Concepts and Formalism
 

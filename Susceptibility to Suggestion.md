@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 ## Susceptibility to Suggestion
 
 **Susceptibility to suggestion** refers to the degree to which individuals are influenced by external information or cues when recalling memories, forming beliefs, or making decisions. This phenomenon can significantly impact memory accuracy, decision-making, and behavior, making it a crucial area of study in psychology, particularly in the contexts of eyewitness testimony, clinical therapy, and social influence.

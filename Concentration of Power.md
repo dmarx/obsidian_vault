@@ -1,4 +1,7 @@
-**Concentration of Power**
+see also:
+- [[Ethics of Influence]]
+- [[Ethics of Ownership]]
+- [[centralization of control in the hands of a few corporations]]
 
 Concentration of power refers to the accumulation and centralization of authority in a single entity or group, often leading to the dominance of one branch of government, one individual, or one institution. This centralization can undermine democratic principles, erode checks and balances, and increase the risk of authoritarianism and abuse of power.
 

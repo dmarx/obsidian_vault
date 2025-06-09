@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 ## Social Learning Theory
 
 **Social Learning Theory** (SLT), developed by Albert Bandura, posits that people learn behaviors, attitudes, and emotional reactions through observing and imitating others. It emphasizes the role of modeling, imitation, and observational learning in acquiring new behaviors. SLT bridges the gap between behaviorist theories that focus on direct reinforcement and cognitive theories that consider internal processes in learning.

@@ -1,6 +1,7 @@
 ---
 tags:
   - stub/todo
+  - cognition
 ---
 see also:
 - [[Maslow’s Hierarchy of Needs]]

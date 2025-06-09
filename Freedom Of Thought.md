@@ -4,6 +4,7 @@ see also:
 - [[Right to Mental Integrity]]
 - [[Human Right to Mental Self-Determination]]
 - [[Mental Privacy]]
+- [[Ethics of Influence]]
 
 **Freedom of thought** is a fundamental human right that encompasses the liberty to hold, express, and change one's thoughts, beliefs, and opinions without interference or coercion. This right is crucial for personal autonomy, dignity, and the functioning of democratic societies. It is protected by international human rights law and is increasingly relevant in the context of advances in neuroscience, neurotechnology, and digital surveillance.
 

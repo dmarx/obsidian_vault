@@ -1,3 +1,7 @@
+---
+tags:
+  - cognition
+---
 see also:
 - [[Psychology]]
 - [[Split Attention]]

@@ -1,3 +1,6 @@
+see also:
+- [[Measure]]
+
 The Haar measure is a fundamental concept in the field of analysis on topological groups, named after Alfréd Haar, a Hungarian mathematician who introduced the concept in the early 20th century. It provides a way to define a "volume" for subsets of a topological group, extending the idea of length, area, and volume in Euclidean spaces to a much broader context. The Haar measure is particularly notable for being invariant under the group operations, making it an indispensable tool in harmonic analysis, representation theory, and other areas of mathematics and physics.
 
 ### Definition and Properties

@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 "Proletariatization" refers to the socio-economic process by which individuals or groups are integrated into the working class, particularly in contexts where they might previously have been self-employed or engaged in independent economic activities. This term is closely associated with Marxist theory, where it describes the transformation of small-scale producers, artisans, and peasants into wage laborers as part of the broader dynamics of capitalist development.
 
 ### Key Aspects of Proletariatization:

@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 The concepts of personhood and cognitive development are deeply interconnected, each influencing the understanding of the other in significant ways, particularly within developmental psychology, ethics, and philosophy. **Personhood** encompasses the recognition of an individual as a member of the moral community, endowed with certain rights, responsibilities, and the capacity for autonomy. **Cognitive development**, as detailed in theories such as those proposed by Jean Piaget, involves the progressive acquisition of skills and knowledge, including reasoning, problem-solving, and understanding.
 
 ### Link Between Cognitive Development and Personhood

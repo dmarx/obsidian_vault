@@ -1,6 +1,7 @@
 ---
 tags:
   - stub/todo
+  - infohazard
 ---
 see also:
 - [[Language is the DNA of concept-domain Entities]]

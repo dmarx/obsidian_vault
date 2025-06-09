@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 Consumer manipulation involves tactics that influence consumers' purchasing decisions in ways that may not be obvious or are intentionally deceptive. These tactics often prey on psychological vulnerabilities or exploit information asymmetries to benefit the seller at the potential expense of the consumer. Understanding and identifying these tactics is crucial not only for consumer protection but also for maintaining ethical standards in business practices.
 
 ### Forms of Consumer Manipulation:

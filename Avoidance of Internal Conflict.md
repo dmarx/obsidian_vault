@@ -1,4 +1,10 @@
-### Avoidance of Internal Conflict
+---
+tags:
+  - cognition
+---
+
+see also:
+- [[Psychology]]
 
 Avoidance of internal conflict is a psychological strategy where individuals actively evade confronting conflicting thoughts, emotions, or desires within themselves. While this can offer temporary relief, chronic avoidance often leads to a range of psychological issues. Here, we will explore the origins, characteristics, psychological impacts, and therapeutic approaches for addressing avoidance of internal conflict.
 

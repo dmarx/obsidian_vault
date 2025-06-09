@@ -1,4 +1,8 @@
-## Media Dependency Theory
+---
+tags:
+  - infohazard
+---
+
 
 **Media Dependency Theory** (MDT) was developed by Sandra Ball-Rokeach and Melvin DeFleur in 1976. The theory posits that the extent of media influence on an audience depends on the degree of dependency the audience has on media for information. The theory integrates several perspectives, including psychoanalytic, social system, and uses and gratifications approaches, to understand the complex relationship between media, audiences, and society.
 

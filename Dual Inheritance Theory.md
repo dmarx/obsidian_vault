@@ -1,3 +1,7 @@
+---
+tags:
+  - cognition
+---
 see also:
 - [[Philosophy of Biology]]
 - [[Philosophy of Systems]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Strategic Disinformation]]
 - [[Narrative Control]]

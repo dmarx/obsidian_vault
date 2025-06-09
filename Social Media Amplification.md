@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 >Social Media Amplification and manipulation
 
 ### Social Media Amplification and Manipulation in Astroturfing Campaigns

@@ -1,3 +1,8 @@
+---
+tags:
+  - needs-outlinks
+---
+
 Mesoscopic systems occupy the intriguing middle ground between the microscopic world, governed by quantum mechanics, and the macroscopic world, where classical physics prevails. These systems are large enough that quantum effects are not as dominant as they are in individual atoms or molecules, yet small enough that these effects do not average out entirely as they do in bulk materials. The term "mesoscopic" reflects this intermediate scale—larger than the nanometer scale typical of atoms and small molecules but smaller than the micrometer scale where classical physics accurately describes system behavior.
 
 ### Characteristics of Mesoscopic Systems

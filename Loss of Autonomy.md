@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Right to Repair]]
 The concept of "Loss of Autonomy" in socio-economic contexts often refers to a reduction in individuals' control over their work and lives due to external pressures, economic shifts, or structural changes in society. This phenomenon is particularly significant in discussions of proletariatization, where individuals transition from being self-employed or managing their own means of production, to working as wage laborers under conditions set by employers. This concept can be analyzed from various perspectives, including economic, psychological, and sociological angles.

@@ -1,4 +1,9 @@
-**Due Process**
+---
+tags:
+  - needs-outlinks
+---
+see also:
+- [[Fundamental Rights]]
 
 Due process is a fundamental legal principle that ensures fair treatment through the judicial system. It is a cornerstone of the rule of law, safeguarding individual rights against arbitrary actions by the state. Due process is enshrined in various legal frameworks, including the U.S. Constitution, and comprises both procedural and substantive elements.
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Psychology and Fascism]]
 - [[Social Identity Theory]]
@@ -112,4 +117,4 @@ Turner and Pratkanis explored the psychological mechanisms underlying groupthink
 Understanding and addressing groupthink is crucial for organizations, governments, and any decision-making bodies to ensure rational, creative, and ethical outcomes. By fostering an environment that values diversity of thought and encourages critical evaluation, the negative impacts of groupthink can be mitigated.
 
 see also:
-- [[psychological mechanisms underlying groupthink]]
+- [[Psychological Mechanisms Underlying Groupthink]]

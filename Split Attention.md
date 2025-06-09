@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 see also:
 - [[Psychology of Dissociation]]
 - [[Consciousness as Synchronization]]

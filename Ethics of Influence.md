@@ -1,3 +1,7 @@
+see also:
+- [[Moral Duty]]
+- [[Mass Communication Theories]]
+
 The "Ethics of Influence" encompasses a range of moral considerations regarding how individuals, organizations, and corporations wield their power to affect decisions, behaviors, and outcomes in various spheres of society. This topic is especially pertinent in discussions about political lobbying, corporate governance, media control, and interpersonal relationships within professional settings.
 
 ### Key Dimensions of the Ethics of Influence:

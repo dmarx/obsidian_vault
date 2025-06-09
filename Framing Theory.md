@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 ## Framing Theory
 
 **Framing Theory** is a communication theory that explores how media and communicators construct reality by highlighting certain aspects of an issue and shaping how it is perceived. Developed by Erving Goffman and later expanded by scholars like Robert Entman, framing theory posits that the way information is presented (the "frame") influences audience understanding and interpretation. 

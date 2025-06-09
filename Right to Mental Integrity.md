@@ -3,6 +3,9 @@ see also:
 - [[Morality]]
 - [[Human Right to Mental Self-Determination]]
 - [[Neuroethics]]
+- [[Fundamental Rights]]
+- [[Ethics]]
+- [[Ethics of Influence]]
 
 ### Right to Mental Integrity
 

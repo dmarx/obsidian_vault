@@ -1,4 +1,9 @@
-[[personhood and cognitive development]]
+---
+tags:
+  - cognition
+---
+see also:
+- [[personhood and cognitive development]]
 
 Jean Piaget (1896–1980) was a Swiss psychologist and epistemologist known for his pioneering work in child development. Piaget's theory of cognitive development and epistemological view are together called "genetic epistemology." He revolutionized how we think about child development by suggesting that children move through four distinct stages of cognitive growth, each characterized by changes in how they think and understand the world.
 

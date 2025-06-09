@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 ## Gudjonsson Suggestibility Scale
 
 The **Gudjonsson Suggestibility Scale (GSS)** is a psychological assessment tool developed by Gisli H. Gudjonsson to measure an individual's susceptibility to suggestive influence and pressure during interrogations or other high-stress situations. The GSS is particularly relevant in legal contexts, as it helps assess the reliability of witness testimony and the likelihood of false confessions.

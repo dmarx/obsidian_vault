@@ -1,6 +1,10 @@
-[[Loss of Autonomy]]
-[[Proletariatization]]
-[[Ethics of Ownership]]
+- [[Loss of Autonomy]]
+- [[Proletariatization]]
+- [[Ethics of Ownership]]
+- [[Enshitification]]
+- [[open-source software]]
+- [[Philosophy of Open Source]]
+- [[Intellectual Property]]
 
 The "Right to Repair" refers to a movement and a set of proposed policies advocating for consumers' ability to repair and modify their own electronic devices, such as smartphones, computers, and automobiles. This movement challenges the restrictions imposed by manufacturers that limit repairs to authorized service providers, which can result in higher repair costs and reduced lifespan for products.
 
@@ -18,7 +22,7 @@ The "Right to Repair" refers to a movement and a set of proposed policies advoca
    - **Manufacturer's Argument**: Some manufacturers argue against the right to repair, citing concerns about intellectual property, safety, and security related to their devices.
    - **Impact on Business Model**: Many tech companies rely on a business model that profits from regular upgrades and replacements, which could be affected if products are made easier to repair.
 
-5. **Standardization of Components**: Advocates often push for standardization in parts to simplify the repair process and reduce costs, making it feasible for more consumers and businesses to manage repairs efficiently.
+1. **[[Standardization of Components]]**: Advocates often push for standardization in parts to simplify the repair process and reduce costs, making it feasible for more consumers and businesses to manage repairs efficiently.
 
 ### Mathematical Modeling in Economic Impact Analysis
 

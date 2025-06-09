@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 The use of psychological tactics to influence consumer behavior is a prominent practice in marketing and advertising, often leveraging deep insights into human psychology and behavior to motivate purchases, brand loyalty, and other consumer actions. While these tactics can be effective in driving business objectives, they raise ethical considerations about manipulation, consumer autonomy, and the broader impact on society.
 
 ### Key Psychological Tactics Used in Marketing:

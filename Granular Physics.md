@@ -6,7 +6,7 @@ tags:
 see also:
 - [[Materials Science]]
 
-The study and characterization of sand piles fall primarily within the domain of [[Granular Physics]] (also known as granular material science), an area of physics that deals with the behavior of granular materials. Granular materials are collections of macroscopic particles, such as sand, grains, or rocks, which exhibit both solid-like and fluid-like behaviors depending on the circumstances. This field intersects with several areas of [[physics]], [[engineering]], and [[applied mathematics]], as it encompasses aspects of classical mechanics, statistical mechanics, and continuum mechanics.
+The study and characterization of sand piles fall primarily within the domain of [[Granular Physics]] (also known as granular material science), an area of physics that deals with the behavior of granular materials. Granular materials are collections of macroscopic particles, such as sand, grains, or rocks, which exhibit both solid-like and fluid-like behaviors depending on the circumstances. This field intersects with several areas of [[Physics]], [[engineering]], and [[applied mathematics]], as it encompasses aspects of classical mechanics, statistical mechanics, and continuum mechanics.
 
 ### Core Concepts in Granular Physics
 

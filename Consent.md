@@ -1,4 +1,6 @@
-[[Personhood]]
+see also:
+- [[Personhood]]
+- [[Ethics of Influence]]
 
 Consent is a fundamental concept in both ethics and law, referring to the agreement or permission given by a person after being fully informed about the implications, risks, and consequences of a particular action or decision. Consent is vital across various domains, including medical treatment, research, sexual relationships, and data privacy, serving as a cornerstone of respect for individual autonomy and decision-making.
 

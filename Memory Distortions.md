@@ -1,4 +1,8 @@
-## Memory Distortions
+---
+tags:
+  - infohazard
+---
+
 
 **Memory distortions** refer to the inaccuracies and alterations in the recollection of past events. These distortions can occur due to various cognitive, social, and environmental factors. Understanding memory distortions is crucial for fields such as psychology, law, and education, as they have significant implications for eyewitness testimony, personal identity, and learning processes.
 

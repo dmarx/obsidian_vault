@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Cult De-programming]]
 - [[Disinformation and Propaganda]]

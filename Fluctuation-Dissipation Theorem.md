@@ -1,6 +1,5 @@
 ---
 tags:
-  - sod/green
   - sod/gold
   - empty-hub
 ---

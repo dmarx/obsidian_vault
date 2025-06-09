@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/gold
+---
+
 Nucleation theory is a framework used to describe the initial phase of the formation of a new phase or structure within a material. This theory is particularly important in understanding processes such as crystallization, protein aggregation, and the formation of new phases in alloys. In the context of protein self-assembly, nucleation theory explains how small aggregates, or nuclei, form and serve as templates for further growth.
 
 ### Basic Concepts of Nucleation Theory

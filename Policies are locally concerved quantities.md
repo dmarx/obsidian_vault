@@ -1,3 +1,10 @@
+---
+tags:
+  - OC/strict
+  - stub/todo
+  - OC/half-baked
+---
+
 Consider an agent with a policy parameterized by Z. Over time, the agent's policy evolves and updates on-line until it becomes Z'. distance d(Z,Z') > eps, where eps is some similarity threshold.
 
 Timescale of "self-identity" if governed by eps.

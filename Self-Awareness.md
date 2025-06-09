@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 Self-awareness is a complex cognitive process where an individual becomes aware of their own thoughts, feelings, and behaviors. It involves a reflective aspect where one recognizes oneself as distinct from the external environment and other individuals. This ability is not only fundamental to human consciousness but is also a subject of interest in understanding certain higher animals and theoretical considerations in artificial intelligence.
 
 ### Components of Self-awareness

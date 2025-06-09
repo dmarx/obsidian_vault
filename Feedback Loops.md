@@ -4,7 +4,7 @@ tags:
   - OC/weak
 ---
 see also:
-- [[Queuing Theory]]
+- [[Queueing Theory]]
 - [[Control Theory]]
 - [[Systems Theory]]
 - [[Organization As Entity]]

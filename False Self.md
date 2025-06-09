@@ -1,6 +1,6 @@
 ### False Self
 
-The concept of the "False Self" was introduced by the British psychoanalyst [[Donald Winnicott]], a key figure in Object Relations Theory. The False Self is a defensive structure that arises in response to inadequate or inconsistent caregiving, which hinders the development of the True Self. Understanding the False Self involves examining its origins, characteristics, and impact on psychological well-being.
+The concept of the "False Self" was introduced by the British psychoanalyst [[Donald Winnicott]], a key figure in [[Object Relations Theory]]. The False Self is a defensive structure that arises in response to inadequate or inconsistent caregiving, which hinders the development of the True Self. Understanding the False Self involves examining its origins, characteristics, and impact on psychological well-being.
 
 #### Origins of the False Self
 

@@ -1,4 +1,9 @@
-## Avoidance of Rejection
+see also:
+- [[Psychology]]
+- [[Drive Reduction Theory]]
+- [[Psychological Drives]]
+- [[Basic Psychological Needs Theory]]
+- [[Susceptibility to Suggestion]]
 
 **Avoidance of rejection** is a behavioral strategy that individuals employ to minimize the risk of rejection in social, romantic, or professional contexts. This strategy is grounded in the desire to protect oneself from the negative emotions and social consequences associated with rejection. The concept plays a significant role in various theories of social and interpersonal behavior, including mate selection, relationship maintenance, and social exchange theory.
 
@@ -29,7 +34,7 @@
 
 1. **Self-Esteem**: Rejection can have a significant impact on an individual's self-esteem. Avoidance of rejection helps maintain a stable and positive self-view.
 2. **Cognitive Biases**: Individuals may exhibit cognitive biases such as overestimating the likelihood of rejection or the negative consequences of rejection.
-3. **Attachment Styles**: People with insecure attachment styles, particularly those with anxious or avoidant attachment, are more likely to exhibit behaviors aimed at avoiding rejection.
+3. **[[Attachment|Attachment Styles]]**: People with insecure attachment styles, particularly those with anxious or avoidant attachment, are more likely to exhibit behaviors aimed at avoiding rejection.
 
 ### Strategies for Avoiding Rejection
 

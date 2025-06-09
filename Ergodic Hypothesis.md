@@ -1,3 +1,8 @@
+---
+tags:
+  - sod/green
+---
+
 The ergodic hypothesis is a foundational concept in [[Statistical Mechanics]] that bridges the microscopic behavior of systems with their macroscopic statistical properties. It plays a crucial role in justifying the use of statistical methods to describe physical systems in equilibrium and forms the basis for connecting time averages to ensemble averages.
 
 ### Definition and Core Idea

@@ -1,4 +1,8 @@
-## Priming Theory
+---
+tags:
+  - infohazard
+---
+
 
 **Priming Theory** is a concept in media studies and psychology that explains how exposure to media content can influence individuals' subsequent thoughts, feelings, and behaviors. Priming involves the activation of certain associations and memory structures, making related thoughts and responses more accessible and likely to be used in future judgments and actions. The theory suggests that media exposure can "prime" viewers to think about issues in specific ways, affecting their perceptions and behaviors.
 

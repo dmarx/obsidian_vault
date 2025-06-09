@@ -2,6 +2,7 @@ see also:
 - [[Psychology]]
 - [[Developmental Psychology]]
 - [[Motivation]]
+- [[Basic Psychological Needs Theory]]
 
 Maslow’s Hierarchy of Needs is a psychological theory proposed by Abraham Maslow in 1943, which posits that human motivation is driven by a series of hierarchical needs. These needs are often depicted as a pyramid with five levels, ranging from basic physiological needs at the base to higher-order psychological needs at the top. According to Maslow, individuals must satisfy lower-level needs before they can address higher-level needs.
 

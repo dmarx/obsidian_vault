@@ -1,7 +1,7 @@
 
 >Traffic Intensity: Given by ρ=λ/μ for a single server. It is a measure of the load on the system and is critical for understanding system saturation.
 
-Traffic intensity, denoted as \( \rho \), is a critical metric in [[queuing theory]] that provides insight into the workload or load on a service system, particularly within the context of single-server queues. It represents the ratio of the rate at which customers or tasks arrive at the system (arrival rate, \( \lambda \)) to the rate at which the server can process or serve these customers or tasks (service rate, \( \mu \)).
+Traffic intensity, denoted as \( \rho \), is a critical metric in [[Queueing Theory]] that provides insight into the workload or load on a service system, particularly within the context of single-server queues. It represents the ratio of the rate at which customers or tasks arrive at the system (arrival rate, \( \lambda \)) to the rate at which the server can process or serve these customers or tasks (service rate, \( \mu \)).
 
 ### Definition and Formula
 

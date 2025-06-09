@@ -1,6 +1,6 @@
 see also:
 - [[service systems]]
-- [[Queuing Theory]]
+- [[Queueing Theory]]
 - [[Distributed Systems]]
 - [[Systems Theory]]
 - [[Operations research]]

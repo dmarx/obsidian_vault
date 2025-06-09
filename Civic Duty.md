@@ -1,4 +1,5 @@
-**Civic Duty**
+see also:
+- [[Ethics of Influence]]
 
 Civic duty refers to the responsibilities and obligations of citizens to engage in behaviors and actions that support the functioning and well-being of their community, society, and government. These duties are fundamental to the maintenance and enhancement of democratic systems, social cohesion, and public welfare.
 

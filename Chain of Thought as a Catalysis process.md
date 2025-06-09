@@ -2,11 +2,20 @@
 tags:
   - OC
   - sod/green
+  - OC/strict
 created: 2024-03-26
 ---
+see also:
+- [[Catalysts]]
+- [[_Synthesis - Catalyst Kinetics And Social Behavior]]
+- [[Nucleation in Social Dynamics]]
+- [[Nucleation Theory]]
+- [[Community Nucleation]]
+- [[Activation Energy]]
+
 consider some information state from which we are starting
 
-a hypothesis represents a change in the information state, energy put in our out
+a hypothesis represents a change in the information state, energy put in or out
 
 the resolution of that hypothesis is a new information configuration relative to this change
 

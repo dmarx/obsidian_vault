@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 Dependency creation is a critical and often harmful tactic used in psychological manipulation. It involves cultivating a situation where the target becomes increasingly reliant on the manipulator for emotional support, validation, information, or even material needs. This dependency weakens the target's ability to make independent decisions and increases their vulnerability to further manipulation.
 
 ### Mechanisms of Dependency Creation

@@ -2,6 +2,7 @@
 tags:
   - stub
   - stub/todo
+  - cognition
 ---
 see also:
 - [[Psychology of Dissociation]]

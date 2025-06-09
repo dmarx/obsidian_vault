@@ -6,7 +6,7 @@
 
 1. **Contradiction**: Relationships involve competing and contradictory needs or desires. These contradictions create tension within the relationship.
 2. **Change**: Relationships are dynamic and constantly evolving as individuals negotiate and renegotiate these dialectical tensions.
-3. **Praxis**: Individuals in relationships are active agents who use communication to manage and negotiate dialectical tensions.
+3. **[[Praxis]]**: Individuals in relationships are active agents who use communication to manage and negotiate dialectical tensions.
 4. **Totality**: The interdependence of relational partners means that the actions of one partner affect the other and the relationship as a whole.
 
 ### Key Dialectical Tensions

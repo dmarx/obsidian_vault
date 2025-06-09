@@ -1,4 +1,8 @@
-## Reconsolidation
+---
+tags:
+  - infohazard
+---
+
 
 **Reconsolidation** is a process in which previously consolidated memories, when recalled or reactivated, become labile and susceptible to modification before being stored again. This concept has significantly altered our understanding of memory dynamics, indicating that memories are not static but can be updated with new information.
 

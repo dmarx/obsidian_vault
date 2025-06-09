@@ -1,1 +1,5 @@
+---
+tags:
+  - prune/admin
+---
 [[README]]

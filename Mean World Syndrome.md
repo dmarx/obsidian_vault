@@ -1,10 +1,14 @@
-## Mean World Syndrome
+---
+tags:
+  - infohazard
+---
+
 
 **Mean World Syndrome** is a term coined by George Gerbner as part of his Cultivation Theory. It refers to the phenomenon where heavy consumption of violence-heavy television content leads viewers to perceive the world as more dangerous and frightening than it actually is. This syndrome highlights the long-term effects of television violence on viewers' perceptions of reality, particularly their beliefs about crime and personal safety.
 
 ### Core Principles
 
-1. **Cultivation Effect**: Mean World Syndrome is rooted in the broader concept of the cultivation effect, which posits that long-term exposure to television shapes viewers' perceptions and beliefs about the world.
+1. **[[Cultivation Effect]]**: Mean World Syndrome is rooted in the broader concept of the cultivation effect, which posits that long-term exposure to television shapes viewers' perceptions and beliefs about the world.
 2. **Heavy Viewership**: The syndrome primarily affects heavy viewers of television, who consume large amounts of violent content.
 3. **Distorted Perceptions**: Heavy viewers are more likely to overestimate the prevalence of crime, violence, and victimization in the real world, leading to heightened fear and mistrust.
 

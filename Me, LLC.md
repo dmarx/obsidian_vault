@@ -2,8 +2,11 @@
 tags:
   - book-idea
   - stub/todo
+  - cognition
+  - prune/book
 ---
 see also:
+* [[David Marx's Theory of Mind]]
 - [[Organismal]]
 - [[Language is the DNA of concept-domain Entities]]
 - [[Corporate X-Risk]]

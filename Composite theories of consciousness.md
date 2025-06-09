@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 see also:
 - [[Philosophy of Colonial Organisms]]
 - [[Organization As Entity]]

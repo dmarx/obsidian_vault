@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 Authenticity is a widely valued quality in philosophy, psychology, and everyday life, referring to the degree to which one's actions are congruent with one's beliefs, values, and desires, regardless of external pressures or influences. It involves living in accordance with one's true self, which is seen as a key aspect of self-actualization, happiness, and moral integrity.
 
 ### Philosophical Perspectives on Authenticity

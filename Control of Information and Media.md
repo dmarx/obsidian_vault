@@ -13,7 +13,7 @@ Control of information and media refers to the practices and strategies used by 
    - Techniques include the use of emotionally charged language, selective presentation of facts, and repetition of key messages.
 
 3. **Media Ownership and Control**:
-   - [[Concentration of media ownership]] in the hands of a few individuals or corporations can lead to biased reporting and limit diverse viewpoints.
+   - [[Concentration of Media Ownership]] in the hands of a few individuals or corporations can lead to biased reporting and limit diverse viewpoints.
    - Governments can exert influence through state-owned media or by supporting media outlets that align with their interests.
 
 4. **Legal and Regulatory Measures**:

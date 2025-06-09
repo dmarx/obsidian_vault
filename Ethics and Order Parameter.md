@@ -7,6 +7,9 @@ see also:
 - [[Language is the DNA of concept-domain Entities]]
 -  [[corporeal continuity and cancer]]
 - [[Selfiishness]]
+- [[Organization As Entity]]
+- [[Organismal Identity]]
+- [[Organismal]]
 
 Our notion of "ethics" and "justice" are directly tied to the order parameter of our identity.
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - stub/todo
+---
+
 see also:
 - MIMI - # First Contact: Unsupervised Human-Machine Co-Adaptation via Mutual Information Maximization
 	- https://arxiv.org/abs/2205.12381

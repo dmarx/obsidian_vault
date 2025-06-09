@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 see also:
 - [[Multiplicitous Self]]
 - [[Decision-Making]]

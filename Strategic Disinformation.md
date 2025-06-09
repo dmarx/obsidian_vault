@@ -55,7 +55,7 @@ Strategic disinformation involves deliberately spreading false or misleading inf
 ### Case Study: Americans for Prosperity (AFP) and Climate Change Denial
 
 **Context**:
-- Americans for Prosperity (AFP), funded by the Koch brothers, has used strategic disinformation to sow doubt about climate change and oppose environmental regulations.
+- [[Americans for Prosperity (AFP)]], funded by the Koch brothers, has used strategic disinformation to sow doubt about climate change and oppose environmental regulations.
 
 **Strategies Used**:
 1. **Creating False Narratives**:

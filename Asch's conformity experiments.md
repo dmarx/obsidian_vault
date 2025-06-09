@@ -26,7 +26,7 @@ The **Asch Conformity Experiments** were a series of studies conducted by social
 Asch conducted several variations of the original experiment to explore different aspects of conformity:
 
 1. **Group Size**: Conformity increased with group size up to about 3-4 confederates but did not significantly increase with larger groups.
-2. **Unanimity**: The presence of just one ally who gave the correct answer dramatically reduced conformity, demonstrating the [[power of dissent]].
+2. **Unanimity**: The presence of just one ally who gave the correct answer dramatically reduced conformity, demonstrating the [[The Power of Dissent]].
 3. **Task Difficulty**: Increasing the difficulty of the task led to higher levels of conformity, as participants were more uncertain about their judgments.
 
 ### Implications

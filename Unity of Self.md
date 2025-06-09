@@ -1,3 +1,7 @@
+---
+tags:
+  - cognition
+---
 
 See Also:
 - [[Philosophy of Mind]]
@@ -5,6 +9,8 @@ See Also:
 - [[Society of Mind]]
 - [[Split Brain Syndrome]]
 - [[Self-Awareness]]
+- [[Me, LLC]]
+- [[Organization As Entity]]
 
 The evolving perspective on the unity of self as being more fluid and multiplicitous represents a significant shift in how we understand personal identity. This view challenges traditional notions of a singular, coherent self that persists unchanged over time, proposing instead that our identities are dynamic, consisting of multiple facets that can change in response to different contexts and experiences. This nuanced understanding reflects advancements in various fields, including psychology, neuroscience, and social philosophy, and has profound implications for how we think about selfhood, personal development, and interpersonal relationships.
 

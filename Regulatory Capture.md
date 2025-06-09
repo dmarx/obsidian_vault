@@ -1,3 +1,10 @@
+---
+tags:
+  - infohazard
+  - OC/weak
+  - OC/collaboration
+---
+
 >relate regulatory capture to ecological phenomena like niche specialization and invasive species. discuss these phenomena using generalizations and abstractions that are specific neither to economics nor biology.
 
 Regulatory capture, niche specialization, and invasive species can be viewed through a unified lens of system dynamics and stability in complex adaptive systems. These phenomena involve interactions within a system where agents or entities evolve, adapt, and exert influence, leading to shifts in system structure and function. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - sod/gold
+  - cognition
 ---
 
 see also:

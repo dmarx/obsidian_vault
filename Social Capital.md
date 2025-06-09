@@ -1,6 +1,6 @@
 **Social Capital**
 
-Social [[capital]] refers to the networks, relationships, and norms that enable collective action and cooperation within a community. It encompasses the social connections that facilitate trust, reciprocity, and mutual support among individuals and groups, enhancing the ability of societies to function effectively and solve problems collaboratively.
+Social [[Capital]] refers to the networks, relationships, and norms that enable collective action and cooperation within a community. It encompasses the social connections that facilitate trust, reciprocity, and mutual support among individuals and groups, enhancing the ability of societies to function effectively and solve problems collaboratively.
 
 ### Key Components of Social Capital
 

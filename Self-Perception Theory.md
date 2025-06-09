@@ -1,3 +1,8 @@
+---
+tags:
+  - needs-outlinks
+---
+
 ### Self-Perception Theory
 
 **Self-perception theory** is a psychological theory developed by Daryl Bem in 1972. It posits that individuals form their attitudes and beliefs by observing their own behavior and the context in which this behavior occurs, rather than through introspection or the direct assessment of internal states. This theory contrasts with traditional views that attitudes and beliefs precede and guide behavior.

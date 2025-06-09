@@ -1,6 +1,10 @@
-**Doctrine of the Indirect Third-Party Effect of Fundamental Rights**
+---
+tags:
+  - needs-outlinks
+---
 
-The doctrine of the indirect third-party effect (Drittwirkung) of fundamental rights refers to the application of constitutional fundamental rights not only in relationships between individuals and the state but also in private relationships between individuals. In German constitutional law, this doctrine implies that fundamental rights influence private law and that courts must consider these rights when interpreting and applying private law. This ensures that fundamental rights have a pervasive effect throughout the legal system.
+
+The doctrine of the indirect third-party effect (Drittwirkung) of fundamental rights refers to the application of constitutional fundamental rights not only in relationships between individuals and the state but also in private relationships between individuals. In German constitutional law, this doctrine implies that [[fundamental rights]] influence private law and that courts must consider these rights when interpreting and applying private law. This ensures that fundamental rights have a pervasive effect throughout the legal system.
 
 ### Key Aspects of the Doctrine
 

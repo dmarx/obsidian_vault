@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Psychology]]
 - [[Influence (Robert Caldini)]]

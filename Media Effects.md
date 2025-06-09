@@ -1,4 +1,8 @@
-## Media Effects
+---
+tags:
+  - infohazard
+---
+
 
 **Media effects** refer to the influence that media content, forms, and structures have on individuals and society. This field of study examines how exposure to media can shape attitudes, behaviors, and perceptions, and it encompasses a wide range of theories and models to explain these influences.
 
@@ -18,23 +22,23 @@ This early theory posits that media messages have a direct, immediate, and power
 
 This model, developed in the mid-20th century, argues that media effects are not as powerful as previously thought. Instead, media influence is mediated by individual differences, social contexts, and preexisting attitudes.
 
-#### Uses and Gratifications Theory
+#### [[Uses and Gratifications Theory]]
 
 This theory suggests that individuals actively seek out media to fulfill specific needs and desires, such as entertainment, information, personal identity, and social integration. It posits that media effects are contingent upon the motivations and goals of the audience.
 
-#### Cultivation Theory
+#### [[Cultivation Theory]]
 
 Developed by George Gerbner, cultivation theory examines how long-term exposure to media content, particularly television, shapes individuals' perceptions of reality. It suggests that heavy viewers of television are more likely to perceive the world in ways that reflect the television portrayal, leading to a distorted view of reality.
 
-#### Agenda-Setting Theory
+#### [[Agenda-Setting Theory]]
 
 As discussed earlier, agenda-setting theory posits that the media influences the importance placed on topics of the public agenda. It suggests that media doesn't tell people what to think, but it tells them what to think about by highlighting certain issues.
 
-#### Framing Theory
+#### [[Framing Theory]]
 
 Framing theory explores how media content is presented to influence the interpretation and understanding of issues. It involves selecting certain aspects of a perceived reality and making them more salient to promote a particular interpretation.
 
-#### Priming
+#### [[Priming]]
 
 Priming theory suggests that media exposure influences the criteria by which people evaluate issues, political figures, and policies. It proposes that media can shape the standards of judgment by making certain considerations more accessible in people's minds.
 

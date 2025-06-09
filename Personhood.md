@@ -1,4 +1,10 @@
-[[Intelligence]]
+---
+tags:
+  - cognition
+---
+
+see also:
+- [[Intelligence]]
 
 Personhood is a complex and multifaceted concept that refers to the status of being a person and the qualities that make one a recognized member of the human community with specific moral and legal rights, responsibilities, and protections. The debate over what constitutes personhood is central to numerous ethical, philosophical, and legal discussions, affecting issues from abortion and animal rights to artificial intelligence and corporate entity status.
 

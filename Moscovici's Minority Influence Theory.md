@@ -1,4 +1,8 @@
-## Moscovici's Minority Influence Theory
+---
+tags:
+  - infohazard
+---
+
 
 **Moscovici's Minority Influence Theory** explores how a small group (the minority) can influence the beliefs, attitudes, and behaviors of a larger group (the majority). Developed by Serge Moscovici in the 1970s, this theory challenges the traditional view that majorities are the primary agents of social influence and highlights the significant role minorities can play in shaping opinions and fostering social change.
 

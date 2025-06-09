@@ -7,6 +7,7 @@ see also:
 - [[Philosophy of Mind]]
 - [[Philosophy of Systems Biology]]
 - [[Boundaries in Biological Systems]]
+- [[Aligntment-Safety Dichotomy]]
 
 >relate the challenges in defining organismal boundaries and the nature of "life" to challenges faced by the philosophy of AI community associated with questions about agency, autonomy, and personhood
 

@@ -1,12 +1,14 @@
 ---
 tags:
   - empty-hub
+  - cognition
 ---
 see also:
 - [[Philosophy of Mind]]
 - [[Organization As Entity]]
 - [[Multiplicitous Self]]
 - [[Herd Behavior]]
+- [[Groupthink]]
 
 [[Crowd Psychology]] is a branch of social psychology that focuses on understanding how individual behavior, thoughts, and emotions are influenced by the presence of others, especially within large groups or crowds. This field explores the mechanisms through which crowds exert their influence, the changes in individual cognition and behavior that occur in group settings, and the dynamics of crowd behavior itself. Early studies in crowd psychology were influenced by notions of the "collective mind" and the idea that individuals in a crowd lose their sense of self and act based on the group's emotions and desires.
 

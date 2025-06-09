@@ -1,3 +1,10 @@
+---
+tags:
+  - infohazard
+---
+see also:
+- [[Ethics of Influence]]
+
 **Nudge Theory** is a concept in behavioral economics that explores how small changes in the environment or the way choices are presented can significantly influence individual decisions without restricting freedom of choice. Introduced by Richard Thaler and Cass Sunstein in their 2008 book, "Nudge: Improving Decisions About Health, Wealth, and Happiness," the theory suggests that by understanding how people think and make decisions, policymakers and organizations can "nudge" them toward better choices in a subtle but effective way.
 
 ### Principles of Nudge Theory:

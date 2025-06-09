@@ -60,11 +60,11 @@ Gibbs measure provides a rich theoretical framework that links microscopic inter
 
 >relationship between Hammersley-Clifford Theorem and the gibbs measure
 
-The relationship between the Hammersley-Clifford Theorem and Gibbs measure is a foundational connection in the field of statistical mechanics and probability theory, particularly within the context of Markov random fields (MRFs). This relationship bridges the structural properties of a graphical model with the probabilistic distributions described by Gibbs measures.
+The relationship between the [[Hammersley-Clifford Theorem]] and Gibbs measure is a foundational connection in the field of statistical mechanics and probability theory, particularly within the context of Markov random fields (MRFs). This relationship bridges the structural properties of a graphical model with the probabilistic distributions described by Gibbs measures.
 
 ### Hammersley-Clifford Theorem
 
-The Hammersley-Clifford Theorem states that a probability distribution of a random field defined over a graph is a Markov random field if and only if it can be represented as a product of potential functions, each depending only on subsets of variables that form cliques in the graph. This theorem is conditional on the distribution being strictly positive (the positivity condition), which ensures that no configuration of the variables is forbidden or has zero probability.
+The Hammersley-Clifford Theorem states that a probability distribution of a random field defined over a graph is a [[Markov random field]] if and only if it can be represented as a product of [[potential function|potential functions]], each depending only on subsets of variables that form cliques in the graph. This theorem is conditional on the distribution being strictly positive (the positivity condition), which ensures that no configuration of the variables is forbidden or has zero probability.
 
 ### Gibbs Measure in Statistical Mechanics
 
@@ -72,19 +72,19 @@ In statistical mechanics, a Gibbs measure defines the probability distribution o
 
 ### Connecting the Concepts
 
-1. **Factorization and Energy Functions**: The form of the Gibbs measure in statistical mechanics directly correlates with the factorization implied by the Hammersley-Clifford Theorem. In the context of an MRF, the energy function \( E(\sigma) \) can be expressed as a sum of local energy contributions from different parts of the system, typically associated with the cliques of the graph:
+1. **Factorization and Energy Functions**: The form of the Gibbs measure in statistical mechanics directly correlates with the factorization implied by the Hammersley-Clifford Theorem. In the context of an MRF, the energy function $E(\sigma)$ can be expressed as a sum of local energy contributions from different parts of the system, typically associated with the cliques of the graph:
    
    $$
    E(\sigma) = \sum_{C \in \mathcal{C}} E_C(\sigma_C)
    $$
    
-   Here, \( E_C(\sigma_C) \) represents the energy contribution from clique \( C \), and \( \sigma_C \) denotes the configuration restricted to that clique. This aligns with the Gibbs measure's need for a product of exponentials of negative clique energies.
+   Here, $E_C(\sigma_C)$ represents the energy contribution from clique $C$, and $\sigma_C$ denotes the configuration restricted to that clique. This aligns with the Gibbs measure's need for a product of exponentials of negative clique energies.
 
 2. **Graphical Representation and Statistical Dependence**: The Hammersley-Clifford Theorem provides the theoretical justification for modeling the dependencies in a physical system (or any system modeled by an MRF) using a graph. The edges in the graph denote direct interactions or dependencies, which correspond to the interactions in the physical model that contribute to the system's energy.
 
 3. **Positivity and Physical Reality**: The positivity condition in the Hammersley-Clifford Theorem (i.e., all configurations have non-zero probability) aligns well with the physical interpretation in Gibbs measures, where every configuration is theoretically possible, although some may be extremely unlikely due to high energy.
 
-4. **Markov Property and Local Equilibria**: The Markov property, central to MRFs and underscored by the Hammersley-Clifford Theorem, indicates that the conditional distribution of a variable given its neighbors in the graph encapsulates all the necessary information for that variable. This reflects the physical intuition in Gibbs measures that the state of a small part of the system is influenced predominantly by its immediate surroundings rather than distant parts.
+4. **Markov Property and Local Equilibria**: The [[Markov property]], central to MRFs and underscored by the Hammersley-Clifford Theorem, indicates that the conditional distribution of a variable given its neighbors in the graph encapsulates all the necessary information for that variable. This reflects the physical intuition in Gibbs measures that the state of a small part of the system is influenced predominantly by its immediate surroundings rather than distant parts.
 
 ### Summary
 
@@ -137,17 +137,17 @@ where:
 
 The intuition is that states with lower energy are thermodynamically more favorable and thus more likely to occur. This principle reflects the natural tendency of physical systems to minimize energy, a key aspect of achieving equilibrium.
 
-### Boltzmann Distribution
+### [[Boltzmann Distribution]]
 
 The exponential dependence of probability on energy (known as the Boltzmann factor, \( e^{-\beta E} \)) is fundamental in statistical mechanics. It provides a straightforward but profound insight: at higher temperatures (\(\beta\) is smaller), the system has enough thermal energy to explore a wider range of states, including those with higher energies. Conversely, at lower temperatures, the system is largely confined to the lowest energy states. This characteristic describes how thermal energy influences the state distribution within a system.
 
 ### Partition Function and Thermodynamic Quantities
 
-The partition function \( Z \) plays a crucial role by summing over all possible states, weighted by their Boltzmann factors. This function is not just a mathematical artifact for normalization but encodes all the thermodynamic information about the system. From \( Z \), one can derive:
-- Free energy: \( F = -kT \log Z \),
-- Entropy: \( S = -(\partial F / \partial T) \),
+The [[partition function]] \( Z \) plays a crucial role by summing over all possible states, weighted by their Boltzmann factors. This function is not just a mathematical artifact for normalization but encodes all the thermodynamic information about the system. From \( Z \), one can derive:
+- [[Free energy]]: \( F = -kT \log Z \),
+- [[Entropy]]: \( S = -(\partial F / \partial T) \),
 - Average energy,
-- Heat capacity, and other macroscopic properties.
+- [[Heat capacity]], and other macroscopic properties.
 
 Each derivative or manipulation of \( Z \) provides insights into how microscopic states contribute to observable properties.
 

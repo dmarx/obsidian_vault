@@ -3,6 +3,7 @@ tags:
   - OC
   - needs-outlinks
   - sod/green
+  - sod/synthesis
 ---
 
 see also:

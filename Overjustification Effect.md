@@ -1,4 +1,8 @@
-### Overjustification Effect
+---
+tags:
+  - infohazard
+---
+
 
 The **overjustification effect** is a phenomenon where providing external incentives for an already intrinsically motivating activity diminishes a person's intrinsic motivation to perform that activity. This effect occurs because the external reward shifts the perceived source of motivation from internal (interest, enjoyment) to external (reward, compensation).
 

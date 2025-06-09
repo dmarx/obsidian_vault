@@ -1,6 +1,6 @@
 **Linking Social Capital**
 
-Linking social capital refers to the connections and relationships between individuals and groups across different levels of power or social strata. Unlike bonding social capital (which connects people within similar groups) and bridging social capital (which connects diverse groups), linking social capital involves vertical connections that link individuals and groups to institutions, authorities, and people in positions of power. This type of social capital is essential for accessing resources, influencing policy, and achieving social and economic mobility.
+Linking [[social capital]] refers to the connections and relationships between individuals and groups across different levels of power or social strata. Unlike bonding social capital (which connects people within similar groups) and bridging social capital (which connects diverse groups), linking social capital involves vertical connections that link individuals and groups to institutions, authorities, and people in positions of power. This type of social capital is essential for accessing resources, influencing policy, and achieving social and economic mobility.
 
 ### Key Characteristics of Linking Social Capital
 

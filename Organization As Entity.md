@@ -6,6 +6,7 @@ tags:
   - OC/2hi4this
   - OC/half-baked
   - OC/strict
+  - cognition
 ---
 [[Airforce slogan]]
 [[What is it like to be NASA]]
@@ -13,8 +14,10 @@ tags:
 [[Multiplicitous Self]]
 [[The DigCyclopedia Cascadia]]
 [[Crowd Psychology]]
+[[Organism As Environment]]
 
-[[The Illusion Of Control]]
+
+[[The Illusion Of Control - (very wide net)]]
 
 ---
 

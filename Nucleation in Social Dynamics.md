@@ -1,3 +1,10 @@
+---
+tags:
+  - cognition
+  - OC/strict
+  - OC/half-baked
+---
+
 "If you built it, they will come."
 
 Example: create a discord/github project

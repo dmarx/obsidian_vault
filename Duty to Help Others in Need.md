@@ -1,6 +1,9 @@
-**Duty to Help Others in Need**
+see also:
+- [[Ethics]]
+- [[Morality]]
+- [[Moral Duty]]
 
-The duty to help others in need, also known as the duty to rescue, refers to the moral or legal obligation to assist individuals who are in danger or distress. This concept is grounded in ethical principles and societal norms, and in some cases, it is reinforced by legal statutes.
+The duty to help others in need, also known as the duty to rescue, refers to the moral or legal obligation to assist individuals who are in danger or distress. This concept is grounded in [[ethical principles]] and [[societal norms]], and in some cases, it is reinforced by legal statutes.
 
 ### Ethical Foundations
 

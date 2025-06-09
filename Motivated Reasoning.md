@@ -1,4 +1,8 @@
-### Motivated Reasoning
+---
+tags:
+  - cognition
+---
+
 
 **Motivated Reasoning** refers to the cognitive process where individuals' desires and preferences influence their beliefs, decisions, and the evaluation of evidence. This phenomenon highlights the interplay between motivation and cognition, where the motivation to arrive at a specific conclusion can bias the reasoning process.
 

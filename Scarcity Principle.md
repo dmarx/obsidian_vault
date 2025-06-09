@@ -1,3 +1,9 @@
+---
+tags:
+  - infohazard
+  - needs-outlinks
+---
+
 The psychological principle that people tend to desire what is perceived as scarce is known as the **scarcity principle**. It is a key concept in social psychology and behavioral economics, playing a significant role in consumer behavior and marketing strategies. This principle asserts that individuals assign more value to opportunities when they are less available, which can be due to limited quantities, time restrictions, or unique status.
 
 ### Psychological Basis of the Scarcity Principle

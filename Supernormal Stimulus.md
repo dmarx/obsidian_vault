@@ -1,3 +1,8 @@
+---
+tags:
+---
+see also:
+- [[wireheading]]
 ## Supernormal Stimulus
 
 A **supernormal stimulus** is an exaggerated version of a stimulus to which there is an existing behavioral response. This concept, rooted in ethology, highlights how certain artificial enhancements can elicit stronger responses from animals (including humans) than the natural stimuli to which they are naturally adapted.

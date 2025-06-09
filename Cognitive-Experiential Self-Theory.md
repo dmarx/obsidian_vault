@@ -1,4 +1,8 @@
-### Cognitive-Experiential Self-Theory
+---
+tags:
+  - cognition
+---
+
 
 **Cognitive-Experiential Self-Theory (CEST)** is a dual-process model of personality developed by Seymour Epstein. CEST posits that humans operate through two parallel processing systems: the rational system and the experiential system. These systems interact to shape individuals' thoughts, behaviors, and self-concept.
 

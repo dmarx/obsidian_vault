@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 ## Manipulation and Coercion in Interrogation Techniques
 
 ### Overview

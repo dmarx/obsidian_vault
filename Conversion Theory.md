@@ -1,3 +1,4 @@
+
 ## Conversion Theory
 
 **Conversion Theory** is a concept introduced by Serge Moscovici in the context of his research on minority influence. The theory posits that minorities can exert a disproportionate influence on the majority through a process of conversion, leading to deep and enduring changes in beliefs, attitudes, and behaviors. This theory is a key component of Moscovici's broader work on social influence and contrasts with more superficial compliance often observed in majority influence scenarios.

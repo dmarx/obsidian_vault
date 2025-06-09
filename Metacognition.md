@@ -1,4 +1,8 @@
-### Theories of Metacognition
+---
+tags:
+  - cognition
+---
+
 
 Metacognition refers to the awareness and regulation of one’s own cognitive processes. It involves thinking about thinking and encompasses two main components: metacognitive knowledge (awareness of one's cognitive processes) and metacognitive regulation (control over these processes). Theories of metacognition provide insights into how individuals understand, monitor, and control their learning and problem-solving activities.
 
@@ -15,6 +19,10 @@ Metacognition refers to the awareness and regulation of one’s own cognitive pr
    - **Evaluation**: Assessing the outcomes and efficiency of the learning strategies used (e.g., reviewing the effectiveness of the study methods after an exam).
 
 ### Theoretical Frameworks of Metacognition
+
+see also:
+- [[John Flavell’s Metacognitive Theory]]
+- [[Ann Brown’s Metacognitive Framework]]
 
 1. **Flavell’s Model of Metacognition**:
    - **John Flavell** is often credited with introducing the concept of metacognition. His model includes metacognitive knowledge and metacognitive experiences.

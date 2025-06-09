@@ -1,4 +1,8 @@
-## Attitude Formation
+---
+tags:
+  - cognition
+---
+
 
 **Attitude formation** is the process through which individuals develop evaluations, feelings, and predispositions toward objects, people, events, or ideas. This process is influenced by various factors, including cognitive, affective, and behavioral components, as well as social and environmental influences.
 

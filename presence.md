@@ -1,3 +1,9 @@
+---
+tags:
+  - OC/half-baked
+  - stub/todo
+---
+
 see also:
 - [[Embodied Cognition]]
 

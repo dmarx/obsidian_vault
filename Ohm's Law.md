@@ -7,7 +7,7 @@ see also:
 - [[Electromagnetic Field Theory]]
 - [[conserved quantities]]
 
-Ohm's Law is a fundamental principle in [[electrical engineering]] and [[physics]] that describes the relationship between voltage, current, and resistance in an electrical circuit. It states that the current ($I$) flowing through a conductor between two points is directly proportional to the voltage ($V$) across the two points and inversely proportional to the resistance ($R$) of the conductor. The law is mathematically expressed as:
+Ohm's Law is a fundamental principle in [[electrical engineering]] and [[Physics]] that describes the relationship between voltage, current, and resistance in an electrical circuit. It states that the current ($I$) flowing through a conductor between two points is directly proportional to the voltage ($V$) across the two points and inversely proportional to the resistance ($R$) of the conductor. The law is mathematically expressed as:
 
 $$ V = IR $$
 

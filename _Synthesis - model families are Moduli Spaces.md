@@ -5,6 +5,7 @@ tags:
   - needs-outlinks
   - needs-segmentation
   - sod/gold
+  - sod/synthesis
 ---
 
 model families are [[Moduli Spaces]]. Parameterizations with and without hyperparameters are both moduli spaces. 

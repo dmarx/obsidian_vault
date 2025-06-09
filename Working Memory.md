@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 see also:
 - [[Central Executive Network]]
 - [[Psychology]]

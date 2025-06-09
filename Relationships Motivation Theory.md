@@ -1,5 +1,7 @@
-### Relationships Motivation Theory
-
+---
+tags:
+  - cognition
+---
 **Relationships Motivation Theory (RMT)** is a framework within the broader [[Self-Determination Theory]] (SDT) developed by Edward L. Deci and Richard M. Ryan. RMT focuses on the motivations that drive individuals to form and maintain relationships and how these motivations impact the quality and functionality of these relationships.
 
 #### Key Aspects

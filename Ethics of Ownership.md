@@ -3,15 +3,16 @@ tags:
   - needs-outlinks
   - OC/weak
 ---
-[[Right to Repair]]
-[[Loss of Autonomy]]
-[[Proletariatization]]
+see also:
+- [[Right to Repair]]
+- [[Loss of Autonomy]]
+- [[Proletariatization]]
 
 The ethics of ownership encompasses a broad spectrum of moral and philosophical issues regarding the rights and responsibilities associated with owning property, whether tangible like land and goods, or intangible like intellectual property. This area of inquiry intersects with legal, economic, social, and ethical dimensions, challenging individuals and societies to consider the implications of ownership on various aspects of life.
 
 ### Key Philosophical Considerations:
 
-1. **John Locke's Labor Theory of Property**:
+1. **John Locke's [[Labor Theory of Property]]**:
    - Locke argued that property ownership derives from the application of labor to natural resources. According to Locke, one rightfully owns anything that one has mixed one's labor with, as long as there's enough and as good left in common for others. This theory emphasizes the individual's right to the fruits of their labor but also acknowledges limits to acquisition to preserve common resources.
    
    $$\text{Ownership Legitimacy} = f(\text{Labor Invested}, \text{Resource Availability})$$
@@ -20,7 +21,7 @@ The ethics of ownership encompasses a broad spectrum of moral and philosophical 
    - Immanuel Kant viewed ownership within the framework of universal law. For Kant, a legitimate claim to ownership must be justifiable under laws that everyone could agree to—a concept aligned with his categorical imperative. Ownership, in this sense, must not infringe upon the freedom of others.
 
 3. **Utilitarian Approach**:
-   - Utilitarian ethics, such as those proposed by Jeremy Bentham and John Stuart Mill, evaluate the morality of ownership based on its consequences for overall happiness or utility. This perspective might support or challenge ownership rights depending on whether they maximize societal welfare.
+   - [[Utilitarianism|Utilitarian ethics]], such as those proposed by Jeremy Bentham and John Stuart Mill, evaluate the morality of ownership based on its consequences for overall happiness or utility. This perspective might support or challenge ownership rights depending on whether they maximize societal welfare.
    
    $$\text{Utility} = \sum_{i=1}^{n} \text{Happiness Contributed by Owned Item}_i - \text{Happiness Reduced by Restrictive Ownership}_i$$
 
@@ -28,7 +29,7 @@ The ethics of ownership encompasses a broad spectrum of moral and philosophical 
    - Karl Marx critiqued the capitalist system's approach to property, particularly how it enables certain classes to control means of production, perpetuating inequality and exploitation. Marx argued for collective ownership as a means to abolish class distinctions and achieve a more equitable distribution of resources.
 
 5. **Modern Intellectual Property Issues**:
-   - The ethics of intellectual property (IP) are hotly debated, especially in contexts like software, music, and medicine. Issues revolve around balancing innovation incentives with access to knowledge and cultural materials. This debate involves questions about the extent and duration of IP rights and their impact on innovation and public good.
+   - The ethics of [[Intellectual Property]] (IP) are hotly debated, especially in contexts like software, music, and medicine. Issues revolve around balancing innovation incentives with access to knowledge and cultural materials. This debate involves questions about the extent and duration of IP rights and their impact on innovation and public good.
 
 ### Societal Impact of Ownership Ethics:
 

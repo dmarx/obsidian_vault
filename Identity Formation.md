@@ -1,4 +1,8 @@
-### Identity Formation
+---
+tags:
+  - cognition
+---
+
 
 Identity formation is a complex and dynamic process through which individuals develop a coherent sense of self, encompassing personal, social, and cultural dimensions. This process involves integrating various aspects of one’s personality, values, beliefs, experiences, and roles. Understanding identity formation is essential for comprehending how individuals perceive themselves and navigate their social worlds.
 

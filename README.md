@@ -52,7 +52,7 @@ tags:
 	- [[Noether's Theorem]]
 	- [[Analysis]]
 	- [[Self-Organization]]
-- [[The Illusion Of Control]] alt volumes/titles - 
+- [[The Illusion Of Control - (very wide net)]] alt volumes/titles - 
 	- [[Collective Behavior]]
 	- [[Emergence]]
 	- [[Conservation Laws]]
@@ -102,13 +102,15 @@ pip install -r .scripts/requirements.txt
   * [ ] Label propagation from `root` nodes
 * [ ] tagging
   * [x] root
-  * [ ] green
+  * [x] green
 * [ ] auto-aliases (this might not be necessary?)
 * [ ] .pre-commit-hook to run certain scripts
 * [ ] .github/workflow to run certain scripts
 
 also, i need to learn how to use linkable sub headings properly
 
+
+- [ ] Depth from nearest root node as a measure of page esotericness
 
 # Log
 

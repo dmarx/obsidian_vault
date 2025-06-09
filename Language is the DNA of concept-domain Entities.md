@@ -21,6 +21,7 @@ see also:
 - [[Corporate ecology]]
 - [[Ethics and Order Parameter]]
 - [[Corporate X-Risk]]
+- [[Memetics]]
 
 Bacteria transfer knowledge via [[plasmids]]
 

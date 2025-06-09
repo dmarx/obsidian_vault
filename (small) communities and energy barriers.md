@@ -1,3 +1,9 @@
+---
+tags:
+  - OC/strict
+  - OC/half-baked
+---
+
 small communities are ofoten associated with energy barriers
 
 usually this manifests as some kind of common interest, e.g. /r/artisanvideos

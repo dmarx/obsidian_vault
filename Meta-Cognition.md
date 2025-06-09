@@ -1,3 +1,10 @@
+---
+tags:
+  - cognition
+---
+see also:
+- [[Metacognition]]
+
 Meta-cognition, a term first introduced by psychologist John Flavell in 1976, refers to the awareness and understanding of one’s own thought processes. It involves higher-order thinking that enables an individual to regulate and oversee their own learning and cognitive activities. This concept has significant implications in cognitive psychology, educational theory, and personal development.
 
 ### Components of Meta-Cognition

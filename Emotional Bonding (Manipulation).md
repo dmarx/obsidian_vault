@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Grooming and Conditioning]]
 - [[Disinformation and Propaganda]]

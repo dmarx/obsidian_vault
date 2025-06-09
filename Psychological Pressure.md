@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Manipulation and Coercion]]
 - [[Reid Technique]]
@@ -75,7 +80,7 @@ see also:
 
 ### Empirical Evidence
 
-1. **Kassin and Gudjonsson (2004)**: Highlighted the [[psychological mechanisms behind false confessions]], emphasizing how intense psychological pressure can overwhelm an individual's decision-making abilities, leading to false admissions of guilt.
+1. **Kassin and Gudjonsson (2004)**: Highlighted the [[Psychological Mechanisms Behind False Confessions]], emphasizing how intense psychological pressure can overwhelm an individual's decision-making abilities, leading to false admissions of guilt.
 2. **Drizin and Leo (2004)**: Analyzed numerous cases of false confessions, finding that psychological pressure was a significant factor in many wrongful convictions.
 3. **Haney (2003)**: Studied the psychological effects of solitary confinement, demonstrating the severe mental health impacts of isolation, which can increase susceptibility to coercive interrogation tactics.
 

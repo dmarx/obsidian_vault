@@ -1,4 +1,6 @@
-### Proximity Seeking
+see also:
+- [[Love]]
+- [[Evolutionary Psychology]]
 
 **Proximity Seeking** is a behavior observed in humans and other animals where individuals seek physical closeness to someone they trust and rely on, particularly during times of stress or uncertainty. It is a fundamental component of attachment theory, playing a crucial role in forming and maintaining secure attachments.
 

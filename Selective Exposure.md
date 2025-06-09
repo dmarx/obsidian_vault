@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 ### Selective Exposure
 
 **Selective Exposure** is a cognitive phenomenon where individuals prefer to seek out information that reinforces their pre-existing beliefs and attitudes while avoiding information that contradicts them. This bias is a significant aspect of motivated reasoning and contributes to the maintenance of belief systems and the polarization of opinions.

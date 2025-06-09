@@ -6,6 +6,7 @@ see also:
 - [[Behavioral Economics]]
 - [[Consumer Behavior]]
 - [[Consumer Psychology]]
+- [[Ethics of Influence]]
 
 **Freedom from coercion and manipulation** is a critical aspect of individual autonomy and mental integrity, ensuring that individuals can make decisions and form beliefs without undue external pressure or deceptive influence. This right is essential for maintaining personal dignity, ethical integrity, and the effective functioning of democratic societies.
 

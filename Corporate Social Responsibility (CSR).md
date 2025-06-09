@@ -1,4 +1,6 @@
-**Corporate Social Responsibility (CSR)**
+see also:
+- [[Ethics of Influence]]
+- [[Ethics of Ownership]]
 
 Corporate Social Responsibility (CSR) refers to the practices and policies undertaken by corporations to have a positive influence on the world. It goes beyond compliance with regulatory requirements and focuses on contributing to the well-being of communities, the environment, and society at large. CSR encompasses a wide range of activities, from ethical labor practices and sustainable environmental management to philanthropy and community engagement.
 

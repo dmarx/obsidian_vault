@@ -18,7 +18,7 @@ The postulate implies that the activation energy of a reaction, which can be rep
 
 ### Reaction Coordinate Diagrams
 
-A reaction coordinate diagram plots the potential energy along the reaction pathway from reactants to products. The highest point on this pathway represents the transition state, and the energy difference between this point and the reactants represents the [[activation energy]] ($E_a$). The energy difference between the reactants and products represents the [[Gibbs free energy]] change ($\Delta G$) of the reaction.
+A [[reaction coordinate diagram]] plots the potential energy along the reaction pathway from reactants to products. The highest point on this pathway represents the transition state, and the energy difference between this point and the reactants represents the [[activation energy]] ($E_a$). The energy difference between the reactants and products represents the [[Gibbs free energy]] change ($\Delta G$) of the reaction.
 
 ### Applications and Implications
 

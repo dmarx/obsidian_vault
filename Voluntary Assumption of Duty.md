@@ -1,4 +1,12 @@
-**Voluntary Assumption of Duty**
+---
+tags:
+---
+
+see also:
+- [[Duty of Care]]
+- [[Good Samaritan Laws]]
+- [[Duty to Rescue]]
+- [[Duty to Help Others in Need]]
 
 Voluntary assumption of duty occurs when an individual, who does not originally owe a duty of care, voluntarily undertakes actions that create a responsibility to perform those actions with reasonable care. Once a person has voluntarily assumed a duty, they can be held liable for harm resulting from a failure to exercise reasonable care in fulfilling that duty.
 

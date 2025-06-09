@@ -1,3 +1,9 @@
+---
+tags:
+  - cognition
+  - infohazard
+---
+
 **Social Proof** is a psychological phenomenon where people assume the actions of others in an attempt to reflect correct behavior for a given situation. This concept, identified by psychologist Robert Cialdini in his seminal book, "Influence: The Psychology of Persuasion," explains how individuals determine what is normal and correct largely based on what others do. Social proof is particularly influential in situations where individuals are uncertain about the correct mode of behavior or when they perceive those around them as more knowledgeable.
 
 ### [[Mechanisms of Social Proof]]:

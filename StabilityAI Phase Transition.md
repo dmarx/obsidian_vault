@@ -2,7 +2,12 @@
 tags:
   - OC
   - OC/strict
+  - OC/half-baked
 ---
+see also:
+- [[Organization As Entity]]
+- [[Me, LLC]]
+
 company grew, became an entity unto itself.
 
 phase transition after which the behavior of the collective is no longer best described by the local behaviors of its constituent individuals.

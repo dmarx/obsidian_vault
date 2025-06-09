@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Emotional Triggering]]
 - [[Emotional Dependency]]

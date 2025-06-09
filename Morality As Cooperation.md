@@ -2,6 +2,7 @@
 tags:
   - sod/gold
   - sod/green
+  - cognition
 ---
 see also:
 - [[Cooperation]]
@@ -9,6 +10,8 @@ see also:
 - [[Evolutionary Game Theory]]
 - [[Evolutionary Psychology]]
 - [[Iterated Prisoner's Dilemma]]
+- [[Ethics]]
+- TODO: contrast with Domination as ethical violation
 
 The "Morality as Cooperation" theory posits that moral behaviors and norms have evolved because they enhance cooperation among individuals. This theory integrates insights from evolutionary biology, anthropology, psychology, and game theory to explain why certain moral behaviors are universally observed across human societies. Here, we'll explore the fundamental principles of this theory, its formalizations, and implications.
 

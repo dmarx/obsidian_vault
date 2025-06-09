@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 see also:
 - [[Disinformation and Propaganda]]
 - [[Weaponization of social media signals]]

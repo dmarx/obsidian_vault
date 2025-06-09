@@ -1,5 +1,7 @@
-## Cognitive Dissonance Theory
-
+---
+tags:
+  - cognition
+---
 **Cognitive Dissonance Theory**, developed by Leon Festinger in 1957, posits that individuals experience psychological discomfort (dissonance) when they hold two or more contradictory beliefs, values, or attitudes simultaneously. This discomfort motivates individuals to reduce the dissonance by changing their beliefs, attitudes, or behaviors to achieve consistency.
 
 ### Core Principles

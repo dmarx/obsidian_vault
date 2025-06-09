@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 >> Internalization: The satisfaction of these needs facilitates the internalization of extrinsic motivations, making them more self-determined and aligned with intrinsic values. This process supports the integration of external regulations into one’s self-concept, promoting autonomous motivation.
 
 ### Internalization

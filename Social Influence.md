@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 **Social Influence** in psychology refers to the ways in which individuals change their behavior to meet the demands of a social environment. It plays a critical role in shaping personal behaviors, attitudes, and beliefs, often in subtle and overt ways. Understanding social influence is key to fields such as social psychology, marketing, political science, and sociology, as it affects decision-making processes, group dynamics, and cultural norms.
 
 ### Key Forms of Social Influence:

@@ -1,4 +1,8 @@
-## Memory Distrust Syndrome
+---
+tags:
+  - infohazard
+---
+
 
 **Memory Distrust Syndrome** is a psychological condition where individuals become highly skeptical of their own memories. This syndrome can lead to significant distress and confusion, as affected individuals doubt the accuracy and reliability of their recollections. It often occurs in the context of suggestive questioning, high-stress environments, or when individuals are exposed to misleading information, leading them to question the authenticity of their own memories.
 

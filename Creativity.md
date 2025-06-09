@@ -1,4 +1,8 @@
-### Creativity
+---
+tags:
+  - cognition
+---
+
 
 **Creativity** is the ability to generate, develop, and express novel and useful ideas, solutions, or products. It involves thinking in unique ways, seeing connections between seemingly unrelated concepts, and breaking away from conventional patterns of thought.
 

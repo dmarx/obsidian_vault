@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 [[Social proof]] operates through several psychological mechanisms that influence how individuals perceive and respond to their environments, especially in situations of uncertainty or when making decisions. Understanding these mechanisms can help clarify why social proof is such a potent force in human behavior, particularly in consumer contexts and social interactions.
 
 ### Key Mechanisms of Social Proof:

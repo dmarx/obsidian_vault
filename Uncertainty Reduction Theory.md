@@ -1,4 +1,13 @@
-## Uncertainty Reduction Theory
+---
+tags:
+  - cognition
+---
+
+see also:
+- [[Curiosity]]
+- [[Psychological Drives]]
+- [[Interpersonal Communication]]
+- [[Active Inference]]
 
 **Uncertainty Reduction Theory (URT)** is a communication theory that explains how individuals seek to reduce uncertainty about others during initial interactions. Developed by Charles Berger and Richard Calabrese in 1975, the theory posits that people are motivated to gather information about others to predict and explain their behavior, thus reducing uncertainty and increasing the predictability of social interactions.
 

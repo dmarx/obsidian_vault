@@ -1,6 +1,6 @@
 **Physical Capital**
 
-Physical capital refers to tangible assets that are used in the production of goods and services. These assets include machinery, buildings, equipment, infrastructure, and other physical items that contribute to the economic activities of a business or economy. Physical capital is essential for enhancing productivity, enabling technological advancements, and supporting economic growth.
+Physical [[capital]] refers to tangible assets that are used in the production of goods and services. These assets include machinery, buildings, equipment, infrastructure, and other physical items that contribute to the economic activities of a business or economy. Physical capital is essential for enhancing productivity, enabling technological advancements, and supporting economic growth.
 
 ### Key Characteristics of Physical Capital
 

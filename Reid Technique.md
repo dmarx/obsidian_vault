@@ -1,4 +1,8 @@
-## Reid Technique
+---
+tags:
+  - infohazard
+---
+
 
 The **Reid Technique** is a widely used method of interrogation developed by John E. Reid and Associates in the 1950s. It is designed to elicit confessions from suspects by creating a psychological environment conducive to self-incrimination. The technique has been both praised for its effectiveness and criticized for its potential to lead to false confessions, especially among vulnerable populations.
 

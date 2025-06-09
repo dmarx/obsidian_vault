@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 **Choice Architecture** refers to the way in which choices are presented to consumers, influencing the decisions they make without altering the range of options or significantly changing the economic incentives. This concept is central to Nudge Theory, popularized by Richard Thaler and Cass Sunstein, and it underscores how small, thoughtful changes in the decision-making environment can dramatically affect the outcomes.
 
 ### Elements of Choice Architecture:

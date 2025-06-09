@@ -1,6 +1,6 @@
 ### Optimal Foraging Theory
 
-**Optimal Foraging Theory (OFT)** is a concept in ecology and evolutionary biology that hypothesizes organisms forage in such a way as to maximize their net energy intake per unit time. Essentially, animals are proposed to make decisions that provide the most substantial benefit in terms of energy or nutrient uptake while minimizing the cost of obtaining food, such as the energy expended in searching for and processing food and the risk of predation while foraging.
+**Optimal Foraging Theory (OFT)** is a concept in [[ecology]] and [[Evolutionary Biology]] that hypothesizes organisms forage in such a way as to maximize their net energy intake per unit time. Essentially, animals are proposed to make decisions that provide the most substantial benefit in terms of energy or nutrient uptake while minimizing the cost of obtaining food, such as the energy expended in searching for and processing food and the risk of predation while foraging.
 
 #### Key Principles of Optimal Foraging Theory
 

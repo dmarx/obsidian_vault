@@ -1,4 +1,5 @@
-**Grundgesetz**
+see also:
+- [[Fundamental Rights]]
 
 The **Grundgesetz** (Basic Law) is the constitution of the Federal Republic of Germany. It was enacted on May 23, 1949, and serves as the fundamental legal document establishing the framework of the German state, its institutions, and the fundamental rights of its citizens. The Grundgesetz was designed to ensure a democratic and federal system of governance, promote human dignity, and prevent the return of totalitarianism.
 

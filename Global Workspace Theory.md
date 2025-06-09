@@ -1,3 +1,8 @@
+---
+tags:
+  - cognition
+---
+
 [[Global Workspace Theory|Global Workspace Theory (GWT)]] is a cognitive architecture theory proposed by Bernard Baars in the 1980s. It provides a framework for understanding [[consciousness]], particularly how information becomes conscious. The theory likens consciousness to a theater, where the spotlight of attention illuminates the central stage of working memory, making information globally available to a variety of specialized, unconscious processors in the brain.
 
 ### Key Concepts

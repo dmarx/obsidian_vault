@@ -1,3 +1,8 @@
+---
+tags:
+  - infohazard
+---
+
 ## How the Wording of Questions Can Influence Eyewitness Memory
 
 The way questions are phrased can significantly impact the accuracy and reliability of eyewitness memory. This phenomenon has been extensively studied in cognitive psychology, demonstrating how subtle changes in wording can lead to memory distortions and false recollections.

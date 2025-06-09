@@ -1,4 +1,8 @@
-## Social Influence and Suggestibility
+---
+tags:
+  - infohazard
+---
+
 
 **Social influence** and **suggestibility** are key factors in understanding how individuals can be led to change their memories, beliefs, and behaviors in response to external pressures. These psychological mechanisms are particularly important in the context of interrogations and can significantly impact the reliability of confessions and testimonies.
 

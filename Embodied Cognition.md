@@ -2,6 +2,7 @@
 tags:
   - needs-outlinks
   - sod/green
+  - cognition
 ---
 see also:
 - [[Organization As Entity]]

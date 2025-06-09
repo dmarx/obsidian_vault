@@ -1,6 +1,10 @@
-### Principles of Influence, Adaptation, and Competition
+---
+tags:
+  - infohazard
+---
 
-The dynamics of regulatory capture, niche specialization, and invasive species can be understood through the underlying principles of influence, adaptation, and competition. These principles provide a framework for analyzing how systems evolve and maintain stability or become destabilized across different contexts.
+
+The dynamics of [[regulatory capture]], [[niche specialization]], and [[Invasive Species]] can be understood through the underlying principles of influence, [[adaptation]], and [[competition]]. These principles provide a framework for analyzing how systems evolve and maintain stability or become destabilized across different contexts.
 
 #### Influence
 

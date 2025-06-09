@@ -1,4 +1,8 @@
-## Misinformation Effect
+---
+tags:
+  - infohazard
+---
+
 
 The **Misinformation Effect** is a phenomenon in cognitive psychology where a person's memory of an event becomes less accurate due to the introduction of misleading information after the event. This effect demonstrates how easily human memory can be distorted and has significant implications for areas such as eyewitness testimony, legal proceedings, and everyday recall.
 

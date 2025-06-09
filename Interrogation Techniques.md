@@ -1,4 +1,8 @@
-## Interrogation Techniques
+---
+tags:
+  - infohazard
+---
+
 
 Interrogation techniques are methods used by law enforcement and intelligence agencies to obtain information from suspects, witnesses, or persons of interest. Effective interrogation techniques balance the need for accurate information with ethical considerations, aiming to minimize false confessions and psychological harm.
 
